@@ -1,0 +1,699 @@
+Return-Path: <bounce-1441644_HTML-1719971561-106020303-524000040-55832@bounce.e.atlassian.com>
+Delivered-To: pratama.aji@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id ZRaXO8Z6QWQzqAEAUtWGkQ
+	(envelope-from <bounce-1441644_HTML-1719971561-106020303-524000040-55832@bounce.e.atlassian.com>)
+	for <pratama.aji@belajarblockchain.com>; Fri, 21 Apr 2023 00:47:51 +0700
+Return-path: <bounce-1441644_HTML-1719971561-106020303-524000040-55832@bounce.e.atlassian.com>
+Envelope-to: pratama.aji@belajarblockchain.com
+Delivery-date: Fri, 21 Apr 2023 00:47:51 +0700
+Received: from mta3.e.atlassian.com ([136.147.143.1]:57353)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <bounce-1441644_HTML-1719971561-106020303-524000040-55832@bounce.e.atlassian.com>)
+	id 1ppYNg-000NVX-0j
+	for pratama.aji@belajarblockchain.com;
+	Fri, 21 Apr 2023 00:47:50 +0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=trello.com;
+ h=From:To:Subject:Date:List-Unsubscribe:List-Unsubscribe-Post:MIME-Version:
+ Reply-To:List-ID:X-CSA-Complaints:Message-ID:Content-Type; i=taco@trello.com;
+ bh=jwtZTpqRBAhQk2HPcMcN+deTSn41AnShsAYksuBIW84=;
+ b=FpQkSdzBrV0Ts8fjSqSANXV/j/3m1r9PYR8mxItPBC8Grg4ks65r4lskGGxkao0Tht+r8imS3FtI
+   5EliXu3dzvfTsYe1/TCZgEfR9A5QROqwi0CtbAuCPbxd4qaFE7qHYxBv8/u59erKmvrISxiT2grS
+   xtMWcvPi4q15VwTvng8=
+Received: by mta3.e.atlassian.com id h85tbm2fmd4e for <pratama.aji@belajarblockchain.com>; Thu, 20 Apr 2023 17:46:56 +0000 (envelope-from <bounce-1441644_HTML-1719971561-106020303-524000040-55832@bounce.e.atlassian.com>)
+From: "Taco from Trello" <taco@trello.com>
+To: <pratama.aji@belajarblockchain.com>
+Subject: How to run better brainstorm sessions
+Date: Thu, 20 Apr 2023 11:46:56 -0600
+List-Unsubscribe: <https://click.e.atlassian.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI1MjQwMDAwNDAiLCJzIjoiMTcxOTk3MTU2MSIsImxpZCI6IjE0NDE2NDQiLCJqIjoiMTA2MDIwMzAzIiwiamIiOiI1NTgzMiIsImQiOiIxMDE2NiJ9.Y4Z-djv5JcEOPXjexCZgKIUhkqmJjAkZERnP4_6vAZI>, <mailto:leave-fc83157471650279717b28313958-fdf01577746d0d7a74117674-fe4015707364067d761473-fe4011727164047d751070-fef811757d6706@leave.e.atlassian.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+x-CSA-Compliance-Source: SFMC
+MIME-Version: 1.0
+Reply-To: "Taco from Trello" <reply-106020303-1441644_HTML-1719971561-524000040-55832@e.atlassian.com>
+List-ID: <10991049.xt.local>
+X-CSA-Complaints: csa-complaints@eco.de
+X-SFMC-Stack: 1
+x-job: 524000040_106020303
+Message-ID: <bc515ebf-9ee8-4a12-8313-21ff7108a450@ind1s01mta1387.xt.local>
+Content-Type: multipart/alternative;
+	boundary="uTQrefydinod=_?:"
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Trello A better way to brainstorm? Meet brainwriting Help
+   your team bring their best ideas to the table with a thoughtful, more inclusive
+    approach to brainstorms. 
+ Content analysis details:   (0.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: atlassian.com]
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+ -0.0 DKIMWL_WL_HIGH         DKIMwl.org - High trust sender
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+This is a multi-part message in MIME format.
+
+--uTQrefydinod=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+Trello
+
+A better way to brainstorm? Meet brainwriting
+
+Help your team bring their best ideas to the table with a thoughtful, more inclusive approach to brainstorms.
+
+Generate ideas
+>> https://blog.trello.com/brainwriting?utm_source=newsletter-email&utm_medium=email&utm_campaign=trello-april2023-newsletter1_EML-15618&jobid=106020303&subid=1719971561&send_date=4/20/2023
+
+
+Remote meetings don't have to suck
+
+Here's the definitive guide to engaging and productive meetings.
+
+Better meetings
+>> https://blog.trello.com/the-definitive-guide-to-remote-meetings?utm_source=newsletter-email&utm_medium=email&utm_campaign=trello-april2023-newsletter1_EML-15618&jobid=106020303&subid=1719971561&send_date=4/20/2023
+
+
+Collaborate seamlessly with Trello + Jira 
+
+Get your tech and biz teams on the same page with Trello and Jira together.
+
+Dynamic duo
+>> https://blog.trello.com/jira-trello-intregration?utm_source=newsletter-email&utm_medium=email&utm_campaign=trello-april2023-newsletter1_EML-15618&jobid=106020303&subid=1719971561&send_date=4/20/2023
+
+
+Stop forgetting about your one‑on‑ones
+
+Transform one‑on‑one meetings from afterthoughts into relationship‑building, productive meetings worth having. 
+
+Build trust
+>> https://blog.trello.com/running-successful-one-on-one-meetings?utm_source=newsletter-email&utm_medium=email&utm_campaign=trello-april2023-newsletter1_EML-15618&jobid=106020303&subid=1719971561&send_date=4/20/2023
+
+
+New Trello Views are here
+
+See boards as a Timeline, Dashboard, Table, and more!
+ 
+Try them free
+>> https://trello.com/views?utm_source=newsletter-email&utm_medium=email&utm_campaign=trello-april2023-newsletter1_EML-15618&jobid=106020303&subid=1719971561&send_date=4/20/2023
+
+
+Team '23
+
+Join us in Las Vegas or digitally April 18-20. On-demand sessions are available on April 25 and on.
+ 
+Learn more
+>> https://events.atlassian.com/team23?utm_source=newsletter-email&utm_medium=email&utm_campaign=trello-april2023-newsletter1_EML-15618&jobid=106020303&subid=1719971561&send_date=4/20/2023
+ 
+---------------------------------------
+
+View in Browser - https://view.e.atlassian.com/?qs=22d96842e714989e8d0293770b0c23eae9391b4836ccd3a0ad14c44e07627e1ac07a7dddc456f897db8356f6ca68ba841c1361bebaf89d37ead99cd5a476592326b124c6f0aaa857
+
+Privacy Policy - https://www.atlassian.com/legal/privacy-policy?utm_source=newsletter-email&utm_medium=email&utm_campaign=trello-april2023-newsletter1_EML-15618&jobid=106020303&subid=1719971561&send_date=4/20/2023
+
+Contact us - http://www.atlassian.com/company/contact?utm_source=newsletter-email&utm_medium=email&utm_campaign=trello-april2023-newsletter1_EML-15618&jobid=106020303&subid=1719971561&send_date=4/20/2023
+
+Trello Blog - https://blog.trello.com/?utm_source=newsletter-email&utm_medium=email&utm_campaign=trello-april2023-newsletter1_EML-15618&jobid=106020303&subid=1719971561&send_date=4/20/2023
+
+Follow on Twitter - https://twitter.com/trello
+
+Copyright © 2023 Trello Inc., All rights reserved. 888 Broadway Floor 4 New York, NY 10003, USA
+
+
+
+
+
+
+Unsubscribe - https://sfmc-integrator.services.atlassian.com/unsubscribe?hid=2869f0243e0ce3fd548339639f63bf02&key=trelloNewsletter&jobId=106020303
+
+--uTQrefydinod=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"       xmlns:v="urn:schemas-microsoft-com:vml"       xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!--[if !mso]><!-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--<![endif]-->
+<title>Better Together</title>
+<style type="text/css">
+/* RESET STYLES */
+table {border-collapse:collapse;}
+img, a img {border:0; height:auto; outline:none; text-decoration:none;}
+body {height:100% !important; margin:0 auto !important; padding:0; width:100% !important;}
+
+/* CLIENT-SPECIFIC STYLES */
+img {-ms-interpolation-mode: bicubic;} /* Force IE to smoothly render resized images. */
+#outlook a {padding:0;} /* Force Outlook 2007 and up to provide a "view in browser" message. */
+table {mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up. */
+.ReadMsgBody {width:100%;} .ExternalClass {width:100%;} /* Force Outlook.com to display emails at full width. */
+p, a, td {mso-line-height-rule:exactly;} /* Force Outlook to render line heights as they're originally set. */
+p, a, td, body, table {-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} /* Prevent Windows- and Webkit-based mobile platforms from changing declared text sizes. */
+.ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font {line-height:100%;} /* Force Outlook.com to display line heights normally. */
+a [x-apple-data-detectors] {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important;} /* attempt to control apple deata detection */
+
+/* TEMPLATE STYLES */
+@media screen and (max-width:480px){
+.mw100{max-width:100% !important;}
+.mw95{max-width:95% !important;}
+.mw50{max-width:50% !important;}
+.w100{width:100% !important;}
+.w96{width:96% !important;}
+.mblpdrm-r{padding-right:0 !important;}
+.mblpdrm-l{padding-left:0 !important;}
+.Hellode {display:none !important;}
+.mcenter {text-align: center !important; margin: 0 auto !important;}
+}
+.msoFix {
+      mso-table-lspace:-1pt;
+      mso-table-rspace:-1pt;
+}
+</style>
+ <!--[if gte mso 9]><xml>  <o:OfficeDocumentSettings>   <o:AllowPNG/>   <o:PixelsPerInch>96</o:PixelsPerInch>  </o:OfficeDocumentSettings> </xml><![endif]-->
+</head>
+<body bgcolor="#00B1E1" style="padding: 0; margin: 0; width: 100%; background:url('https://image.e.atlassian.com/lib/fe4011727164047d751070/m/4/backgroundPixel.png') top center / auto 100% repeat-x #0079bf; font-family: 'Helvetica', 'Arial', san-serif; max-width: 100%; background-color: #00B1E1;">
+  <style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">Plus, extra tips on remote meetings, one-on-ones, and team alignment</div>
+ <div style="display: none; max-height: 0px; overflow: hidden;">͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;͏‌&nbsp;
+ </div>
+ <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%;Margin:0 auto;background-color:#00b1e1; background:url('https://image.e.atlassian.com/lib/fe4011727164047d751070/m/4/backgroundPixel.png') top center / auto 100% repeat-x #0079bf; font-family:'Helvetica','Arial',san-serif; margin:0; max-width:100%; padding:0; width:100%" bgcolor="#00B1E1">
+  <tr>
+   <td style="font-size:0;">&nbsp;</td>
+   <td align="center" valign="top" style="width:600px;">
+   <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%;" class="w96">
+   <tr>
+    <td>
+        <table style="margin:10px auto; min-width:100%; width:580;" cellpadding="0" cellspacing="0" border="0" class="preheader">
+            <!-- Read in Browser -->
+            <tr>
+               <td align="right" style="padding:0px 50px 0px 0px;">
+                <a href="https://view.e.atlassian.com/?qs=22d96842e714989e8d0293770b0c23eae9391b4836ccd3a0ad14c44e07627e1ac07a7dddc456f897db8356f6ca68ba841c1361bebaf89d37ead99cd5a47659231ba97096f5a75f4e8640e56c409e4d4d5936f081b2155f7b7fb97de13bc1f687"  style="font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:12px;color:#FFFFFF; font-style: italic; text-align:right;opacity:0.5;text-decoration: none; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">View&nbsp;in&nbsp;Browser →</td></tr></table>
+                </a>
+               </td>
+            </tr>
+            <!-- End Read in Browser -->
+       </table>
+      </td>
+   </tr>
+   <!-- LOGO -->
+   <tr>
+         <td align="center" style="padding:5px 0 0 0;">
+          <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9050175522c8071fecb9d77354835253cec0b43552ce57d9194167c04aeef31b0e1be1791830dcfdaa735f0ebad6a9eb910286392e5684754"  style="font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:16px;color:#0079BF;text-decoration:none;">
+           <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><center><img alt="Trello Logo" height="55" style="display: block; margin:0 auto;" width="200" src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/4/trello-logo-white-min.png"></center></td></tr></table>
+          </a>
+         </td>
+    </tr>
+    <!-- END LOGO -->
+    <!-- white box -->
+     <tr>
+      <td align="center" style="padding-top:10px;">
+       <table bgcolor="white" border="0" cellpadding="0" cellspacing="0" style="background:white; border-radius:8px; border:0; margin:10px auto; width:100%" class="content">
+        <!--primary 1-->
+        <!-- hero image with border and rounded corners USE ONLY ONE HERO IMAGE-->
+        <tr>
+         <td align="center" style="padding-top:40px;">
+          <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef96460ac5484dbb5aad51c1b948cae6912141e68b054e8106bd26593e595aa9b44b173b2d2dcf503c41d0506c777df1630b3ea63f4f4f057d4"  style="font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px; line-height:24px;color:#444444;text-decoration:none;">
+           <img src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/6/image-20230330-173719.png" alt="A better way to brainstorm? Meet brainwriting" title="A better way to brainstorm? Meet brainwriting" border="0" width="500" style="display:block;outline:0;padding:0;height:auto;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px;color:#444444; line-height:24px;border-radius:6px; margin:5px;" /></a>
+         </td>
+        </tr>
+        <!-- end hero image with border and rounded corners-->
+
+        <tr>
+          <td align="center" style="padding:10px 50px 40px 50px">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <!-- start headline -->
+              <tr>
+               <td align="center">
+                <table cellpadding="0" cellspacing="0" border="0" style="width:100%;" class="w100">
+                 <tr>
+                  <td style="padding-top:20px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-weight:bold;font-size:26px;line-height:32px;color:#444444;text-align:center;">
+                    <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef93624930226b7c663cd4085c77a79937d4fc99ab5f45333d55b971250c2eec4ff3dc059b14a8cb10c7dfeebfe3efdda5647f255f568437a14" style="text-decoration:none;color:#444444;font-weight:bold;" >
+                     A better way to brainstorm? Meet brainwriting</a>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <!-- end headline -->
+              <!-- start subhead -->
+              <tr>
+               <td align="center">
+                <table cellpadding="0" cellspacing="0" border="0" style="width:100%;" class="w100">
+                 <tr>
+                  <td style="padding-top:20px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:22px;line-height:26px;color:#444444;text-align:center;">
+                    <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef93624930226b7c663cd4085c77a79937d4fc99ab5f45333d55b971250c2eec4ff3dc059b14a8cb10c7dfeebfe3efdda5647f255f568437a14" style="text-decoration:none;color:#444444;" >
+                     Help your team bring their best ideas to the table with a thoughtful, more inclusive approach to brainstorms.</a>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <!-- end subhead -->
+              <!--cta-->
+                <tr>
+                 <td align="center" style="padding-top:20px;">
+                  <!--cta button-->
+                  <table cellpadding="0" cellspacing="0" border="0">
+                   <tr>
+                    <td align="center" style="border-radius:8px;background-color:#61bd4f;">
+                      <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9c295064e0949d6aee50bf1ca7e8d8fe89d18e91ec01ced8054919919392710a191eecbc4fcb574d0f65a915a2aa6fa1cfd0e06f747087308" target="_blank"  style="display:inline-block;border:1px solid #61bd4f;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:24px; line-height: 24px;color:#ffffff;text-decoration:none;border-radius: 6px; padding:15px 20px; font-weight: bold;">
+                       <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->Generate ideas<!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]--></a>
+                    </td>
+                   </tr>
+                  </table>
+                 </td>
+                </tr>
+                <!-- end cta -->
+            </table>
+          </td>
+        </tr>
+
+        <!-- hero image with border and rounded corners USE ONLY ONE HERO IMAGE-->
+        <tr>
+         <td align="center" style="padding-top:10px;">
+           <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef94de68d898eccad3c2f9e5466f9643cdb5a6deb63c1ae939b90581a3b5a1955b9e5392cee9f30f4d001a02468d96ef336bed0b596672b5c65"  style="font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px; line-height:24px;color:#444444;text-decoration:none;">
+            <img src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/6/image-20230330-172359.png" alt="Remote meetings don't have to suck" title="Remote meetings don't have to suck" border="0" width="500" style="display:block;outline:0;padding:0;height:auto;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px;color:#444444; line-height:24px;border-radius:6px; margin:5px;" /></a>
+         </td>
+        </tr>
+        <!-- end hero image with border and rounded corners-->
+        <tr>
+          <td align="center" style="padding:10px 50px 40px 50px">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <!-- start headline -->
+              <tr>
+               <td align="center">
+                <table cellpadding="0" cellspacing="0" border="0" style="width:100%;" class="w100">
+                 <tr>
+                  <td style="padding-top:20px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-weight:bold;font-size:26px;line-height:32px;color:#444444;text-align:center;">
+                    <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef99fafe12ada5318ec2b9eac24e141c1ac489f8e0bbfb698e6ec92d60ff7cdc733a005ba4f576e0b2ff08863134ad8b044d51c85e890b7336c" style="text-decoration:none;color:#444444;font-weight:bold;" >
+                     Remote meetings don't have to&nbsp;suck</a>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <!-- end headline -->
+              <!-- start subhead -->
+              <tr>
+               <td align="center">
+                <table cellpadding="0" cellspacing="0" border="0" style="width:100%;" class="w100">
+                 <tr>
+                  <td style="padding-top:20px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:22px;line-height:26px;color:#444444;text-align:center;">
+                    <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef99fafe12ada5318ec2b9eac24e141c1ac489f8e0bbfb698e6ec92d60ff7cdc733a005ba4f576e0b2ff08863134ad8b044d51c85e890b7336c" style="text-decoration:none;color:#444444;" >
+                     Here's the definitive guide to engaging and productive meetings.</a>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <!-- end subhead -->
+              <!--cta-->
+                <tr>
+                 <td align="center" style="padding-top:20px;">
+                  <!--cta button-->
+                  <table cellpadding="0" cellspacing="0" border="0">
+                   <tr>
+                    <td align="center" style="border-radius:8px;background-color:#61bd4f;">
+                      <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9667bef4c9355c21ceb8180fd8a9f7f682d5ed549bd711c8841527ba1ab7f938bfb33b62470bee47f996068e201c8aa5b95ec09d4d7e4367e" target="_blank"  style="display:inline-block;border:1px solid #61bd4f;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:24px; line-height: 24px;color:#ffffff;text-decoration:none;border-radius: 6px; padding:15px 20px; font-weight: bold;">
+                       <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->Better meetings<!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]--></a>
+                    </td>
+                   </tr>
+                  </table>
+                 </td>
+                </tr>
+                <!-- end cta -->
+            </table>
+          </td>
+        </tr>
+
+        <!-- hero image with border and rounded corners USE ONLY ONE HERO IMAGE-->
+        <tr>
+         <td align="center" style="padding-top:10px;">
+           <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef905db13595a45d469ba5ce8e8a1cc7cb075d3a9af3e5f24f353baa82231c1618accaaf88d54265cb51a9ef0f444406869a7a8d7ce4ec9e1ed"  style="font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px; line-height:24px;color:#444444;text-decoration:none;">
+            <img src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/6/image-20230330-173137.png" alt="Collaborate seamlessly with Trello + Jira" title="Collaborate seamlessly with Trello + Jira" border="0" width="500" style="display:block;outline:0;padding:0;height:auto;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px;color:#444444; line-height:24px;border-radius:6px; margin:5px;" />
+          </a>
+         </td>
+        </tr>
+        <!-- end hero image with border and rounded corners-->
+        <tr>
+          <td align="center" style="padding:10px 50px 40px 50px">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <!-- start headline -->
+              <tr>
+               <td align="center">
+                <table cellpadding="0" cellspacing="0" border="0" style="width:100%;" class="w100">
+                 <tr>
+                  <td style="padding-top:20px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-weight:bold;font-size:26px;line-height:32px;color:#444444;text-align:center;">
+                    <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef97f141bd1b142cd273f399dc7ab2c55f754069c06c1cfb7bb77c7a91bc5cf0eda5be207f1994af92c6064a04f50bf3fc21a30cfe409e01b40" style="text-decoration:none;color:#444444;font-weight:bold;" >
+                     Collaborate seamlessly with Trello + Jira </a>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <!-- end headline -->
+              <!-- start subhead -->
+              <tr>
+               <td align="center">
+                <table cellpadding="0" cellspacing="0" border="0" style="width:100%;" class="w100">
+                 <tr>
+                  <td style="padding-top:20px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:22px;line-height:26px;color:#444444;text-align:center;">
+                    <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef97f141bd1b142cd273f399dc7ab2c55f754069c06c1cfb7bb77c7a91bc5cf0eda5be207f1994af92c6064a04f50bf3fc21a30cfe409e01b40" style="text-decoration:none;color:#444444;" >
+                     Get your tech and biz teams on the same page with Trello and Jira together.</a>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <!-- end subhead -->
+              <!--cta-->
+                <tr>
+                 <td align="center" style="padding-top:20px;">
+                  <!--cta button-->
+                  <table cellpadding="0" cellspacing="0" border="0">
+                   <tr>
+                    <td align="center" style="border-radius:8px;background-color:#61bd4f;">
+                      <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9193f178e5061b6f1b11ef517352834d2493ce8ecf258870299a49fa93e94016bcbd3315d75273da7085ebe12ad58149127dab0fe11a5dd5d" target="_blank"  style="display:inline-block;border:1px solid #61bd4f;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:24px; line-height: 24px;color:#ffffff;text-decoration:none;border-radius: 6px; padding:15px 20px; font-weight: bold;">
+                       <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->Dynamic duo<!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]--></a>
+                    </td>
+                   </tr>
+                  </table>
+                 </td>
+                </tr>
+                <!-- end cta -->
+            </table>
+          </td>
+        </tr>
+
+        <!-- hero image with border and rounded corners USE ONLY ONE HERO IMAGE-->
+        <tr>
+         <td align="center" style="padding-top:10px;">
+           <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef93a98bb5423dcb8a732b0939b970fd2c4d5486e1025eb6a0f1b89c3d673a9e3690e47c2f30b8b9d791724d9f133d8d6d25f5cdfda84b84107"  style="font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px; line-height:24px;color:#444444;text-decoration:none;">
+            <img src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/5/how-to-delegate.jpeg" alt="Stop forgetting about your one-on-ones" title="Stop forgetting about your one-on-ones" border="0" width="500" style="display:block;outline:0;padding:0;height:auto;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px;color:#444444; line-height:24px;border-radius:6px; margin:5px;" />
+          </a>
+         </td>
+        </tr>
+        <!-- end hero image with border and rounded corners-->
+        <tr>
+          <td align="center" style="padding:10px 50px 40px 50px">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <!-- start headline -->
+              <tr>
+               <td align="center">
+                <table cellpadding="0" cellspacing="0" border="0" style="width:100%;" class="w100">
+                 <tr>
+                  <td style="padding-top:20px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-weight:bold;font-size:26px;line-height:32px;color:#444444;text-align:center;">
+                    <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9b1523661bf2b86025bd5d0759be40e95168f863e85f2e2028c36129e8396cf424cdac592e0f19ce30a01c7eed653b0c032b34ca2dc4cbf7a" style="text-decoration:none;color:#444444;font-weight:bold;" >
+                     Stop forgetting about your one&#8209;on&#8209;ones</a>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <!-- end headline -->
+              <!-- start subhead -->
+              <tr>
+               <td align="center">
+                <table cellpadding="0" cellspacing="0" border="0" style="width:100%;" class="w100">
+                 <tr>
+                  <td style="padding-top:20px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:22px;line-height:26px;color:#444444;text-align:center;">
+                    <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9b1523661bf2b86025bd5d0759be40e95168f863e85f2e2028c36129e8396cf424cdac592e0f19ce30a01c7eed653b0c032b34ca2dc4cbf7a" style="text-decoration:none;color:#444444;" >
+                     Transform one&#8209;on&#8209;one meetings from afterthoughts into relationship&#8209;building, productive meetings worth having. </a>
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+              <!-- end subhead -->
+              <!--cta-->
+                <tr>
+                 <td align="center" style="padding-top:20px;">
+                  <!--cta button-->
+                  <table cellpadding="0" cellspacing="0" border="0">
+                   <tr>
+                    <td align="center" style="border-radius:8px;background-color:#61bd4f;">
+                      <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9c1bad029759e1c571d2c04a5c4bddbc4042b0718fc457a82cf2dc588212f9784c3e1487e235eeb1fe5de71c9cf705a930f0a1c2fc6740938" target="_blank"  style="display:inline-block;border:1px solid #61bd4f;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:24px; line-height: 24px;color:#ffffff;text-decoration:none;border-radius: 6px; padding:15px 20px; font-weight: bold;">
+                       <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->Build trust<!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]--></a>
+                    </td>
+                   </tr>
+                  </table>
+                 </td>
+                </tr>
+                <!-- end cta -->
+            </table>
+          </td>
+        </tr>
+
+        </table>
+      </td>
+    </tr>
+    <!-- Close white box -->
+    <!-- PUT DYNAMIC MODULE HERE IF NEEDED -->
+        <tr>
+          <td align="center">
+          <!-- Dynamic Newsletter Module ENGLISH-->
+          <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width: 600px;">
+           <!--start double column blue box wrapper -->
+           <tr>
+            <td align="center" style="padding-top: 20px;">
+             <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+              <tr>
+               <td style="font-size:0;vertical-align:middle; padding: 15px 20px 15px 15px; border-radius: 8px; background-color: #055A8C;">
+                <!--[if (gte mso 9)|(IE)]>                   <table border="0" cellspacing="0" cellpadding="0" style="width:580px;">                       <tr>                           <td valign="middle" style="width:280px;" class="w100">                   <![endif]-->
+              <div style="display:inline-block;width:100%;max-width:280px;vertical-align:middle;background-color: #055A8C;" class="mw100">
+               <table border="0" cellspacing="0" cellpadding="0" style="width:100%;" class="mcenter">
+                <tr>
+                 <td style="padding-right: 20px;" class="mblpdrm-r">
+                    <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9acd76edcc8b1d716d002829ca5aebbe39e24a7d1912f2f15684fbd21e7c4027adb76080ce626d7658b14e167878a1e1b8f01b1798b796a41"  style="font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:16px;color:#0052CC;text-decoration:none;">
+                   <center><img src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/4/timeline-view-illustration-trello-min.png" alt="New Trello Views are here" title="New Trello Views are here" width="260" border="0" style="display:block;outline:0;padding:0;border:0;height:auto;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:12px;color:#0052CC;border-radius:6px;" /></center></a>
+                   </td>
+                  </tr>
+                 </table>
+                </div>
+                <!--[if (gte mso 9)|(IE)]></td><td style="width:285px;" ><![endif]-->
+                <div style="vertical-align:middle; width:100%; max-width:285px; display:inline-block;background-color: #055A8C;" class="mw100">
+                 <table border="0" cellspacing="0" cellpadding="0" style="width:100%;background-color: #055A8C;" class="mcenter">
+                  <tr>
+                   <td align="left" class="mcenter" style="background-color: #055A8C;">
+                    <table border="0" cellspacing="0" cellpadding="0" style="width:100%;" class="mcenter">
+                     <tr>
+                      <td style="padding-top: 10px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px;line-height:24px;color:#FFFFFF;text-align:left;" class="mcenter">
+                       <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9a0720fe7156200b9d965dc790450e292056a93a5b0a3cb4f9e31e723acbe5eceaa6b35c2feb4c9a0fdc0c8dd7e4d9c8c2da9531692f1d862"  style="font-family: 'Helvetica neue', Helvetica, Arial, Verdana, sans-serif; font-size:18px;line-height:24px;color:#FFFFFF; text-align:left; text-decoration: none; font-weight: bold;">
+                      New Trello Views are here</a>
+                      </td>
+                     </tr>
+                     <tr>
+                      <td style="padding-top: 10px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px;line-height:24px;color:#FFFFFF;text-align:left;" class="mcenter">
+                       See boards as a Timeline, Dashboard, Table, and more!
+                      </td>
+                     </tr>
+                     <!--cta-->
+                        <tr>
+                         <td style="padding: 20px 0px 0px 0px;" class="mcenter">
+                          <!--cta button-->
+                          <table cellpadding="0" cellspacing="0" border="0" class="mcenter">
+                           <tr>
+                            <td align="left" style="border-radius:8px;background-color:#4f769c;">
+                             <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef95d22c9597838364e7db344b3b4e731cfc21f149f59edbfa43d7862841bab0b4d2e4e3910a20d413178ea5bff6080aaf5fce75946df261cca" target="_blank"  style="display:inline-block;border:1px solid #4f769c;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px; line-height: 24px;color:#ffffff;text-decoration:none;border-radius: 6px; padding:15px 20px; font-weight: bold;">
+                              <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->Try them free<!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]--></a>
+                            </td>
+                           </tr>
+                          </table>
+                         </td>
+                        </tr>
+                        <!-- end cta -->
+                    </table>
+                   </td>
+                  </tr>
+                 </table>
+                </div>
+                <!--[if (gte mso 9)|(IE)]>                 </td>                 </tr>                 </table>                 <![endif]-->
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+           <!-- end double column box wrapper -->
+          </table>
+
+    <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width: 600px;">
+     <!--start double column blue box wrapper -->
+     <tr>
+      <td align="center" style="padding-top: 30px;">
+       <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+        <tr>
+         <td style="font-size:0;vertical-align:middle; padding: 15px 20px 15px 15px; border-radius: 8px; background-color: #055A8C;">
+          <!--[if (gte mso 9)|(IE)]>             <table border="0" cellspacing="0" cellpadding="0" style="width:580px;">                 <tr>                     <td valign="middle" style="width:280px;" class="w100">             <![endif]-->
+        <div style="display:inline-block;width:100%;max-width:280px;vertical-align:middle;background-color: #055A8C;" class="mw100">
+         <table border="0" cellspacing="0" cellpadding="0" style="width:100%;" class="mcenter">
+          <tr>
+           <td style="padding-right: 20px;" class="mblpdrm-r">
+              <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9c52397444453c05bb7a5e23c8a6e05deaaddcb21e1270dc4f07e9f5aeb30874588801bad692f2b1dc4e42b6505317075ac973013f438fbb3"  style="font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:16px;color:#0052CC;text-decoration:none;">
+             <center><img src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/6/Social+-+Standard+logo.png" alt="Team 23" title="Team 23" width="260" border="0" style="display:block;outline:0;padding:0;border:0;height:auto;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:12px;color:#0052CC;border-radius:6px;" /></center></a>
+             </td>
+            </tr>
+           </table>
+          </div>
+          <!--[if (gte mso 9)|(IE)]></td><td style="width:285px;" ><![endif]-->
+          <div style="vertical-align:middle; width:100%; max-width:285px; display:inline-block;background-color: #055A8C;" class="mw100">
+           <table border="0" cellspacing="0" cellpadding="0" style="width:100%;background-color: #055A8C;" class="mcenter">
+            <tr>
+             <td align="left" class="mcenter" style="background-color: #055A8C;">
+              <table border="0" cellspacing="0" cellpadding="0" style="width:100%;" class="mcenter">
+               <tr>
+                <td style="padding-top: 10px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px;line-height:24px;color:#FFFFFF;text-align:left;" class="mcenter">
+                 <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9630a09028b9c87b8710eb2d0cdef5ccc72b850a17e7dde45fcea7f844274abec91fd679b8d271898552678571f2b9e1722f0fb92dba38e4d"  style="font-family: 'Helvetica neue', Helvetica, Arial, Verdana, sans-serif; font-size:18px;line-height:24px;color:#FFFFFF; text-align:left; text-decoration: none; font-weight: bold;">
+                Team '23</a>
+                </td>
+               </tr>
+               <tr>
+                <td style="padding-top: 10px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px;line-height:24px;color:#FFFFFF;text-align:left;" class="mcenter">
+                 Join us in Las Vegas or digitally April 18-20. On-demand sessions are available on April 25 and on.
+                </td>
+               </tr>
+               <!--cta-->
+                  <tr>
+                   <td style="padding: 20px 0px 0px 0px;" class="mcenter">
+                    <!--cta button-->
+                    <table cellpadding="0" cellspacing="0" border="0" class="mcenter">
+                     <tr>
+                      <td align="left" style="border-radius:8px;background-color:#4f769c;">
+                       <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9bae5d5a184dd7465fca1f28d7afec78f47f87d65263cec4e0f99cde5ef20e62c4c9a3a54f3fa1152d042b83c096916bb9580e58c188e0735" target="_blank"  style="display:inline-block;border:1px solid #4f769c;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:18px; line-height: 24px;color:#ffffff;text-decoration:none;border-radius: 6px; padding:15px 20px; font-weight: bold;">
+                        <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->Learn more<!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]--></a>
+                      </td>
+                     </tr>
+                    </table>
+                   </td>
+                  </tr>
+                  <!-- end cta -->
+              </table>
+             </td>
+            </tr>
+           </table>
+          </div>
+          <!--[if (gte mso 9)|(IE)]>           </td>           </tr>           </table>           <![endif]-->
+         </td>
+        </tr>
+       </table>
+      </td>
+     </tr>
+     <!-- end double column box wrapper -->
+    </table>
+          </td>
+         </tr>
+    <!-- END OF DYNAMIC MODULE HERE -->
+
+
+
+
+
+
+
+
+
+<!-- footer -->
+     <tr>
+      <td align="center">
+       <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- FOOTER -->
+<table style="width:100%;" cellspacing="0" cellpadding="0" border="0">
+ <tr>
+  <td style="padding-top:40px;padding-bottom:0px;" align="center">
+   <table style="width:100%;" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+       <td style="padding-top:0px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:14px;line-height:20px;color:#FFFFFF;text-align:center;">
+       <em>Want more?</em>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding-top:5px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:14px;line-height:20px;color:#FFFFFF;text-align:center;">
+       <em>Get your productivity fix at the </em><a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef980911f06d158014f71befee93af572a6d8093b19fa068a1661b95906ebe5c953eba2bfa975b814ab03108efb641194b46fd8211cf4f64f9d"  style="color:#FFFFFF; text-decoration:none;"><em>Trello Blog →</em></a>
+       </td>
+      </tr>
+     <tr>
+      <td style="padding-top:10px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;color:#FFFFFF;text-align:center;">
+        <center><a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef96f8e33ae8d5956249d98d4115f1547e5bc75dcdcf2bd4a0ca2a057626b85db06f4efcf7259ab606e5b5db8b75dfa6fd805bacd661e647186" style="text-decoration: none; padding:8px 0;" ><img alt="Facebook" height="32" src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/4/facebook-social.png" style="display: inline;" width="32"> </a>&nbsp;&nbsp; 
+        <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef92e576b8da84886faf9deb45c4a28532c051525451658f153da2bd7eab7038bdfb9a230e4f687f7b3643cf0661e8eeef1cac4e00d72ee4d46" style="text-decoration: none; padding:8px 0;"> <img alt="Twitter" height="32" src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/4/twitter-social.png" style="display: inline;" width="32"> </a>&nbsp;&nbsp; 
+        <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9e0fe394f8bf0c28f76aa21317e872d1b18570e7c6087d4b7193842af801c45c69236a595c538adf1cc87f34fb58f4d566d335e24abea3f5b" style="text-decoration: none; padding:8px 0;"> <img alt="LinkedIn" height="32" src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/4/linkedin-social.png" style="display: inline;" width="32"> </a>&nbsp;&nbsp; 
+        <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef94a8af99af43553424b6b1066fac1d5567e3ba1526547f79d9d49a27021e4d9fe91a26f5fb7488d56f80010b04964414ae1a43458b4d10f6d" style="text-decoration: none; padding:8px 0;" > <img alt="Instagram" height="32" src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/4/insta-social.png" style="display: inline;" width="32"> </a></center>
+      </td>
+    </tr>
+    <!--<tr>        <td style="padding-top:15px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:14px;line-height:20px;color:#FFFFFF;text-align:center;">        <a href="https://www.atlassian.com/company/careers/all-jobs?team=&location=&search=Trello" style="color:#FFFFFF; text-decoration:none;" alias="we are hiring"><strong><em>We're Hiring!</em></strong></a>        </td>       </tr>-->
+    <tr>
+      <td style="padding-top:10px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;color:#FFFFFF;text-align:center;">
+        <center><a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef900cfcbe567b79dee040328bcff39f36f984e9301f3460284942b69184442ae5b3a347cffc87830ad39697b12425997fcb8f903cff6fd66e2"  style="text-decoration: none; padding:8px;"><img alt="Apple App Store" src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/4/apple-app-store-button.png" width="137"> </a> <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9a64794c9f120ec2b2b37377e6f7174d71cd9152b215230cdaf2a3963c4b9d9be2c012854cf5049762e5f0f5898e00f9683d831e24ad46f56"  style="text-decoration: none; padding:8px;"> <img alt="Google Play Store" src="https://image.e.atlassian.com/lib/fe4011727164047d751070/m/4/Get_it_on_Google_play.png" width="137"> </a></center>
+      </td>
+    </tr>
+    <tr>
+     <td style="padding-top:10px;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:14px;line-height:20px;color:#FFFFFF;text-align:center;">
+      <em>Copyright © 2023 Trello Inc., All rights reserved.</em>
+     </td>
+    </tr>
+    <tr>
+     <td style="font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:14px;line-height:20px;color:#FFFFFF;text-align:center;">
+      <em>888 Broadway Floor 4 New York, NY 10003, USA</em>
+     </td>
+    </tr>
+    <tr>
+     <td style="padding-top:10px; display:block;font-family:'Helvetica neue', Helvetica, Arial, Verdana, sans-serif;font-size:14px;line-height:20px;color:#FFFFFF;text-align:center;" align="center">
+      <a href="https://view.e.atlassian.com/?qs=22d96842e714989e8d0293770b0c23eae9391b4836ccd3a0ad14c44e07627e1ac07a7dddc456f897db8356f6ca68ba841c1361bebaf89d37ead99cd5a47659231ba97096f5a75f4e1491e3c08bb25ab09e58c7b4d4ef5df4777c188b53c0dfce"  style="color:#FFFFFF;text-decoration:none;"><em>View&nbsp;in&nbsp;Browser</em></a> | 
+      <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef9973ce1fe81553e9c6ce8f895076772883c035c5b1bf0a338b216262529230471000ec75387cb717809779390162a64589445280a11767bbe"  style="color:#FFFFFF;text-decoration:none;"><em>Privacy&nbsp;Policy</em></a> | 
+      <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef95a56b8438fef3d5f1174e7a17ad922cf07a4a98ccb23ab09968779ef12424951a9cd61f7c31c25087c879bdcff81c5dcc86ff84c8fe50825"  style="color:#FFFFFF;text-decoration:none;"><em>Manage&nbsp;Account</em></a> | 
+      <a href="https://click.e.atlassian.com/?qs=13d1e21ab31b8ef95d97c72b2617d87342d82dbe9907025bed2e3765a280513eae202aa4522b9f75b1ded2895502abb28aa32cfc35b99e0cbb3f08d12e76dfb8" style="color:#FFFFFF;text-decoration:none;"><em>Unsubscribe</em></a>
+     <img src="https://click.e.atlassian.com/open.aspx?ffcb10-fe4015707364067d761473-fdbd15757c60067d7d1d717062-fe4011727164047d751070-fe9715747165027971-fdf01577746d0d7a74117674-fef811757d6706&d=10166&bmt=0" width="1" height="1" alt=""></custom></td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+
+
+
+
+</td></tr></table>
+      </td>
+     </tr>
+
+     <!-- end footer-->
+    </table>
+    <!--/table removes gmail bg line between stacked tables-->
+    <!--/ALL CONTENT ENDS HERE-->
+   </td>
+   <td style="font-size:0;">&nbsp;</td>
+  </tr>
+ </table>
+</body>
+</html>
+
+--uTQrefydinod=_?:--
+

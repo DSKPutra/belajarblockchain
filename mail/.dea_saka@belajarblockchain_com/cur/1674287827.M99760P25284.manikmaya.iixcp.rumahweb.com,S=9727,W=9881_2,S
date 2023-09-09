@@ -1,0 +1,154 @@
+Return-Path: <3oprLYwcKCCsUVYLWSfNVVNSL.JVTKLH.ZHRHILSHQHYISVJRJOHPU.JVT@idverification.bounces.google.com>
+Delivered-To: dea.saka@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id AC6BBdOay2PEYgAAUtWGkQ
+	(envelope-from <3oprLYwcKCCsUVYLWSfNVVNSL.JVTKLH.ZHRHILSHQHYISVJRJOHPU.JVT@idverification.bounces.google.com>)
+	for <dea.saka@belajarblockchain.com>; Sat, 21 Jan 2023 14:57:07 +0700
+Return-path: <3oprLYwcKCCsUVYLWSfNVVNSL.JVTKLH.ZHRHILSHQHYISVJRJOHPU.JVT@idverification.bounces.google.com>
+Envelope-to: dea.saka@belajarblockchain.com
+Delivery-date: Sat, 21 Jan 2023 14:57:07 +0700
+Received: from mail-pj1-x104a.google.com ([2607:f8b0:4864:20::104a]:63207)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <3oprLYwcKCCsUVYLWSfNVVNSL.JVTKLH.ZHRHILSHQHYISVJRJOHPU.JVT@idverification.bounces.google.com>)
+	id 1pJ8kL-0002u0-7j
+	for dea.saka@belajarblockchain.com;
+	Sat, 21 Jan 2023 14:57:06 +0700
+Received: by mail-pj1-x104a.google.com with SMTP id g23-20020a17090adb1700b0022bbacff147so994279pjv.7
+        for <dea.saka@belajarblockchain.com>; Fri, 20 Jan 2023 23:56:40 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20210112;
+        h=to:from:subject:date:message-id:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=pdyC7xkHfuSsklu8b56dB1Oqg4iJVAqnvNN69hXsoBU=;
+        b=i31l7QSwASn3fb2zGucU6pKZxgVa3fcoLeT69Jz57eQozWzIiuX198QyyNXS4hQzcP
+         kjo+Jqvv406B1381Oeqg822oQ3MDxOutvGEeeki75hQvPzc7ZUEjlXOsv5W6lwDqqml7
+         r0AttVTewN4BtHMg4eFFYr9A9QBj7S5BIGMTCcghkCtY8WKGSlwXV9q37Jb9DZgzuvjN
+         xsrhZJ3gyiXwckzLoA9UqYKvdMmYrNUvn0AuQE5bS8aWkle94RKmBxzucEnZ1m3vlzen
+         kxACgwalckrFnTxyLejgOxqsRowKPVS7+OFNciDxp4sgJ7VTfcVRmYwfpbcoGePg6hRd
+         s9CA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:from:subject:date:message-id:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=pdyC7xkHfuSsklu8b56dB1Oqg4iJVAqnvNN69hXsoBU=;
+        b=3zeCosLgAH6ALSGIXbBX3sFXOguK8cXTv0cZf3fBrvNbLWWevXculgoXPvQEmaRBoq
+         5qwFqARyLqptOe1K2W6vL2uP1s70TkJ5f2evTQynK6MD49d9ANSJLEnJeRIHXOhirXKB
+         C+DzbCY1XfvMN5qg71fW3Yik6TRKnLl9IFZL19Q34l7NiLu66u8UN5dt/1aviLa4Uefa
+         vp4XvEpgmqitTHJkcVT7Nb7+Hoo5dLYzhszHAZDq523P6rvYaVJOmLNPm7jeHRqhoIKa
+         vjfdCVUohmbrxK66iGGehEBl+nuUzftANPtY74YxuU/bOC6fHwSYkBS/bBA9fcei43tU
+         0f3w==
+X-Gm-Message-State: AFqh2kq0p3zEO4EvkYMIrTWJ08zJkV9znu87Ijq5Vnmg/t2BAzix7b9H
+	lTXnXgO2Z42B7dtoUA894A==
+X-Google-Smtp-Source: AMrXdXuDMS7sXuCMZXlVGF0NZyyHiWwnxB4BZugehhNLf/DGHTWFDFyYwM5V2zmS3YSMGmAHk1RWkY24QB6rFQ==
+MIME-Version: 1.0
+X-Received: by 2002:a17:90a:8a82:b0:227:2a2:70ea with SMTP id
+ x2-20020a17090a8a8200b0022702a270eamr2126980pjn.36.1674287778315; Fri, 20 Jan
+ 2023 23:56:18 -0800 (PST)
+Message-ID: <000000000000473cf005f2c1804a@google.com>
+Date: Sat, 21 Jan 2023 07:56:18 +0000
+Subject: Verify your email address
+From: Google <noreply@google.com>
+To: dea.saka@belajarblockchain.com
+Content-Type: multipart/alternative; boundary="000000000000473cdb05f2c18047"
+X-Spam-Status: No, score=-7.7
+X-Spam-Score: -76
+X-Spam-Bar: -------
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Verify this email is yours: dea.saka@belajarblockchain.com.
+    This email address was recently provided for a new Google Cloud account.
+   Use this code to confirm that it belongs to you: 283731. You can ve [...] 
+ Content analysis details:   (-7.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: g.co]
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             welcome-list
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+ -0.0 DKIMWL_WL_MED          DKIMwl.org - Medium trust sender
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+--000000000000473cdb05f2c18047
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+
+Verify this email is yours: dea.saka@belajarblockchain.com. This email  
+address was recently provided for a new Google Cloud account. Use this code  
+to confirm that it belongs to you: 283731. You can verify your email at:  
+https://g.co/gms/cgur2qtc9bzxh9wxkyr5. If this wasn't you, please  
+disregard; someone may have mistyped their email address. See you in the  
+cloud, The Google Cloud Team. Google LLC 1600 Amphitheatre Parkway,  
+Mountain View, CA 94043 You received this email to let you know about  
+important changes to your Google Cloud account and services.
+
+--000000000000473cdb05f2c18047
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html><head><meta name=3D"format-detection" content=3D"date=
+=3Dno"/><meta name=3D"format-detection" content=3D"email=3Dno"/><style nonc=
+e=3D"vLpAaxNzoXYmts5OGm7RzQ">.awl a {color: #fff; text-decoration: none;}.a=
+bml a {color: #000; font-family: Google Sans, Roboto-Medium, Helvetica, Ari=
+al, sans-serif; font-weight: bold; text-decoration: none;}.afal a {color: #=
+b0b0b0; text-decoration: none;}</style></head><body style=3D"margin:0; padd=
+ing:0;"><table width=3D"100%" height=3D"100%" style=3D"min-width:348px; bac=
+kground-color:#f8f9fa" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr=
+ height=3D"32px"></tr><tr align=3D"center"><td><table border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" style=3D"padding-bottom: 20px; max-width: 600px=
+; min-width: 220px; background-color: #f8f9fa;"><tr><td><table cellpadding=
+=3D"0" cellspacing=3D"0"><tr><td><table width=3D"100%" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"direction: ltr; padding-bottom: 20px;=
+ padding-left: 20px;"><tr><td align=3D"left"><img height=3D"32" src=3D"http=
+://ssl.gstatic.com/pantheon/images/freetrial/cloud-logo-medium.png" style=
+=3D"height:32px;" alt=3D"Google Cloud"></td></tr></table></td></tr><tr styl=
+e=3D"background-color:white"><td><div style=3D"font-family: Google Sans, Ro=
+boto-Regular, Helvetica, Arial, sans-serif;padding-left: 50px; padding-righ=
+t: 50px;border-bottom: thin solid #f0f0f0; color: #3c4043; font-size: 32px;=
+ padding-top: 40px; padding-left:50px; padding-bottom: 32px; text-align: le=
+ft; word-break: break-word;"><h3 style=3D"font-size: 32px; margin-top: 0; l=
+ine-height: 1; margin-bottom: 32px;">Verify this email is yours</h3><p styl=
+e=3D"font-family: Google Sans, Roboto-Regular, Helvetica, Arial, sans-serif=
+;color: #3c4043; font-size: 16px; line-height: 1; margin-top: 0; margin-bot=
+tom: 0;"><a href=3D"https://g.co/gms/cgur2qtc9bzxh9wxkyr5">dea.saka@belajar=
+blockchain.com</a></p></div><div style=3D"font-family: Google Sans, Roboto-=
+Regular, Helvetica, Arial, sans-serif; font-size: 14px; color: #3c4043;padd=
+ing-left: 50px; padding-right: 50px;margin-bottom: 32px; margin-top: 32px; =
+background-color: #fff;"><p>This email address was recently provided for a =
+new Google Cloud account.<p>Use this code to confirm that it belongs to you=
+:</p><div style=3D"font-family: Roboto-Regular, Helvetica, Arial, sans-seri=
+f; font-weight: bold;font-size: 24px; margin-top: 32px; margin-bottom: 32px=
+; text-align: center;">283731</div><p>If this wasn=E2=80=99t you, please di=
+sregard; someone may have mistyped their email address.</p><p style=3D"marg=
+in-top:20px">See you in the cloud,<p style=3D"font-weight:bold; margin-bott=
+om: 40px;">The Google Cloud team</p></div></td></tr><tr><td><div style=3D"t=
+ext-align: left;"><div style=3D"font-family: Google Sans, Roboto-Regular, H=
+elvetica, Arial, sans-serif;color: #9aa0a6; font-size: 12px; line-height: 2=
+0px; padding-left: 50px; padding-right: 50px;"><div style=3D"margin-top: 40=
+px;"><img src=3D"https://ssl.gstatic.com/cloud/images/products/logos/google=
+-cloud-logo.png" width=3D"140px" alt=3D"Google Cloud"/></div><div style=3D"=
+direction: ltr; margin-top: 20px; margin-bottom: 20px;">Google LLC&nbsp;<a =
+class=3D"afal" style=3D"font-family: Google Sans, Roboto-Regular, Helvetica=
+, Arial, sans-serif;color: #9aa0a6; font-size: 12px; line-height: 20px;">16=
+00 Amphitheatre Parkway, Mountain View, CA 94043</a></div><div>You received=
+ this email to let you know about important changes to your Google Cloud ac=
+count and services.</div></div></div></td></tr></table></td></tr></table></=
+td></tr><tr height=3D"32px"></tr></table></body></html>
+--000000000000473cdb05f2c18047--

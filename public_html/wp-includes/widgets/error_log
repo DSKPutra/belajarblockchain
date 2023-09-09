@@ -1,0 +1,8 @@
+[28-Jun-2023 05:20:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/bely5175/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bely5175/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Aug-2023 06:53:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/bely5175/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bely5175/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

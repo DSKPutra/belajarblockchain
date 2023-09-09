@@ -1,0 +1,119 @@
+Return-Path: <info@ismsf.id>
+Delivered-To: cs@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id cK/wNc9njWNDgAAAUtWGkQ
+	(envelope-from <info@ismsf.id>)
+	for <cs@belajarblockchain.com>; Mon, 05 Dec 2022 10:38:55 +0700
+Return-path: <info@ismsf.id>
+Envelope-to: cs@belajarblockchain.com
+Delivery-date: Mon, 05 Dec 2022 10:38:55 +0700
+Received: from out15-86.antispamcloud.com ([185.201.19.86]:48644)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.95)
+	(envelope-from <info@ismsf.id>)
+	id 1p22Ja-000SvU-Ug
+	for cs@belajarblockchain.com;
+	Mon, 05 Dec 2022 10:38:55 +0700
+Received: from iix500.idcloudhost.com ([103.55.39.107])
+	by mx231.antispamcloud.com with esmtpsa (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <info@ismsf.id>)
+	id 1p22Ij-000ERw-Ua
+	for cs@belajarblockchain.com; Mon, 05 Dec 2022 04:38:03 +0100
+Received: from [125.166.32.2] (port=64827 helo=[192.168.1.135])
+	by iix500.idcloudhost.com with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <info@ismsf.id>)
+	id 1p22Hu-00GfOU-Cx
+	for cs@belajarblockchain.com;
+	Mon, 05 Dec 2022 10:37:06 +0700
+Message-ID: <19e9b68e-7cae-f3f7-24b8-62c97163e606@ismsf.id>
+Date: Mon, 5 Dec 2022 10:37:02 +0700
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
+ Thunderbird/102.5.1
+Subject: Fwd: Entri Produk KIBI
+References: <pIHdxZvow18xva9EVrBVuhNID1kB7IHt5I49bpRaD4@ismsf.id>
+Content-Language: en-US
+To: cs@belajarblockchain.com
+From: ISMS Forum Indonesia <info@ismsf.id>
+In-Reply-To: <pIHdxZvow18xva9EVrBVuhNID1kB7IHt5I49bpRaD4@ismsf.id>
+X-Forwarded-Message-Id: <pIHdxZvow18xva9EVrBVuhNID1kB7IHt5I49bpRaD4@ismsf.id>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-AuthUser: info@ismsf.id
+X-Originating-IP: 103.55.39.107
+X-Spampanel-Domain: cloudhost.id
+X-Spampanel-Username: iix80
+Authentication-Results: antispamcloud.com; auth=pass (login) smtp.auth=iix80@cloudhost.id
+X-Spampanel-Outgoing-Class: unsure
+X-Spampanel-Outgoing-Evidence: Combined (0.82)
+X-Recommended-Action: accept
+X-Filter-ID: Pt3MvcO5N4iKaDQ5O6lkdGlMVN6RH8bjRMzItlySaT92L+6dHuI4Z/VOTVTb7rF1PUtbdvnXkggZ
+ 3YnVId/Y5jcf0yeVQAvfjHznO7+bT5yyq/4DkHVSa6ob+uiB+n5Bms3j8XT53W8ZF6tGbS3g0LgN
+ zB/4Jkrw1eDLcif59ftD6O4ciMnhjHAi4we33XQMgYVALhXkueKT79r7FRLqfXPMZfz7EnB6ki5i
+ dee1aa8lwNIo296XpAIUVNreB8TJwmE3N1evmq3yP+aUe4forgRo87oeATC+hGtbNyLqD7+MmSVH
+ vD6E9caBSbx3/ZnSGAMA7pbGOB6N79DhlbzdEdzZqrrsu03WRFccpjwfEvECZ7McMtbybAwv7WDG
+ ymUz7XtPYKTtqZvlV3dd3rsJ7UKEcxAcIwRZNf0cSHBI/j8xKX6Z6/Qz1w7TE/bz3YPRDfgblxZ8
+ KT4UwlLW+nAm2eZE7YJwhBWCb1PmFojBOyjXs2KsRjKrCowEavDwQuKotTi65cSzlgdNUmHdZkDX
+ HlM9LD4J6QJNigNrycDHdbmZSjmmVb1jzWCjpHhh1WjZqXWvTtyZt5+E2rHRTxiOPQKf33qQtTYr
+ DPixEr4D2aetI4g+l6rCWbY0MZcgnbHsvpNW7GikhmOCu9M0KUqP+TA0XR86Wn701qLFFgRplyN/
+ HQkuNWxsAxyoPsITh1m8wZ3+H0k7z1CRgAzPQChjwBUWHnLDgtvLqMUEyupjGrccC9mETJ96PO0a
+ 0i65pJWRuKfmutqQOynqg2GpkMfyA5AY8x8l0r708jyxJh5QUbvmZd05HcaSqAcgvJRCp9ucq0Nj
+ h8UWHVDYRadSVXC+YhxwEiTVJqDh0qKoKsXx5llzbrK7N0gMU1f8ziNWYrJrZ9st90Jubumaiot3
+ WN+TtJomp49xsQucA+lJixz/B8NsJncItgtQVJoXglWfBMsGTj9+FRkaOS/DNjANmb8tO61SbYdY
+ AwdpaVzHW7wHO7YhEWyJzIkwSFAW0Pw8uiKeubcolFl/rX+2ReQklqJDAYdgaUvOVvqdzP3pXykR
+ yfrHKlSFZnsNX9C2FSfjBOMW
+X-Report-Abuse-To: spam@quarantine15.antispamcloud.com
+X-Spam-Status: No, score=0.8
+X-Spam-Score: 8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Dengan hormat, Entri Produk KIBI yang Anda ajukan telah kami
+    verifikasi dan telah kami publikasikan di https://ismsf.id/produk/ Hormat
+    kami, ISMSF.ID 
+ Content analysis details:   (0.8 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: ismsf.id]
+  0.0 T_SPF_PERMERROR        SPF: test of record failed (permerror)
+  0.0 KAM_DMARC_STATUS       Test Rule for DKIM or SPF Failure with Strict
+                             Alignment
+  0.8 KAM_INFOUSMEBIZ        Prevalent use of
+                             .info|.us|.me|.me.uk|.biz|xyz|id|rocks|life
+                              domains in spam/malware
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+Dengan hormat,
+
+Entri Produk KIBI yang Anda ajukan telah kami verifikasi dan telah kami 
+publikasikan di https://ismsf.id/produk/
+
+Hormat kami,
+ISMSF.ID
+
+-------- Forwarded Message --------
+
+Blockchain Training
+
+Jasa
+
+Belajar Blockchain adalah tempat belajar yang berfokus pada bidang 
+blockchain dan web3. Disini kami
+
+https://belajarblockchain.com/
+
+Belajar Blockchain
+
+https://belajarblockchain.com/
+

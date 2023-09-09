@@ -1,0 +1,152 @@
+Return-Path: <bounces+23773710-daad-cs=belajarblockchain.com@em4578.joinpioneer.app>
+Delivered-To: cs@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id KigUMB6Bj2PnNQAAUtWGkQ
+	(envelope-from <bounces+23773710-daad-cs=belajarblockchain.com@em4578.joinpioneer.app>)
+	for <cs@belajarblockchain.com>; Wed, 07 Dec 2022 00:51:26 +0700
+Return-path: <bounces+23773710-daad-cs=belajarblockchain.com@em4578.joinpioneer.app>
+Envelope-to: cs@belajarblockchain.com
+Delivery-date: Wed, 07 Dec 2022 00:51:26 +0700
+Received: from o2.ptr5693.joinpioneer.app ([149.72.67.117]:10288)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <bounces+23773710-daad-cs=belajarblockchain.com@em4578.joinpioneer.app>)
+	id 1p2c6A-000mlG-D6
+	for cs@belajarblockchain.com;
+	Wed, 07 Dec 2022 00:51:26 +0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=joinpioneer.app;
+	h=content-type:mime-version:subject:from:references:to:cc:content-type:
+	from:subject:to;
+	s=s1; bh=TZoIOJTVlCdXUzdKiQaJ0sS6h2uPMugxgF+4tW1N5eM=;
+	b=6i5VV6Dca/82m9477HE/9+5EG+d0geEASGiOsuyx2egTDdDFON1lLJnNUqm9bu9W8Hx8
+	Ml6vvNIoumd8GS0Hn3h94jxNAra2E8aXQyRk9uiyIppX2tDhv18piWehsaMMrYILfs1+Pi
+	22+RCz3HSMjgbOCaq05DYuxUotMm7wTmGPGTMGszEo4qrrB3dDjBrPZaP07YccI25QWEcR
+	3e3q2giiDhf/u6GaYO5MWgdNDCfoOgfTikHh2B8edP9Z2N7K8wvXTF0WXTIBWUsHMCh5J3
+	OGRg33HjnhBRwva6svMF/WdE9DKzVac8xAXEmvw2uHCcptkS/JbxOdBhps+3ip0w==
+Received: by filterdrecv-595fc4d6bf-6vpk5 with SMTP id filterdrecv-595fc4d6bf-6vpk5-1-638F80EA-9B
+        2022-12-06 17:50:34.512143929 +0000 UTC m=+1622701.967320976
+Received: from smtpgw.close.com (unknown)
+	by geopod-ismtpd-3-0 (SG)
+	with ESMTP id DCDv_L1kSZCAmCbC9Kd28A
+	for <cs@belajarblockchain.com>;
+	Tue, 06 Dec 2022 17:50:34.471 +0000 (UTC)
+Content-Type: multipart/mixed; boundary="===============1221520973112400681=="
+MIME-Version: 1.0
+Subject: Belajar Blockchain
+From: Rishi Narang <rishi@joinpioneer.app>
+Date: Tue, 06 Dec 2022 17:50:34 +0000 (UTC)
+Message-ID: <167034903398.28624.3169197159564762653@smtpgw.close.com>
+X-CLOSEIO-EMAIL-ID: acti_3v7xtaFugV3gmTyCX1fkxd693yZ5idDr3dZ5r4IeyH5
+References: <167034903398.28624.18153549604826599674@smtpgw.close.com>
+X-SG-EID: 
+ =?us-ascii?Q?G6qnxdAQbKYHNzdDfDwSFlLU=2FCA5AHB6Gl4mebAQjcsc2z5liy1CH6ZKgAR36Z?=
+ =?us-ascii?Q?JNnJzixUYixBkgMKP=2FP5BMFfLiLgRULuT0uzHXF?=
+ =?us-ascii?Q?2WE4Cr3wBVz3KVArxnrlsIVzUH9YQNzPGNy2qU3?=
+ =?us-ascii?Q?5QC6ja7Dti=2F9pD150f6hhXWPT=2FG7huSJf0x097a?=
+ =?us-ascii?Q?Z5uc5N+w+VfMroB7Gd8Y5goRa5NLt06QCBMu2dM?=
+ =?us-ascii?Q?KLIfiv5SsISZY7ldBLxTj83Fq5kPbXHyFTlmJv?=
+To: cs@belajarblockchain.com
+X-Entity-ID: vwl6YJmuxH66eelQzURiug==
+X-Spam-Status: No, score=0.5
+X-Spam-Score: 5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi there! Rishi here from [Pioneer](https://pioneer.app/?t=1).
+    We’re a network for early founders around the world. Thought you might
+   find it useful for [Belajar Blockchain](http://belajarblockchain.com)! 
+ Content analysis details:   (0.5 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: belajarblockchain.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 HTML_IMAGE_ONLY_20     BODY: HTML: images with 1600-2000 bytes of
+                             words
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  0.0 UNPARSEABLE_RELAY      Informational: message has unparseable relay
+                             lines
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+--===============1221520973112400681==
+Content-Type: multipart/alternative; boundary="===============7650009089018108178=="
+MIME-Version: 1.0
+
+--===============7650009089018108178==
+Content-Type: text/plain; charset=utf-8
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hi there!
+
+Rishi here from [Pioneer](https://pioneer.app/?t=3D1). We=E2=80=99re a netw=
+ork for early
+founders around the world. Thought you might find it useful for [Belajar
+Blockchain](http://belajarblockchain.com)! =20
+ =20
+We=E2=80=99ve funded 130+ companies from 50+ countries who=E2=80=99ve colle=
+ctively gone on to
+raise over $100M from Sequoia, a16z, General Catalyst, Y Combinator, Khosla
+Ventures, and many more. =20
+ =20
+Would love to have you join. Consider giving it a go & let me know if you h=
+ave
+any questions! =20
+ =20
+Best, =20
+Rishi
+
+ =20
+Not interested? Feel free to
+[unsubscribe](https://www.pioneer.app/close_unsubscribes?email=3Dcs@belajar=
+blockchain.com&code=3D56b5cd5ada634cd7a25fcb81716bc080).
+--===============7650009089018108178==
+Content-Type: text/html; charset=utf-8
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Hi there!</p><p dir=3D"ltr">Rishi here from&nbsp;<a href=3D"=
+https://pioneer.app/?t=3D1" rel=3D"noopener noreferrer noopener">Pioneer</a=
+>. We=E2=80=99re a network for early founders around the world. Thought you=
+ might find it useful for&nbsp;<span class=3D"template-tag-highlight"></spa=
+n><a href=3D"http://belajarblockchain.com" rel=3D"noopener noreferrer">Bela=
+jar Blockchain</a><span class=3D"template-tag-highlight"></span>!<br><br>We=
+=E2=80=99ve funded 130+ companies from 50+ countries who=E2=80=99ve collect=
+ively gone on to raise over $100M from Sequoia, a16z, General Catalyst, Y C=
+ombinator, Khosla Ventures, and many more.<br><br>Would love to have you jo=
+in. Consider giving it a go &amp; let me know if you have any questions!<br=
+><br>Best,<br>Rishi</p><p dir=3D"ltr" style=3D"line-height:16px; font-size:=
+11px; color: #aaa; font-weight: normal;"><br>Not interested? Feel free to <=
+a href=3D"https://www.pioneer.app/close_unsubscribes?email=3Dcs@belajarbloc=
+kchain.com&code=3D56b5cd5ada634cd7a25fcb81716bc080" rel=3D"noopener norefer=
+rer" style=3D"color: #aaa;">unsubscribe</a>.</p><img src=3D"https://ml.clos=
+eml.com/t/3v7xtaFugV3gmTyCX1fkxd693yZ5idDr3dZ5r4IeyH5/hHpEPev1mp.png" alt=
+=3D"" width=3D"1" height=3D"1" /><img src=3D"http://click.joinpioneer.app/w=
+f/open?upn=3DkOiNUBIxgC-2FxQrISiAtCXVJxBvHU3k5jdssaSd8ckFVubpfZJ4iR63WStn64=
+H885lu7yTfehfS9K-2FNCUVObNzikV9t6dRi1T6-2BvoPwW8XQYCA1p4e2NVAZQZUj-2FDOSIYh=
+pJaCD-2FWRamJ8S8uFmrg1AXqXok-2B0wHUX25zgrPqNVGUMnPUDCVHpBoxpE1lEMCFFVOvcruz=
+7wLfxlK0vBaURVKtC6HBeMp30tdJ3Y1vRzU-3D" alt=3D"" width=3D"1" height=3D"1" b=
+order=3D"0" style=3D"height:1px !important;width:1px !important;border-widt=
+h:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-ri=
+ght:0 !important;margin-left:0 !important;padding-top:0 !important;padding-=
+bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/=
+>
+--===============7650009089018108178==--
+
+--===============1221520973112400681==--

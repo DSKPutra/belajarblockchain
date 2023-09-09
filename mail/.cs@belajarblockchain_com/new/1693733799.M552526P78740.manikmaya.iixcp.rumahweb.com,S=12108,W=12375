@@ -1,0 +1,267 @@
+Return-Path: <deepika@oxygentech.in>
+Delivered-To: cs@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id GPpjIKdT9GSUMwEAUtWGkQ
+	(envelope-from <deepika@oxygentech.in>)
+	for <cs@belajarblockchain.com>; Sun, 03 Sep 2023 16:36:39 +0700
+Return-path: <deepika@oxygentech.in>
+Envelope-to: cs@belajarblockchain.com
+Delivery-date: Sun, 03 Sep 2023 16:36:39 +0700
+Received: from mail-pf1-x442.google.com ([2607:f8b0:4864:20::442]:50656)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.96)
+	(envelope-from <deepika@oxygentech.in>)
+	id 1qcjWx-000L31-1b
+	for cs@belajarblockchain.com;
+	Sun, 03 Sep 2023 16:36:39 +0700
+Received: by mail-pf1-x442.google.com with SMTP id d2e1a72fcca58-68a56401b9aso248563b3a.1
+        for <cs@belajarblockchain.com>; Sun, 03 Sep 2023 02:36:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=oxygentech-in.20230601.gappssmtp.com; s=20230601; t=1693733749; x=1694338549; darn=belajarblockchain.com;
+        h=content-language:thread-index:mime-version:message-id:date:subject
+         :to:from:from:to:cc:subject:date:message-id:reply-to;
+        bh=iHodUvmvXhpIWRqsGvhaMMuSCbh53z+M4mYIPOs8QsI=;
+        b=JELQPWynpmcg4bon5vdlR05QyOAovSsI35Hswcyt8gsx5ESB0feamGhsyGQ+0BZuKJ
+         tmewQxJ0Rybd1Ae+1eFzcx7WxO0Dhof/jlRsex+TmO/lDF3bGsSSrJu/Bh1ZFIe+mpED
+         B7Cv0Ut7DHTOpREZVJjR6ExIlAzz2WqeS0A2U+tuQyLEShrEMHZsdBoZEwmVSYqrvL3B
+         vNn0Hjq/OJAkoh0zzbmTnqlSMTJauRLC2v+1ci6YqCDPsA/brgAbJnrAA4lZc24bUFLa
+         iQc8cXMYpBKBjJFSZgbV0epeLuE38b2b/hkgDknkS/lt7cOXwzbTbUSYNKNTZZ3njGee
+         Bq1Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20221208; t=1693733749; x=1694338549;
+        h=content-language:thread-index:mime-version:message-id:date:subject
+         :to:from:x-gm-message-state:from:to:cc:subject:date:message-id
+         :reply-to;
+        bh=iHodUvmvXhpIWRqsGvhaMMuSCbh53z+M4mYIPOs8QsI=;
+        b=CGi8qqyjvmhE/dMICoWWRDlbcdjXee9AGSL+ocPuoR039U+HpZFPaIh9F4KQLe/aMU
+         RjnSjy4TivH8oETDgJ/bdCVqpf0LyvpBIPMWEKXemE25Iy6d4ppJOvQurpdrNJ5EFusv
+         OhVlx7H8vJd64ytXUKEcxX6WHi7jSkEVzTrYIc4UBUmM9dTUxQN9tcTsnjgGSxtbMSg/
+         CcogcbSATMuNaI7JDd1i66cFQJWsxcrpdHVmS6w8sqJPG+JUT07gdMURYMROJ6++dA5i
+         aEa/4IKO+5OBEqda8uO4E9dhczOsBPdFWhGmKPUMEJImrYXi8KrR1G/Ew0/FoYCQpWh2
+         LgzQ==
+X-Gm-Message-State: AOJu0YzZQBfVr3dqa0Niyhls0yaRabVwqvW+3UCY5EJmKfBt8WAYUqTp
+	nXdhI9YOwkTmIeaKNGZ7kokiqrErx/T9h1dh9yfjrw==
+X-Google-Smtp-Source: AGHT+IFc9b0r31kWp4Z0jUZk49Okn0coWvSXIV7kqkVlLpoDPtSG85DIBD0wU3HlRUYxj/HQEZ3BtA==
+X-Received: by 2002:a17:90a:eb0d:b0:268:557e:1848 with SMTP id j13-20020a17090aeb0d00b00268557e1848mr4967980pjz.2.1693733748869;
+        Sun, 03 Sep 2023 02:35:48 -0700 (PDT)
+Received: from DESKTOPSTRMQMK ([2401:4900:1c5a:a17a:e492:2225:bc08:a7cc])
+        by smtp.gmail.com with ESMTPSA id 25-20020a17090a199900b002693505391csm7783549pji.37.2023.09.03.02.35.46
+        for <cs@belajarblockchain.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 03 Sep 2023 02:35:48 -0700 (PDT)
+From: "Deepika" <deepika@oxygentech.in>
+To: <cs@belajarblockchain.com>
+Subject: App Development Requirement
+Date: Sun, 3 Sep 2023 14:56:40 +0530
+Message-ID: <4d0201d9de4a$04ee69e0$0ecb3da0$@in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_4D03_01D9DE78.1EA6A5E0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdneQB/TsOhdEC6xSAKyCjYSt4oKXQ==
+Content-Language: en-us
+X-Spam-Status: No, score=1.5
+X-Spam-Score: 15
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi, Hope everything is awesome with you! My name is Deepika,
+    and I am a Professional IOS & Android Apps developer with 7+ years experience
+    based in India. Do you need a great App adjusted or built from scratch? 
+ Content analysis details:   (1.5 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.5 SPF_SOFTFAIL           SPF: sender does not match SPF record (softfail)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_4D03_01D9DE78.1EA6A5E0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Hope everything is awesome with you!
+
+My name is Deepika, and I am a Professional IOS & Android Apps developer
+with 7+ years experience based in India. Do you need a great App adjusted or
+built from scratch?
+
+We develop any kind of mobile apps-:
+
+1.    Food Ordering & Delivery Mobile Apps.
+
+2.    Fitness Mobile Apps.
+
+3.    Taxi Booking Mobile Apps.
+
+4.    Educational Mobile Apps.
+
+5.    Shopping Mobile Apps.
+
+6.    Pharmacy & Healthcare Mobile Apps.
+
+7.    Fashion & Lifestyle Mobile Apps.
+
+8.    Auto & Vehicles Apps.                                    
+9.    Beauty & Vehicles Apps.
+10.  Dating Apps.
+
+If you want to know the price/cost and examples of our Mobile Apps project,
+please share your requirements.
+Reply me if you need any kind of help in mobile Apps.
+
+Warmest Regards
+
+Thanks,             
+Deepika
+
+
+
+
+
+PS- If you no longer wish to receive emails from us, kindly reply to this
+email with the subject line "REMOVE" or "UNSUBSCRIBE," and we will promptly
+remove your email address from our mailing list. Please allow up to 48 hours
+for the changes to take effect
+
+ 
+
+
+------=_NextPart_000_4D03_01D9DE78.1EA6A5E0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US><div =
+class=3DWordSection1><p =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>Hi,</span></p><p =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>Hope everything is awesome with you!</span></p><p =
+style=3D'margin:0in;margin-bottom:.0001pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>My name is Deepika, and I am a Professional IOS &amp; Android Apps =
+developer with 7+ years experience based in India. Do you need a great =
+App adjusted or built from scratch?</span></p><p =
+style=3D'margin-bottom:12.0pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>We develop any kind of mobile apps-:</span></p><p =
+style=3D'margin:0in;margin-bottom:.0001pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>1.&nbsp;&nbsp;&nbsp; Food Ordering &amp; Delivery Mobile =
+Apps.</span></p><p style=3D'margin:0in;margin-bottom:.0001pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>2.&nbsp;&nbsp;&nbsp; Fitness Mobile Apps.</span></p><p =
+style=3D'margin:0in;margin-bottom:.0001pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>3.&nbsp;&nbsp;&nbsp; Taxi Booking Mobile Apps.</span></p><p =
+style=3D'margin:0in;margin-bottom:.0001pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>4.&nbsp;&nbsp;&nbsp; Educational Mobile Apps.</span></p><p =
+style=3D'margin:0in;margin-bottom:.0001pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>5.&nbsp;&nbsp;&nbsp; Shopping Mobile Apps.</span></p><p =
+style=3D'margin:0in;margin-bottom:.0001pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>6.&nbsp;&nbsp;&nbsp; Pharmacy &amp; Healthcare Mobile =
+Apps.</span></p><p style=3D'margin:0in;margin-bottom:.0001pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>7.&nbsp;&nbsp;&nbsp; Fashion &amp; Lifestyle Mobile Apps.</span></p><p =
+style=3D'margin:0in;margin-bottom:.0001pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>8.&nbsp;&nbsp;&nbsp; Auto &amp; Vehicles =
+Apps.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;</span><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'><br><span =
+style=3D'color:#1F3864'>9.&nbsp;&nbsp;&nbsp; Beauty &amp; Vehicles =
+Apps.</span><br><span style=3D'color:#1F3864'>10.&nbsp; Dating =
+Apps.</span></span></p><p style=3D'margin-bottom:12.0pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>If you want to know the price/cost and examples of our Mobile Apps =
+project, please share your requirements.</span><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'><br><span =
+style=3D'color:#1F3864'>Reply me if you need any kind of help in mobile =
+Apps.</span></span></p><p style=3D'margin-bottom:12.0pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>Warmest Regards</span></p><p style=3D'margin-bottom:12.0pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:#1F3864=
+'>Thanks,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;</span><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'><br><span =
+style=3D'color:#1F3864'>Deepika<br><br><br><br><br><br></span></span><spa=
+n =
+style=3D'font-size:9.0pt;font-family:"Calibri","sans-serif";color:#323E4F=
+;background:white'>PS- If you no longer wish to receive emails from us, =
+kindly reply to this email with the subject line&nbsp;</span><span =
+style=3D'font-family:"Calibri","sans-serif";color:red;background:white'>&=
+quot;REMOVE&quot; or &quot;UNSUBSCRIBE</span><span =
+style=3D'font-size:9.0pt;font-family:"Calibri","sans-serif";color:#323E4F=
+;background:white'>,&quot; and we will promptly remove your email =
+address from our mailing list. Please allow up to 48 hours for the =
+changes to take effect</span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_4D03_01D9DE78.1EA6A5E0--
+

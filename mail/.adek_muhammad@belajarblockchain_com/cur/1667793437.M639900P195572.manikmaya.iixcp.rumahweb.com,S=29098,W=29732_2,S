@@ -1,0 +1,634 @@
+Return-Path: <bounces+3302489-6ee9-adek.muhammad=belajarblockchain.com@email.figma.com>
+Delivered-To: adek.muhammad@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id 0NC2JR2CaGP0+wIAUtWGkQ
+	(envelope-from <bounces+3302489-6ee9-adek.muhammad=belajarblockchain.com@email.figma.com>)
+	for <adek.muhammad@belajarblockchain.com>; Mon, 07 Nov 2022 10:57:17 +0700
+Return-path: <bounces+3302489-6ee9-adek.muhammad=belajarblockchain.com@email.figma.com>
+Envelope-to: adek.muhammad@belajarblockchain.com
+Delivery-date: Mon, 07 Nov 2022 10:57:17 +0700
+Received: from o1.email.figma.com ([167.89.87.53]:60858)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <bounces+3302489-6ee9-adek.muhammad=belajarblockchain.com@email.figma.com>)
+	id 1ortG5-000Ip6-Re
+	for adek.muhammad@belajarblockchain.com;
+	Mon, 07 Nov 2022 10:57:17 +0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=figma.com;
+	h=content-type:from:mime-version:subject:to:cc;
+	s=sg; bh=C5209oflnwxAgHutiEu3XSZbmy4sjPKsAMDaAB3D3s0=;
+	b=Td5BuU/mySdIRQMHd6fzbAjsW3En40FTsazPibYtGxm+J+PKuxMbftYinOk85v2lC0Gg
+	nJAqG9E7T+wY2pjLd7qsZnb/1S0mvAhmis/6N3xBDiKyo7nspf4jdeYCPuRP6/fVlz+koI
+	WtV1oYxAVqtoTXSqWUIUKqNoKTBYSHEEw=
+Received: by filterdrecv-754d556854-s84h9 with SMTP id filterdrecv-754d556854-s84h9-1-636881EB-3
+        2022-11-07 03:56:27.064024737 +0000 UTC m=+553026.745247893
+Received: from MzMwMjQ4OQ (unknown)
+	by geopod-ismtpd-3-0 (SG) with HTTP
+	id WoDfjWZnSDWEv0eLvBFucQ
+	Mon, 07 Nov 2022 03:56:26.999 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=d0f190d0453817e7731afae6d82f8413d00eaa9e9d1ff26ac8d9273847f1
+Date: Mon, 07 Nov 2022 03:56:27 +0000 (UTC)
+From: Figma <support@figma.com>
+Mime-Version: 1.0
+Message-ID: <WoDfjWZnSDWEv0eLvBFucQ@geopod-ismtpd-3-0>
+Subject: Verify your email address
+X-SG-EID: 
+ =?us-ascii?Q?3KgmvRXChcCCa+IY0AVCrGK7=2Fb1u71tPA6oixSuKIE5w7dAVJ4O3FSsN+FZSfS?=
+ =?us-ascii?Q?GPrcvHvvtNBeFaQKVIAZaet6XfT+ZXOSzIcWO0w?=
+ =?us-ascii?Q?8+tQgNstnx30KnyS80wqoQGbxlRgKO+WzJAodWL?=
+ =?us-ascii?Q?IIJ=2FVq990Bx6gYcAn1UmllRzC11LGbP6ZkvGyhJ?=
+ =?us-ascii?Q?4t4JkMxPr3VRIsnyUR+8zkz06FD8IPBxK0wc9pB?=
+ =?us-ascii?Q?f7PlOahufZXp+4O8GKmT2Yz1ifcpKuFjVGsoIY?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb4y3txgo5yBh53LSxVlmRE2ahbw=2FGnza2QURkjSfHq?=
+ =?us-ascii?Q?mehVhDld9EXZhpp0Q=2FmE+k4w=3D=3D?=
+To: Adek Muhammad_BB <adek.muhammad@belajarblockchain.com>
+X-Entity-ID: 4M9nW8w/x2CCV79RvN1lhQ==
+X-Spam-Status: No, score=0.6
+X-Spam-Score: 6
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Figma Please verify your email address to start using Figma.
+    ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+    ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ [...]
+    
+ Content analysis details:   (0.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: dribbble.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  0.1 MIME_HTML_MOSTLY       BODY: Multipart message mostly text/html MIME
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 UNPARSEABLE_RELAY      Informational: message has unparseable relay
+                             lines
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+--d0f190d0453817e7731afae6d82f8413d00eaa9e9d1ff26ac8d9273847f1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+=20=
+
+--d0f190d0453817e7731afae6d82f8413d00eaa9e9d1ff26ac8d9273847f1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang=3D"en" lang=3D"en" xmlns=3D"http://www.w3.org/1999/xhtml" xm=
+lns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-co=
+m:office:office">
+  <head>
+    <title>Figma</title>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1" />
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge" />
+    <meta name=3D"format-detection" content=3D"telephone=3Dno, date=3Dno, a=
+ddress=3Dno, email=3Dno" />
+    <meta name=3D"x-apple-disable-message-reformatting" />
+    <meta name=3D"color-scheme" content=3D"light dark" />
+    <meta name=3D"supported-color-schemes" content=3D"light dark" />
+    <style type=3D"text/css">
+      /*<![CDATA[*/
+      :root {
+        color-scheme: light dark;
+        supported-color-schemes: light dark;
+      }
+      /*]]>*/
+    </style>
+    <style type=3D"text/css">
+      /*<![CDATA[*/
+      @font-face {
+        font-family: 'Whyte';
+        font-style: normal;
+        font-weight: normal;
+        src: /*url(.eot?#iefix) format('embedded-opentype'),
+        url(.woff2) format('woff2'),
+        url(.ttf) format('truetype'),*/
+        url(https://static.figma.com/uploads/9254519927cf4912e61627442d7ab7=
+a5a9226581.woff) format('woff');
+        mso-font-alt: 'Arial';
+      }
+
+      h1{font-size: 26px; line-height:32px; font-family:'Whyte', Helvetica,=
+ Arial, sans-serif; color:#000000; text-align: center; font-weight: normal;=
+ margin: 0;}
+      h2{font-size: 20px; line-height:28px; font-family:'Whyte', Helvetica,=
+ Arial, sans-serif; color:#000000; text-align: center; font-weight: normal;=
+margin: 0;}
+      h3{font-weight:bold; font-size: 20px; line-height: 28px; font-family:=
+'Whyte', Helvetica, Arial, sans-serif; color:#000000; text-align: left;marg=
+in: 0;}
+      h4{font-size:18px; line-height: 24px; font-family:'Whyte', Helvetica,=
+ Arial, sans-serif; color:#333333; font-weight: normal;margin: 0;}
+      h5{font-size: 36px; font-weight:bold; line-height: 42px; font-family:=
+'Whyte', Helvetica, Arial, sans-serif; color:#000000; margin: 0;}
+      h6{font-weight:bold; font-size: 32px; line-height: 38px; font-family:=
+'Whyte', Helvetica, Arial, sans-serif; color:#000000; letter-spacing:-1px; =
+margin: 0;}
+      sup{font-size: 12px; color: #9747FF; font-weight: bold; font-family:'=
+Whyte', Helvetica, Arial, sans-serif; vertical-align: top; line-height: 0; =
+mso-font-size: 12px !important; mso-text-raise:40%;}
+
+      a{outline:none;color:#000; text-decoration:none;}
+      a:hover{text-decoration:none !important;}
+      .h-u a{text-decoration:underline;}
+      .h-u a:hover, .active-t a:hover{text-decoration:none !important;}
+      a[x-apple-data-detectors]{color:inherit !important; text-decoration:n=
+one !important;}
+      .active-i a:hover,
+      .active-t:hover{opacity:0.8;}
+      .active-i a,
+      .active-t{transition:all 0.3s ease;}
+      .link:hover { text-decoration:none !important; }
+      .cta-border:hover { border-bottom: 1px solid transparent !important; =
+}
+      .fadeimg {
+        transition: 0.3s!important;
+        opacity: 1!important;
+      }
+      .fadeimg:hover {
+        transition: 0.3s!important;
+        opacity: 0.8!important;
+      }
+      .cta { transition: 0.3s !important; }
+      a img{border:none; outline: none; text-decoration: none;}
+      b, strong{font-weight:700;}
+      p{margin:0;}
+      th{padding:0;}
+      table, td{mso-table-lspace:0; mso-table-rspace:0; border-spacing: 0; =
+border: 0;}
+      .ns span,
+      .ns a{color:inherit !important; text-decoration:none !important; bord=
+er:none !important;}
+
+      @media only screen and (max-width:375px) and (min-width:320px) {
+        .gmail-fix{min-width:320px !important;}
+      }
+      @media only screen and (max-width:414px) and (min-width:413px) {
+        .gmail-fix{min-width:413px !important;}
+      }
+
+      @media screen and (max-width: 800px) {
+        .w-100p{width:100%!important;}
+        .wi-100p img{width:100%!important;height:auto!important;}
+        .wi-33p img{width:33%!important;height:auto!important;}
+        .tflex{display:block!important;width:100%!important;}
+        .thold{display:table!important;width:100%!important;}
+        .trow{display:table-row!important;width:100%!important;}
+        .tfoot{display:table-footer-group!important;width:100%!important;}
+
+        .fs-18{font-size:18px!important;}
+        .fs-22{font-size:22px!important;}
+        .fs-32{font-size:32px!important;}
+        .lh-38{line-height: 38px!important;}
+        .lh-26{line-height: 26px!important;}
+
+        .pt-0{padding-top:0!important;}
+        .pt-24{padding-top:24px!important;}
+        .pt-40{padding-top:40px!important;}
+        .pt-60{padding-top:60px!important;}
+        .pt-70{padding-top:70px!important;}
+
+        .pb-0{padding-bottom:0!important;}
+        .pb-24{padding-bottom:24px!important;}
+        .pb-40{padding-bottom:40px!important;}
+        .pb-60{padding-bottom:50px!important;}
+        .pb-70{padding-bottom:70px!important;}
+
+        .pl-0{padding-left:0px!important;}
+        .pl-20{padding-left:20px!important;}
+        .pl-35{padding-left:35px!important;}
+
+        .pr-0{padding-right:0px!important;}
+        .pr-20{padding-right:20px!important;}
+        .pr-35{padding-right:35px!important;}
+
+        .plr-15{padding-left:15px!important;padding-right:15px!important;}
+        .plr-25{padding-left:25px!important;padding-right:25px!important;}
+
+        .ptb-24{padding-top:24px!important;padding-bottom:24px!important;}
+        .ptb-45{padding-top:45px!important;padding-bottom:45px!important;}
+        .ptb-60{padding-top:60px!important;padding-bottom:60px!important;}
+      }
+      /*]]>*/
+    </style>
+    <style type=3D"text/css">
+      /*<![CDATA[*/
+      @media (prefers-color-scheme: dark) {
+
+        /* Shows Dark Mode-Only Content, Like Images */
+        .dark-img {
+          display: block !important;
+          width: auto !important;
+          overflow: visible !important;
+          float: none !important;
+          max-height: inherit !important;
+          max-width: inherit !important;
+          line-height: auto !important;
+          margin-top: 0px !important;
+          visibility: inherit !important;
+        }
+
+        /* Hides Light Mode-Only Content, Like Images */
+        .light-img {
+          display: none;
+          display: none !important;
+        }
+
+        /* Custom Dark Mode Background Color */
+        .darkmode {
+          background-color: #000000 !important;
+        }
+
+        /* Custom Dark Mode Font Colors */
+        h1, h2, h3, h4, h5, h6, p, ul, li {
+          color: #fdfdfd !important;
+        }
+        span {
+          color: #fdfdfd !important;
+        }
+        a {
+          color: #fdfdfd !important;
+        }
+
+
+        /* Custom Dark Mode Text Link Color */
+        .link { color: #ffffff !important;}
+        .footer a { color: #fdfdfd !important; }
+        .cta-border { color: #fdfdfd !important; border: 3px solid #fdfdfd =
+!important; }
+        .cta-border span { color: #7EABCE !important; }
+        .btn-black { background-color: #fdfdfd !important; color: #000000 !=
+important; border: 3px solid #fdfdfd !important; border-radius: 5px !import=
+ant; mso-color: #000000 !important; mso-border: 3px solid #fdfdfd !importan=
+t; mso-border-radius: 5px !important;}
+        .btn-white { background-color: #fdfdfd !important; color: #000000 !=
+important; border: 3px solid #fdfdfd !important; border-radius: 5px !import=
+ant; mso-color: #000000!important; mso-border: 3px solid #fdfdfd !important=
+; mso-border-radius: 5px !important;}
+        .btn-white2 { background-color: #000000 !important; color: #ffffff =
+!important; border: 3px solid #fdfdfd !important; border-radius: 5px !impor=
+tant; mso-color: #ffffff !important; mso-border: 3px solid #fdfdfd !importa=
+nt; mso-border-radius: 5px !important; }
+      }
+
+      /* Copy dark mode styles for android support */
+      /* Shows Dark Mode-Only Content, Like Images */
+      [data-ogsc] .dark-img {
+        display: block !important;
+        width: auto !important;
+        overflow: visible !important;
+        float: none !important;
+        max-height: inherit !important;
+        max-width: inherit !important;
+        line-height: auto !important;
+        margin-top: 0px !important;
+        visibility: inherit !important;
+      }
+
+      /* Hides Light Mode-Only Content, Like Images */
+      [data-ogsc] .light-img {
+        display: none;
+        display: none !important;
+      }
+
+      /* Custom Dark Mode Background Color */
+      [data-ogsc] .darkmode {
+        background-color: #000000 !important;
+      }
+
+      [data-ogsc] .darkmode2, [data-ogsc] .callout {
+        background-color: #1c1c1c !important;
+      }
+
+      /* Custom Dark Mode Font Colors */
+      [data-ogsc] h1, [data-ogsc] h2, [data-ogsc] h3, [data-ogsc] h4, [data=
+-ogsc] h5, [data-ogsc] h6, [data-ogsc] p, [data-ogsc] li, [data-ogsc] ul {
+        color: #fdfdfd !important;
+      }
+      [data-ogsc] span {
+        color: #000000 !important;
+      }
+      [data-ogsc] a {
+        color: #000000 !important;
+      }
+
+      /* Custom Dark Mode Text Link Color */
+      [data-ogsc] .link { color: #ffffff !important;}
+      [data-ogsc] .btn-link { color: #ffffff !important; text-decoration: n=
+one !important;}
+      [data-ogsc] .footer a { color: #fdfdfd !important; }
+      [data-ogsc] .cta-border { color: #7EABCE !important; border-bottom: 3=
+px solid #7EABCE !important; }
+      [data-ogsc] .cta-border span { color: #7EABCE !important; }
+      [data-ogsc] .btn-black { background-color: #fdfdfd !important; color:=
+ #000000 !important; border: 3px solid #fdfdfd !important; border-radius: 5=
+px !important; mso-background-color-alt: #fdfdfd !important; mso-color-alt:=
+ #000000 !important; mso-border-alt: 3px solid #fdfdfd !important; mso-bord=
+er-radius-alt: 5px !important;}
+      [data-ogsc] .btn-white { background-color: #fdfdfd !important; color:=
+ #000000 !important; border: 3px solid #fdfdfd !important; border-radius: 5=
+px !important; mso-background-color-alt: #fdfdfd !important; mso-color-alt:=
+ #000000!important; mso-border-alt: 3px solid #fdfdfd !important; mso-borde=
+r-radius-alt: 5px !important;}
+      [data-ogsc] .btn-white2 { background-color: #000000 !important; color=
+: #ffffff !important; border: 3px solid #fdfdfd !important; border-radius: =
+5px !important; mso-color-alt: #ffffff !important; mso-border-alt: 3px soli=
+d #fdfdfd !important; mso-border-radius-alt: 5px !important; mso-background=
+-color-alt: #000000 !important;}
+      /*]]>*/
+    </style>
+  </head>
+  <!--target dark mode-->
+  <!-- Allow for better image rendering on Windows hi-DPI displays. -->
+  <!--[if mso]>
+    <noscript>
+      <xml>
+        <o:OfficeDocumentSettings>
+        <o:AllowPNG/>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+    </noscript>
+  <![endif]-->
+  <!--to support dark mode meta tags-->
+  <!--[if (gte mso 9)|(IE)]>
+    <!-->
+      <!--<![endif]-->
+      <!--mobile styles-->
+      <!--mobile styles-->
+      <!--dark mode styles-->
+      <!--dark mode styles-->
+      <!--[if gte mso 9]>
+    <style>
+    sup { font-size: 60% !important; }
+    </style>
+  <![endif]-->
+  <body id=3D"body" class=3D"darkmode" bgcolor=3D"#FFFFFF" style=3D"backgro=
+und-color:#ffffff;  margin: 0; padding: 0; -webkit-text-size-adjust:100%; -=
+ms-text-size-adjust:100%;">
+  <div style=3D"display: none; font-size: 1px; color: #fff; line-height: 1p=
+x; font-family: 'Whyte', Arial, Helvetica, sans-serif; max-height: 0px; max=
+-width: 0px; opacity: 0; overflow: hidden;">
+    Please verify your email address to start using Figma.  &nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+
+  </div>
+  <table align=3D"center" class=3D"darkmode gmail-fix" width=3D"100%" style=
+=3D"background: #fff; min-width: 320px;" cellspacing=3D"0" cellpadding=3D"0=
+">
+    <!-- section -->
+    <tbody>
+      <tr>
+        <td>
+          <table class=3D"w-100p darkmode" width=3D"650" align=3D"center" s=
+tyle=3D"max-width: 650px; margin: 0 auto;" cellpadding=3D"0" cellspacing=3D=
+"0">
+            <tbody>
+              <tr>
+                <td align=3D"left" class=3D"pb-32 darkmode" style=3D"paddin=
+g: 28px 24px 24px;">
+                  <a style=3D"text-decoration: none;" href=3D"https://figma=
+.com?utm_source=3Dfigma&amp;utm_medium=3Demail&amp;utm_content=3Dlogo"> <im=
+g class=3D"light-img" src=3D"https://static.figma.com/uploads/fd222b164c8e5=
+d3814c3cfb3476d3a32ed159390" width=3D"65" style=3D"width: 65px; max-width: =
+65px; font-size:22px; font-family: 'Whyte', Arial, Helvetica, sans-serif; v=
+ertical-align: top; line-height: 24px; background-color: #ffffff; color: #0=
+00000; text-align: center;" alt=3D"Figma" />
+                    <!--[if !mso]>
+                    <! -->
+                    <div class=3D"dark-img" style=3D"display:none; overflow=
+:hidden; float:left; width:0px; max-height:0px; max-width:0px; line-height:=
+0px; visibility:hidden;" align=3D"left">
+                      <img src=3D"https://static.figma.com/uploads/c2698d9a=
+70dc8fe5ec7bc50d0141f831bf2ab2df" width=3D"65" style=3D"width: 65px; max-wi=
+dth: 65px; font-size: 22px; font-family: 'Whyte', Arial, Helvetica, sans-se=
+rif; vertical-align: top; line-height: 24px; background-color: #ffffff; col=
+or: #000000; text-align: center;" alt=3D"Figma" />
+                    </div>
+                    <!--<![endif]-->
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td class=3D"pb-60 darkmode" style=3D"padding: 0 10px 60px;=
+">
+                  <table align=3D"center" class=3D"w-100p darkmode" width=
+=3D"550" style=3D"max-width: 550px; margin: 0 auto;" cellpadding=3D"0" cell=
+spacing=3D"0">
+                    <tbody>
+                      <tr>
+                        <td align=3D"center" class=3D"darkmode" style=3D"fo=
+nt-size: 24px; line-height: 32px; font-weight: normal; font-family:'Whyte',=
+ Arial, Helvetica, sans-serif; color:#000; padding:30px 20px 30px; text-ali=
+gn: center;">
+                          <p style=3D"font-size: 24px; line-height: 32px; f=
+ont-weight: normal; font-family:'Whyte', Arial, Helvetica, sans-serif; colo=
+r:#000; font-weight: normal; margin: 0; padding-bottom: 0px;"><strong>Verif=
+y your email address</strong></p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align=3D"center" class=3D"darkmode" style=3D"fo=
+nt-size: 18px; line-height: 24px; font-weight: normal; font-family:'Whyte',=
+ Arial, Helvetica, sans-serif; color:#000; padding:0px 20px 30px; text-alig=
+n: center;">
+                          <p style=3D"font-size: 18px; line-height: 24px; f=
+ont-weight: normal; font-family:'Whyte', Arial, Helvetica, sans-serif; colo=
+r:#000; font-weight: normal; margin: 0; padding-bottom: 0px; text-align: ce=
+nter"> To start using Figma, just click the <strong>verify email</strong> b=
+utton below:</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class=3D"pb-60 darkmode" align=3D"center" style=
+=3D"padding: 30px 0 60px;">
+                          <table align=3D"center" style=3D"margin: 0 auto;"=
+ cellpadding=3D"0" cellspacing=3D"0">
+                            <tbody>
+                              <tr>
+                                <td class=3D"active-t darkmode btn-white2" =
+align=3D"center" style=3D"mso-padding-alt:12px 27px; background-color:#ffff=
+ff; font-weight:bold; font-size: 18px; line-height: 22px; font-family:'Whyt=
+e', Helvetica, Arial, sans-serif; border:3px solid #000000; border-radius:5=
+px;">
+                                  <a class=3D"link" style=3D"padding: 12px =
+27px; color: #000000; text-decoration: none; display: block;" href=3D"https=
+://www.figma.com/email/validate/stv2-1171297082038521031-40c15805087d1bd16b=
+164490c24ea8da65ed8a38d092a0a5e6f2c51eb42f5831-1667793386">Verify email</a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align=3D"center" class=3D"darkmode" style=3D"fo=
+nt-size: 14px; line-height: 18px; font-weight: normal; font-family:'Whyte',=
+ Arial, Helvetica, sans-serif; color:#000; padding:0px 20px 0px; text-align=
+: center;">
+                          <p style=3D"font-size: 14px; line-height: 24px; f=
+ont-weight: normal; font-family:'Whyte', Arial, Helvetica, sans-serif; colo=
+r:#000; font-weight: normal; margin: 0; padding-bottom: 0px; text-align: ce=
+nter"> Questions about Figma? Check out our <a class=3D"link" href=3D"https=
+://help.figma.com/?utm_source=3Dfigma&amp;utm_medium=3Demail" style=3D"colo=
+r:#000;text-decoration:underline;font-weight:normal;font-size:14px;">Help C=
+enter</a>.</p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <!-- Footer -->
+              <tr>
+  <td>
+    <table class=3D"w-100p darkmode" width=3D"540" align=3D"center" style=
+=3D"max-width: 540px; margin: 0 auto;" cellpadding=3D"0" cellspacing=3D"0">
+      <tbody>
+        <tr>
+          <td class=3D"pt-60 darkmode" align=3D"center" style=3D"border-top=
+: 1px solid #DEDEDE; color: #a5a5a5; font-size: 14px; line-height: 18px; fo=
+nt-family: 'Whyte', Arial, Helvetica, sans-serif; text-align: center; paddi=
+ng: 60px 24px 32px;">Figma is a design platform for teams who build product=
+s together. Born on the Web, Figma helps the entire product team create, te=
+st, and ship better designs, faster.</td>
+        </tr>
+      </tbody>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td class=3D"" align=3D"center" style=3D"padding: 10px 24px 46px;">
+    <table width=3D"300" style=3D"max-width: 300px; margin: 0 auto;" cellpa=
+dding=3D"0" cellspacing=3D"0" align=3D"center">
+      <tbody>
+        <tr>
+          <td class=3D"active-i" style=3D"line-height: 1px; font-size: 1px;=
+ mso-line-height-rule: at-least;"><a style=3D"text-decoration: none;" href=
+=3D"https://figma.com/@figma"><img src=3D"https://static.figma.com/uploads/=
+362dad2073b1e974b85e78019adb0badc946df74" width=3D"30" style=3D"width: 30px=
+; max-width: 30px; font-size: 10px; line-height: 12px; font-family: 'Whyte'=
+, Arial, Helvetica, sans-serif; color: #000;
+            background-color: #fff; vertical-align: top; text-align: center=
+; border-radius: 50%;" alt=3D"figma" /></a></td>
+          <td width=3D"30" style=3D"font-size: 1px; line-height: 1px;"></td=
+>
+          <td class=3D"active-i" style=3D"line-height: 1px; font-size: 1px;=
+ mso-line-height-rule: at-least;"><a style=3D"text-decoration: none;" href=
+=3D"https://twitter.com/figma"><img src=3D"https://static.figma.com/uploads=
+/216212e7916d3148bdb7ed6dd87240106d782065" width=3D"30" style=3D"width: 30p=
+x; max-width: 30px; font-size: 10px; line-height: 12px; font-family: 'Whyte=
+', Arial, Helvetica, sans-serif; color:
+            #000; background-color: #fff; vertical-align: top; text-align: =
+center; border-radius: 50%" alt=3D"twitter" /></a></td>
+          <td width=3D"30" style=3D"font-size: 1px; line-height: 1px;"></td=
+>
+          <td class=3D"active-i" style=3D"line-height: 1px; font-size: 1px;=
+ mso-line-height-rule: at-least;"><a style=3D"text-decoration: none;" href=
+=3D"https://www.instagram.com/figma/"><img src=3D"https://static.figma.com/=
+uploads/af11eaaadaa6376b958648d273b63d7126441af9" width=3D"30" style=3D"wid=
+th: 30px; max-width: 30px; font-size: 10px; line-height: 12px; font-family:=
+ 'Whyte', Arial, Helvetica, sans-serif; color:
+            #000; background-color: #fff; vertical-align: top; text-align: =
+center; border-radius: 50%" alt=3D"instagram" /></a></td>
+          <td width=3D"30" style=3D"font-size: 1px; line-height: 1px;"></td=
+>
+          <td class=3D"active-i" style=3D"line-height: 1px; font-size: 1px;=
+ mso-line-height-rule: at-least;"><a style=3D"text-decoration: none;" href=
+=3D"https://www.facebook.com/figmadesign"><img src=3D"https://static.figma.=
+com/uploads/b75a7245bc497aaf501164d4cf61303096a261a5" width=3D"30" style=3D=
+"width: 30px; max-width: 30px; font-size: 10px; line-height: 12px; font-fam=
+ily: 'Whyte', Arial, Helvetica, sans-serif;
+            color: #000; background-color: #fff; vertical-align: top; text-=
+align: center; border-radius: 50%" alt=3D"facebook" /></a></td>
+          <td width=3D"30" style=3D"font-size: 1px; line-height: 1px;"></td=
+>
+          <td class=3D"active-i" style=3D"line-height: 1px; font-size: 1px;=
+ mso-line-height-rule: at-least;"><a style=3D"text-decoration: none;" href=
+=3D"https://www.linkedin.com/company/figma"><img src=3D"https://static.figm=
+a.com/uploads/3b79f70df0d97bdb6560e64b2a05d97f8af4b29a" width=3D"30" style=
+=3D"width: 30px; max-width: 30px; font-size: 10px; line-height: 12px; font-=
+family: 'Whyte', Arial, Helvetica, sans-serif;
+            color: #000; background-color: #fff; vertical-align: top; text-=
+align: center; border-radius: 50%" alt=3D"linkedin" /></a></td>
+          <td width=3D"30" style=3D"font-size: 1px; line-height: 1px;"></td=
+>
+          <td class=3D"active-i" style=3D"line-height: 1px; font-size: 1px;=
+ mso-line-height-rule: at-least;"><a style=3D"text-decoration: none;" href=
+=3D"https://dribbble.com/figma"><img src=3D"https://static.figma.com/upload=
+s/8e1a4619a94fa5e42914cfcd974e4a3bd5e6d39c" width=3D"30" style=3D"width: 30=
+px; max-width: 30px; font-size: 10px; line-height: 12px; font-family: 'Whyt=
+e', Arial, Helvetica, sans-serif; color: #000;
+            background-color: #fff; vertical-align: top; text-align: center=
+; border-radius: 50%" alt=3D"dribble" /></a></td>
+        </tr>
+      </tbody>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td align=3D"center" style=3D"font-size: 12px; line-height: 17px; font-fa=
+mily: 'Whyte', Arial, Helvetica, sans-serif; color: #a5a5a5; padding: 0 0 3=
+2px;">760 Market Street, Floor 10<br />
+    San Francisco, CA, 94102</td>
+</tr>
+
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+
+</html>
+
+--d0f190d0453817e7731afae6d82f8413d00eaa9e9d1ff26ac8d9273847f1--

@@ -1,0 +1,131 @@
+Return-Path: <bounces.inv_o+6359008ea43f7400857721f0+62e38f6035cf197b8734b85e@spemail.trello.com>
+Delivered-To: pratama.aji@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id QHvvIr8AWWO7RQAAUtWGkQ
+	(envelope-from <bounces.inv_o+6359008ea43f7400857721f0+62e38f6035cf197b8734b85e@spemail.trello.com>)
+	for <pratama.aji@belajarblockchain.com>; Wed, 26 Oct 2022 16:41:19 +0700
+Return-path: <bounces.inv_o+6359008ea43f7400857721f0+62e38f6035cf197b8734b85e@spemail.trello.com>
+Envelope-to: pratama.aji@belajarblockchain.com
+Delivery-date: Wed, 26 Oct 2022 16:41:19 +0700
+Received: from mta-81-122.sparkpostmail.com ([192.174.81.122]:22828)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <bounces.inv_o+6359008ea43f7400857721f0+62e38f6035cf197b8734b85e@spemail.trello.com>)
+	id 1oncuS-000859-Dq
+	for pratama.aji@belajarblockchain.com;
+	Wed, 26 Oct 2022 16:41:19 +0700
+X-MSFBL: lu4Q5d14nQVCyYmMud7M9cbH58dSedCI3Fr6wMQQ4jQ=|eyJtZXNzYWdlX2lkIjo
+	iNjM0ZThmMDA1OTYzZDk2ZDk0OGIiLCJzdWJhY2NvdW50X2lkIjoiMyIsInIiOiJ
+	wcmF0YW1hLmFqaUBiZWxhamFyYmxvY2tjaGFpbi5jb20iLCJ0ZW5hbnRfaWQiOiJ
+	hdGxhc3NpYW51cyIsImN1c3RvbWVyX2lkIjoiMSJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=trello.com;
+	s=atl201708; t=1666777231; i=@trello.com;
+	bh=lW/Tc8+zgqohTTyGpk/0ghns1OAq7CWpkVaZ9lORh6I=;
+	h=Content-Type:From:To:Subject:Message-ID:Date:From:To:Cc:Subject;
+	b=XiNxT8ozlHt8TqLFm9Xs8Kn6CNmN/RwGvffFLr/sVp0D8FRmMQBgtcXt5zda5ZZZS
+	 PsWBqQKVdznT9vqpkHYdt3WK8WVnic7FNEMSguCHeF8vDL/WNoq4hKXUErmsR64i+T
+	 vjucitZjICEHphGOxe+Mg+bmHsNrcN8a8I8WzyMw=
+Authentication-Results:  gb.mta2vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (LOGIN)
+Received: from [107.23.104.115] ([107.23.104.115:51636] helo=mailrelay8.prod.trello.local)
+	by gb.mta2vsmtp.cc.prd.sparkpost (envelope-from <bounces.inv_o+6359008ea43f7400857721f0+62e38f6035cf197b8734b85e@spemail.trello.com>)
+	(ecelerity 4.4.0.17997 r(msys-ecelerity:tags/4.4.0.43)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 49/B8-11787-F8009536; Wed, 26 Oct 2022 09:40:31 +0000
+Content-Type: multipart/alternative;
+ boundary="--_NmP-0ef966df6c3e31e2-Part_1"
+Sender: Trello <do-not-reply@trello.com>
+X-Auto-Response-Suppress: All
+X-Atl-Mail-Meta: template=invite_organization
+Atlassianmail-Dir-Open-Tracking: true
+From: Dea Saka Kurnia Putra <invitation-do-not-reply@trello.com>
+To: pratama.aji@belajarblockchain.com
+Subject: Dea Saka Kurnia Putra invited you to a Trello Workspace
+Message-ID: <16667772305130d8b6774@trello.com>
+Date: Wed, 26 Oct 2022 09:40:30 +0000
+MIME-Version: 1.0
+X-Spam-Status: No, score=-8.2
+X-Spam-Score: -81
+X-Spam-Bar: --------
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hey there! Dea Saka Kurnia Putra from BelajarBlockchain<span>.</span>com
+    has invited you to their Workspace on Trello<span>.</span> Join the Workspace
+    https://id.atlassian.com/login?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%252Forg%252F63569ae928510e00d80c10ea%26display%3D%26
+    [...] 
+ Content analysis details:   (-8.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: amazonaws.com]
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             welcome-list
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.5 DKIMWL_WL_HIGH         DKIMwl.org - High trust sender
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+----_NmP-0ef966df6c3e31e2-Part_1
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="utf-8"
+
+ Hey there! Dea Saka Kurnia Putra from BelajarBlockchain<span>.</span>com has invited you to their Workspace on Trello<span>.</span>
+
+---------------------------------------
+
+Join the Workspace https://id.atlassian.com/login?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%252Forg%252F63569ae928510e00d80c10ea%26display%3D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D%26ssoVerified%3D&email=pratama.aji%40belajarblockchain.com&restrict=true
+
+---------------------------------------
+
+Trello boards help you put your plans into action and achieve your goals. Learn more at http://trello.com 
+
+---------------------------------------
+
+Join this Trello Workspace to start collaborating with me! 
+----_NmP-0ef966df6c3e31e2-Part_1
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="utf-8"
+
+<html> <body> <table cellspacing="0" cellpadding="0" border="0" style="color: #172B4D; background: #fff; padding: 0; margin: 0; width: 100%; font: 15px 'Helvetica Neue', Arial, Helvetica;"> <tbody><tr width="100%"> <td valign="top" align="left" style="background: #fff; font: 15px 'Helvetica Neue', Arial, Helvetica;"> <table style="border: none; padding: 0 18px; margin: 50px auto; width: 500px; border-spacing: 0px;"> <tbody>
+
+ <tr width="100%" height="57"> <td valign="top" align="left" style="border-top-left-radius: 4px; border-top-right-radius: 4px; background: #FFF; padding: 12px 18px; text-align: center;">
+
+ <img height="25" width="122" src="https://trello.com/images/logo-new-sm-2x.png" title="Trello" style="font-weight: bold; font-size: 18px; color: #0079BF; vertical-align: top;"> </td> </tr>
+
+ <tr style="width:100%;"> <td valign="top" align="left" style="background:#fff; padding: 18px;">
+
+ <p style="color: #172B4D;font: 14px/1.25em 'Helvetica Neue', Arial, Helvetica; font-weight:bold; line-height:20px; text-align:center; padding-left: 56px; padding-right:56px;">
+
+ Hey there! Dea Saka Kurnia Putra from BelajarBlockchain<span>.</span>com has invited you to their Workspace on Trello<span>.</span> </p>
+
+ <div width="100%" style="overflow: visible; height: 24px;" align="center"> <img class="trello-member-avatar" style="border-radius: 50%; vertical-align: bottom; object-fit: cover;" width="48" height="48" src="https://trello-members.s3.amazonaws.com/62e38f6035cf197b8734b85e/90d952c7df1f4a78c4e322091cca04c0/170.png"> </div>
+
+ <div style="background: #fff; border: solid 1px #C1C7D0; margin-left: 56px; margin-right: 56px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;"> <p style="color: #172B4D; line-height:20px; text-align:center; margin:0; font-style: italic; padding-left: 24px; padding-right:24px; padding-top: 32px; padding-bottom:17px;"> "Join this Trello Workspace to start collaborating with me!" </p> </div>
+
+ <p style="font: 15px/1.25em 'Helvetica Neue', Arial, Helvetica; margin-bottom: 0; text-align: center;"> <a href="https://id.atlassian.com/login?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%252Forg%252F63569ae928510e00d80c10ea%26display%3D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D%26ssoVerified%3D&email=pratama.aji%40belajarblockchain.com&restrict=true" style="border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; background: #5AAC44; color: #fff; cursor: pointer; display: block; font-weight: 600; font-size: 20px; line-height: 24px; margin: 32px auto 24px; padding: 11px 13px; text-decoration: none; width: 152px;"> Join the Workspace </a> </p>
+
+ <p style="font: 14px/1.25em 'Helvetica Neue', Arial, Helvetica; color: #838C91; text-align: center; padding-left: 56px; padding-right: 56px; padding-bottom: 8px;"> Trello boards help you put your plans into action and achieve your goals. <a href="http://trello.com" style="color: #0079BF;text-decoration: none;">Learn more</a> </p>
+
+ </td> </tr>
+
+ </tbody> </table> </td> </tr> </tbody> </table> 
+<img border="0" width="1" height="1" alt="" src="http://sptrack.trello.com/q/V5SJzhnTfTjJYkwtIiUheQ~~/AAAAAQA~/RgRlOjQPPlcLYXRsYXNzaWFudXNCCmNOjwBZY9ltlItSIXByYXRhbWEuYWppQGJlbGFqYXJibG9ja2NoYWluLmNvbVgEAAAAAw~~">
+</body> </html>
+
+
+----_NmP-0ef966df6c3e31e2-Part_1--

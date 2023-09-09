@@ -1,0 +1,191 @@
+Return-Path: <shambhavi@letsdeel.co>
+Delivered-To: dea.saka@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id yFUfJ5gb2mMuwgEAUtWGkQ
+	(envelope-from <shambhavi@letsdeel.co>)
+	for <dea.saka@belajarblockchain.com>; Wed, 01 Feb 2023 14:58:16 +0700
+Return-path: <shambhavi@letsdeel.co>
+Envelope-to: dea.saka@belajarblockchain.com
+Delivery-date: Wed, 01 Feb 2023 14:58:16 +0700
+Received: from mail-vs1-xe32.google.com ([2607:f8b0:4864:20::e32]:43856)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <shambhavi@letsdeel.co>)
+	id 1pN80T-000MzL-Ke
+	for dea.saka@belajarblockchain.com;
+	Wed, 01 Feb 2023 14:58:16 +0700
+Received: by mail-vs1-xe32.google.com with SMTP id 187so18716400vsv.10
+        for <dea.saka@belajarblockchain.com>; Tue, 31 Jan 2023 23:57:51 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=letsdeel-co.20210112.gappssmtp.com; s=20210112;
+        h=to:subject:message-id:date:mime-version:from:user-agent:from:to:cc
+         :subject:date:message-id:reply-to;
+        bh=wV1XovNZuONfnmfdDbAd04X3Pt87sxCHDN7J0Aaa7NE=;
+        b=XWFDz9iJHxLSk7zJWdVHIq4jZl69sfNYGGW0TY3i6kV17yAlXXXwbt6+nCNGYO5C5m
+         CpcOx8VuxOI0JMvmHKS+62KhAfQ4zwCYIzk0xEvroq08vcI+fPRqgD9ULeHrzQhGxMou
+         US5nO+gBkBXTIxgZn0/PE2rNJ4lP7GEH9S+5PRswLCBIu6jQjE6aWnRcfp+ftQwA+TCs
+         SkKkTnnLbR/g3BNl52U8q68qefwMxhL/K/xN7QqM8ZF846+PnpolzK0GVA93gf7jL3km
+         LTVXYTwkspDG5Lex14G3OHse2OtMtrN4xhaKZSialCuwlEtnBpYlPvFNkV2SJES/G8K9
+         qJrA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:mime-version:from:user-agent
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=wV1XovNZuONfnmfdDbAd04X3Pt87sxCHDN7J0Aaa7NE=;
+        b=nnnQgnTVV/1epvv9cw8eeLB5ZN0Sihx4oJhioevcBjIoR/ILlm1+EUEAlyzaMQZ2oR
+         pQKwRFEiPsGTq2UfXD9/+ln1oEEBwx0UgxzcW2x6lBh7eP9Vs7bDHmNj4WPa5SWfQ/O+
+         fO1TPnpQXoeDYczMiBBBRh53IQQ18+7vNzHhasCSTV/yestW9fA5IU+QlwQJVFy729jC
+         ndMz0RqUVqSEq5uiGORefNz5BhHtCjxlOzX1EcWq01eXjws/c+5kHbn/DqBk9XItfUux
+         Zc5HYo95iZenYUTr0unYc1RZISFkz+s4mx7ATsPJV47m+NjqNyar41H293m4p+QhjR1h
+         3vpA==
+X-Gm-Message-State: AO0yUKU4mR1nier78W8eJ6roKhpEEw3HCUTKpx2cykj7YZdDdtNSjh2j
+	KUrHX3fO7iLlp9+c9Pof4jLEiW4/J5O+g7Boo0PDccFPukVf4g==
+X-Google-Smtp-Source: AK7set85yQXQFLhJr48SDMk9uL1lQJqPMy5w7DC7gDPlLdo6BHmhMwhzVrijEWBd8AmhrBPsfy9+SOQX3XejggDOdeo=
+X-Received: by 2002:a67:eb4c:0:b0:3fc:bb53:751a with SMTP id
+ x12-20020a67eb4c000000b003fcbb53751amr279404vso.54.1675238248696; Tue, 31 Jan
+ 2023 23:57:28 -0800 (PST)
+Received: from 341605307468 named unknown by gmailapi.google.com with
+ HTTPREST; Wed, 1 Feb 2023 07:57:28 +0000
+Received: from 71.3.239.35.bc.googleusercontent.com (71.3.239.35.bc.googleusercontent.com
+ [35.239.3.71]) by api.nylas.com (Nylas) with HTTPREST id 985m0o49bjeqsjabk05ei0te5-0;
+ Wed, 01 Feb 2023 07:57:27 +0000 (UTC)
+User-Agent: Nylas-Amplemarket/18.1.0
+X-Inbox-Id: 985m0o49bjeqsjabk05ei0te5-0
+From: Shambhavi Swarup <shambhavi@letsdeel.co>
+Mime-Version: 1.0
+Date: Wed, 1 Feb 2023 07:57:28 +0000
+Message-ID: <CA+--Cq+42Tu1Wq2Hi9n9gFCbPxnRWUm_dXrjc3Ts9TmMjG3=MQ@mail.gmail.com>
+Subject: Belajar Blockchain <> Deel : Go Global at Rocket Speed
+To: dea.saka@belajarblockchain.com
+Content-Type: multipart/alternative; boundary="000000000000ba61cd05f39eccc3"
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi Dea - I found you on LinkedIn while I came across Belajar
+    Blockchain. I noticed that you're looking to hire people in Indonesia and
+    I wanted to know if you've considered to have teams working for y [...] 
+ Content analysis details:   (0.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: letsdeel.co]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_IMAGE_ONLY_32     BODY: HTML: images with 2800-3200 bytes of
+                             words
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+--000000000000ba61cd05f39eccc3
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Dea - I found you on LinkedIn while I came across Belajar Blockchain. I
+noticed that you're looking to hire people in Indonesia and I wanted to
+know if you've considered to have teams working for you overseas?
+
+I'm an ASEAN Expansion expert at Deel and would love to introduce how we
+can help your business growth whilst saving time and money, both.
+
+To render a quick info, Deel is a [dashboard](https://www.deel.com/) acting
+as an interface between you and teams working for you overseas.
+
+It enables you to onboard even 1 person as a contractor or a full-time
+employee within a day, in over 150+ countries while we handle KYC checks,
+country compliant contracts and pay in 120+ currencies.
+
+To quote from recent experience, teams with even 2-3 employees to 170+
+started with onboarding even 1 as a full-time employee or contractor- on
+fixed monthly/ hourly & project-basis, working for them.
+
+The reason?
+
+- They wanted to experiment the global market while having productivity (in
+Tech, Sales, Consulting..) round the clock.
+
+- saved 60-70% cost on experiments and expansion to reach global without
+setting up an entity
+
+- risk of getting in any trouble around legal or labor laws- compliant
+contracts, local taxes, scope of work, probation time, termination, to name
+a few.
+
+How did it work?
+
+They just made 1 payment to Deel every month and we managed the payroll on
+their behalf, even with tax invoices automated for each person onboarded
+through us.
+
+Bottom line- you and your team can onboard and pay candidates anywhere in
+just a few minutes, even if you do not have an entity in a region.
+
+I was thinking if this aligns with your business growth plans and might we
+have a discussion?
+
+Thanks and Regards,
+*Shambhavi Swarup*
+Expansion| ASEAN @ Deel
+Payroll and compliance for remote teams
++91 9899206187|
+
+--000000000000ba61cd05f39eccc3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div><span style=3D"color:rgb(24,24,24)">Hi Dea - I found you on LinkedIn w=
+hile I came across Belajar Blockchain. I noticed that you&#39;re looking to=
+ hire people in Indonesia and I wanted to know if you&#39;ve considered to =
+have teams working for you overseas?</span></div><div><br></div><div><span =
+style=3D"color:rgb(24,24,24)">I&#39;m an ASEAN Expansion expert at Deel and=
+ would love to introduce how we can help your business growth whilst saving=
+ time and money, both.</span></div><div><br></div><div>
+<span style=3D"color:rgb(24,24,24)">To render a quick info, Deel is a [dash=
+board](</span><a href=3D"https://www.deel.com/" rel=3D"noopener noreferrer"=
+ target=3D"_blank" style=3D"background-color:rgb(255,255,255)">https://www.=
+deel.com/</a><span style=3D"color:rgb(24,24,24)">) acting as an interface b=
+etween you and teams working for you overseas.</span>
+</div><div><br></div><div><span style=3D"color:rgb(24,24,24)">It enables yo=
+u to onboard even 1 person as a contractor or a full-time employee within a=
+ day, in over 150+ countries while we handle KYC checks, country compliant =
+contracts and pay in 120+ currencies.</span></div><div><br></div><div><span=
+ style=3D"color:rgb(24,24,24)">To quote from recent experience, teams with =
+even 2-3 employees to 170+ started with onboarding even 1 as a full-time em=
+ployee or contractor- on fixed monthly/ hourly &amp; project-basis, working=
+ for them.</span></div><div><br></div><div><span style=3D"color:rgb(24,24,2=
+4)">The reason?</span></div><div><br></div><div><span style=3D"color:rgb(24=
+,24,24)">- They wanted to experiment the global market while having product=
+ivity (in Tech, Sales, Consulting..) round the clock.</span></div><div><br>=
+</div><div><span style=3D"color:rgb(24,24,24)">- saved 60-70% cost on exper=
+iments and expansion to reach global without setting up an entity</span></d=
+iv><div><br></div><div><span style=3D"color:rgb(24,24,24)">- risk of gettin=
+g in any trouble around legal or labor laws- compliant contracts, local tax=
+es, scope of work, probation time, termination, to name a few.</span></div>=
+<div><br></div><div><span style=3D"color:rgb(24,24,24)">How did it work?</s=
+pan></div><div><br></div><div><span style=3D"color:rgb(24,24,24)">They just=
+ made 1 payment to Deel every month and we managed the payroll on their beh=
+alf, even with tax invoices automated for each person onboarded through us.=
+</span></div><div><br></div><div><span style=3D"color:rgb(24,24,24)">Bottom=
+ line- you and your team can onboard and pay candidates anywhere in just a =
+few minutes, even if you do not have an entity in a region.</span></div><di=
+v><br></div><div><span style=3D"color:rgb(24,24,24)">I was thinking if this=
+ aligns with your business growth plans and might we have a discussion?</sp=
+an></div><br><div>Thanks and Regards,</div><div><strong>Shambhavi Swarup</s=
+trong></div><div><span style=3D"color:rgb(29,28,29);background-color:rgb(24=
+8,248,248)">Expansion| ASEAN @ Deel</span></div><div><span style=3D"color:r=
+gb(29,28,29);background-color:rgb(248,248,248)">Payroll and compliance for =
+remote teams</span><img src=3D"http://amplemarket_tracking.letsdeel.co/t/33=
+99/19798148"></div><div><span style=3D"color:rgb(29,28,29);background-color=
+:rgb(248,248,248)">+91 9899206187|</span></div>
+
+--000000000000ba61cd05f39eccc3--

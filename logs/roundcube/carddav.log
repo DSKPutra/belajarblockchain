@@ -1,0 +1,3 @@
+[26-Oct-2022 16:20:29 +0700]: <cb27afa0> [5 ERR] Database::get (SELECT "filename" FROM carddav_migrations) ERROR: [1] no such table: carddav_migrations 
+[26-Oct-2022 16:21:49 +0700]: <6adb2d61> [5 ERR] Database::get (SELECT "filename" FROM carddav_migrations) ERROR: [1] no such table: carddav_migrations 
+[26-Oct-2022 21:19:19 +0700]: <a90f05a4> [5 ERR] Database::get (SELECT "filename" FROM carddav_migrations) ERROR: [1] no such table: carddav_migrations 

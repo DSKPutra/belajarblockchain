@@ -1,0 +1,268 @@
+Return-Path: <bounces+23773710-daad-cs=belajarblockchain.com@em4578.joinpioneer.app>
+Delivered-To: cs@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id aV5qObWCl2M1mQAAUtWGkQ
+	(envelope-from <bounces+23773710-daad-cs=belajarblockchain.com@em4578.joinpioneer.app>)
+	for <cs@belajarblockchain.com>; Tue, 13 Dec 2022 02:36:21 +0700
+Return-path: <bounces+23773710-daad-cs=belajarblockchain.com@em4578.joinpioneer.app>
+Envelope-to: cs@belajarblockchain.com
+Delivery-date: Tue, 13 Dec 2022 02:36:21 +0700
+Received: from o2.ptr5693.joinpioneer.app ([149.72.67.117]:61056)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <bounces+23773710-daad-cs=belajarblockchain.com@em4578.joinpioneer.app>)
+	id 1p4ob1-00049u-4U
+	for cs@belajarblockchain.com;
+	Tue, 13 Dec 2022 02:36:21 +0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=joinpioneer.app;
+	h=content-type:mime-version:subject:from:references:in-reply-to:to:cc:
+	content-type:from:subject:to;
+	s=s1; bh=DPiDr+ltLUVs2WI8Rpz/pYxVwNm3eCT3hqWBro2cq7Y=;
+	b=KKTZkUyo0SC+wuLZwh8KgT/PbQ65z4ugfykGj/xDYv4enew0JQ/8QHImI5AY0LHMj1Sa
+	9v5NGAz9xmYmJRYGhx/CxlTeTu/z/zXEALJ05DyVhZUIiZvJ6EwfCJc0rioxTApqJvXEFg
+	pLOJ25h+B4qmXtTalZRuqpqXySrFE0WGkTNdw5Yg4rXibDDjq/yIlfopG6QRN9tro17lrc
+	GkNvQ/24e3xK51togZoRzVZOatpEtv8fmr5SGh3UEOQnYvVEPJIDWyxYs+j1BDiBAXGj+h
+	wddkDLOWN66ELikCxb73U6BQdgyao4lv1yHUHj076kBOMt4kkRJVa/O8I6JgmqOA==
+Received: by filterdrecv-75d55b8b7b-2vxp8 with SMTP id filterdrecv-75d55b8b7b-2vxp8-1-63978281-F
+        2022-12-12 19:35:29.170727234 +0000 UTC m=+2147390.161858274
+Received: from smtpgw.close.com (unknown)
+	by geopod-ismtpd-canary-0 (SG)
+	with ESMTP id pwmnYGVNT4Scfg0C3X6lrw
+	for <cs@belajarblockchain.com>;
+	Mon, 12 Dec 2022 19:35:29.110 +0000 (UTC)
+Content-Type: multipart/mixed; boundary="===============8530190482321720141=="
+MIME-Version: 1.0
+Subject: Re: Belajar Blockchain
+From: Rishi Narang <rishi@joinpioneer.app>
+Date: Mon, 12 Dec 2022 19:35:29 +0000 (UTC)
+Message-ID: <167087372896.38416.13887119411174219455@smtpgw.close.com>
+X-CLOSEIO-EMAIL-ID: acti_wFkYbUzTgDWKdJdv5zO934HEL9xLuoq6A8h9eZ27Lq0
+References: <167034903398.28624.3169197159564762653@smtpgw.close.com> <167051914863.88932.16288954971436136677@smtpgw.close.com>
+In-Reply-To: <167051914863.88932.16288954971436136677@smtpgw.close.com>
+X-SG-EID: 
+ =?us-ascii?Q?G6qnxdAQbKYHNzdDfDwSFlLU=2FCA5AHB6Gl4mebAQjcsc2z5liy1CH6ZKgAR36Z?=
+ =?us-ascii?Q?JNnJzixUYixBkgMKP=2FP5BMFSzytTqwQ1YahUy8m?=
+ =?us-ascii?Q?8x6yWrWgAmFDBIt=2Fit0Rscyb4KiMsPHxjvYRu7P?=
+ =?us-ascii?Q?2zNX6QbhreSq94aMdWdzd0nAy3neYZEfTAuPF11?=
+ =?us-ascii?Q?ci7PzuUO0Pd9ktYw8IQOu8ufqpv1UdNqdLa4seh?=
+ =?us-ascii?Q?YiIBKj0HwM9+oSzaR5O2NiJXdUkGLshdtSRaou?=
+To: cs@belajarblockchain.com
+X-Entity-ID: vwl6YJmuxH66eelQzURiug==
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Thought I'd reach out one last time! A few other links you
+    might find interesting...[](https://blog.roboflow.com/how-to-win-pioneer/)
+    [](https://blog.roboflow.com/how-to-win-pioneer/) \- [Pioneer Demo [...] 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: joinpioneer.app]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  0.0 UNPARSEABLE_RELAY      Informational: message has unparseable relay
+                             lines
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+--===============8530190482321720141==
+Content-Type: multipart/alternative; boundary="===============4193178814996979238=="
+MIME-Version: 1.0
+
+--===============4193178814996979238==
+Content-Type: text/plain; charset=utf-8
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Thought I'd reach out one last time! A few other links you might find
+interesting...[](https://blog.roboflow.com/how-to-win-pioneer/) =20
+[](https://blog.roboflow.com/how-to-win-pioneer/) =20
+\- [Pioneer Demo Livestream November
+2021](https://www.youtube.com/playlist?list=3DPLCvXYFpVaqCbFqa1onWzEMV7hx6P=
+Rg1tq),
+videos from our last online Demo Day =20
+\- [Atmos](https://techcrunch.com/2020/10/29/one-click-housing-startup-atmo=
+s-
+raises-another-4m-from-khosla-real-estate-strategics-and-tiktok-star-josh-
+richards/), [Verihubs](https://techcrunch.com/2021/09/27/indonesian-id-and-
+data-verification-startup-verihubs-gets-2-8m-led-by-insignia-venture-
+partners/), [Coinvise](https://coinvise.substack.com/p/coinvise-raises-25m-=
+to-
+build-a-social), [Iron
+Fish](https://ironfish.network/blog/2021/03/06/introducing-ironfish),
+[Flux](https://techcrunch.com/2021/03/22/these-undergraduates-left-universi=
+ty-
+to-build-flux-a-payments-startup-now-in-yc/), and many other seed rounds =20
+\- [How to Win Pioneer](https://blog.roboflow.com/how-to-win-pioneer/),
+written by Roboflow in Feb 2020 =20
+\- [Codex](https://pioneer.app/codex?t=3D1), a curated collection of the be=
+st
+startup advice =20
+ =20
+All of our companies started as side projects in [our
+tournament](https://pioneer.app/?t=3D1), which is free to play and open to
+anyone. Consider giving it a shot! =20
+ =20
+Good luck out there. =20
+ =20
+Rishi
+
+ =20
+Not interested? Feel free to
+[unsubscribe](https://www.pioneer.app/close_unsubscribes?email=3Dcs@belajar=
+blockchain.com&code=3D56b5cd5ada634cd7a25fcb81716bc080).
+
+ =20
+ =20
+On Dec 08, 2022, at 12:05 PM, Rishi Narang <rishi@joinpioneer.app> wrote: =20
+
+> Hey! Just checking in. Figured you might be wondering what exactly the
+> program entails. =20
+> =20
+> Selected founders get a $20k investment, go through a 3-month remote
+> accelerator, spend a month in San Francisco with fellow founders, get
+> mentored by top operators/investors, and [much
+> more](https://pioneer.app/?t=3D1). =20
+> =20
+> Apply by answering a few questions & submitting weekly progress updates.
+> You'll also get feedback on your product from the rest of the community. =
+=20
+> =20
+> Rishi
+>
+> =20
+> Not interested? Feel free to
+> [unsubscribe](https://www.pioneer.app/close_unsubscribes?email=3Dcs@belaj=
+arblockchain.com&code=3D56b5cd5ada634cd7a25fcb81716bc080).
+>
+> =20
+> =20
+> On Dec 06, 2022, at 12:50 PM, Rishi Narang <rishi@joinpioneer.app> wrote:=
+ =20
+>
+>
+
+>> Hi there!
+
+>>
+
+>> Rishi here from [Pioneer](https://pioneer.app/?t=3D1). We=E2=80=99re a n=
+etwork for
+early founders around the world. Thought you might find it useful for [Bela=
+jar
+Blockchain](http://belajarblockchain.com)! =20
+> =20
+> We=E2=80=99ve funded 130+ companies from 50+ countries who=E2=80=99ve col=
+lectively gone on
+> to raise over $100M from Sequoia, a16z, General Catalyst, Y Combinator,
+> Khosla Ventures, and many more. =20
+> =20
+> Would love to have you join. Consider giving it a go & let me know if you
+> have any questions! =20
+> =20
+> Best, =20
+> Rishi
+>>
+
+>> =20
+> Not interested? Feel free to
+> [unsubscribe](https://www.pioneer.app/close_unsubscribes?email=3Dcs@belaj=
+arblockchain.com&code=3D56b5cd5ada634cd7a25fcb81716bc080).
+--===============4193178814996979238==
+Content-Type: text/html; charset=utf-8
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Thought I'd reach out one last time! A few other links you m=
+ight find interesting...<a href=3D"https://blog.roboflow.com/how-to-win-pio=
+neer/" target=3D"_blank"></a><br><a href=3D"https://blog.roboflow.com/how-t=
+o-win-pioneer/" target=3D"_blank"></a><br>- <a href=3D"https://www.youtube.=
+com/playlist?list=3DPLCvXYFpVaqCbFqa1onWzEMV7hx6PRg1tq" rel=3D"noopener nor=
+eferrer" target=3D"_blank">Pioneer Demo Livestream November 2021</a>, video=
+s from our last online Demo Day<br>- <a href=3D"https://techcrunch.com/2020=
+/10/29/one-click-housing-startup-atmos-raises-another-4m-from-khosla-real-e=
+state-strategics-and-tiktok-star-josh-richards/" rel=3D"noopener noreferrer=
+" target=3D"_blank">Atmos</a>, <a href=3D"https://techcrunch.com/2021/09/27=
+/indonesian-id-and-data-verification-startup-verihubs-gets-2-8m-led-by-insi=
+gnia-venture-partners/" rel=3D"noopener noreferrer" target=3D"_blank">Verih=
+ubs</a>, <a href=3D"https://coinvise.substack.com/p/coinvise-raises-25m-to-=
+build-a-social" rel=3D"noopener noreferrer" target=3D"_blank">Coinvise</a>,=
+ <a href=3D"https://ironfish.network/blog/2021/03/06/introducing-ironfish" =
+rel=3D"noopener noreferrer" target=3D"_blank">Iron Fish</a>, <a href=3D"htt=
+ps://techcrunch.com/2021/03/22/these-undergraduates-left-university-to-buil=
+d-flux-a-payments-startup-now-in-yc/" rel=3D"noopener noreferrer" target=3D=
+"_blank">Flux</a>, and many other seed rounds<br>- <a href=3D"https://blog.=
+roboflow.com/how-to-win-pioneer/" target=3D"_blank">How to Win Pioneer</a>,=
+ written by Roboflow in Feb 2020<br>- <a href=3D"https://pioneer.app/codex?=
+t=3D1" rel=3D"noopener noreferrer" target=3D"_blank">Codex</a>, a curated c=
+ollection of the best startup advice<br><br>All of our companies started as=
+ side projects in <a href=3D"https://pioneer.app/?t=3D1" rel=3D"noopener no=
+referrer" target=3D"_blank">our tournament</a>, which is free to play and o=
+pen to anyone. Consider giving it a shot!<br><br>Good luck out there.<br><b=
+r>Rishi</p><p dir=3D"ltr" style=3D"line-height:16px; font-size:11px; color:=
+ #aaa; font-weight: normal;"><br>Not interested? Feel free to <a href=3D"ht=
+tps://www.pioneer.app/close_unsubscribes?email=3Dcs@belajarblockchain.com&c=
+ode=3D56b5cd5ada634cd7a25fcb81716bc080" rel=3D"noopener noreferrer" style=
+=3D"color: #aaa;" target=3D"_blank">unsubscribe</a>.</p><br><br>On Dec 08, =
+2022, at 12:05 PM, Rishi Narang &lt;rishi@joinpioneer.app&gt; wrote:<br><bl=
+ockquote type=3D"cite"><p dir=3D"ltr">Hey! Just checking in. Figured you mi=
+ght be wondering what exactly the program entails.<br><br>Selected founders=
+ get a $20k investment, go through a 3-month remote accelerator, spend a mo=
+nth in San Francisco with fellow founders, get mentored by top operators/in=
+vestors, and <a href=3D"https://pioneer.app/?t=3D1" rel=3D"noopener norefer=
+rer" target=3D"_blank">much more</a>.<br><br>Apply by answering a few quest=
+ions &amp; submitting weekly progress updates. You'll also get feedback on =
+your product from the rest of the community.<br><br>Rishi</p><p dir=3D"ltr"=
+ style=3D"line-height:16px; font-size:11px; color: #aaa; font-weight: norma=
+l;"><br>Not interested? Feel free to <a href=3D"https://www.pioneer.app/clo=
+se_unsubscribes?email=3Dcs@belajarblockchain.com&code=3D56b5cd5ada634cd7a25=
+fcb81716bc080" rel=3D"noopener noreferrer" style=3D"color: #aaa;" target=3D=
+"_blank">unsubscribe</a>.</p><br><br>On Dec 06, 2022, at 12:50 PM, Rishi Na=
+rang &lt;rishi@joinpioneer.app&gt; wrote:<br><blockquote type=3D"cite"><p d=
+ir=3D"ltr">Hi there!</p><p dir=3D"ltr">Rishi here from&nbsp;<a href=3D"http=
+s://pioneer.app/?t=3D1" rel=3D"noopener noreferrer noopener">Pioneer</a>. W=
+e=E2=80=99re a network for early founders around the world. Thought you mig=
+ht find it useful for&nbsp;<span class=3D"template-tag-highlight"></span><a=
+ href=3D"http://belajarblockchain.com" rel=3D"noopener noreferrer">Belajar =
+Blockchain</a><span class=3D"template-tag-highlight"></span>!<br><br>We=E2=
+=80=99ve funded 130+ companies from 50+ countries who=E2=80=99ve collective=
+ly gone on to raise over $100M from Sequoia, a16z, General Catalyst, Y Comb=
+inator, Khosla Ventures, and many more.<br><br>Would love to have you join.=
+ Consider giving it a go &amp; let me know if you have any questions!<br><b=
+r>Best,<br>Rishi</p><p dir=3D"ltr" style=3D"line-height:16px; font-size:11p=
+x; color: #aaa; font-weight: normal;"><br>Not interested? Feel free to <a h=
+ref=3D"https://www.pioneer.app/close_unsubscribes?email=3Dcs@belajarblockch=
+ain.com&code=3D56b5cd5ada634cd7a25fcb81716bc080" rel=3D"noopener noreferrer=
+" style=3D"color: #aaa;">unsubscribe</a>.</p></blockquote></blockquote><img=
+ src=3D"https://ml.closeml.com/t/wFkYbUzTgDWKdJdv5zO934HEL9xLuoq6A8h9eZ27Lq=
+0/hHpEPev1mp.png" alt=3D"" width=3D"1" height=3D"1" /><img src=3D"http://cl=
+ick.joinpioneer.app/wf/open?upn=3DkOiNUBIxgC-2FxQrISiAtCXVJxBvHU3k5jdssaSd8=
+ckFXC-2FPwVaRcEyykjkWeNjLfTdVB3XQQGhhS1dk2wZUul8tOYNCtSfygq52pllLaGlkSE3XOd=
+-2BKReT4ohYxZ1RMpJ7PnCE-2FwOl6gDh5EtbCySpYohdRpv0p-2FPu2mMMnc-2FnWw6xWoWCyD=
+jrFYUnYkpDox-2BN78YNMYkrU0o8QsKeyWUhBb9Rgt4QQNNzO5c2BW2Gtg-3D" alt=3D"" wid=
+th=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px=
+ !important;border-width:0 !important;margin-top:0 !important;margin-bottom=
+:0 !important;margin-right:0 !important;margin-left:0 !important;padding-to=
+p:0 !important;padding-bottom:0 !important;padding-right:0 !important;paddi=
+ng-left:0 !important;"/>
+--===============4193178814996979238==--
+
+--===============8530190482321720141==--

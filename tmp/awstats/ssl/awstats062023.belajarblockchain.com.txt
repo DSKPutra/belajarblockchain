@@ -1,0 +1,1102 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home/bely5175/tmp/awstats/ssl/awstats.belajarblockchain.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2700                
+POS_VISITOR 20134               
+POS_DAY 35135               
+POS_DOMAIN 3639                
+POS_LOGIN 4312                
+POS_ROBOT 4467                
+POS_WORMS 5470                
+POS_EMAILSENDER 5601                
+POS_EMAILRECEIVER 5744                
+POS_SESSION 36016               
+POS_SIDER 36229               
+POS_FILETYPES 5879                
+POS_DOWNLOADS 6144                
+POS_OS 6192                
+POS_BROWSER 6588                
+POS_SCREENSIZE 8550                
+POS_UNKNOWNREFERER 8624                
+POS_UNKNOWNREFERERBROWSER 9290                
+POS_ORIGIN 9831                
+POS_SEREFERRALS 9977                
+POS_PAGEREFS 10187               
+POS_SEARCHWORDS 10448               
+POS_KEYWORDS 10600               
+POS_MISC 2364                
+POS_ERRORS 10659               
+POS_CLUSTER 4168                
+POS_SIDER_404 10850               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230701000505 21 3880 11186293855180
+FirstTime 20230601004023
+LastTime 20230630221018
+LastUpdate 20230701193613 21 0 20 0 0
+TotalVisits 654                 
+TotalUnique 336                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 367                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 79 248 40347670 38 113 10048310
+1 48 50 987593 251 335 11924294
+2 107 326 34446266 59 146 11347328
+3 68 112 10281349 47 55 5448706
+4 97 181 11948375 66 227 29529957
+5 61 109 10049189 52 126 11270442
+6 37 85 10351787 16 45 499446
+7 52 142 20508631 31 68 1479817
+8 106 456 61598964 23 114 19234609
+9 74 160 20770181 33 148 19022540
+10 109 380 68300176 208 299 20627172
+11 82 381 70184454 19 53 882514
+12 94 353 60578695 28 81 9687596
+13 35 77 10255119 21 92 10256368
+14 89 488 86043786 118 231 16329438
+15 86 309 48734925 43 181 19978689
+16 25 66 10326749 157 182 1742481
+17 49 133 20149079 28 151 19885374
+18 83 217 30941861 29 65 950127
+19 110 188 20853667 26 56 252192
+20 85 183 20749822 130 257 20227478
+21 133 133 1634077 117 214 10114801
+22 115 319 41838323 139 204 9324397
+23 72 209 30516293 20 62 881086
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 30
+ip 1027 1610 148379178
+us 396 1118 150763955
+id 262 1874 328157851
+in 38 168 30353258
+cn 25 27 611128
+ru 21 21 1117504
+gb 18 18 438789
+de 16 59 10371514
+au 12 92 20070015
+se 10 51 10010723
+th 10 61 10091358
+vn 8 48 10112886
+ua 8 59 9295210
+hk 6 6 84846
+ao 5 44 9938256
+fr 5 5 860475
+ro 4 4 47986
+at 4 4 81423
+ph 3 3 558
+jp 3 3 48045
+ca 3 3 72068
+my 2 2 372
+pl 2 2 139574
+ge 2 2 3706
+ir 1 1 24019
+nl 1 1 0
+tr 1 1 24023
+eu 1 1 172095
+pe 1 1 20394
+nz 1 16 1105822
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+AhrefsBot/ 1519 209945133 20230630130138 66
+bingbot/ 163 2147165 20230630040959 24
+Googlebot/ 135 10865155 20230630003243 21
+Go\-http\-client/ 75 429401 20230630221019 0
+YandexBot/ 75 702246 20230627151050 46
+facebookexternalhit/ 43 10079531 20230630150252 0
+SemrushBot/ 38 236094 20230630162632 15
+no_user_agent 36 5854074 20230630034852 0
+unknown 24 2793 20230630094903 24
+DotBot/ 18 867292 20230611054943 5
+link 13 184176 20230626043811 1
+Googlebot\-Image/ 10 25252 20230617153759 0
+yandex 9 90765 20230626152948 0
+spider 9 96853 20230613185038 2
+bot[\s_+:,\.\;\/\\-] 8 72664 20230624122926 5
+curl 3 72063 20230628172303 0
+Discordbot/ 2 174495 20230617143546 0
+DuckDuckGo\-Favicons\-Bot/ 2 25096 20230619101345 0
+CFNetwork 1 5545 20230625194337 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 172095 20230627030250 0
+crawl 1 24025 20230627022438 0
+survey 1 37099 20230606065142 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 345 1338263 0 0
+js 443 3966760 0 0
+png 2449 697147902 0 0
+svg 22 6798 0 0
+html 663 17070669 0 0
+Unknown 8 36633 0 0
+jpg 150 5264198 0 0
+woff2 155 11497820 0 0
+xml 17 5478 0 0
+php 1053 6062510 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+androidnougat 4 4
+winlong 1 1
+win7 23 14
+linuxubuntu 24 21
+winxp 3 3
+macosx 10 9
+androidlollipop 3 3
+win10 1508 430
+macosx10 1 1
+win8.1 6 6
+win8 1 1
+android 177 23
+macosx14 46 5
+macosx15 783 165
+winvista 1 1
+linux 718 182
+android10 467 61
+macosx13 1 1
+Unknown 936 874
+androidoreo 1 1
+ios_iphone 585 84
+macosx11 5 5
+androidpie 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 89
+chrome113.0.0.0 265 44
+chrome79.0.3945.130 5 5
+edge12 8 0
+chrome78.0.3904.108 36 36
+chrome91.0.4472.114 58 17
+chrome64.0.3282.186 1 1
+safari11.0 9 9
+chrome112.0.5615.137 20 20
+chrome74.0.3729.169 9 9
+chrome83.0.4103.61 12 4
+firefox113.0 124 26
+chrome15.0.874.120 17 14
+chrome109.0.0.0 32 17
+chrome83.0.4103.97 94 94
+chrome100.0.4896.127 60 10
+chrome58.0.3029.110 5 5
+chrome83.0.4103.106 47 5
+firefox114.0 113 13
+edge44 2 2
+chrome51.0.2704.103 4 4
+Unknown 874 852
+firefox104.0 2 2
+opera75.4.3978.72990 44 5
+chrome114.0.0.0 1569 226
+chrome80.0.3987.116 2 1
+chrome38.0.2125.111 1 1
+chrome57 1 1
+safari8.0 1 1
+safari15.5 47 6
+chrome76.0.3809.111 1 1
+chrome94.0.4606.61 15 15
+chrome42.0.2311.90 1 1
+chrome66.0.3359.181 23 23
+safari15.4 54 12
+chrome23.0.1271.64 16 1
+chrome110.0.5478.0 440 50
+chrome106.0.0.0 1 1
+chrome113.0.5672.126 59 9
+ibrowse 6 0
+chrome59.0.3071.115 8 4
+firefox107.0 1 1
+safari16.3 103 17
+edge16 1 1
+chrome108.0.0.0 47 47
+chrome79.0.3945.79 90 10
+mozilla 53 13
+chrome16.0.912.36 2 2
+chrome72.0.3626.121 3 3
+chrome114.0.5735.106 4 4
+safari 137 16
+chrome90.0.4430.85 78 78
+safari16.5 94 12
+chrome104.0.5112.97 16 1
+chrome100.0.4896.60 4 4
+opera89.0.4447.51 2 2
+chrome110.0.0.0 2 2
+chrome103.0.0.0 4 4
+chrome106.0.5249.126 46 5
+chrome44.0.2403.155 1 1
+chrome112.0.0.0 101 16
+chrome75.0.3770.142 1 1
+chrome91.0.4472.88 47 5
+opera12.16 1 1
+chrome60.0.3112.101 6 6
+chrome105.0.5195.102 1 1
+chrome84.0.4147.105 26 8
+chrome60.0.3112.107 1 1
+chrome95.0.4638.54 1 1
+firefox52.0 1 1
+chrome112.0.5614.0 45 5
+chrome103.0.5060.53 5 5
+netscape5.0 12 12
+chrome41.0.2225.0 1 1
+safari14.1.2 91 10
+safari16.1 57 8
+chrome80.0.3987.132 43 3
+chrome84.0.4147.125 13 13
+chrome103.0.5060.66 2 2
+chrome80.0.3987.162 1 1
+chrome104.0.5112.79 13 5
+chrome76.0.3809.89 1 1
+chrome103.0.5060.114 1 1
+firefox65.0 1 1
+msie11.0 5 5
+firefox16.0 1 1
+msie9.0 1 1
+chrome49.0.2623.112 3 2
+chrome73.0.3683.90 3 3
+chrome83.0.4103.122 46 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20230628213146
+Mozilla/5.0_(compatible;_Dataprovider.com) 20230608042709
+WhatsApp/2.23.11.77_A 20230619104855
+python-requests/2.30.0 20230619104926
+WhatsApp/2.23.9.77_i 20230607200137
+cortex/1.0 20230630150258
+Ruby 20230610091807
+WhatsApp/2.23.1.76_A 20230621115721
+WordPress/6.2.2;_https://belajarblockchain.com 20230630221018
+quic-go-HTTP/3 20230625001135
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_(namespace:_domainValidationHttpClient)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20230627202947
+BDFetch 20230628132826
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+cortex/1.0 20230630150258
+Ruby 20230610091807
+WhatsApp/2.23.9.77_i 20230607200137
+BDFetch 20230628132826
+WordPress/6.2.2;_https://belajarblockchain.com 20230630221018
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_(namespace:_domainValidationHttpClient)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20230627202947
+quic-go-HTTP/3 20230625001135
+WhatsApp/2.23.1.76_A 20230621115721
+python-requests/2.30.0 20230619104926
+WhatsApp/2.23.11.77_A 20230619104855
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1303 1377
+From1 90 90
+From2 7 19
+From3 13 13
+From4 483 3806
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+duckduckgo 1 1
+google_com 0 11
+cn_bing_com 0 1
+www_google_com 6 6
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+https://www.linkedin.com 7 7
+https://learnweb3.io 2 2
+https://linktr.ee 2 2
+https://t.co 1 1
+https://l.wl.co 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+404 216 4264043
+206 51 13719750
+301 232 0
+400 2 10
+500 6 0
+401 2 87
+302 50 0
+405 12 552
+403 692 850468
+409 1 1240
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 172
+/mad.php 1 https://belajarblockchain.com//mad.php
+/style.php 3 www.google.com
+/marijuana.php 1 https://belajarblockchain.com//marijuana.php
+/wp-content/plugins/TOPXOH/wDR.php 1 -
+/wp-cc.php 2 -
+/x.php 1 https://belajarblockchain.com//x.php
+/doc.php 1 https://belajarblockchain.com//doc.php
+/haxor.php 1 https://belajarblockchain.com//haxor.php
+/1h6j5.php 1 https://belajarblockchain.com//1h6j5.php
+/1.php 1 https://belajarblockchain.com//1.php
+/wp-content/plugins/ultimate-member/assets/css/um-raty.css 1 belajarblockchain.com
+/admin/controller/extension/wpm.php 1 https://belajarblockchain.com//admin/controller/extension/wpm.php
+/wp-content/plugins/wpyii2/wpyii2.php 1 -
+/css/votes.php 1 belajarblockchain.com
+/main 3 -
+/wp-content/languages/ 1 binance.com
+/core/.env 1 -
+/1index.php 2 https://belajarblockchain.com//1index.php
+/old 3 -
+/wpx.php 1 https://belajarblockchain.com//wpx.php
+/C.php 1 https://belajarblockchain.com//C.php
+/ads.txt 5 https://www.belajarblockchain.com/ads.txt
+/new/ 1 http://belajarblockchain.com/new/
+/wxo.php 1 https://belajarblockchain.com//wxo.php
+/wp-content/plugins/download-monitor/assets/css/frontend.css 2 -
+/wordpress/ 1 http://belajarblockchain.com/wordpress/
+/fw.php 1 https://belajarblockchain.com//fw.php
+/wp/ 1 http://belajarblockchain.com/wp/
+/ini.php 1 https://belajarblockchain.com//ini.php
+/.well-known/security.txt 1 https://www.belajarblockchain.com/.well-known/security.txt
+/xml.php 1 https://belajarblockchain.com//xml.php
+/wp-sale.js 3 -
+/wp-admin/fx.php 1 https://belajarblockchain.com//wp-admin/fx.php
+/wordpress 3 -
+/repeater.php 1 -
+/lufix.php 1 https://belajarblockchain.com//lufix.php
+/wp-content/plugins/linkpreview/db.php 1 -
+/wp-admin/xleet.php 1 https://belajarblockchain.com//wp-admin/xleet.php
+/3index.php 1 https://belajarblockchain.com//3index.php
+/wp-content/plugins/fighter/fk.php 1 https://belajarblockchain.com//wp-content/plugins/fighter/fk.php
+/wp-content/updates.php 1 -
+/xx.php 1 http://belajarblockchain.com/xx.php
+/up.php 1 https://belajarblockchain.com//up.php
+/wp-admin/priv8.php 1 https://belajarblockchain.com//wp-admin/priv8.php
+/wp-22.php 1 https://belajarblockchain.com//wp-22.php
+/wikindex.php 2 https://belajarblockchain.com//wikindex.php
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/wp-content/plugins/wc-multivendor-membership/assets/css/wcfmvm-style-memberships.css 1 -
+/1975.php 1 -
+/laravel/.env 1 -
+/wp-content/plugins/ccx/ 1 -
+/wp-content/fw.php 1 https://belajarblockchain.com//wp-content/fw.php
+/404.php 1 https://belajarblockchain.com//404.php
+/xlt.php 1 https://belajarblockchain.com//xlt.php
+/403.php 1 https://belajarblockchain.com//403.php
+/utchiha.php 1 https://belajarblockchain.com//utchiha.php
+/wp.php 1 https://belajarblockchain.com//wp.php
+/wp-plain.php 1 www.google.com
+/moralis_key.json 2 -
+/wp-content/plugins/woocommerce-product-options/includes/image-upload.php 1 -
+/wp-admin/x.php 1 -
+/wp-content/themes/wp-pridmag/init.php 1 https://belajarblockchain.com//wp-content/themes/wp-pridmag/init.php
+/baindex.php 1 https://belajarblockchain.com//baindex.php
+/xmlrqc.php 1 https://belajarblockchain.com//xmlrqc.php
+/wp-admin/rss.php 1 https://belajarblockchain.com//wp-admin/rss.php
+/wp_logx.php 1 https://belajarblockchain.com//wp_logx.php
+/0z.php 1 https://belajarblockchain.com//0z.php
+/wp-content/plugins/masterx/wpx.php 1 https://belajarblockchain.com//wp-content/plugins//masterx/wpx.php
+/hehe.php 1 https://belajarblockchain.com//hehe.php
+/OLD/ 1 http://belajarblockchain.com/OLD/
+/apple-touch-icon.png 9 -
+/wp-content/plugins/seoplugins/mar.php 1 -
+/autoload_classmap.php 1 https://belajarblockchain.com//autoload_classmap.php
+/payout.php 1 https://belajarblockchain.com//payout.php
+/main/ 1 http://belajarblockchain.com/main/
+/new 3 -
+/wp-includes/1index.php 1 https://belajarblockchain.com//wp-includes/1index.php
+/dev/.env 1 -
+/xleet.php 1 https://belajarblockchain.com//xleet.php
+/app-ads.txt 2 -
+/3x.php 1 https://belajarblockchain.com//3x.php
+/test 3 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/wp-god.php 1 https://belajarblockchain.com//wp-god.php
+/uploads/xleet.php 1 https://belajarblockchain.com//uploads/xleet.php
+/ecrire/paquet.xml 1 -
+/old/ 1 http://belajarblockchain.com/old/
+/sitemap.txt 2 -
+/crypted.php 1 https://belajarblockchain.com//crypted.php
+/images/vuln.php 1 https://belajarblockchain.com//images/vuln.php
+/02.php 1 https://belajarblockchain.com//02.php
+/humans.txt 3 https://www.belajarblockchain.com/humans.txt
+/wp-content/plugins/formidable/css/formidableforms.css 1 -
+/inputs.php 2 belajarblockchain.com
+/security.txt 1 https://www.belajarblockchain.com/security.txt
+/up-kon.php 1 https://belajarblockchain.com//up-kon.php
+/wp-content/plugins/wordpress-three/miin.php 1 belajarblockchain.com
+/priv8.php 1 https://belajarblockchain.com//priv8.php
+/wp-2019.php 1 https://belajarblockchain.com//wp-2019.php
+/2index.php 2 https://belajarblockchain.com//2index.php
+/radio.php 1 https://belajarblockchain.com//radio.php
+/XxX.php 1 https://belajarblockchain.com//XxX.php
+/wp-info.php 1 https://belajarblockchain.com//wp-info.php
+/wp-x.php 1 https://belajarblockchain.com//wp-x.php
+/apple-touch-icon-120x120.png 1 -
+/screenshot_1.php 1 https://belajarblockchain.com//screenshot_1.php
+/wp-2018.php 1 https://belajarblockchain.com//wp-2018.php
+/wp-content/plugins/dos2unix/dos2unix.php 1 -
+/old-index.php 1 https://belajarblockchain.com//old-index.php
+/.env 1 -
+/pi.php 1 https://belajarblockchain.com//pi.php
+/wp-content/plugins/wordpresss3cll/up.php 1 -
+/wp-content/plugins/wp-post-author/assets/css/admin.metabox.css 1 belajarblockchain.com
+/wp-includes/customize/class-wp-customize-nav-menu.php 1 https://belajarblockchain.com//wp-includes/customize/class-wp-customize-nav-menu.php
+/wp-admin/user/nsystem/ 1 belajarblockchain.com
+/wp-commentin.php 1 -
+/about.php 1 https://belajarblockchain.com//about.php
+/1337.php 1 https://belajarblockchain.com//1337.php
+/wso.php 1 https://belajarblockchain.com//wso.php
+/srx.php 1 https://belajarblockchain.com//srx.php
+/image/screenshot_1.php 1 https://belajarblockchain.com//image/screenshot_1.php
+/ups.php 1 https://belajarblockchain.com//ups.php
+/wp-content/themes/pridmag/db.php 1 -
+/wp_wrong_datlib.php 1 https://belajarblockchain.com//wp_wrong_datlib.php
+/small.php 1 https://belajarblockchain.com//small.php
+/01.php 1 https://belajarblockchain.com//01.php
+/admin.php 1 https://belajarblockchain.com//admin.php
+/shell.php 1 https://belajarblockchain.com//shell.php
+/backup/ 1 http://belajarblockchain.com/backup/
+/ALFA_DATA/alfacgiapi/ups.php 1 https://belajarblockchain.com//ALFA_DATA/alfacgiapi/ups.php
+/xwxx.php 1 https://belajarblockchain.com//xwxx.php
+/wp-content/plugins/ioptimization/IOptimize.php 2 -
+/wp-2020.php 1 https://belajarblockchain.com//wp-2020.php
+/google.php 1 https://belajarblockchain.com//google.php
+/wp-includes/wp-class.php 1 -
+/demo/ 1 http://belajarblockchain.com/demo/
+/wp-content/themes/sketch/404.php 1 -
+/wp-content/plugins/anttt/simple.php 1 -
+/wp-content/plugins/miniorange-login-openid/includes/css/mo_openid_style.css 1 -
+/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 1 https://belajarblockchain.com//Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php
+/mininew.php 1 https://belajarblockchain.com//mininew.php
+/new-index.php 1 https://belajarblockchain.com//new-index.php
+/4price.php 1 https://belajarblockchain.com//4price.php
+/wp-content/plugins/wp-daft/t62.php 1 www.google.com
+/wp-content/plugins/td-cloud-library/assets/css/tdb_wp_admin_taxonomies.css 1 -
+/media-admin.php 1 https://belajarblockchain.com//media-admin.php
+/wp-content/upload.php 1 https://belajarblockchain.com//wp-content/upload.php
+/site/ 1 http://belajarblockchain.com/site/
+/testing 3 -
+/wp-2022.php 1 https://belajarblockchain.com//wp-2022.php
+/wp-content/themes/seotheme/mar.php 1 -
+/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f 1 https://belajarblockchain.com/
+/wp-content/plugins/wp-file-upload/ROOBOTS.php 1 -
+/upload.php 2 https://belajarblockchain.com//upload.php
+/wp-content/plugins/easybusy/wp-blog.php 1 https://belajarblockchain.com//wp-content/plugins/easybusy/wp-blog.php
+/wp-includes/assets/pi.php 1 https://belajarblockchain.com//wp-includes/assets/pi.php
+/alfa.php 1 https://belajarblockchain.com//alfa.php
+/wp-content/plugins/ioptimization/ 1 -
+/wp-2021.php 1 https://belajarblockchain.com//wp-2021.php
+/mass.php 1 https://belajarblockchain.com//mass.php
+/wp-blog.php 1 https://belajarblockchain.com//wp-blog.php
+/DKIZ.php 1 https://belajarblockchain.com//DKIZ.php
+/mini.php 1 https://belajarblockchain.com//mini.php
+/uploads/up.php 1 https://belajarblockchain.com//uploads/up.php
+/wp-easy.php 1 https://belajarblockchain.com//wp-easy.php
+/good.php 1 https://belajarblockchain.com//good.php
+/reminder.php 1 https://belajarblockchain.com//reminder.php
+/wp-content/themes/seotheme/db.php 1 www.google.com
+/lock360.php 1 https://belajarblockchain.com//lock360.php
+/wp 3 -
+/xl.php 2 https://belajarblockchain.com//xl.php
+/c.php 1 https://belajarblockchain.com//c.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 367
+2001:df1:7800:2::3:10ef 838 838 1631199 20230630221018
+2002:4ac9:1c05::4ac9:1c05 78 78 93745 20230628053605
+35.236.95.122 30 30 184599 20230613191245
+202.58.194.193 21 111 20077297 20230621115720
+45.120.247.4 17 102 19961071 20230619110635
+3.135.18.41 16 57 631701 20230619022459
+140.99.92.155 14 17 197250 20230627025353
+223.27.158.146 13 62 1334853 20230621084734
+68.69.184.54 12 12 2234 20230620203943
+2001:d08:d3:7361:f9a7:5ddf:2648:a02d 12 102 19946684 20230625113936
+180.254.60.228 12 70 10104887 20230617083150
+2405:201:c028:4997:41bf:4f8f:507e:9ab1 11 53 10021308 20230609130651
+218.21.88.11 11 11 181394 20230605203927
+103.28.107.100 10 61 10116030 20230627153318
+2001:448a:2095:1ced:2595:4d79:352f:96f8 10 59 10022439 20230616184521
+203.156.18.82 10 61 10091358 20230607084735
+182.3.53.90 9 60 10083269 20230617111317
+182.0.204.212 9 52 10058660 20230602170310
+82.145.215.206 9 9 216198 20230629190224
+180.250.68.243 9 60 10023146 20230613102731
+37.19.205.149 8 59 9295210 20230620085020
+69.160.160.53 8 48 9865645 20230627022505
+114.10.28.25 8 76 6152517 20230618145623
+103.119.140.77 8 48 9959722 20230607111339
+103.100.175.254 8 49 9987264 20230626214626
+194.233.75.18 3 3 346127 20230620162437
+125.162.214.47 2 3 5545 20230619150109
+54.202.128.21 1 1 24020 20230613212347
+34.215.127.225 1 1 24024 20230611231103
+34.70.199.114 5 5 87483 20230610091814
+143.198.63.88 1 1 24021 20230617215508
+119.12.185.109 5 45 9942907 20230627025941
+54.88.179.33 3 3 328272 20230624092313
+35.88.206.39 1 1 24023 20230630220027
+3.90.52.30 1 1 172095 20230615014957
+34.221.101.114 2 2 33377 20230608224159
+45.90.62.185 1 1 24026 20230629020453
+93.119.227.91 1 1 172095 20230627110203
+54.187.161.128 1 1 9352 20230606211916
+52.43.4.250 1 1 24022 20230627220911
+34.218.60.174 1 1 24020 20230610230539
+114.124.213.215 1 1 0 20230605181616
+34.213.32.34 1 1 24022 20230612224132
+222.84.84.226 3 3 49541 20230628071049
+35.92.120.179 1 1 24022 20230627220838
+2a03:2880:30ff:f::face:b00c 0 1 114598 
+34.215.190.9 1 1 24024 20230624214324
+89.104.110.107 1 1 24025 20230627073457
+34.212.216.109 1 1 24021 20230613212348
+52.36.183.237 2 2 33377 20230621230659
+176.53.216.66 1 1 24025 20230627172120
+178.18.166.182 4 4 81423 20230601210619
+54.149.85.139 2 2 33378 20230612011942
+88.230.7.142 1 1 24023 20230615205021
+35.171.144.152 1 1 172095 20230604183809
+18.236.182.148 1 1 24023 20230611231117
+106.75.136.74 1 1 37094 20230616111718
+34.215.51.117 1 1 24021 20230629213308
+176.53.218.84 1 1 24022 20230630020502
+66.146.234.211 5 44 9938255 20230613003000
+77.68.91.59 2 2 25543 20230629011826
+18.236.219.2 1 1 24021 20230621215533
+175.144.198.13 2 2 372 20230627102543
+54.202.93.97 1 1 24023 20230605103723
+18.237.158.18 1 1 5968 20230629001834
+35.187.23.62 1 1 24021 20230611013623
+124.227.132.117 1 1 16518 20230630042357
+138.246.253.15 1 1 0 20230609222658
+23.82.111.84 1 1 20394 20230621150915
+54.203.49.137 1 1 24021 20230630215941
+103.40.199.168 3 3 72067 20230627025627
+69.4.87.74 1 1 172095 20230627121500
+114.79.5.46 5 46 9943983 20230606175702
+173.234.250.25 1 1 186 20230628100745
+114.124.183.208 1 1 0 20230612211400
+140.213.140.148 3 9 140768 20230624223430
+2a03:2880:31ff:8::face:b00c 0 1 150036 
+118.99.107.120 3 9 128685 20230604234045
+176.53.217.235 2 2 48045 20230628223022
+182.253.250.245 7 56 10020955 20230613082600
+185.66.12.87 1 1 172095 20230617125943
+2a03:2880:31ff:e::face:b00c 0 1 129918 
+62.210.215.74 2 2 344190 20230621224718
+111.31.23.206 0 1 30934 
+34.221.200.245 1 1 24021 20230603231939
+89.38.227.141 2 2 23993 20230627190559
+161.35.35.161 1 1 14256 20230625115701
+2a03:2880:30ff:8::face:b00c 0 1 97065 
+131.153.240.178 1 1 24021 20230627174125
+106.75.184.188 1 2 173170 20230616185059
+18.237.220.255 1 1 24025 20230615234101
+154.13.117.35 5 44 9938254 20230615195526
+140.228.24.17 2 2 139574 20230621063821
+182.2.135.31 5 46 9943980 20230619122544
+35.92.201.69 1 1 24024 20230623221208
+182.2.142.231 3 42 520281 20230602222043
+2a03:2880:21ff:5::face:b00c 0 1 30934 
+147.182.218.207 1 1 24021 20230615215701
+35.86.78.109 1 1 24032 20230619215323
+192.36.109.84 1 1 24024 20230613060134
+165.232.97.191 1 1 24028 20230611192322
+36.83.205.252 6 57 10008753 20230621123721
+35.86.80.16 2 2 33374 20230602010027
+124.107.65.101 3 3 558 20230628005526
+93.158.90.66 1 1 243 20230619182012
+124.227.132.207 4 4 65885 20230608190746
+35.89.82.121 2 2 45409 20230619234155
+2a03:2880:10ff:8::face:b00c 0 1 97065 
+54.244.139.146 1 1 24026 20230623000607
+149.56.150.67 5 45 1233664 20230608042709
+104.210.149.193 1 1 45637 20230629012924
+2a03:2880:31ff:14::face:b00c 1 18 8064238 20230630150221
+35.166.117.99 1 1 24023 20230609210047
+54.212.205.127 1 1 24021 20230614213352
+165.22.205.13 1 1 23989 20230624183150
+103.195.56.246 7 48 9945441 20230609230752
+34.220.140.49 1 1 24020 20230621215642
+116.254.124.101 5 45 9939333 20230619101410
+35.88.230.212 1 1 24021 20230602220614
+67.205.45.144 3 3 49571 20230630124834
+35.93.136.80 1 1 24021 20230621215440
+223.27.158.147 1 9 58761 20230619152328
+2a01:4f8:1c1e:d622::4242:64 7 52 10035066 20230620202549
+68.65.220.32 5 44 9938255 20230603112429
+54.189.250.78 1 1 24021 20230602220530
+35.91.94.254 1 1 24023 20230613212430
+134.209.221.77 1 1 24022 20230623213129
+2001:41d0:801:2000::2352 1 1 24019 20230622035412
+207.182.152.210 1 2 26398 20230619181322
+34.222.73.238 1 1 24021 20230610230548
+2001:4ca0:108:42::15 4 4 0 20230625001135
+37.27.5.30 1 1 24019 20230621190437
+209.126.12.142 2 2 48039 20230608174630
+18.185.96.113 3 12 125024 20230614021502
+104.45.192.56 1 1 186 20230625102429
+168.91.38.91 5 44 9938256 20230611002302
+170.64.137.90 1 1 24032 20230607204746
+182.253.127.9 7 50 9947590 20230619225018
+168.91.46.10 5 44 9938252 20230628022946
+165.232.131.77 1 1 24020 20230627195323
+2a02:8071:b82:1740:9cf8:d09b:70ed:8c82 6 45 9955110 20230613142937
+118.69.175.73 1 1 172095 20230630080719
+34.150.223.83 1 1 45637 20230620030256
+2a03:2880:30ff:6::face:b00c 0 1 193704 
+209.145.48.110 1 1 0 20230619104926
+77.12.11.88 6 47 9962191 20230613234746
+35.87.94.110 1 1 24023 20230614213011
+34.210.14.49 1 1 24022 20230612224054
+34.212.37.58 1 1 24024 20230624214349
+18.237.123.213 1 1 24022 20230626220416
+146.190.244.218 1 1 24019 20230613201520
+35.87.26.151 1 1 24022 20230619215548
+2a03:2880:31ff:3::face:b00c 0 10 938164 
+2a03:2880:31ff:16::face:b00c 0 1 114598 
+45.64.246.153 6 6 84846 20230609180928
+188.169.239.225 2 2 3706 20230611122655
+2a03:2880:21ff:2::face:b00c 0 1 41241 
+182.1.180.61 0 1 5545 
+35.86.122.215 1 1 24024 20230605210605
+170.64.182.16 1 1 12109 20230623163253
+45.90.60.203 1 1 24021 20230628181047
+89.104.100.236 1 1 24022 20230628083912
+38.154.1.28 5 44 9938257 20230607112354
+2001:67c:288::1000:41 2 2 344190 20230623193955
+15.235.50.228 5 5 182134 20230630094648
+2a03:2880:25ff:75::face:b00c 0 1 7077849 
+52.34.209.214 1 1 24022 20230604222650
+54.201.241.51 1 1 9361 20230619215154
+35.88.124.208 1 1 9350 20230602220528
+140.213.132.55 6 41 9861202 20230624223622
+139.59.77.31 1 1 12108 20230612115428
+202.80.212.100 5 46 9949805 20230613081258
+2a02:3037:20c:1da5:a817:abfd:3e0b:f599 6 47 9958560 20230614113941
+190.43.35.141 1 1 20394 20230614174222
+182.3.36.204 1 1 0 20230607200137
+195.248.242.227 1 1 0 20230612135501
+171.38.21.83 3 3 42439 20230611110249
+54.202.115.60 1 1 24020 20230614213030
+182.0.204.250 3 11 201534 20230619121448
+2a00:8a60:1014:88::44 6 6 56132 20230628213146
+2a03:2880:10ff:15::face:b00c 0 1 59029 
+74.125.151.215 0 1 585 
+35.91.116.172 2 2 45408 20230609211918
+54.202.107.3 1 1 24020 20230609210045
+43.156.232.154 3 3 48045 20230601102144
+34.221.78.171 1 1 24024 20230621215641
+2a03:2880:31ff:b::face:b00c 1 1 20391 20230630150218
+52.37.114.29 1 1 24023 20230611000724
+54.200.181.160 1 1 24020 20230608221908
+198.23.242.152 1 16 1105822 20230627025605
+45.133.220.199 5 13 301952 20230623075414
+34.215.85.135 1 1 24024 20230605210541
+2a03:2880:13ff:6::face:b00c 0 1 129918 
+52.39.205.82 1 1 24021 20230610230608
+176.53.222.233 1 1 24024 20230628020519
+161.35.132.203 1 1 13069 20230625102531
+18.237.156.154 1 1 24023 20230626220405
+139.59.44.48 1 1 172095 20230619180612
+34.222.220.76 1 1 24021 20230619215255
+3.219.237.5 1 1 20389 20230628212212
+176.53.221.157 1 1 24017 20230628003031
+150.129.59.4 4 14 274794 20230617083204
+34.218.242.200 1 1 24019 20230615234136
+118.99.106.90 5 46 9949806 20230613120304
+34.219.83.34 1 1 24021 20230613212422
+52.13.127.216 1 1 24023 20230620211433
+146.190.140.33 1 1 24027 20230629213624
+74.125.151.221 0 1 13700 
+54.213.212.157 1 1 24021 20230624214547
+205.169.39.246 7 51 10034422 20230627040847
+34.209.50.46 1 1 172095 20230601034723
+54.187.215.97 1 1 24023 20230629001925
+159.69.82.245 2 13 123111 20230620202603
+2a03:2880:13ff:75::face:b00c 0 1 106767 
+154.28.229.119 2 2 21152 20230627025347
+64.226.86.237 1 1 24020 20230610202522
+182.0.240.247 5 47 9953618 20230618182542
+35.92.40.169 1 1 24021 20230616220651
+23.106.24.99 5 6 159623 20230621150933
+34.141.213.153 4 4 5935 20230608172212
+46.161.14.104 1 1 6081 20230613102953
+54.214.188.227 2 2 33378 20230603232136
+37.59.53.82 1 1 172095 20230606180339
+2001:448a:2050:333d:fc64:6d7c:60df:58ac 8 56 9999557 20230620051231
+176.199.208.241 0 2 7081 
+34.222.0.25 1 1 23982 20230621215702
+104.209.128.205 2 2 28744 20230609133601
+2a02:8109:aa3f:c564:7997:3c18:218e:5ae4 6 47 9966660 20230617164507
+93.158.90.72 1 1 24022 20230619182016
+54.201.5.228 1 1 24020 20230619215511
+114.125.203.0 7 57 9988508 20230618154828
+52.168.175.214 1 1 186 20230625101557
+123.231.236.114 5 46 9943983 20230607104719
+212.192.24.133 1 1 172095 20230622183442
+72.14.199.38 0 1 1233 
+154.201.48.59 5 44 9938256 20230610060547
+2602:2da:0:30::1 1 1 172095 20230627025606
+38.152.45.26 5 44 9938250 20230609145827
+18.236.113.189 1 1 24021 20230614213100
+35.88.172.103 2 2 33377 20230607234843
+149.56.160.183 6 6 548458 20230608042608
+35.92.169.124 1 1 24026 20230620211412
+182.2.133.82 0 3 35820 
+34.219.191.104 1 1 9351 20230617212717
+34.222.74.58 2 2 48050 20230602220724
+35.90.187.171 1 1 24022 20230608221920
+38.152.38.252 1 1 20394 20230621184720
+34.124.184.247 4 4 5936 20230611023128
+205.169.39.202 7 51 10034421 20230630102352
+54.188.240.108 1 1 24034 20230624214542
+2a01:4f8:151:6443::2 4 8 102099 20230630121417
+140.213.191.113 7 56 10008566 20230619230944
+34.220.41.57 1 1 24020 20230615234114
+51.254.29.108 2 2 344190 20230619221458
+35.86.98.203 1 1 9351 20230611231907
+35.90.78.129 1 1 24027 20230629213349
+15.235.9.75 3 3 50392 20230630094902
+35.88.73.238 1 1 24027 20230623000602
+54.186.182.13 1 1 24024 20230617212644
+45.87.212.87 1 16 1105822 20230627025605
+35.90.183.216 1 1 24021 20230627220843
+203.175.9.47 1 1 0 20230625172454
+2a03:2880:31ff:17::face:b00c 0 1 30934 
+54.189.89.198 1 1 24021 20230623221329
+182.2.142.227 7 48 9951269 20230601224204
+2a03:2880:ff:10::face:b00c 0 1 41241 
+27.124.38.197 3 3 42455 20230622035701
+54.191.147.196 2 2 33375 20230604222902
+54.245.128.107 1 1 24021 20230624214509
+35.161.96.131 1 1 24018 20230609210006
+2a03:2880:10ff:1::face:b00c 0 1 59029 
+89.104.110.19 1 1 24021 20230627144950
+35.89.162.166 1 1 24028 20230602001242
+161.35.172.219 1 1 24022 20230618122314
+107.174.115.161 1 1 24021 20230629152250
+34.87.94.148 4 4 5934 20230602152944
+72.14.199.37 0 3 29334 
+3.15.166.53 4 4 96084 20230604042045
+35.92.59.89 1 1 24022 20230623220939
+2a02:8109:9e40:1c20:6110:ede0:ca5:fd4a 5 45 9939329 20230618223541
+114.125.216.108 1 5 42569 20230618154606
+142.54.161.124 1 1 24022 20230608042554
+2a00:23c6:c20b:9101:341e:cfbe:d0f1:cd2b 1 1 20392 20230617040602
+207.244.246.41 8 58 10070772 20230607000116
+157.245.148.173 3 3 38845 20230608122211
+2620:101:2002:11a5:10:8:141:61 1 1 172095 20230630150011
+34.102.75.35 6 6 174975 20230630001331
+34.219.220.116 1 1 24019 20230614213251
+185.190.42.200 5 5 454945 20230630013727
+35.217.73.164 3 12 125023 20230610060020
+54.187.16.102 1 1 24021 20230615234117
+158.177.195.34 5 5 930 20230630193437
+45.152.182.137 2 2 23964 20230618185306
+36.81.92.22 5 46 9943980 20230621200132
+114.5.246.217 5 47 9954459 20230629205611
+38.170.4.37 5 44 9938256 20230608190616
+2001:448a:3043:1138:a5c3:1557:69cd:d088 5 46 9949809 20230603144952
+222.165.223.26 7 55 9998099 20230615141418
+176.53.221.255 1 1 24021 20230629003037
+2a03:2880:31ff:76::face:b00c 0 1 106767 
+2a01:4f9:c012:6940::1 2 2 372 20230614144658
+54.191.202.215 1 1 24021 20230630220940
+192.186.157.97 5 44 9938257 20230613141127
+202.74.239.94 1 16 1105822 20230627025606
+54.185.119.64 1 1 24024 20230604222724
+182.0.246.42 3 36 9743803 20230619121649
+2a03:2880:31ff:78::face:b00c 0 3 6846 
+171.249.234.27 7 47 9940791 20230605084535
+167.71.111.100 1 1 24021 20230619200314
+35.166.114.144 1 1 24021 20230616220652
+35.160.113.193 1 1 24025 20230623220744
+52.37.161.194 1 1 24022 20230619215415
+35.90.235.53 1 1 24022 20230630221018
+51.81.245.138 1 1 24023 20230627025344
+87.101.94.72 2 2 139574 20230622010323
+54.218.162.161 1 1 24022 20230611231102
+74.125.151.200 0 2 2109 
+34.219.14.92 1 1 24024 20230602001304
+34.222.93.56 1 1 24021 20230624214321
+171.38.10.72 1 1 14153 20230603025847
+66.94.107.177 5 45 9942907 20230606120238
+93.159.230.88 1 1 24023 20230606091626
+213.113.59.132 6 47 9962191 20230602000934
+35.164.104.47 1 1 9351 20230618211354
+176.53.218.11 1 1 24021 20230629020454
+47.242.105.176 3 3 72068 20230627120354
+2001:448a:2020:ca61:60b0:6428:ca8d:f54a 5 47 9949990 20230602093453
+34.212.72.195 1 1 24024 20230609210002
+35.174.0.249 4 4 240408 20230615072655
+217.156.214.214 1 1 172095 20230626193535
+2a00:6800:3:78a::1 1 1 24020 20230620120123
+2a03:2880:13ff:4::face:b00c 0 1 7077849 
+120.188.84.165 5 46 9949807 20230613071336
+182.1.232.119 6 53 9997022 20230602155624
+35.164.202.213 1 1 24025 20230625213446
+52.200.211.223 1 1 0 20230618013206
+45.134.213.197 1 1 20393 20230627025613
+54.218.96.126 1 1 24021 20230621215514
+192.36.109.98 1 1 243 20230613060130
+114.79.7.1 1 1 0 20230603092445
+119.12.207.55 5 45 9942905 20230627030046
+2a03:2880:31ff:4::face:b00c 3 14 914343 20230630150221
+137.226.113.44 6 6 56115 20230628213133
+52.35.96.192 1 1 24019 20230608221908
+54.174.58.249 1 1 0 20230627202947
+134.122.34.14 1 1 12124 20230626123706
+2001:19f0:9002:a23:ec4:7aff:fe8f:6951 2 2 48044 20230628113507
+52.27.26.139 1 1 24021 20230625213528
+71.246.22.59 5 5 930 20230630074632
+2a03:2880:20ff:77::face:b00c 0 1 150036 
+35.89.175.90 1 1 24021 20230629001835
+34.145.165.227 1 1 172095 20230613140843
+111.95.103.124 5 45 9939328 20230621125523
+35.88.62.222 1 1 24027 20230623000635
+180.243.182.108 5 46 9943981 20230604185454
+54.71.103.188 1 1 24021 20230614212923
+100.25.126.64 1 1 172095 20230628132826
+37.120.215.249 2 2 23993 20230601194757
+18.236.175.38 1 1 24021 20230624214512
+34.220.222.246 1 1 24021 20230603231907
+114.122.117.224 5 47 9949989 20230620144932
+2a03:2880:10ff:c::face:b00c 0 1 193704 
+34.222.100.52 2 2 33372 20230620215427
+114.79.7.165 2 2 0 20230606194840
+89.104.100.178 1 1 24022 20230627105303
+34.212.33.16 1 1 24022 20230608221931
+52.42.189.91 1 1 24020 20230614213329
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20230601 51 93 10463022 15
+20230602 91 354 58764320 27
+20230603 46 126 20059415 21
+20230604 42 89 10448046 18
+20230605 32 72 10103086 17
+20230606 37 118 20166092 18
+20230607 70 293 50161330 22
+20230608 62 141 12131809 23
+20230609 65 187 30144261 21
+20230610 49 97 10301748 21
+20230611 41 80 10168632 20
+20230612 20 20 134313 13
+20230613 132 556 100184209 30
+20230614 49 101 10412904 25
+20230615 48 135 20615292 19
+20230616 33 83 10407298 16
+20230617 79 330 50775092 22
+20230618 54 258 36174658 17
+20230619 123 482 71314949 33
+20230620 85 290 31332664 23
+20230621 81 256 40863224 29
+20230622 27 27 510367 12
+20230623 39 47 931793 20
+20230624 43 84 10563182 19
+20230625 42 83 10104877 19
+20230626 36 36 305338 14
+20230627 133 399 54524340 40
+20230628 145 186 10527184 24
+20230629 52 94 10418209 27
+20230630 89 188 29385377 29
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 15
+30mn-1h 51
+1h+ 49
+0s-30s 466
+30s-2mn 17
+15mn-30mn 27
+5mn-15mn 29
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 94
+/wp-cron.php 758 0 263 250
+/ 455 14380877 309 249
+/wp-content/plugins/pagelayer/css/givecss.php 106 3316490 5 9
+/wp-content/plugins/pagelayer/js/givejs.php 101 2696850 6 5
+/wp-content/plugins/pagelayer/fonts/fa-brands-400.woff2 74 5678464 1 27
+/wp-content/plugins/pagelayer/fonts/fa-solid-900.woff2 73 5713564 2 13
+/contact/ 53 1249097 10 20
+/2022/10/26/hello-world/ 32 497231 31 31
+//xmlrpc.php 30 12030 0 2
+/about/ 25 569318 4 8
+/xmlrpc.php 21 4018 8 8
+/wp-login.php 15 32820 7 7
+/service/ 14 224942 2 5
+/feed/ 11 9537 0 5
+/comments/feed/ 9 6300 0 1
+/wp-content/plugins/pagelayer/fonts/fa-regular-400.woff2 8 105792 0 6
+/wp-sitemap.xml 5 1566 4 2
+/wp-admin/admin-ajax.php 3 302 0 1
+/wp-json/wp/v2/users 3 792 0 0
+//wp-json/wp/v2/users/ 2 1264 0 0
+/wp-admin/maint/ 2 1400 0 0
+/wp-includes/Text/ 2 1522 0 0
+/wp-sitemap-posts-pagelayer-template-1.xml 2 424 0 0
+/wp-sitemap-posts-page-1.xml 2 388 0 0
+/wp-json 2 32390 0 1
+/wp-includes/js/codemirror/ 1 1268 0 0
+/wp-admin/images/ 1 2856 0 0
+/wp-admin/js/widgets/ 1 1426 0 0
+/wp-includes/https-migration.php 1 0 0 0
+/wp-admin/css/colors/modern/ 1 803 0 0
+/wp-admin/js/ 1 3422 0 0
+/wp-admin/css/colors/midnight/ 1 806 0 0
+/wp-admin/css/colors/ 1 1262 0 0
+/.well-known/ 1 691 0 1
+/wp-content/uploads/2023/05/ 1 621 0 0
+/wp-includes/class-wp-textdomain-registry.php 1 0 0 0
+/wp-admin/css/colors/ectoplasm/ 1 810 0 0
+/wp-includes/images/ 1 1821 0 0
+/wp-includes/images/smilies/ 1 1525 0 0
+/wp-includes/theme-templates.php 1 0 0 0
+/wp-includes/images/crystal/ 1 1279 0 0
+/wp-includes/js/ 1 3983 0 0
+/wp-includes/sitemaps/ 2 2438 0 0
+/wp-includes/sitemaps/providers/ 2 1614 0 0
+/wp-includes/class-wp-theme-json-resolver.php 1 0 0 0
+/wp-includes/images/media/ 1 1170 0 0
+/wp-content/uploads/2023/06/ 1 621 0 0
+/wp-includes/Text/Diff/Engine/ 2 1722 0 0
+/wp-admin/css/colors/coffee/ 1 821 0 0
+/wp-content/upgrade/ 1 612 0 0
+/wp-includes/https-detection.php 1 0 0 0
+/wp-json/wp/v2/pages/18 1 1235 0 0
+/wp-content/uploads/ 1 809 0 0
+/wp-admin/css/colors/ocean/ 1 820 0 0
+/wp-includes/global-styles-and-settings.php 1 0 0 0
+/wp-includes/class-wp-block-editor-context.php 1 0 0 0
+/blog/ 1 12819 0 1
+/wp-includes/PHPMailer/ 2 1598 0 0
+/wp-includes/block-template-utils.php 1 0 0 0
+/wp-admin/css/colors/blue/ 1 830 0 0
+/wp-includes/ 2 14525 0 0
+/wp-includes/robots-template.php 1 0 0 0
+/wp-includes/class-wp-dependencies.php 1 0 0 0
+/wp-admin/css/ 2 6465 1 0
+/wp-includes/js/plupload/ 1 1295 0 0
+/wp-sitemap-taxonomies-category-1.xml 2 330 0 0
+/wp-includes/widgets/ 2 3228 0 0
+//wp-includes/wlwmanifest.xml 2 2090 0 0
+/wp-sitemap-posts-post-1.xml 2 350 0 0
+/wp-includes/class-wpdb.php 1 0 0 0
+/wp-includes/ID3/ 2 3202 0 0
+/wp-includes/images/wlw/ 1 773 0 0
+/wp-includes/class-wp-theme-json-data.php 1 0 0 0
+/wp-sitemap-users-1.xml 2 330 0 2
+/wp-includes/IXR/ 2 2638 0 0
+/wp-includes/class-wp-theme-json-schema.php 1 0 0 0
+/wp-json/ 1 10003 0 0
+/wp-includes/class-wp-theme-json.php 1 0 0 0
+/wp-includes/style-engine.php 1 0 0 0
+/wp-includes/pomo/ 2 2326 0 0
+/sample-page/ 2 19553 1 0
+/wp-includes/Text/Diff/ 2 1594 0 0
+/wp-admin/css/colors/sunrise/ 1 832 0 0
+/wp-includes/Text/Diff/Renderer/ 2 1428 0 0
+/wp-admin/includes/ 2 7881 0 0
+/wp-includes/fonts/ 1 837 0 0
+/wp-includes/block-template.php 1 0 0 0
+/wp-includes/block-editor.php 1 0 0 0
+/wp-includes/class-wp-block-template.php 1 0 0 0
+/wp-includes/css/dist/ 1 1286 0 0
+/wp-content/index.php 1 0 0 0
+/wp-admin/css/colors/light/ 1 803 0 0
+/wp-json/oembed/1.0/embed 2 2216 0 0
+/wp-includes/css/ 1 2065 0 0
+END_SIDER

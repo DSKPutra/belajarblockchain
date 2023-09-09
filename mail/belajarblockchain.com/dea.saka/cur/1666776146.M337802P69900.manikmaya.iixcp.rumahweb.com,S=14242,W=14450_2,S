@@ -1,0 +1,208 @@
+Return-Path: <noreply+804f8147ae24946407f26d08c42d3d7ec17a5ea8abf377ab898f8509@am.atlassian.com>
+Delivered-To: dea.saka@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id wHUBFFL8WGMMEQEAUtWGkQ
+	(envelope-from <noreply+804f8147ae24946407f26d08c42d3d7ec17a5ea8abf377ab898f8509@am.atlassian.com>)
+	for <dea.saka@belajarblockchain.com>; Wed, 26 Oct 2022 16:22:26 +0700
+Return-path: <noreply+804f8147ae24946407f26d08c42d3d7ec17a5ea8abf377ab898f8509@am.atlassian.com>
+Envelope-to: dea.saka@belajarblockchain.com
+Delivery-date: Wed, 26 Oct 2022 16:22:26 +0700
+Received: from mta-81-127.sparkpostmail.com ([192.174.81.127]:52271)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <noreply+804f8147ae24946407f26d08c42d3d7ec17a5ea8abf377ab898f8509@am.atlassian.com>)
+	id 1onccB-000TOq-JD
+	for dea.saka@belajarblockchain.com;
+	Wed, 26 Oct 2022 16:22:26 +0700
+X-MSFBL: ATvOnCcM+/Y2Wdf/XgPybRay9GAKoUGmArLJBRmEpd0=|eyJtZXNzYWdlX2lkIjo
+	iNjM0ZjIyZmM1ODYzMDIxNDgxM2MiLCJjdXN0b21lcl9pZCI6IjEiLCJ0ZW5hbnR
+	faWQiOiJhdGxhc3NpYW51cyIsInIiOiJkZWEuc2FrYUBiZWxhamFyYmxvY2tjaGF
+	pbi5jb20iLCJzdWJhY2NvdW50X2lkIjoiMCJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=am.atlassian.com;
+	s=atl201804; t=1666776098; i=@am.atlassian.com;
+	bh=aHro4dYdRKFUIs8bsbvnkc9twmnVPp8b/6+fouoYxxg=;
+	h=To:Date:Content-Type:Message-ID:From:Subject:From:To:Cc:Subject;
+	b=gWzNZpW//Yb5DeyVfuhFyIcaPuZk8kvuO56LmtYqyqO9Pd8GGk3v+gVOwhT9rjHRH
+	 ctdrqfTwOYrxAV5PtlYFswiSqo8VSOvbx4XXF4n3lFNCRZa3o4RVAIvx85yBc5FgEn
+	 2y0QTa9+1nDWShG5A99lW/re17DYl9yB2XbNe8vs=
+To: dea.saka@belajarblockchain.com
+Date: Wed, 26 Oct 2022 09:21:38 +0000
+Content-Type: multipart/alternative; boundary="_----WDmsmt6lHOewEjF011lqFw===_F7/C3-26893-22CF8536"
+MIME-Version: 1.0
+X-Atlassian-Mail-Message-Id: <b0470fda-9f2c-4a92-bfb6-6526ee87c3b3@am.atlassian.com>
+X-Atlassian-Mail-Transaction-Id: b0470fda-9f2c-4a92-bfb6-6526ee87c3b3
+Message-ID: <b0470fda-9f2c-4a92-bfb6-6526ee87c3b3@am.atlassian.com>
+From: "Atlassian" <noreply+804f8147ae24946407f26d08c42d3d7ec17a5ea8abf377ab898f8509@am.atlassian.com>
+X-Auto-Response-Suppress: All
+Sender: noreply+804f8147ae24946407f26d08c42d3d7ec17a5ea8abf377ab898f8509@am.atlassian.com
+Subject: Verify your email for Atlassian
+Reply-To: "Atlassian" <noreply+804f8147ae24946407f26d08c42d3d7ec17a5ea8abf377ab898f8509@am.atlassian.com>
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi dea.saka, you're nearly there! Before you get started using
+    Atlassian products, let us know we've got the correct email for you. Your
+    Atlassian Account. Make things easier by using one account acro [...] 
+ Content analysis details:   (0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: atlassian.com]
+  0.3 FROM_LOCAL_HEX         From: localpart has long hexadecimal sequence
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+--_----WDmsmt6lHOewEjF011lqFw===_F7/C3-26893-22CF8536
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+Hi dea.saka, you're nearly there! Before you get started using Atlassian pr=
+oducts, let us know we've got the correct email for you. Your Atlassian Acc=
+ount. Make things easier by using one account across all of your Atlassian =
+products. Learn more. This message was sent to you by Atlassian Cloud.=0A=
+=0AAtlassian ( https://www.atlassian.com )=0A=0A********************=0AYou=
+=E2=80=99re nearly there!=0A********************=0A=0AHi dea.saka,=0A=0ATo =
+finish setting up your account and start using Atlassian products, confirm =
+we=E2=80=99ve got the correct email for you.=0A=0AVerify your email ( https=
+://id.atlassian.com/signup/welcome=3Fcontinue=3Dhttps%3A%2F%2Ftrello.com%2F=
+logout%3Fdsc%3D7bf96431cb4adde10ddab7c704a5ebcdd1a7e1112dcb167a994cea055ecd=
+8eab&token=3DeyJraWQiOiJtaWNyb3NcL3NpZ24taW4tc2VydmljZVwvYWdnMGZ0bzFzbnIwMG=
+9zZCIsImFsZyI6IlJTMjU2In0.eyJhdWQiOiJsaW5rLXNpZ25hdHVyZS12YWxpZGF0b3IiLCJzd=
+WIiOiJkZWEuc2FrYUBiZWxhamFyYmxvY2tjaGFpbi5jb20iLCJuYmYiOjE2NjY3NzYwOTcsInNj=
+b3BlIjoid2VsY29tZSIsImlzcyI6Im1pY3Jvc1wvc2lnbi1pbi1zZXJ2aWNlIiwicmVkaXJlY3R=
+UeXBlIjoic2lnbnVwIiwiZXhwIjoxNjY3MzgwODk3LCJpYXQiOjE2NjY3NzYwOTcsImp0aSI6Im=
+JkZDMzNmU1LTdlOGUtNDgzMy05M2IzLTZmNzg0ZDVjODZjYiJ9.b4_p0L03xgZmkEGGx0oRdDsT=
+YJ7ozWGa3_6ZQKKYgEWipD_tVfYosOzepJLIfOLOW2Cfg8FATl3-oSsaLN35g6WGdQSSOP6o1Bp=
+F1k95NLTVPAlWrq_mxD_z5U0TOm3nULsDSysuKf3lNzsHPRS7urJhVPh5VMGVpdRFGtQwKO58N4=
+LDWmHj6_5BFOaNleGu86J3K4Wl-7qNWUFFdIWiyxgbKSUjUlHX4eGBf5LZWq_ZD9OtS-P34hLiP=
+cLyc-Pb3fndk6OqCfGl9gKOo-NX0KFnGVRV2GTy9rHmLZadpES8_BmOPr89t6T05StTU4qkxcDX=
+-hfODI-wANvI__98rQ&source=3Df27c2f50974749ac8ffe229ba04f9564 )=0AYour Atlas=
+sian Account=0A=0AMake things easier by using one account across all of you=
+r Atlassian products. Learn more. ( https://confluence.atlassian.com/cloud/=
+your-atlassian-account-976161169.html )=0A=0AThis message was sent to you b=
+y Atlassian Cloud=0AAtlassian ( https://www.atlassian.com )
+--_----WDmsmt6lHOewEjF011lqFw===_F7/C3-26893-22CF8536
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>=0A<html><head><style type=3D"text/css">=0A/* CLIENT-SPECIFI=
+C STYLES */=0A#outlook a{padding:0;} /* Force Outlook to provide a "view in=
+ browser" message */=0A.ReadMsgBody{width:100%;} .ExternalClass{width:100%;=
+} /* Force Hotmail to display emails at full width */=0A.ExternalClass, .Ex=
+ternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td,=
+ .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal=
+ line spacing */=0Abody, table, td, a{-webkit-text-size-adjust:100%; -ms-te=
+xt-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default=
+ text sizes */=0Atable, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* =
+Remove spacing between tables in Outlook 2007 and up */=0Aimg{-ms-interpola=
+tion-mode:bicubic;} /* Allow smoother rendering of resized image in Interne=
+t Explorer */=0A/* RESET STYLES */=0Abody{margin:0; padding:0;}=0Aimg{borde=
+r:0; line-height:100%; outline:none; text-decoration:none;}=0Atable{border-=
+collapse:collapse !important;}=0Abody{height:100% !important; margin:0; pad=
+ding:0; width:100% !important;}=0A/* iOS BLUE LINKS */=0A.appleBody a {colo=
+r:#68440a; text-decoration: none;}=0A.appleFooter a {color:#999999; text-de=
+coration: none;}=0A</style></head><body style=3D"font-family:-apple-system,=
+BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Fira Sans,Droid Sans,Helve=
+tica Neue,sans-serif;font-size:14px;font-weight:400;letter-spacing:-0.005em=
+;color:#091E42;line-height:20px;background:#FFFFFF;margin-left:8px;margin-r=
+ight:8px"><span style=3D"display:none !important;visibility:hidden;mso-hide=
+:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0=
+px;opacity:0;overflow:hidden;position:absolute">Hi dea.saka, you&#x27;re ne=
+arly there! Before you get started using Atlassian products, let us know we=
+&#x27;ve got the correct email for you. Your Atlassian Account. Make things=
+ easier by using one account across all of your Atlassian products. Learn m=
+ore. This message was sent to you by Atlassian Cloud.</span><table width=3D=
+"100%" border=3D"0" cellSpacing=3D"0" cellPadding=3D"0"><tr><td align=3D"ce=
+nter"><div style=3D"max-width:520px;margin:0 auto"><div style=3D"vertical-a=
+lign:top;text-align:left;font-family:-apple-system,BlinkMacSystemFont,Segoe=
+ UI,Roboto,Oxygen,Ubuntu,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;fon=
+t-size:14px;font-weight:400;letter-spacing:-0.005em;color:#091E42;line-heig=
+ht:20px"><div style=3D"padding-top:30px;padding-bottom:20px;vertical-align:=
+top;text-align:center"><a href=3D"https://www.atlassian.com"><img src=3D"ht=
+tps://id-mail-assets.atlassian.com/shared/id-summit/id-summit-email_logo_36=
+0x80_NEW.png" height=3D"30" alt=3D"Atlassian" style=3D"align:center;border:=
+0"/></a></div><hr style=3D"margin-top:24px;margin-bottom:24px;border:0;bord=
+er-bottom:1px solid #C1C7D0"/><table width=3D"100%" border=3D"0" cellSpacin=
+g=3D"0" cellPadding=3D"0"><tr><td align=3D"center"><img src=3D"https://id-m=
+ail-assets.atlassian.com/template/aid_signup_welcome_verify_adg/people.png"=
+ height=3D"175" border=3D"0" alt=3D""/></td></tr></table><h1 style=3D"margi=
+n-bottom:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxy=
+gen,Ubuntu,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;font-size:24px;fo=
+nt-weight:500;letter-spacing:-0.01em;color:#172B4D;line-height:28px;margin-=
+top:40px">You=E2=80=99re nearly there!</h1><p style=3D"font-family:-apple-s=
+ystem,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Fira Sans,Droid Sans=
+,Helvetica Neue,sans-serif;font-size:14px;font-weight:400;letter-spacing:-0=
+=2E005em;color:#091E42;line-height:20px;margin-top:12px"><a style=3D"text-d=
+ecoration:none;color:inherit">Hi dea.saka,</a></p><p style=3D"font-family:-=
+apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Fira Sans,Dro=
+id Sans,Helvetica Neue,sans-serif;font-size:14px;font-weight:400;letter-spa=
+cing:-0.005em;color:#091E42;line-height:20px;margin-top:12px">To finish set=
+ting up your account and start using Atlassian products, confirm we=E2=80=
+=99ve got the correct email for you.</p><div style=3D"margin-top:28px"><a h=
+ref=3D"https://id.atlassian.com/signup/welcome=3Fcontinue=3Dhttps%3A%2F%2Ft=
+rello.com%2Flogout%3Fdsc%3D7bf96431cb4adde10ddab7c704a5ebcdd1a7e1112dcb167a=
+994cea055ecd8eab&token=3DeyJraWQiOiJtaWNyb3NcL3NpZ24taW4tc2VydmljZVwvYWdnMG=
+Z0bzFzbnIwMG9zZCIsImFsZyI6IlJTMjU2In0.eyJhdWQiOiJsaW5rLXNpZ25hdHVyZS12YWxpZ=
+GF0b3IiLCJzdWIiOiJkZWEuc2FrYUBiZWxhamFyYmxvY2tjaGFpbi5jb20iLCJuYmYiOjE2NjY3=
+NzYwOTcsInNjb3BlIjoid2VsY29tZSIsImlzcyI6Im1pY3Jvc1wvc2lnbi1pbi1zZXJ2aWNlIiw=
+icmVkaXJlY3RUeXBlIjoic2lnbnVwIiwiZXhwIjoxNjY3MzgwODk3LCJpYXQiOjE2NjY3NzYwOT=
+csImp0aSI6ImJkZDMzNmU1LTdlOGUtNDgzMy05M2IzLTZmNzg0ZDVjODZjYiJ9.b4_p0L03xgZm=
+kEGGx0oRdDsTYJ7ozWGa3_6ZQKKYgEWipD_tVfYosOzepJLIfOLOW2Cfg8FATl3-oSsaLN35g6W=
+GdQSSOP6o1BpF1k95NLTVPAlWrq_mxD_z5U0TOm3nULsDSysuKf3lNzsHPRS7urJhVPh5VMGVpd=
+RFGtQwKO58N4LDWmHj6_5BFOaNleGu86J3K4Wl-7qNWUFFdIWiyxgbKSUjUlHX4eGBf5LZWq_ZD=
+9OtS-P34hLiPcLyc-Pb3fndk6OqCfGl9gKOo-NX0KFnGVRV2GTy9rHmLZadpES8_BmOPr89t6T0=
+5StTU4qkxcDX-hfODI-wANvI__98rQ&source=3Df27c2f50974749ac8ffe229ba04f9564" s=
+tyle=3D"align-items:baseline;box-sizing:border-box;border-radius:3px;border=
+-width:0;border:none;display:inline-flex;font-style:normal;font-size:inheri=
+t;height:2.28571429em;line-height:2.28571429em;margin:0;outline:none;paddin=
+g:0 12px;text-align:center;user-select:none;vertical-align:middle;white-spa=
+ce:nowrap;text-decoration:none;background:#0052CC;color:#FFFFFF">Verify you=
+r email</a></div><hr style=3D"margin-top:24px;margin-bottom:24px;border:0;b=
+order-bottom:1px solid #C1C7D0"/><h4 style=3D"margin-bottom:0;font-family:-=
+apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Fira Sans,Dro=
+id Sans,Helvetica Neue,sans-serif;font-size:14px;font-weight:600;letter-spa=
+cing:-0.003em;color:#172B4D;line-height:16px;margin-top:16px">Your Atlassia=
+n Account</h4><p style=3D"font-family:-apple-system,BlinkMacSystemFont,Sego=
+e UI,Roboto,Oxygen,Ubuntu,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;fo=
+nt-size:14px;font-weight:400;letter-spacing:-0.005em;color:#091E42;line-hei=
+ght:20px;margin-top:12px">Make things easier by using one account across al=
+l of your Atlassian products. <a href=3D"https://confluence.atlassian.com/c=
+loud/your-atlassian-account-976161169.html" style=3D"border:none;background=
+:transparent;color:#0052CC;text-decoration:none">Learn more.</a></p><hr sty=
+le=3D"margin-top:24px;margin-bottom:24px;border:0;border-bottom:1px solid #=
+C1C7D0"/><div style=3D"color:#707070;font-size:13px;line-height:19px;text-a=
+lign:center;margin-top:10px"><table width=3D"100%" cellPadding=3D"0" cellSp=
+acing=3D"0" border=3D"0" bgcolor=3D"#ffffff" class=3D"table_shrink" align=
+=3D"center"><tr><td valign=3D"top" align=3D"center" style=3D"padding-top:10=
+px;line-height:18px;text-align:center;font-weight:none;font-size:12px;color=
+:#505F79"><span>This message was sent to you by Atlassian Cloud</span><br/>=
+</td></tr><tr valign=3D"top"><td align=3D"center" style=3D"padding-top:15px=
+;padding-bottom:30px"><a href=3D"https://www.atlassian.com" alias=3D"atlass=
+ian footer logo"><img src=3D"https://id-mail-assets.atlassian.com/shared/id=
+-summit/id-summit-logo-email-footer.png" width=3D"114" border=3D"0" alt=3D"=
+Atlassian" style=3D"display:block;color:#4c9ac9"/></a></td></tr></table></d=
+iv></div></div></td></tr></table>=0D=0A<img border=3D"0" width=3D"1" height=
+=3D"1" alt=3D"" src=3D"http://atlassian.et.e.sparkpost.com/q/TCXcbG5_S_ZTLU=
+z6ytemKQ~~/AAAAAQA~/RgRlO4EiPlcLYXRsYXNzaWFudXNCCmNPIvxYYwIUgTxSHmRlYS5zYWt=
+hQGJlbGFqYXJibG9ja2NoYWluLmNvbVgEAAAAAA~~">=0D=0A</body></html>
+--_----WDmsmt6lHOewEjF011lqFw===_F7/C3-26893-22CF8536--
+

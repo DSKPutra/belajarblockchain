@@ -1,0 +1,102 @@
+Return-Path: <bounces+us.1.2688997.-1-support=alpjharesnique.freshdesk.com@emailus.freshdesk.com>
+Delivered-To: cs@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id CBB8AhSA6GMPLwIAUtWGkQ
+	(envelope-from <bounces+us.1.2688997.-1-support=alpjharesnique.freshdesk.com@emailus.freshdesk.com>)
+	for <cs@belajarblockchain.com>; Sun, 12 Feb 2023 12:58:44 +0700
+Return-path: <bounces+us.1.2688997.-1-support=alpjharesnique.freshdesk.com@emailus.freshdesk.com>
+Envelope-to: cs@belajarblockchain.com
+Delivery-date: Sun, 12 Feb 2023 12:58:44 +0700
+Received: from mail-us26.freshemail.io ([3.219.176.101]:56887)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+	(Exim 4.95)
+	(envelope-from <bounces+us.1.2688997.-1-support=alpjharesnique.freshdesk.com@emailus.freshdesk.com>)
+	id 1pR5Nj-000lG8-La
+	for cs@belajarblockchain.com;
+	Sun, 12 Feb 2023 12:58:43 +0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=simple/relaxed; t=1676181515;
+	s=fdusmail; d=freshdesk.com;
+	h=MIME-Version:Date:From:Reply-To:To:Message-ID:Subject:Content-Type:Content-Transfer-Encoding;
+	bh=SKSrR+uUcGLLk1TRgifqNeldEDFX4DUBviaVQ1bqf4Y=;
+	b=TN1M+xIgTEZWbBWnrXhQysc8jrYZYvZSOwk7gmuCLbYvu9Jx2Q6jqgWgb+PgjuRw
+	9QxKKbKwxkYGieJGWfufUsfdZhaBbpngEx+uoBtaHo3meNjNfTMftuUcdgixfMENLT3
+	nFA2SJ1ba57CWK/o9XVvuB6ilFN7A+K/YweqVJZsDEeISx2yp8YXVxexlKTeDlj6x6J
+	InflPUVsM5Sle+kLoVAR1Qr/ew16BTBRIIPdRG1tE/mPm/X4daSjAT18o4RapxS5Ia3
+	OTqBvqjejgo8kh/xx2na4PtwyjlOXMWKFp+MCs6z7AHGYSHOSMeaZukwrF+thPp5R7r
+	Z0NscV7JYw==
+MIME-Version: 1.0
+X-Received: from ip-172-16-106-173.ec2.internal (EHLO freshdesk.com) ([172.16.106.173])
+          by smtpout.freshdesk.com (Freshworks SMTP Server) with ESMTPA ID 1385192571.161
+          for <cs@belajarblockchain.com>;
+          Sun, 12 Feb 2023 05:57:52 +0000 (UTC)
+Date: Sun, 12 Feb 2023 05:57:52 +0000
+From: =?UTF-8?B?TdC1dNCwbdCwc2s=?= <support@alpjharesnique.freshdesk.com>
+Reply-To: =?UTF-8?B?TdC1dNCwbdCwc2s=?= <support@alpjharesnique.freshdesk.com>
+To: cs@belajarblockchain.com
+Message-ID: <63e87fe014fac_1c42ac267a5cd9c485435bd@sidekiq-frequent-fd-poduseast1-main-green-6f5cd97645-cnsmz.mail>
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_63e87fe01106d_1c42ac267a5cd9c485434ea";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+sent-on: 2023-02-12 11:27:52 +0530
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: DR, RN, OOF, AutoReply
+X-FUP-PRIORITY: 5
+X-MESSAGEID: BeHWxAG9nxjsOnoxJz5VWeFNfI4YsRLaNOvySTqh4t3NQzGjbucO1KZOgKDbz8ihjdk69/KZyQy7ahzsQiAAwS6/0FIjlg81AUXCQvApaGBhmeVYW3qgLeS3ZiuCWlhq8mumcc/CDna9d+IpADRUeXDmgLbdhqJrralo8+56UHA=
+X-Spam-Status: Yes, score=5.5
+X-Spam-Score: 55
+X-Spam-Bar: +++++
+X-Spam-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  
+ Content analysis details:   (5.5 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: freshdesk.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.6 HTML_IMAGE_ONLY_12     BODY: HTML: images with 800-1200 bytes of
+                             words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_MOSTLY       BODY: Multipart message mostly text/html MIME
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+  2.3 EMPTY_MESSAGE          Message appears to have no textual parts
+  0.3 HTML_SHORT_LINK_IMG_2  HTML is very short with a linked image
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+ -0.0 DKIMWL_WL_MED          DKIMwl.org - Medium trust sender
+X-Spam-Flag: YES
+Subject:  ***SPAM***  New Message (1) Notif: 571f0
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+
+----==_mimepart_63e87fe01106d_1c42ac267a5cd9c485434ea
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_63e87fe01106d_1c42ac267a5cd9c485434ea
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<div style="font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif; font-size:14px;">
+	<div dir="ltr"><p><a href="https://link.pipefy.com/ls/click?upn=TgWePD8ytSjAIHg98O4xmbiJW8cpPvKXxGhdVWfAoiOUB-2FUqT-2FcJ-2F72MJzIh2Q3Wbnzb_IJI3TIMdvQEJ52Q-2B9uoG6lUItXcajVaOqbNFGSt9HVZQ-2FXBhFOjd92LV3h5kd7ph8IbpSzPPtGFwGsr5PsSirket4DjQAdxBjWZQbJNg3SVTVV-2F2ZJKE4OdI-2Bq7PTVMoQjVAeoswacclWjLhODcNOrFSghSenH2SszhCWMAr2zqqr8UrKf9YWOa1LCGlRDjrqBz3rpp4dYTGONg2-2FvYdt67m49AnSltZGRpkU2UfVEuErJ22FN614MXmWsezElU1"><img src="https://app-storage-service.pipefy.com/v1/signed/orgs/756dbb7d-29d7-48d9-889e-46bf55aeb182/uploads/6cf268c3-9588-4ace-a7ed-480e26a3476b/ksks.PNG?signature=%2BYlYl53fyo3TvAjhtfpAr%2BDkHhpUVs5%2FpDIbNy1rlaI%3D" data-pfy-path-url="orgs/756dbb7d-29d7-48d9-889e-46bf55aeb182/uploads/6cf268c3-9588-4ace-a7ed-480e26a3476b/ksks.PNG"></a><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p></div>
+<br/>
+
+
+</div>
+----==_mimepart_63e87fe01106d_1c42ac267a5cd9c485434ea--

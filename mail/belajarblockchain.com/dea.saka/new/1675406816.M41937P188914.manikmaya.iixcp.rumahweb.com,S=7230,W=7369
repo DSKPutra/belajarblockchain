@@ -1,0 +1,139 @@
+Return-Path: <shambhavi@letsdeel.co>
+Delivered-To: dea.saka@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id GCoWAuCt3GPy4QIAUtWGkQ
+	(envelope-from <shambhavi@letsdeel.co>)
+	for <dea.saka@belajarblockchain.com>; Fri, 03 Feb 2023 13:46:56 +0700
+Return-path: <shambhavi@letsdeel.co>
+Envelope-to: dea.saka@belajarblockchain.com
+Delivery-date: Fri, 03 Feb 2023 13:46:56 +0700
+Received: from mail-vs1-xe34.google.com ([2607:f8b0:4864:20::e34]:42856)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <shambhavi@letsdeel.co>)
+	id 1pNpqT-000FQz-B7
+	for dea.saka@belajarblockchain.com;
+	Fri, 03 Feb 2023 13:46:55 +0700
+Received: by mail-vs1-xe34.google.com with SMTP id d66so4375588vsd.9
+        for <dea.saka@belajarblockchain.com>; Thu, 02 Feb 2023 22:46:25 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=letsdeel-co.20210112.gappssmtp.com; s=20210112;
+        h=to:subject:message-id:date:mime-version:from:user-agent:in-reply-to
+         :references:from:to:cc:subject:date:message-id:reply-to;
+        bh=kCN82ANI0lqGs6CPajlu65L7TznaqSqtWHKDhIbhNEo=;
+        b=WnQ9bimMBWTwDDcVBxDGd6Dl/Fmolgwi8onrgOsDJgWHXuW/0/9x8Tp+L7dbZlykdQ
+         hxVyFoYn3bkn3aV4yOh+tHB1hT2TJZtIG5Z03jzjo117XpcciOzl3inT6ufxiItf3K0I
+         tB7LBuNTEOdD4RCawMoITV5EPQVOsqEEZkfq09hId4bsSTU8szTogsQ1LrWy3NjjpieF
+         RfbNbI7epTsNJuxOkAvO4PCWf6pFqSW8fSOdhKzByI0xwtYbYHMaK0nh8NhSBmyjPC+r
+         yEQNHtpVHvB1AJH3ZgoH0yhwyzdsviaDkN+ucfn+Kgnve1f2B+AU0C6yZvoVF5B5/mQm
+         SIFg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:mime-version:from:user-agent:in-reply-to
+         :references:x-gm-message-state:from:to:cc:subject:date:message-id
+         :reply-to;
+        bh=kCN82ANI0lqGs6CPajlu65L7TznaqSqtWHKDhIbhNEo=;
+        b=gQDQ9C+N/XpDME7/Cg8GD3NO9PdQ99AAYH4jxzHnZp3X7gvWUQz/p6zuipjNJV2cGw
+         OLqYU0WsoSm6i5x3x/RpfdrDb4rNz/VYdreIClz3CLXVSnr0o4cDb/0M7+JV76WzoSpq
+         qLy4iDADaC5FqYkMm04I06WvmsDXEpT9g9nzsJQ24v5Jg3twgmB8GeFjkBbAlGAqq2yS
+         ORD+hNs/4zFkUcv7xQGvyg+u8cbPJQ0Oqne8gJGzX3s4yMgEq5iqNLuJqeur109d6hC0
+         IfQ4na2QlbeKHRsisoqrZft2yN3IkIJlUvQ1q3ou8iC2OMfcoO2483grqkDhRoa13Xq4
+         pTkg==
+X-Gm-Message-State: AO0yUKUYNjnUOv5cBOA/AbJa7go/rLcgFRgeXbDocCM36Zu22IVcYIgx
+	gDw0VBeRAo+ZO+CwUehOUFDY1urw4GepV03wB+rZUuQmeBG/Gg==
+X-Google-Smtp-Source: AK7set9tWspWYsNtXqpOMz//exk2tx8N2llDxv+1nz9UGFPyiaa9N6lHR+O3/MwYouftfNC5uPmKLQvQUy+uyCcM108=
+X-Received: by 2002:a05:6102:5616:b0:3fc:58d:f90f with SMTP id
+ de22-20020a056102561600b003fc058df90fmr1580124vsb.60.1675406763213; Thu, 02
+ Feb 2023 22:46:03 -0800 (PST)
+Received: from 341605307468 named unknown by gmailapi.google.com with
+ HTTPREST; Thu, 2 Feb 2023 22:46:02 -0800
+References: <CA+--Cq+42Tu1Wq2Hi9n9gFCbPxnRWUm_dXrjc3Ts9TmMjG3=MQ@mail.gmail.com>
+In-Reply-To: <CA+--Cq+42Tu1Wq2Hi9n9gFCbPxnRWUm_dXrjc3Ts9TmMjG3=MQ@mail.gmail.com>
+Received: from 232.148.202.35.bc.googleusercontent.com (232.148.202.35.bc.googleusercontent.com
+ [35.202.148.232]) by api.nylas.com (Nylas) with HTTPREST id
+ 1azhbv8h0lgtre20nl1g43ual-0; Fri, 03 Feb 2023 06:46:02 +0000 (UTC)
+User-Agent: Nylas-Amplemarket/18.1.0
+X-Inbox-Id: 1azhbv8h0lgtre20nl1g43ual-0
+From: Shambhavi Swarup <shambhavi@letsdeel.co>
+Mime-Version: 1.0
+Date: Thu, 2 Feb 2023 22:46:02 -0800
+Message-ID: <CA+--CqLmttj_VDdKhpcSe42SQmP3pgskArxdkN3GX4JQe52OAQ@mail.gmail.com>
+Subject: Re: Belajar Blockchain <> Deel : Go Global at Rocket Speed
+To: dea.saka@belajarblockchain.com
+Content-Type: multipart/alternative; boundary="000000000000f9e25d05f3c60860"
+X-Spam-Status: No, score=1.6
+X-Spam-Score: 16
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hello Dea Just following up on the email I sent earlier. I'd
+    love for you to explore our platform and show you how we can help Belajar
+    Blockchain scale internationally. 
+ Content analysis details:   (1.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: letsdeel.co]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.6 HTML_IMAGE_ONLY_12     BODY: HTML: images with 800-1200 bytes of
+                             words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+--000000000000f9e25d05f3c60860
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Dea
+
+Just following up on the email I sent earlier.
+
+I'd love for you to explore our platform and show you how we can help
+Belajar Blockchain scale internationally.
+
+Is there a suitable time for me to call sometime today or in the next few
+days?
+
+I look forward to speaking with you soon.
+
+Have a great day.
+
+Thanks and Regards,
+*Shambhavi Swarup*
+Expansion| ASEAN @ Deel
+Payroll and compliance for remote teams
++91 9899206187|
+
+--000000000000f9e25d05f3c60860
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div><span style=3D"color:rgb(24,24,24)">Hello Dea</span></div><div><br></d=
+iv><div><span style=3D"color:rgb(24,24,24)">Just following up on the email =
+I sent earlier.</span></div><div><br></div><div><span style=3D"color:rgb(24=
+,24,24)">I&#39;d love for you to explore our platform and show you how we c=
+an help Belajar Blockchain scale internationally.</span></div><div><br></di=
+v><div><span style=3D"color:rgb(24,24,24)">Is there a suitable time for me =
+to call sometime today or in the next few days?</span></div><div><br></div>=
+<div><span style=3D"color:rgb(24,24,24)">I look forward to speaking with yo=
+u soon.</span></div><div><br></div><div><span style=3D"color:rgb(24,24,24)"=
+>Have a great day.</span></div><br><div>Thanks and Regards,</div><div><stro=
+ng>Shambhavi Swarup</strong></div><div><span style=3D"color:rgb(29,28,29);b=
+ackground-color:rgb(248,248,248)">Expansion| ASEAN @ Deel</span></div><div>=
+<span style=3D"color:rgb(29,28,29);background-color:rgb(248,248,248)">Payro=
+ll and compliance for remote teams</span><img src=3D"http://amplemarket_tra=
+cking.letsdeel.co/t/3399/19948942"></div><div><span style=3D"color:rgb(29,2=
+8,29);background-color:rgb(248,248,248)">+91 9899206187|</span></div>
+
+--000000000000f9e25d05f3c60860--

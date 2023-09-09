@@ -1,0 +1,538 @@
+Return-Path: <postmaster@cio51677.buffermail.com>
+Delivered-To: adek.muhammad@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id mPMROojik2M16QIAUtWGkQ
+	(envelope-from <postmaster@cio51677.buffermail.com>)
+	for <adek.muhammad@belajarblockchain.com>; Sat, 10 Dec 2022 08:36:08 +0700
+Return-path: <postmaster@cio51677.buffermail.com>
+Envelope-to: adek.muhammad@belajarblockchain.com
+Delivery-date: Sat, 10 Dec 2022 08:36:08 +0700
+Received: from m193-5.mailgun.net ([161.38.193.5]:31984)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <postmaster@cio51677.buffermail.com>)
+	id 1p3omY-0004It-Iy
+	for adek.muhammad@belajarblockchain.com;
+	Sat, 10 Dec 2022 08:36:08 +0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=cio51677.buffermail.com;
+ q=dns/txt; s=krs; t=1670636116; x=1670643316; h=Message-Id:
+ List-Unsubscribe: To: To: From: From: Subject: Subject: Content-Type:
+ Mime-Version: Date: Sender;
+ bh=f6QJKzJHX/zsLacutv1FiQEEi2++fh838WExvsXzjKY=; b=MiZSCI4/Ujr4UF3e3h6CPT+LlZH9gOF4yFvKHRB3gmIZxYjSN3arxSEm3e7T/0BrTjfjOY2x
+ 53VTBsOVka5LthEMARttaqLmGtI0tgSvvlsdbhsag1rgVgwVqMi7qkQqeQ3iE9M0oTjqGcWI
+ iGSIXf/0YFbQWM4KQBJeOeTHeP0=
+X-Mailgun-Sending-Ip: 161.38.193.5
+X-Mailgun-Sid: WyJjZGZlZSIsImFkZWsubXVoYW1tYWRAYmVsYWphcmJsb2NrY2hhaW4uY29tIiwiMGZmNjFjIl0=
+Received: from <unknown> (<unknown> []) by 962c8b5bfd80 with HTTP id
+ 6393e25493412d85717b957e; Sat, 10 Dec 2022 01:35:16 GMT
+Date: Sat, 10 Dec 2022 01:35:16 +0000
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="8f6a0e413e62dbac37003dfdbeec66dd250d122eee93eaf0e41ded5bfdf9"
+Subject: =?UTF-8?q?Create_a_beautiful_landing_page_for_your_brand_(in_60_seconds)_?=
+ =?UTF-8?q?=F0=9F=8E=A8?=
+From: Juliet from Buffer <onboarding@buffermail.com>
+To: adek.muhammad@belajarblockchain.com
+X-Mailgun-Dkim: true
+X-Mailgun-Native-Send: true
+X-Mailgun-Track-Clicks: false
+X-Mailgun-Track-Opens: false
+List-Unsubscribe: <mailto:32.MRTVG33RKFKUCQKOKAYHIQLOKI4UYUKKIFMVINLSIJVXC2LGOBGXCYRWJE4EI6SCLFAT2PI=@unsubscribe2.customer.io>,
+ <https://e.customeriomail.com/unsubscribe/dgSoqQUAANP0tAnR9LQJAYT5rBkqifpMqb6I8DzBYA==>
+X-Mailer: Customer.io (dgSoqQUAANP0tAnR9LQJAYT5rBkqifpMqb6I8DzBYA==;
+ +https://whatis.customeriomail.com)
+X-Report-Abuse-To: badactor@customer.io
+X-Mailgun-Variables: {"email_id": "dgSoqQUAANP0tAnR9LQJAYT5rBkqifpMqb6I8DzBYA=="}
+Message-Id: <20221210013516.4917ac0e814a9822@cio51677.buffermail.com>
+X-Spam-Status: No, score=0.7
+X-Spam-Score: 7
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Buffer ( https://publish.buffer.com/calendar/week/?utm_source=publish-free&utm_medium=email&utm_campaign=day5-inspiration-free&utm_content=cdu&utm_campaign=Buffer%3A+Free+Onboarding&utm_content=Day+5%
+    [...] 
+ Content analysis details:   (0.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: fonts.googleapis.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.7 URI_TRY_3LD            "Try it" URI, suspicious hostname
+  0.0 UNPARSEABLE_RELAY      Informational: message has unparseable relay
+                             lines
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+--8f6a0e413e62dbac37003dfdbeec66dd250d122eee93eaf0e41ded5bfdf9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+Buffer ( https://publish.buffer.com/calendar/week/?utm_source=3Dpublish-fre=
+e&utm_medium=3Demail&utm_campaign=3Dday5-inspiration-free&utm_content=3Dcdu=
+&utm_campaign=3DBuffer%3A+Free+Onboarding&utm_content=3DDay+5%3A+Resources+=
+%28Variant%29&utm_medium=3Demail_action&utm_source=3Dcustomer.io )Hi there!
+
+=C2=A0
+
+A lot of creators and small business owners struggle with letting their aud=
+ience know about all their latest updates, content, and links. With Start P=
+age ( https://start-page.buffer.com/?utm_campaign=3DBuffer%3A+Free+Onboardi=
+ng&utm_content=3DDay+5%3A+Resources+%28Variant%29&utm_medium=3Demail_action=
+&utm_source=3Dcustomer.io ) (our landing page tool), you can consolidate al=
+l your links and updates into one single place:
+
+=C2=A0
+
+=F0=9F=94=97 Showcase links to your best selling products or most clicked c=
+ontent
+
+=E2=98=8E=EF=B8=8F Promote a call to action with our colourful blocks and b=
+uttons
+
+=F0=9F=93=B8 Add photos, videos, and GIFs to make your page pop
+
+=F0=9F=93=B9 Promote your latest YouTube video
+
+=F0=9F=8E=B5 Embed your Spotify songs and podcasts
+
+=C2=A0
+
+Use one of our 16 pre-made template or start from scratch and choose your p=
+referred theme, colours, and font packs to make your page stand out from th=
+e crowd.
+
+Create your unique page ( https://start-page.buffer.com/?utm_campaign=3DBuf=
+fer%3A+Free+Onboarding&utm_content=3DDay+5%3A+Resources+%28Variant%29&utm_m=
+edium=3Demail_action&utm_source=3Dcustomer.io )
+JulietJuliet's signature=E2=80=8A
+Instagram ( https://start-page.buffer.com/?utm_campaign=3DBuffer%3A+Free+On=
+boarding&utm_content=3DDay+5%3A+Resources+%28Variant%29&utm_medium=3Demail_=
+action&utm_source=3Dcustomer.io )Facebook ( https://www.facebook.com/buffer=
+app?utm_campaign=3DBuffer%3A+Free+Onboarding&utm_content=3DDay+5%3A+Resourc=
+es+%28Variant%29&utm_medium=3Demail_action&utm_source=3Dcustomer.io )Twitte=
+r ( https://twitter.com/buffer?utm_campaign=3DBuffer%3A+Free+Onboarding&utm=
+_content=3DDay+5%3A+Resources+%28Variant%29&utm_medium=3Demail_action&utm_s=
+ource=3Dcustomer.io )
+Pinterest ( https://www.pinterest.com/bufferapp?utm_campaign=3DBuffer%3A+Fr=
+ee+Onboarding&utm_content=3DDay+5%3A+Resources+%28Variant%29&utm_medium=3De=
+mail_action&utm_source=3Dcustomer.io )TikTok ( https://www.tiktok.com/@buff=
+erapp?utm_campaign=3DBuffer%3A+Free+Onboarding&utm_content=3DDay+5%3A+Resou=
+rces+%28Variant%29&utm_medium=3Demail_action&utm_source=3Dcustomer.io )
+Help Center ( https://support.buffer.com/hc/en-us?utm_source=3Dpublish-free=
+&utm_medium=3Demail&utm_campaign=3Dday5-inspiration-free&utm_campaign=3DBuf=
+fer%3A+Free+Onboarding&utm_content=3DDay+5%3A+Resources+%28Variant%29&utm_m=
+edium=3Demail_action&utm_source=3Dcustomer.io ) =C2=A0 =C2=A0| =C2=A0 Blog =
+( https://buffer.com/resources/?utm_source=3Dpublish-free&utm_medium=3Demai=
+l&utm_campaign=3Dday5-inspiration-free&utm_campaign=3DBuffer%3A+Free+Onboar=
+ding&utm_content=3DDay+5%3A+Resources+%28Variant%29&utm_medium=3Demail_acti=
+on&utm_source=3Dcustomer.io ) =C2=A0 =C2=A0| =C2=A0 =C2=A0Log in ( https://=
+publish.buffer.com/calendar/week?utm_source=3Dpublish-free&utm_medium=3Dema=
+il&utm_campaign=3Dday5-inspiration-free&utm_content=3Dcdu&utm_campaign=3DBu=
+ffer%3A+Free+Onboarding&utm_content=3DDay+5%3A+Resources+%28Variant%29&utm_=
+medium=3Demail_action&utm_source=3Dcustomer.io )
+
+=C2=A0
+=C2=A0
+=C2=A0
+Sent by the team at Buffer
+2443 Fillmore St #380-7163 San Francisco, CA 94115 USA
+=C2=A0
+
+=C2=A0
+=C2=A0
+Unsubscribe from product emails ( https://buffer.com/unsubscribe/newsletter=
+Notifications/638fec9ab44ffe5ac184e0e7/12486bb3dab6100dd491fda068b25a9bd8a9=
+f5dd?utm_campaign=3DBuffer%3A+Free+Onboarding&utm_content=3DDay+5%3A+Resour=
+ces+%28Variant%29&utm_medium=3Demail_action&utm_source=3Dcustomer.io )=C2=
+=A0| Unsubscribe from all emails ( http://track.customer.io/unsubscribe/dgS=
+oqQUAANP0tAnR9LQJAYT5rBkqifpMqb6I8DzBYA=3D=3D )
+--8f6a0e413e62dbac37003dfdbeec66dd250d122eee93eaf0e41ded5bfdf9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html><html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"u=
+rn:schemas-microsoft-com:office:office" lang=3D"en"><head><title></title><m=
+eta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"/><me=
+ta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1"/><!=
+--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerI=
+nch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[if !mso]=
+><!--><link href=3D"https://fonts.googleapis.com/css?family=3DRoboto" rel=
+=3D"stylesheet" type=3D"text/css"/><!--<![endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}@me=
+dia (max-width:570px){.social_block.desktop_hide .social-table{display:inli=
+ne-block!important}.image_block img.big,.row-content{width:100%!important}.=
+mobile_hide{display:none}.stack .column{width:100%;display:block}.mobile_hi=
+de{min-height:0;max-height:0;max-width:0;overflow:hidden;font-size:0}.deskt=
+op_hide,.desktop_hide table{display:table!important;max-height:none!importa=
+nt}}
+</style></head><body style=3D"background-color:#fff;margin:0;padding:0;-web=
+kit-text-size-adjust:none;text-size-adjust:none"><div style=3D"display: non=
+e; max-height: 0px; overflow: hidden; mso-hide:all;">Yes, really! In less t=
+han a minute.</div><div style=3D"display: none; max-height: 0px; overflow: =
+hidden; mso-hide:all;">=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0<=
+/div><table class=3D"nl-container" width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;=
+mso-table-rspace:0;background-color:#fff"><tbody><tr><td><table class=3D"ro=
+w row-1" align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-=
+rspace:0;background-color:#2c4bff">
+<tbody><tr><td><table class=3D"row-content stack" align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"m=
+so-table-lspace:0;mso-table-rspace:0;background-color:#2c4bff;color:#000;wi=
+dth:550px" width=3D"550"><tbody><tr><td class=3D"column column-1" width=3D"=
+100%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-a=
+lign:left;vertical-align:top;padding-top:5px;padding-bottom:5px;border-top:=
+0;border-right:0;border-bottom:0;border-left:0"><table class=3D"text_block =
+block-1" width=3D"100%" border=3D"0" cellpadding=3D"10" cellspacing=3D"0" r=
+ole=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;word-br=
+eak:break-word"><tbody><tr><td class=3D"pad"><div style=3D"font-family:sans=
+-serif"><div class=3D"" style=3D"font-size:12px;mso-line-height-alt:14.3999=
+99999999999px;color:#555;line-height:1.2;font-family:Roboto,Tahoma,Verdana,=
+Segoe,sans-serif"><p style=3D"margin:0;mso-line-height-alt:14.3999999999999=
+99px">=C2=A0</p></div></div></td></tr></tbody></table></td></tr></tbody>
+</table></td></tr></tbody></table><table class=3D"row row-2" align=3D"cente=
+r" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"=
+presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;background-col=
+or:#2c4bff"><tbody><tr><td><table class=3D"row-content stack" align=3D"cent=
+er" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" =
+style=3D"mso-table-lspace:0;mso-table-rspace:0;background-color:#fff;color:=
+#333;width:550px" width=3D"550"><tbody><tr><td class=3D"column column-1" wi=
+dth=3D"33.333333333333336%" style=3D"mso-table-lspace:0;mso-table-rspace:0;=
+font-weight:400;text-align:left;vertical-align:top;border-top:0;border-righ=
+t:0;border-bottom:0;border-left:0"><table class=3D"image_block block-2" wid=
+th=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presen=
+tation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td clas=
+s=3D"pad" style=3D"padding-bottom:60px;padding-left:50px;padding-top:45px;w=
+idth:100%;padding-right:0"><div class=3D"alignment" align=3D"left" style=3D=
+"line-height:10px"><a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9p=
+ZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlUNXJCa3FpZnBNcWI2SThEekJZQT09IiwiaHJlZiI=
+6Imh0dHBzOi8vcHVibGlzaC5idWZmZXIuY29tL2NhbGVuZGFyL3dlZWsvP3V0bV9zb3VyY2U9cH=
+VibGlzaC1mcmVlXHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9jYW1wYWlnbj1kYXk1L=
+Wluc3BpcmF0aW9uLWZyZWVcdTAwMjZ1dG1fY29udGVudD1jZHVcdTAwMjZ1dG1fY2FtcGFpZ249=
+QnVmZmVyJTNBK0ZyZWUrT25ib2FyZGluZ1x1MDAyNnV0bV9jb250ZW50PURheSs1JTNBK1Jlc29=
+1cmNlcyslMjhWYXJpYW50JTI5XHUwMDI2dXRtX21lZGl1bT1lbWFpbF9hY3Rpb25cdTAwMjZ1dG=
+1fc291cmNlPWN1c3RvbWVyLmlvIiwiaW50ZXJuYWwiOiJhOGE5MDU5MjA1ZjEwOWQzZjRiNDA5I=
+iwibGlua19pZCI6ODI4M30/459fde338e6268c2cb04097fe20a32e8f1e422cde4df992ca7a8=
+f4e33680690b" target=3D"_blank" style=3D"outline:none" tabindex=3D"-1"><img=
+ src=3D"https://userimg-bee.customeriomail.com/images/client-env-87208/buff=
+er-logo@2x.png" style=3D"display:block;height:auto;border:0;width:128px;max=
+-width:100%" width=3D"128" alt=3D"Buffer" title=3D"Buffer"/></a></div></td>=
+</tr></tbody></table></td><td class=3D"column column-2" width=3D"66.6666666=
+6666667%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;te=
+xt-align:left;vertical-align:top;border-top:0;border-right:0;border-bottom:=
+0;border-left:0"><table class=3D"empty_block block-2" width=3D"100%" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"m=
+so-table-lspace:0;mso-table-rspace:0"><tbody><tr><td class=3D"pad" style=3D=
+"padding-right:0;padding-bottom:5px;padding-left:0;padding-top:5px"><div></=
+div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody><=
+/table><table class=3D"row row-3" align=3D"center" width=3D"100%" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-=
+table-lspace:0;mso-table-rspace:0;background-color:#2c4bff"><tbody><tr><td>=
+<table class=3D"row-content stack" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0=
+;mso-table-rspace:0;background-color:#fff;color:#333;width:550px" width=3D"=
+550"><tbody><tr><td class=3D"column column-1" width=3D"100%" style=3D"mso-t=
+able-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-a=
+lign:top;padding-top:0;padding-bottom:0;border-top:0;border-right:0;border-=
+bottom:0;border-left:0"><table class=3D"text_block block-1" width=3D"100%" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" styl=
+e=3D"mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tbody><t=
+r><td class=3D"pad" style=3D"padding-bottom:5px;padding-left:40px;padding-r=
+ight:35px;padding-top:5px"><div style=3D"font-family:Tahoma,Verdana,sans-se=
+rif"><div class=3D"" style=3D"font-size:12px;font-family:Roboto,Tahoma,Verd=
+ana,Segoe,sans-serif;mso-line-height-alt:21.6px;color:#231f20;line-height:1=
+=2E8"><p style=3D"margin:0;font-size:15p=
+x;mso-line-height-alt:27px"><span sty=
+le=3D"font-size:15px;">Hi there!</span></p><p style=3D"margin:0;font-size:1=
+5px;mso-line-height-alt:21.6px">=C2=A0</p><p style=3D"margin:0;font-size:15=
+px;mso-line-height-alt:27px">
+<span style=3D"font-size:15px;">A lot of creators and small business owners=
+ struggle with letting their audience know about all their latest updates, =
+content, and links. With <a href=3D"https://e.customeriomail.com/e/c/eyJlbW=
+FpbF9pZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlUNXJCa3FpZnBNcWI2SThEekJZQT09Iiwia=
+HJlZiI6Imh0dHBzOi8vc3RhcnQtcGFnZS5idWZmZXIuY29tLz91dG1fY2FtcGFpZ249QnVmZmVy=
+JTNBK0ZyZWUrT25ib2FyZGluZ1x1MDAyNnV0bV9jb250ZW50PURheSs1JTNBK1Jlc291cmNlcys=
+lMjhWYXJpYW50JTI5XHUwMDI2dXRtX21lZGl1bT1lbWFpbF9hY3Rpb25cdTAwMjZ1dG1fc291cm=
+NlPWN1c3RvbWVyLmlvIiwiaW50ZXJuYWwiOiJhOGE5MDU5MjA1ZjEwOWQzZjRiNDA5IiwibGlua=
+19pZCI6NzI1MH0/fc12e1c1aa6b68821eea7bdfd088aff9a3b313864a92ab650dbfff234764=
+bdd9" target=3D"_blank" style=3D"text-decoration: underline; color: #2c4bff=
+;" rel=3D"noopener">Start Page</a> (our landing page tool), you can consoli=
+date all your links and updates into one single place:</span></p><p style=
+=3D"margin:0;font-size:15px;mso-line-height-alt:21.6px">=C2=A0</p><p style=
+=3D"margin:0;font-size:15px;mso-line-height-alt:27px"><span style=3D"font-s=
+ize:15px;">=F0=9F=94=97 Showcase links to your best selling products or mos=
+t clicked content</span></p><p style=3D"margin:0;font-size:15px;mso-line-he=
+ight-alt:27px"><span style=3D"font-size:15px;">=E2=98=8E=EF=B8=8F Promote a=
+ call to action with our colourful blocks and buttons</span></p><p style=3D=
+"margin:0;font-size:15px;mso-line-height-alt:27px">
+<span style=3D"font-size:15px;">=F0=9F=93=B8 Add photos, videos, and GIFs t=
+o make your page pop</span></p><p style=3D"margin:0;font-size:15px;mso-line=
+-height-alt:27px"><span style=3D"font-size:15px;">=F0=9F=93=B9 Promote your=
+ latest YouTube video</span></p><p style=3D"margin:0;font-size:15px;mso-lin=
+e-height-alt:27px"><span style=3D"font-size:15px;">=F0=9F=8E=B5 Embed your =
+Spotify songs and podcasts</span></p><p style=3D"margin:0;font-size:15px;ms=
+o-line-height-alt:21.6px">=C2=A0</p><p style=3D"margin:0;font-size:15px;mso=
+-line-height-alt:27px"><span style=3D"font-size:15px;">Use one of our 16 pr=
+e-made template or start from scratch and choose your preferred theme, colo=
+urs, and font packs to make your page stand out from the crowd.</span></p><=
+/div></div></td></tr></tbody></table><table class=3D"button_block block-2" =
+width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"pre=
+sentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td c=
+lass=3D"pad" style=3D"padding-bottom:30px;padding-left:10px;padding-right:1=
+0px;padding-top:15px;text-align:center"><div class=3D"alignment" align=3D"c=
+enter">
+<!--[if mso]><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=
+=3D"urn:schemas-microsoft-com:office:word" href=3D"https://e.customeriomail=
+=2Ecom/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVB=
+QU5QMHRBblI5TFFKQVlUNXJCa3FpZnBNcWI2ST=
+hEekJZQT09IiwiaHJlZiI6Imh0dHBzOi8vc3RhcnQtcGFnZS5idWZmZXIuY29tLz91dG1fY2Ftc=
+GFpZ249QnVmZmVyJTNBK0ZyZWUrT25ib2FyZGluZ1x1MDAyNnV0bV9jb250ZW50PURheSs1JTNB=
+K1Jlc291cmNlcyslMjhWYXJpYW50JTI5XHUwMDI2dXRtX21lZGl1bT1lbWFpbF9hY3Rpb25cdTA=
+wMjZ1dG1fc291cmNlPWN1c3RvbWVyLmlvIiwiaW50ZXJuYWwiOiJhOGE5MDU5MjA1ZjEwOWQzZj=
+RiNDA5IiwibGlua19pZCI6NzI1MH0/fc12e1c1aa6b68821eea7bdfd088aff9a3b313864a92a=
+b650dbfff234764bdd9" style=3D"height:40px;width:201px;v-text-anchor:middle;=
+" arcsize=3D"10%" stroke=3D"false" fillcolor=3D"#2c4bff"><w:anchorlock/><v:=
+textbox inset=3D"0px,0px,0px,0px"><center style=3D"color:#ffffff; font-fami=
+ly:Tahoma, Verdana, sans-serif; font-size:15px"><![endif]-->
+<a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5=
+QMHRBblI5TFFKQVlUNXJCa3FpZnBNcWI2SThEekJZQT09IiwiaHJlZiI6Imh0dHBzOi8vc3Rhcn=
+QtcGFnZS5idWZmZXIuY29tLz91dG1fY2FtcGFpZ249QnVmZmVyJTNBK0ZyZWUrT25ib2FyZGluZ=
+1x1MDAyNnV0bV9jb250ZW50PURheSs1JTNBK1Jlc291cmNlcyslMjhWYXJpYW50JTI5XHUwMDI2=
+dXRtX21lZGl1bT1lbWFpbF9hY3Rpb25cdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyLmlvIiwiaW5=
+0ZXJuYWwiOiJhOGE5MDU5MjA1ZjEwOWQzZjRiNDA5IiwibGlua19pZCI6NzI1MH0/fc12e1c1aa=
+6b68821eea7bdfd088aff9a3b313864a92ab650dbfff234764bdd9" target=3D"_blank" s=
+tyle=3D"text-decoration:none;display:inline-block;color:#ffffff;background-=
+color:#2c4bff;border-radius:4px;width:auto;border-top:0px solid transparent=
+;font-weight:400;border-right:0px solid transparent;border-bottom:0px solid=
+ transparent;border-left:0px solid transparent;padding-top:5px;padding-bott=
+om:5px;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;font-size:15p=
+x;text-align:center;mso-border-alt:none;word-break:keep-all;"><span style=
+=3D"padding-left:20px;padding-right:20px;font-size:15px;display:inline-bloc=
+k;letter-spacing:normal;"><span dir=3D"ltr" style=3D"word-break: break-word=
+; line-height: 30px;">Create your unique page</span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]--></div></td></tr=
+></tbody></table><table class=3D"image_block block-3" width=3D"100%" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"m=
+so-table-lspace:0;mso-table-rspace:0"><tbody><tr><td class=3D"pad" style=3D=
+"width:100%;padding-right:0;padding-left:0"><div class=3D"alignment" align=
+=3D"center" style=3D"line-height:10px"><a href=3D"https://e.customeriomail.=
+com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlUNXJCa3FpZnBNcWI2STh=
+EekJZQT09IiwiaHJlZiI6Imh0dHBzOi8vc3RhcnQtcGFnZS5idWZmZXIuY29tLz91dG1fY2FtcG=
+FpZ249QnVmZmVyJTNBK0ZyZWUrT25ib2FyZGluZ1x1MDAyNnV0bV9jb250ZW50PURheSs1JTNBK=
+1Jlc291cmNlcyslMjhWYXJpYW50JTI5XHUwMDI2dXRtX21lZGl1bT1lbWFpbF9hY3Rpb25cdTAw=
+MjZ1dG1fc291cmNlPWN1c3RvbWVyLmlvIiwiaW50ZXJuYWwiOiJhOGE5MDU5MjA1ZjEwOWQzZjR=
+iNDA5IiwibGlua19pZCI6NzI1MH0/fc12e1c1aa6b68821eea7bdfd088aff9a3b313864a92ab=
+650dbfff234764bdd9" target=3D"_blank" style=3D"outline:none" tabindex=3D"-1=
+"><img class=3D"big" src=3D"https://userimg-bee.customeriomail.com/images/c=
+lient-env-87208/Frame%201099.png" style=3D"display:block;height:auto;border=
+:0;width:550px;max-width:100%" width=3D"550"/></a></div></td></tr></tbody><=
+/table><table class=3D"text_block block-4" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-ls=
+pace:0;mso-table-rspace:0;word-break:break-word"><tbody><tr><td class=3D"pa=
+d" style=3D"padding-bottom:5px;padding-left:50px;padding-right:50px;padding=
+-top:5px"><div style=3D"font-family:Tahoma,Verdana,sans-serif"><div class=
+=3D"" style=3D"font-size:12px;font-family:Roboto,Tahoma,Verdana,Segoe,sans-=
+serif;mso-line-height-alt:21.6px;color:#231f20;line-height:1.8"><p style=3D=
+"margin:0;font-size:15px;mso-line-height-alt:21.6px">=C2=A0</p><p style=3D"=
+margin:0;font-size:15px;mso-line-height-alt:27px"><span style=3D"font-size:=
+15px;">Have a great rest of your day and we hope you have fun creating your=
+ own page! =F0=9F=91=8B</span></p><p style=3D"margin:0;font-size:15px;mso-l=
+ine-height-alt:21.6px">=C2=A0</p></div></div></td></tr></tbody></table></td=
+></tr></tbody></table></td></tr></tbody></table><table class=3D"row row-4" =
+align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;background-color:#2c4bff"><tbody><tr><td><table class=3D"row-content" alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"mso-table-lspace:0;mso-table-rspace:0;background-color:#f=
+ff;color:#333;width:550px" width=3D"550"><tbody><tr><td class=3D"column col=
+umn-1" width=3D"25%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-we=
+ight:400;text-align:left;vertical-align:top;border-top:0;border-right:0;bor=
+der-bottom:0;border-left:0"><table class=3D"image_block block-2" width=3D"1=
+00%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation"=
+ style=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td class=3D"pa=
+d" style=3D"padding-bottom:10px;padding-left:5px;padding-right:5px;padding-=
+top:20px;width:100%"><div class=3D"alignment" align=3D"right" style=3D"line=
+-height:10px"><img src=3D"https://userimg-bee.customeriomail.com/images/cli=
+ent-env-87208/juliet%20bg.png" style=3D"display:block;height:auto;border:0;=
+width:89px;max-width:100%" width=3D"89" alt=3D"Juliet" title=3D"Juliet"/></=
+div></td></tr></tbody></table></td><td class=3D"column column-2" width=3D"7=
+5%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-ali=
+gn:left;vertical-align:top;border-top:0;border-right:0;border-bottom:0;bord=
+er-left:0"><table class=3D"image_block block-2" width=3D"100%" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tab=
+le-lspace:0;mso-table-rspace:0"><tbody><tr><td class=3D"pad" style=3D"paddi=
+ng-bottom:25px;padding-left:10px;padding-right:20px;padding-top:20px;width:=
+100%"><div class=3D"alignment" align=3D"left" style=3D"line-height:10px"><i=
+mg src=3D"https://userimg-bee.customeriomail.com/images/client-env-87208/ju=
+liet-signature-01EWWBYNDWBEABRB1WYS32QJ1T.png" style=3D"display:block;heigh=
+t:auto;border:0;width:227px;max-width:100%" width=3D"227" alt=3D"Juliet&#39=
+;s signature" title=3D"Juliet&#39;s signature"/></div></td></tr></tbody></t=
+able></td></tr></tbody></table></td></tr></tbody></table><table class=3D"ro=
+w row-5" align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-=
+rspace:0;background-color:#2c4bff"><tbody><tr><td><table class=3D"row-conte=
+nt stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;backg=
+round-color:#fff;color:#333;width:550px" width=3D"550"><tbody><tr><td class=
+=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-table-r=
+space:0;font-weight:400;text-align:left;vertical-align:top;padding-top:0;pa=
+dding-bottom:0;border-top:0;border-right:0;border-bottom:0;border-left:0"><=
+table class=3D"divider_block block-1" width=3D"100%" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:=
+0;mso-table-rspace:0"><tbody><tr><td class=3D"pad" style=3D"padding-top:60p=
+x"><div class=3D"alignment" align=3D"center"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" role=3D"presentation" width=3D"100%" style=3D"mso=
+-table-lspace:0;mso-table-rspace:0"><tbody><tr><td class=3D"divider_inner" =
+style=3D"font-size:1px;line-height:1px;border-top:20px solid #f3afb9"><span=
+>=E2=80=8A</span></td></tr></tbody></table></div></td></tr></tbody></table>=
+</td></tr></tbody></table></td></tr></tbody></table><table class=3D"row row=
+-6" align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspac=
+e:0;background-color:#2c4bff"><tbody><tr><td><table class=3D"row-content st=
+ack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=
+=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;background=
+-color:#fff;color:#000;width:550px" width=3D"550"><tbody><tr><td class=3D"c=
+olumn column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace=
+:0;font-weight:400;text-align:left;background-color:#2c4bff;vertical-align:=
+top;padding-top:5px;padding-bottom:15px;border-top:0;border-right:0;border-=
+bottom:0;border-left:0"><table class=3D"social_block block-1" width=3D"100%=
+" border=3D"0" cellpadding=3D"10" cellspacing=3D"0" role=3D"presentation" s=
+tyle=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td class=3D"pad"=
+><div class=3D"alignment" align=3D"center"><table class=3D"social-table" wi=
+dth=3D"260px" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"pres=
+entation" style=3D"mso-table-lspace:0;mso-table-rspace:0;display:inline-blo=
+ck"><tbody><tr><td style=3D"padding:0 10px 0 10px"><a href=3D"https://e.cus=
+tomeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlUNXJCa3F=
+pZnBNcWI2SThEekJZQT09IiwiaHJlZiI6Imh0dHBzOi8vaW5zdGFncmFtLmNvbS9idWZmZXIvP3=
+V0bV9jYW1wYWlnbj1CdWZmZXIlM0ErRnJlZStPbmJvYXJkaW5nXHUwMDI2dXRtX2NvbnRlbnQ9R=
+GF5KzUlM0ErUmVzb3VyY2VzKyUyOFZhcmlhbnQlMjlcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsX2Fj=
+dGlvblx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXIuaW8iLCJpbnRlcm5hbCI6ImE4YTkwNTkyMDV=
+mMTA5ZDNmNGI0MDkiLCJsaW5rX2lkIjoyNDM2fQ/723a3c79dffee15dbe76e1cd5b8195c0c30=
+4fe791d51ee2f85b54ac89afddb02" target=3D"_blank">
+<img src=3D"https://app-rsrc.getbee.io/public/resources/social-networks-ico=
+n-sets/t-only-logo-white/instagram@2x.png" width=3D"32" height=3D"32" alt=
+=3D"Instagram" title=3D"Instagram" style=3D"display:block;height:auto;borde=
+r:0"/></a></td><td style=3D"padding:0 10px 0 10px"><a href=3D"https://e.cus=
+tomeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlUNXJCa3F=
+pZnBNcWI2SThEekJZQT09IiwiaHJlZiI6Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9idWZmZX=
+JhcHA_dXRtX2NhbXBhaWduPUJ1ZmZlciUzQStGcmVlK09uYm9hcmRpbmdcdTAwMjZ1dG1fY29ud=
+GVudD1EYXkrNSUzQStSZXNvdXJjZXMrJTI4VmFyaWFudCUyOVx1MDAyNnV0bV9tZWRpdW09ZW1h=
+aWxfYWN0aW9uXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lci5pbyIsImludGVybmFsIjoiYThhOTA=
+1OTIwNWYxMDlkM2Y0YjQwOSIsImxpbmtfaWQiOjExfQ/67c0d92cd6d25963aefb8dd3f90d052=
+21e49c4e06264d86295f303263cdefa91" target=3D"_blank"><img src=3D"https://ap=
+p-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-whi=
+te/facebook@2x.png" width=3D"32" height=3D"32" alt=3D"Facebook" title=3D"Fa=
+cebook" style=3D"display:block;height:auto;border:0"/></a></td><td style=3D=
+"padding:0 10px 0 10px"><a href=3D"https://e.customeriomail.com/e/c/eyJlbWF=
+pbF9pZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlUNXJCa3FpZnBNcWI2SThEekJZQT09IiwiaH=
+JlZiI6Imh0dHBzOi8vdHdpdHRlci5jb20vYnVmZmVyP3V0bV9jYW1wYWlnbj1CdWZmZXIlM0ErR=
+nJlZStPbmJvYXJkaW5nXHUwMDI2dXRtX2NvbnRlbnQ9RGF5KzUlM0ErUmVzb3VyY2VzKyUyOFZh=
+cmlhbnQlMjlcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsX2FjdGlvblx1MDAyNnV0bV9zb3VyY2U9Y3V=
+zdG9tZXIuaW8iLCJpbnRlcm5hbCI6ImE4YTkwNTkyMDVmMTA5ZDNmNGI0MDkiLCJsaW5rX2lkIj=
+oxMn0/27774939fd500d319e3d0659f572d599860f18ce21cd455b64d9084722338afb" tar=
+get=3D"_blank"><img src=3D"https://app-rsrc.getbee.io/public/resources/soci=
+al-networks-icon-sets/t-only-logo-white/twitter@2x.png" width=3D"32" height=
+=3D"32" alt=3D"Twitter" title=3D"Twitter" style=3D"display:block;height:aut=
+o;border:0"/></a></td><td style=3D"padding:0 10px 0 10px">
+<a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5=
+QMHRBblI5TFFKQVlUNXJCa3FpZnBNcWI2SThEekJZQT09IiwiaHJlZiI6Imh0dHBzOi8vd3d3Ln=
+BpbnRlcmVzdC5jb20vYnVmZmVyYXBwP3V0bV9jYW1wYWlnbj1CdWZmZXIlM0ErRnJlZStPbmJvY=
+XJkaW5nXHUwMDI2dXRtX2NvbnRlbnQ9RGF5KzUlM0ErUmVzb3VyY2VzKyUyOFZhcmlhbnQlMjlc=
+dTAwMjZ1dG1fbWVkaXVtPWVtYWlsX2FjdGlvblx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXIuaW8=
+iLCJpbnRlcm5hbCI6ImE4YTkwNTkyMDVmMTA5ZDNmNGI0MDkiLCJsaW5rX2lkIjoyMTc1fQ/9d7=
+196e001478c352ef9eb83e85db8d18c131acd589e8ffb196d14bc6698176b" target=3D"_b=
+lank"><img src=3D"https://app-rsrc.getbee.io/public/resources/social-networ=
+ks-icon-sets/t-only-logo-white/pinterest@2x.png" width=3D"32" height=3D"32"=
+ alt=3D"Pinterest" title=3D"Pinterest" style=3D"display:block;height:auto;b=
+order:0"/></a></td><td style=3D"padding:0 10px 0 10px"><a href=3D"https://e=
+=2Ecustomeriomail.com/e/c/eyJlbWFpbF9pZ=
+CI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlUNXJ=
+Ca3FpZnBNcWI2SThEekJZQT09IiwiaHJlZiI6Imh0dHBzOi8vd3d3LnRpa3Rvay5jb20vQGJ1Zm=
+ZlcmFwcD91dG1fY2FtcGFpZ249QnVmZmVyJTNBK0ZyZWUrT25ib2FyZGluZ1x1MDAyNnV0bV9jb=
+250ZW50PURheSs1JTNBK1Jlc291cmNlcyslMjhWYXJpYW50JTI5XHUwMDI2dXRtX21lZGl1bT1l=
+bWFpbF9hY3Rpb25cdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyLmlvIiwiaW50ZXJuYWwiOiJhOGE=
+5MDU5MjA1ZjEwOWQzZjRiNDA5IiwibGlua19pZCI6Nzc5OH0/525235455489e602c3c488d868=
+87598ba3f184dc0dc694b63d4736e41bd8bfdb" target=3D"_blank"><img src=3D"https=
+://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-log=
+o-white/tiktok@2x.png" width=3D"32" height=3D"32" alt=3D"TikTok" title=3D"T=
+ikTok" style=3D"display:block;height:auto;border:0"/></a></td></tr></tbody>=
+</table></div></td></tr></tbody></table><table class=3D"text_block block-2"=
+ width=3D"100%" border=3D"0" cellpadding=3D"10" cellspacing=3D"0" role=3D"p=
+resentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;word-break:brea=
+k-word"><tbody><tr><td class=3D"pad"><div style=3D"font-family:sans-serif">=
+<div class=3D"" style=3D"font-size:12px;mso-line-height-alt:14.399999999999=
+999px;color:#fff;line-height:1.2;font-family:Roboto,Tahoma,Verdana,Segoe,sa=
+ns-serif"><p style=3D"margin:0;font-size:14px;text-align:center;mso-line-he=
+ight-alt:16.8px">
+<a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5=
+QMHRBblI5TFFKQVlUNXJCa3FpZnBNcWI2SThEekJZQT09IiwiaHJlZiI6Imh0dHBzOi8vc3VwcG=
+9ydC5idWZmZXIuY29tL2hjL2VuLXVzP3V0bV9zb3VyY2U9cHVibGlzaC1mcmVlXHUwMDI2dXRtX=
+21lZGl1bT1lbWFpbFx1MDAyNnV0bV9jYW1wYWlnbj1kYXk1LWluc3BpcmF0aW9uLWZyZWVcdTAw=
+MjZ1dG1fY2FtcGFpZ249QnVmZmVyJTNBK0ZyZWUrT25ib2FyZGluZ1x1MDAyNnV0bV9jb250ZW5=
+0PURheSs1JTNBK1Jlc291cmNlcyslMjhWYXJpYW50JTI5XHUwMDI2dXRtX21lZGl1bT1lbWFpbF=
+9hY3Rpb25cdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyLmlvIiwiaW50ZXJuYWwiOiJhOGE5MDU5M=
+jA1ZjEwOWQzZjRiNDA5IiwibGlua19pZCI6NDYyOX0/b8221fa3ca1a1761fdbb1c5a489c7a22=
+e7e1ecdf067df98fcfad254b3ec4c92b" target=3D"_blank" style=3D"text-decoratio=
+n: underline; color: #ffffff;" rel=3D"noopener">Help Center</a> =C2=A0 =C2=
+=A0| =C2=A0 <a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImR=
+nU29xUVVBQU5QMHRBblI5TFFKQVlUNXJCa3FpZnBNcWI2SThEekJZQT09IiwiaHJlZiI6Imh0dH=
+BzOi8vYnVmZmVyLmNvbS9yZXNvdXJjZXMvP3V0bV9zb3VyY2U9cHVibGlzaC1mcmVlXHUwMDI2d=
+XRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9jYW1wYWlnbj1kYXk1LWluc3BpcmF0aW9uLWZyZWVc=
+dTAwMjZ1dG1fY2FtcGFpZ249QnVmZmVyJTNBK0ZyZWUrT25ib2FyZGluZ1x1MDAyNnV0bV9jb25=
+0ZW50PURheSs1JTNBK1Jlc291cmNlcyslMjhWYXJpYW50JTI5XHUwMDI2dXRtX21lZGl1bT1lbW=
+FpbF9hY3Rpb25cdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyLmlvIiwiaW50ZXJuYWwiOiJhOGE5M=
+DU5MjA1ZjEwOWQzZjRiNDA5IiwibGlua19pZCI6ODI4NX0/5eb1f5d17bb118e2f053462dfdc2=
+d4cd928c80fb5a3aee9038b9f40fa18418f4" target=3D"_blank" style=3D"text-decor=
+ation: underline; color: #ffffff;" rel=3D"noopener">Blog</a> =C2=A0 =C2=A0|=
+ =C2=A0 =C2=A0<a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6I=
+mRnU29xUVVBQU5QMHRBblI5TFFKQVlUNXJCa3FpZnBNcWI2SThEekJZQT09IiwiaHJlZiI6Imh0=
+dHBzOi8vcHVibGlzaC5idWZmZXIuY29tL2NhbGVuZGFyL3dlZWs_dXRtX3NvdXJjZT1wdWJsaXN=
+oLWZyZWVcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX2NhbXBhaWduPWRheTUtaW5zcG=
+lyYXRpb24tZnJlZVx1MDAyNnV0bV9jb250ZW50PWNkdVx1MDAyNnV0bV9jYW1wYWlnbj1CdWZmZ=
+XIlM0ErRnJlZStPbmJvYXJkaW5nXHUwMDI2dXRtX2NvbnRlbnQ9RGF5KzUlM0ErUmVzb3VyY2Vz=
+KyUyOFZhcmlhbnQlMjlcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsX2FjdGlvblx1MDAyNnV0bV9zb3V=
+yY2U9Y3VzdG9tZXIuaW8iLCJpbnRlcm5hbCI6ImE4YTkwNTkyMDVmMTA5ZDNmNGI0MDkiLCJsaW=
+5rX2lkIjo4Mjg0fQ/e4b905b48588628101cdaf510b48169492c34765bed6fdf61c3f2e511d=
+d454da" target=3D"_blank" style=3D"text-decoration: underline; color: #ffff=
+ff;" rel=3D"noopener">Log in</a>
+<br/><span style=3D"font-size:12px;">=C2=A0</span><br/><span style=3D"font-=
+size:12px;">=C2=A0</span><br/><span style=3D"font-size:12px;">=C2=A0</span>=
+<br/><span style=3D"font-size:12px;">Sent by the team at Buffer</span><br/>=
+<span style=3D"font-size:12px;">2443 Fillmore St #380-7163 San Francisco, C=
+A 94115 USA</span><br/><span style=3D"font-size:12px;">=C2=A0</span><br/>
+<span style=3D"font-size:10px;color:#0000ff;">=C2=A0</span><br/><span style=
+=3D"font-size:12px;">=C2=A0</span><br/><span style=3D"font-size:12px;"><a s=
+tyle=3D"text-decoration: underline; color: #ffffff;" href=3D"https://e.cust=
+omeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlUNXJCa3Fp=
+ZnBNcWI2SThEekJZQT09IiwiaHJlZiI6Imh0dHBzOi8vYnVmZmVyLmNvbS91bnN1YnNjcmliZS9=
+uZXdzbGV0dGVyTm90aWZpY2F0aW9ucy82MzhmZWM5YWI0NGZmZTVhYzE4NGUwZTcvMTI0ODZiYj=
+NkYWI2MTAwZGQ0OTFmZGEwNjhiMjVhOWJkOGE5ZjVkZD91dG1fY2FtcGFpZ249QnVmZmVyJTNBK=
+0ZyZWUrT25ib2FyZGluZ1x1MDAyNnV0bV9jb250ZW50PURheSs1JTNBK1Jlc291cmNlcyslMjhW=
+YXJpYW50JTI5XHUwMDI2dXRtX21lZGl1bT1lbWFpbF9hY3Rpb25cdTAwMjZ1dG1fc291cmNlPWN=
+1c3RvbWVyLmlvIiwiaW50ZXJuYWwiOiJhOGE5MDU5MjA1ZjEwOWQzZjRiNDA5IiwibGlua19pZC=
+I6Mzg1OX0/b4ae399757236bc1805b1973d753739854929be8c52e79dbe4f9d6a17c37457f"=
+ target=3D"_blank" rel=3D"noopener">Unsubscribe from product emails</a>=C2=
+=A0| <a href=3D"https://e.customeriomail.com/unsubscribe/dgSoqQUAANP0tAnR9L=
+QJAYT5rBkqifpMqb6I8DzBYA=3D=3D" target=3D"_blank" rel=3D"noopener" style=3D=
+"color: #ffffff;">Unsubscribe from all emails</a>=C2=A0</span></p></div></d=
+iv></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></=
+table></td></tr></tbody></table><!-- End --><img src=3D"https://e.customeri=
+omail.com/e/o/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlUNXJCa3FpZnBNc=
+WI2SThEekJZQT09In0=3D" style=3D"height: 1px !important; max-height: 1px !im=
+portant; max-width: 1px !important; width: 1px !important; display: none !i=
+mportant;"/></body></html>
+--8f6a0e413e62dbac37003dfdbeec66dd250d122eee93eaf0e41ded5bfdf9--

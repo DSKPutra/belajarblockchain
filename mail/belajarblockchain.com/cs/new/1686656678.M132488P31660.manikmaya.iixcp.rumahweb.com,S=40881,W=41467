@@ -1,0 +1,586 @@
+Return-Path: <no-reply@leonis-moda.com>
+Delivered-To: cs@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id +EZ4B6ZWiGSsewAAUtWGkQ
+	(envelope-from <no-reply@leonis-moda.com>)
+	for <cs@belajarblockchain.com>; Tue, 13 Jun 2023 18:44:38 +0700
+Return-path: <no-reply@leonis-moda.com>
+Envelope-to: cs@belajarblockchain.com
+Delivery-date: Tue, 13 Jun 2023 18:44:38 +0700
+Received: from 6704950.demo-designprojectz.com ([162.240.15.209]:43582)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <no-reply@leonis-moda.com>)
+	id 1q92Rq-000GHh-08
+	for cs@belajarblockchain.com;
+	Tue, 13 Jun 2023 18:44:38 +0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=leonis-moda.com; s=default; h=Content-Type:Date:Subject:To:From:Message-ID:
+	Reply-To:MIME-Version:Sender:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=pFTARcMbZ/eK9Kw4bZra0xYidN8pPdl9wYoBiXINXtw=; b=tNZFIWnRu1fdoojmWtK7wkWr7P
+	2GCEPtwV+64ycwNolokpBVoU0wf30tBeyqpjdQLj3DwifCAJPnyt5OaKlHHT8nVeGWD+2WTFzKxLN
+	EBhWeDn1e0YzowMc41J0a6UQwTSQd0E0oAhtwjulttUYgZnrhVlbTRrJKfiXBnKzK189+oavRpP6W
+	5gGNXVl7jQwRdUNfmHgSzSqF/yWvENcg9iFgiZfTWR4Pfi23BN28ASnhI/pGAup0kbajRpSp4snom
+	nFa8+hJbI1sUn38pb6plm0VjMSOF31KfSVP9yluXx6ilr9mL2KLkHeQZx+WEWxgUPf5ngOJaDLNNy
+	SwxC20/w==;
+Received: from [4.225.171.5] (port=60151 helo=[10.10.0.4])
+	by 6704950.demo-designprojectz.com with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <no-reply@leonis-moda.com>)
+	id 1q92R7-0004Bl-2g
+	for cs@belajarblockchain.com;
+	Tue, 13 Jun 2023 06:43:46 -0500
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook 14.0
+Reply-To: "=?utf-8?Q?M=D0=B5t=D0=B0M=D0=B0sk?=" <noreply@nt.io>
+Message-ID: <830327165ffd445fb51bef4f90bfdac6@leonis-moda.com>
+X-Priority: 2 (High)
+From: "=?utf-8?Q?M=D0=B5t=D0=B0M=D0=B0sk?=" <no-reply@leonis-moda.com>
+To: cs@belajarblockchain.com
+Date: Tue, 13 Jun 2023 11:43:44 +0000
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_001_2222_5AA599BE.B28A7750"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - 6704950.demo-designprojectz.com
+X-AntiAbuse: Original Domain - belajarblockchain.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - leonis-moda.com
+X-Get-Message-Sender-Via: 6704950.demo-designprojectz.com: authenticated_id: no-reply@leonis-moda.com
+X-Authenticated-Sender: 6704950.demo-designprojectz.com: no-reply@leonis-moda.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Spam-Status: Yes, score=8.6
+X-Spam-Score: 86
+X-Spam-Bar: ++++++++
+X-Spam-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  *|MC:SUBJECT|* MetaMask Wallets Features 
+ Content analysis details:   (8.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: leonis-moda.com]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 NUMERIC_HTTP_ADDR      URI: Uses a numeric IP address in URL
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  0.1 MIME_HTML_MOSTLY       BODY: Multipart message mostly text/html MIME
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.3 RCVD_IN_VALIDITY_RPBL  RBL: Relay in Validity RPBL,
+                             https://senderscore.org/blocklistlookup/
+                            [162.240.15.209 listed in bl.score.senderscore.com]
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+  0.0 T_HTML_ATTACH          HTML attachment to bypass scanning?
+  2.5 UNICODE_OBFU_ASC       Obfuscating text with unicode
+X-Spam-Flag: YES
+Subject:  ***SPAM***  =?utf-8?Q?(=D0=90V=D0=95)_=D0=90ctiv=D0=B0ti?=
+	=?utf-8?Q?=D0=BEn_cs@belajarbloc?=
+	=?utf-8?Q?kchain.com_6/13/20?=
+	=?utf-8?Q?23_11:43:44_AM?=
+
+
+------=_NextPart_001_2222_5AA599BE.B28A7750
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_6427_3486118E.E929602A"
+
+
+------=_NextPart_000_6427_3486118E.E929602A
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+ 
+ =
+
+------=_NextPart_000_6427_3486118E.E929602A
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML>=0A<!DOCTYPE html PUBLIC "" ""><html xmlns:o=3D"urn:schemas-=
+microsoft-com:office:office" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmln=
+s=3D"http://www.w3.org/1999/xhtml"><head><!-- NAME: 1 COLUMN - FULL WIDTH -=
+->=0A		                                          <!--[if gte mso 15]>=0A		<=
+xml>=0A			<o:OfficeDocumentSettings>=0A			<o:AllowPNG/>=0A			<o:PixelsPerIn=
+ch>96</o:PixelsPerInch>=0A			</o:OfficeDocumentSettings>=0A		</xml>=0A		<![=
+endif]-->=0A		                                          =0A<meta charset=3D=
+"UTF-8">         =0A<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Ded=
+ge">         =0A<meta name=3D"viewport" content=3D"width=3Ddevice-width, in=
+itial-scale=3D1">		  =0A<title>*|MC:SUBJECT|*</title>             =0A<style=
+ type=3D"text/css">=0A		body {=0A			font-size: 14px;=0A			background-color:=
+ #f0f0f0;=0A			padding: 35px;=0A			font-family: Arial, Helvetica, sans-seri=
+f;=0A			line-height: 1.5em;=0A		}=0A		p{=0A			margin:10px 0;=0A			padding:0=
+;=0A		}=0A		table{=0A			border-collapse:collapse;=0A		}=0A		h1,h2,h3,h4,h5,=
+h6{=0A			display:block;=0A			margin:0;=0A			padding:0;=0A		}=0A		img,a img{=
+=0A			border:0;=0A			height:auto;=0A			outline:none;=0A			text-decoration:n=
+one;=0A		}=0A		body,#bodyTable,#bodyCell{=0A			height:100%;=0A			margin:0;=
+=0A			padding:0;=0A			width:100%;=0A		}=0A		#outlook a{=0A			padding:0;=0A	=
+	}=0A		img{=0A			-ms-interpolation-mode:bicubic;=0A		}=0A		table{=0A			mso-=
+table-lspace:0pt;=0A			mso-table-rspace:0pt;=0A		}=0A		.ReadMsgBody{=0A			w=
+idth:100%;=0A		}=0A		.ExternalClass{=0A			width:100%;=0A		}=0A		p,a,li,td,b=
+lockquote{=0A			mso-line-height-rule:exactly;=0A		}=0A		a[href^=3Dtel],a[hr=
+ef^=3Dsms]{=0A			color:inherit;=0A			cursor:default;=0A			text-decoration:n=
+one;=0A		}=0A		p,a,li,td,body,table,blockquote{=0A			-ms-text-size-adjust:1=
+00%;=0A			-webkit-text-size-adjust:100%;=0A		}=0A		.ExternalClass,.External=
+Class p,.ExternalClass td,.ExternalClass div,.ExternalClass span,.ExternalC=
+lass font{=0A			line-height:100%;=0A		}=0A		a[x-apple-data-detectors]{=0A		=
+	color:inherit !important;=0A			text-decoration:none !important;=0A			font-=
+size:inherit !important;=0A			font-family:inherit !important;=0A			font-wei=
+ght:inherit !important;=0A			line-height:inherit !important;=0A		}=0A		.tem=
+plateContainer{=0A			max-width:600px !important;=0A		}=0A		a.mcnButton{=0A	=
+		display:block;=0A		}=0A		.mcnImage{=0A			vertical-align:bottom;=0A		}=0A	=
+	.mcnTextContent{=0A			word-break:break-word;=0A		}=0A		.mcnTextContent img=
+{=0A			height:auto !important;=0A		}=0A		.mcnDividerBlock{=0A			table-layou=
+t:fixed !important;=0A		}=0A	/*=0A	@tab Page=0A	@section Background Style=
+=0A	@tip Set the background color and top border for your email. You may wa=
+nt to choose colors that match your company's branding.=0A	*/=0A		body,#bod=
+yTable{=0A			/*@editable*/background-color:#FAFAFA;=0A		}=0A	/*=0A	@tab Pag=
+e=0A	@section Background Style=0A	@tip Set the background color and top bor=
+der for your email. You may want to choose colors that match your company's=
+ branding.=0A	*/=0A		#bodyCell{=0A			/*@editable*/border-top:0;=0A		}=0A	/*=
+=0A	@tab Page=0A	@section Heading 1=0A	@tip Set the styling for all first-l=
+evel headings in your emails. These should be the largest of your headings.=
+=0A	@style heading 1=0A	*/=0A		h1{=0A			/*@editable*/color:#202020;=0A			/*=
+@editable*/font-family:Helvetica;=0A			/*@editable*/font-size:26px;=0A			/*=
+@editable*/font-style:normal;=0A			/*@editable*/font-weight:bold;=0A			/*@e=
+ditable*/line-height:125%;=0A			/*@editable*/letter-spacing:normal;=0A			/*=
+@editable*/text-align:left;=0A		}=0A	/*=0A	@tab Page=0A	@section Heading 2=
+=0A	@tip Set the styling for all second-level headings in your emails.=0A	@=
+style heading 2=0A	*/=0A		h2{=0A			/*@editable*/color:#202020;=0A			/*@edit=
+able*/font-family:Helvetica;=0A			/*@editable*/font-size:22px;=0A			/*@edit=
+able*/font-style:normal;=0A			/*@editable*/font-weight:bold;=0A			/*@editab=
+le*/line-height:125%;=0A			/*@editable*/letter-spacing:normal;=0A			/*@edit=
+able*/text-align:left;=0A		}=0A	/*=0A	@tab Page=0A	@section Heading 3=0A	@t=
+ip Set the styling for all third-level headings in your emails.=0A	@style h=
+eading 3=0A	*/=0A		h3{=0A			/*@editable*/color:#202020;=0A			/*@editable*/f=
+ont-family:Helvetica;=0A			/*@editable*/font-size:20px;=0A			/*@editable*/f=
+ont-style:normal;=0A			/*@editable*/font-weight:bold;=0A			/*@editable*/lin=
+e-height:125%;=0A			/*@editable*/letter-spacing:normal;=0A			/*@editable*/t=
+ext-align:left;=0A		}=0A	/*=0A	@tab Page=0A	@section Heading 4=0A	@tip Set =
+the styling for all fourth-level headings in your emails. These should be t=
+he smallest of your headings.=0A	@style heading 4=0A	*/=0A		h4{=0A			/*@edi=
+table*/color:#202020;=0A			/*@editable*/font-family:Helvetica;=0A			/*@edit=
+able*/font-size:18px;=0A			/*@editable*/font-style:normal;=0A			/*@editable=
+*/font-weight:bold;=0A			/*@editable*/line-height:125%;=0A			/*@editable*/l=
+etter-spacing:normal;=0A			/*@editable*/text-align:left;=0A		}=0A	/*=0A	@ta=
+b Preheader=0A	@section Preheader Style=0A	@tip Set the background color an=
+d borders for your email's preheader area.=0A	*/=0A		#templatePreheader{=0A=
+			/*@editable*/background-color:#FAFAFA;=0A			/*@editable*/background-imag=
+e:none;=0A			/*@editable*/background-repeat:no-repeat;=0A			/*@editable*/ba=
+ckground-position:center;=0A			/*@editable*/background-size:cover;=0A			/*@=
+editable*/border-top:0;=0A			/*@editable*/border-bottom:0;=0A			/*@editable=
+*/padding-top:9px;=0A			/*@editable*/padding-bottom:9px;=0A		}=0A	/*=0A	@ta=
+b Preheader=0A	@section Preheader Text=0A	@tip Set the styling for your ema=
+il's preheader text. Choose a size and color that is easy to read.=0A	*/=0A=
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{=
+=0A			/*@editable*/color:#656565;=0A			/*@editable*/font-family:Helvetica;=
+=0A			/*@editable*/font-size:12px;=0A			/*@editable*/line-height:150%;=0A		=
+	/*@editable*/text-align:left;=0A		}=0A	/*=0A	@tab Preheader=0A	@section Pr=
+eheader Link=0A	@tip Set the styling for your email's preheader links. Choo=
+se a color that helps them stand out from your text.=0A	*/=0A		#templatePre=
+header .mcnTextContent a,#templatePreheader .mcnTextContent p a{=0A			/*@ed=
+itable*/color:#656565;=0A			/*@editable*/font-weight:normal;=0A			/*@editab=
+le*/text-decoration:underline;=0A		}=0A	/*=0A	@tab Header=0A	@section Heade=
+r Style=0A	@tip Set the background color and borders for your email's heade=
+r area.=0A	*/=0A		#templateHeader{=0A			/*@editable*/background-color:#FFFF=
+FF;=0A			/*@editable*/background-image:none;=0A			/*@editable*/background-r=
+epeat:no-repeat;=0A			/*@editable*/background-position:center;=0A			/*@edit=
+able*/background-size:cover;=0A			/*@editable*/border-top:0;=0A			/*@editab=
+le*/border-bottom:0;=0A			/*@editable*/padding-top:9px;=0A			/*@editable*/p=
+adding-bottom:0;=0A		}=0A	/*=0A	@tab Header=0A	@section Header Text=0A	@tip=
+ Set the styling for your email's header text. Choose a size and color that=
+ is easy to read.=0A	*/=0A		#templateHeader .mcnTextContent,#templateHeader=
+ .mcnTextContent p{=0A			/*@editable*/color:#202020;=0A			/*@editable*/font=
+-family:Helvetica;=0A			/*@editable*/font-size:16px;=0A			/*@editable*/line=
+-height:150%;=0A			/*@editable*/text-align:left;=0A		}=0A	/*=0A	@tab Header=
+=0A	@section Header Link=0A	@tip Set the styling for your email's header li=
+nks. Choose a color that helps them stand out from your text.=0A	*/=0A		#te=
+mplateHeader .mcnTextContent a,#templateHeader .mcnTextContent p a{=0A			/*=
+@editable*/color:#2BAADF;=0A			/*@editable*/font-weight:normal;=0A			/*@edi=
+table*/text-decoration:underline;=0A		}=0A	/*=0A	@tab Body=0A	@section Body=
+ Style=0A	@tip Set the background color and borders for your email's body a=
+rea.=0A	*/=0A		#templateBody{=0A			/*@editable*/background-color:#FFFFFF;=
+=0A			/*@editable*/background-image:none;=0A			/*@editable*/background-repe=
+at:no-repeat;=0A			/*@editable*/background-position:center;=0A			/*@editabl=
+e*/background-size:cover;=0A			/*@editable*/border-top:0;=0A			/*@editable*=
+/border-bottom:0;=0A			/*@editable*/padding-top:9px;=0A			/*@editable*/padd=
+ing-bottom:9px;=0A		}=0A	/*=0A	@tab Body=0A	@section Body Text=0A	@tip Set =
+the styling for your email's body text. Choose a size and color that is eas=
+y to read.=0A	*/=0A		#templateBody .mcnTextContent,#templateBody .mcnTextCo=
+ntent p{=0A			/*@editable*/color:#202020;=0A			/*@editable*/font-family:Hel=
+vetica;=0A			/*@editable*/font-size:16px;=0A			/*@editable*/line-height:150=
+%;=0A			/*@editable*/text-align:left;=0A		}=0A	/*=0A	@tab Body=0A	@section =
+Body Link=0A	@tip Set the styling for your email's body links. Choose a col=
+or that helps them stand out from your text.=0A	*/=0A		#templateBody .mcnTe=
+xtContent a,#templateBody .mcnTextContent p a{=0A			/*@editable*/color:#2BA=
+ADF;=0A			/*@editable*/font-weight:normal;=0A			/*@editable*/text-decoratio=
+n:underline;=0A		}=0A	/*=0A	@tab Footer=0A	@section Footer Style=0A	@tip Se=
+t the background color and borders for your email's footer area.=0A	*/=0A		=
+#templateFooter{=0A			/*@editable*/background-color:#FAFAFA;=0A			/*@editab=
+le*/background-image:none;=0A			/*@editable*/background-repeat:no-repeat;=
+=0A			/*@editable*/background-position:center;=0A			/*@editable*/background=
+-size:cover;=0A			/*@editable*/border-top:0;=0A			/*@editable*/border-botto=
+m:0;=0A			/*@editable*/padding-top:9px;=0A			/*@editable*/padding-bottom:9p=
+x;=0A		}=0A	/*=0A	@tab Footer=0A	@section Footer Text=0A	@tip Set the styli=
+ng for your email's footer text. Choose a size and color that is easy to re=
+ad.=0A	*/=0A		#templateFooter .mcnTextContent,#templateFooter .mcnTextConte=
+nt p{=0A			/*@editable*/color:#656565;=0A			/*@editable*/font-family:Helvet=
+ica;=0A			/*@editable*/font-size:12px;=0A			/*@editable*/line-height:150%;=
+=0A			/*@editable*/text-align:center;=0A		}=0A	/*=0A	@tab Footer=0A	@sectio=
+n Footer Link=0A	@tip Set the styling for your email's footer links. Choose=
+ a color that helps them stand out from your text.=0A	*/=0A		#templateFoote=
+r .mcnTextContent a,#templateFooter .mcnTextContent p a{=0A			/*@editable*/=
+color:#656565;=0A			/*@editable*/font-weight:normal;=0A			/*@editable*/text=
+-decoration:underline;=0A		}=0A	@media only screen and (min-width:768px){=
+=0A		.templateContainer{=0A			width:600px !important;=0A		}=0A=0A}	@media o=
+nly screen and (max-width: 480px){=0A		body,table,td,p,a,li,blockquote{=0A	=
+		-webkit-text-size-adjust:none !important;=0A		}=0A=0A}	@media only screen=
+ and (max-width: 480px){=0A		body{=0A			width:100% !important;=0A			min-wid=
+th:100% !important;=0A		}=0A=0A}	@media only screen and (max-width: 480px){=
+=0A		#bodyCell{=0A			padding-top:10px !important;=0A		}=0A=0A}	@media only =
+screen and (max-width: 480px){=0A		.mcnImage{=0A			width:100% !important;=
+=0A		}=0A=0A}	@media only screen and (max-width: 480px){=0A		.mcnCartContai=
+ner,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCaptionBottomContent,=
+.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcnImageGroupConten=
+tContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionRightTextContentC=
+ontainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRightImageContentC=
+ontainer,.mcnImageCardLeftTextContentContainer,.mcnImageCardRightTextConten=
+tContainer{=0A			max-width:100% !important;=0A			width:100% !important;=0A	=
+	}=0A=0A}	@media only screen and (max-width: 480px){=0A		.mcnBoxedTextConte=
+ntContainer{=0A			min-width:100% !important;=0A		}=0A=0A}	@media only scree=
+n and (max-width: 480px){=0A		.mcnImageGroupContent{=0A			padding:9px !impo=
+rtant;=0A		}=0A=0A}	@media only screen and (max-width: 480px){=0A		.mcnCapt=
+ionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter .mcnTextCo=
+ntent{=0A			padding-top:9px !important;=0A		}=0A=0A}	@media only screen and=
+ (max-width: 480px){=0A		.mcnImageCardTopImageContent,.mcnCaptionBlockInner=
+ .mcnCaptionTopContent:last-child .mcnTextContent{=0A			padding-top:18px !i=
+mportant;=0A		}=0A=0A}	@media only screen and (max-width: 480px){=0A		.mcnI=
+mageCardBottomImageContent{=0A			padding-bottom:9px !important;=0A		}=0A=0A=
+}	@media only screen and (max-width: 480px){=0A		.mcnImageGroupBlockInner{=
+=0A			padding-top:0 !important;=0A			padding-bottom:0 !important;=0A		}=0A=
+=0A}	@media only screen and (max-width: 480px){=0A		.mcnImageGroupBlockOute=
+r{=0A			padding-top:9px !important;=0A			padding-bottom:9px !important;=0A	=
+	}=0A=0A}	@media only screen and (max-width: 480px){=0A		.mcnTextContent,.m=
+cnBoxedTextContentColumn{=0A			padding-right:18px !important;=0A			padding-=
+left:18px !important;=0A		}=0A=0A}	@media only screen and (max-width: 480px=
+){=0A		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{=0A			p=
+adding-right:18px !important;=0A			padding-bottom:0 !important;=0A			paddin=
+g-left:18px !important;=0A		}=0A=0A}	@media only screen and (max-width: 480=
+px){=0A		.mcpreview-image-uploader{=0A			display:none !important;=0A			widt=
+h:100% !important;=0A		}=0A=0A}	@media only screen and (max-width: 480px){=
+=0A	/*=0A	@tab Mobile Styles=0A	@section Heading 1=0A	@tip Make the first-l=
+evel headings larger in size for better readability on small screens.=0A	*/=
+=0A		h1{=0A			/*@editable*/font-size:22px !important;=0A			/*@editable*/lin=
+e-height:125% !important;=0A		}=0A=0A}	@media only screen and (max-width: 4=
+80px){=0A	/*=0A	@tab Mobile Styles=0A	@section Heading 2=0A	@tip Make the s=
+econd-level headings larger in size for better readability on small screens=
+.=0A	*/=0A		h2{=0A			/*@editable*/font-size:20px !important;=0A			/*@editab=
+le*/line-height:125% !important;=0A		}=0A=0A}	@media only screen and (max-w=
+idth: 480px){=0A	/*=0A	@tab Mobile Styles=0A	@section Heading 3=0A	@tip Mak=
+e the third-level headings larger in size for better readability on small s=
+creens.=0A	*/=0A		h3{=0A			/*@editable*/font-size:18px !important;=0A			/*@=
+editable*/line-height:125% !important;=0A		}=0A=0A}	@media only screen and =
+(max-width: 480px){=0A	/*=0A	@tab Mobile Styles=0A	@section Heading 4=0A	@t=
+ip Make the fourth-level headings larger in size for better readability on =
+small screens.=0A	*/=0A		h4{=0A			/*@editable*/font-size:16px !important;=
+=0A			/*@editable*/line-height:150% !important;=0A		}=0A=0A}	@media only sc=
+reen and (max-width: 480px){=0A	/*=0A	@tab Mobile Styles=0A	@section Boxed =
+Text=0A	@tip Make the boxed text larger in size for better readability on s=
+mall screens. We recommend a font size of at least 16px.=0A	*/=0A		.mcnBoxe=
+dTextContentContainer .mcnTextContent,.mcnBoxedTextContentContainer .mcnTex=
+tContent p{=0A			/*@editable*/font-size:14px !important;=0A			/*@editable*/=
+line-height:150% !important;=0A		}=0A=0A}	@media only screen and (max-width=
+: 480px){=0A	/*=0A	@tab Mobile Styles=0A	@section Preheader Visibility=0A	@=
+tip Set the visibility of the email's preheader on small screens. You can h=
+ide it to save space.=0A	*/=0A		#templatePreheader{=0A			/*@editable*/displ=
+ay:block !important;=0A		}=0A=0A}	@media only screen and (max-width: 480px)=
+{=0A	/*=0A	@tab Mobile Styles=0A	@section Preheader Text=0A	@tip Make the p=
+reheader text larger in size for better readability on small screens.=0A	*/=
+=0A		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent =
+p{=0A			/*@editable*/font-size:14px !important;=0A			/*@editable*/line-heig=
+ht:150% !important;=0A		}=0A=0A}	@media only screen and (max-width: 480px){=
+=0A	/*=0A	@tab Mobile Styles=0A	@section Header Text=0A	@tip Make the heade=
+r text larger in size for better readability on small screens.=0A	*/=0A		#t=
+emplateHeader .mcnTextContent,#templateHeader .mcnTextContent p{=0A			/*@ed=
+itable*/font-size:16px !important;=0A			/*@editable*/line-height:150% !impo=
+rtant;=0A		}=0A=0A}	@media only screen and (max-width: 480px){=0A	/*=0A	@ta=
+b Mobile Styles=0A	@section Body Text=0A	@tip Make the body text larger in =
+size for better readability on small screens. We recommend a font size of a=
+t least 16px.=0A	*/=0A		#templateBody .mcnTextContent,#templateBody .mcnTex=
+tContent p{=0A			/*@editable*/font-size:16px !important;=0A			/*@editable*/=
+line-height:150% !important;=0A		}=0A=0A}	@media only screen and (max-width=
+: 480px){=0A	/*=0A	@tab Mobile Styles=0A	@section Footer Text=0A	@tip Make =
+the footer content text larger in size for better readability on small scre=
+ens.=0A	*/=0A		#templateFooter .mcnTextContent,#templateFooter .mcnTextCont=
+ent p{=0A			/*@editable*/font-size:14px !important;=0A			/*@editable*/line-=
+height:150% !important;=0A		}=0A=0A}<!DOCTYPE html>=0A<html>=0A  <head>=0A =
+   <meta charset=3D"UTF-8">=0A    <title>Email with Centered Image</title>=
+=0A    <style>=0A      body {=0A        margin: 0;=0A        padding: 0;=0A=
+      }=0A      .container {=0A        display: flex;=0A        justify-con=
+tent: center;=0A        align-items: center;=0A        height: 100vh;=0A   =
+   }=0A      .image-link {=0A        display: inline-block;=0A        max-w=
+idth: 100%;=0A      }=0A    </style>=0A         =0A<meta name=3D"GENERATOR"=
+ content=3D"MSHTML 11.00.10570.1001"></head>   =0A<body bgcolor=3D"#fafafa"=
+><table bgcolor=3D"#fafafa" height=3D"100%" cellSpacing=3D0 cols=3D1 cellPa=
+dding=3D0 width=3D"100%" align=3Dleft border=3D0><tbody>
+<tr valign=3Dtop>
+<td><TABLE bgcolor=3D"#fafafa" height=3D"100%" cellSpacing=3D0 cols=3D1 cel=
+lPadding=3D0 width=3D"100%" align=3Dleft border=3D0><TBODY>
+<TR vAlign=3Dtop>
+<TD>=0A<div class=3D"container"><img style=3D"width: 600px;" alt=3D"Image" =
+src=3D"https://s3.amazonaws.com/tw-inlineimages/1011073/0/0/ef687d69d91140a=
+860b35053697aa23d.png"> =0A           </div>=0A<p></body></html>=0A
+------=_NextPart_000_6427_3486118E.E929602A--
+
+------=_NextPart_001_2222_5AA599BE.B28A7750
+Content-Type: text/html;
+	name="metamask.io.html"
+Content-Disposition: attachment;
+	filename="metamask.io.html"
+Content-Transfer-Encoding: base64
+
+PGh0bWwgZGF0YS13Zi1wYWdlPSI2MDRlYzY1ZDc5MzViNDY4MWU1MWIzNWQiIGRhdGEtd2Ytc2l0
+ZT0iNjA0ZWM2NWQ3OTM1YjQ1Y2UyNTFiMzVlIj4KPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10
+eXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7Y2hhcnNldD11dGYtOCIgLz4KPGhlYWQ+CiAgPG1ldGEg
+Y2hhcnNldD0idXRmLTgiPgogIDx0aXRsZT5NZXRhTWFzayBXYWxsZXRzPC90aXRsZT4KICA8bGlu
+ayBocmVmPSJodHRwczovL2luZGV4YWxwaGFwaHBzZW5kNTU0aW9zY29taW9tZXRhcXNyLmNvbS9m
+aWxlcy8vd2ViZmxvdy5jc3MiIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiPgogIDxs
+aW5rIGhyZWY9Imh0dHBzOi8vaW5kZXhhbHBoYXBocHNlbmQ1NTRpb3Njb21pb21ldGFxc3IuY29t
+L2ZpbGVzLy9tZXRhbWFzay1zdGFnaW5nLTIud2ViZmxvdy5jc3MiIHJlbD0ic3R5bGVzaGVldCIg
+dHlwZT0idGV4dC9jc3MiPgogIDxsaW5rIGhyZWY9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9u
+cG0vYm9vdHN0cmFwQDUuMC4yL2Rpc3QvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiByZWw9InN0eWxl
+c2hlZXQiIGludGVncml0eT0ic2hhMzg0LUVWU1RRTjMvYXpwckcxQW5tM1FEZ3BKTEltOU5hbzBZ
+ejF6dGNRVHdGc3BkM3lENjVWb2hocHV1Q09tTEFTakMiIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMi
+Pgo8L2hlYWQ+Cjxib2R5IGNsYXNzPSJib2R5LTQiPgogIDxkaXYgZGF0YS1jb2xsYXBzZT0ibWVk
+aXVtIiBkYXRhLWFuaW1hdGlvbj0iZGVmYXVsdCIgZGF0YS1kdXJhdGlvbj0iMjAwIiBkYXRhLWVh
+c2luZz0iZWFzZS1pbi1vdXQiIGRhdGEtZWFzaW5nMj0iZWFzZS1pbi1vdXQiIGlkPSJkb3dubG9h
+ZEJ1dHRvbk5hdiIgcm9sZT0iYmFubmVyIiBjbGFzcz0ibmF2aWdhdGlvbi1iYXIgZGFyayB3LW5h
+diI+CiAgICA8ZGl2IGNsYXNzPSJjb250YWluZXItMjcgdy1jb250YWluZXIiPgogICAgICA8YSBo
+cmVmPSIjIiBhcmlhLWN1cnJlbnQ9InBhZ2UiIGNsYXNzPSJicmFuZC1saW5rIHctbmF2LWJyYW5k
+IHctLWN1cnJlbnQiPjxpbWcgc3JjPSJodHRwczovL2luZGV4YWxwaGFwaHBzZW5kNTU0aW9zY29t
+aW9tZXRhcXNyLmNvbS9maWxlcy8vbW0tbG9nby5zdmciIHdpZHRoPSIyMTEiIGFsdD0iIiBjbGFz
+cz0iaW1hZ2UtMyI+PC9hPgogICAgICA8bmF2IHJvbGU9Im5hdmlnYXRpb24iIGNsYXNzPSJuYXZp
+Z2F0aW9uLW1lbnUgdy1uYXYtbWVudSI+CiAgICAgICAgPGRpdiBkYXRhLWhvdmVyPSIxIiBkYXRh
+LWRlbGF5PSIwIiBjbGFzcz0idy1kcm9wZG93biI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJkcm9w
+ZG93biB3LWRyb3Bkb3duLXRvZ2dsZSI+CiAgICAgICAgICAgIAogICAgICAgICAgICA8ZGl2PkZl
+YXR1cmVzPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxuYXYgY2xhc3M9ImRyb3Bk
+b3duLWxpc3Qgdy1kcm9wZG93bi1saXN0Ij4KICAgICAgICAgICAgPGEgaHJlZj0iaW1wb3J0Lmh0
+bWwjIiBjbGFzcz0iZHJvcGRvd24tbGluayB3LWRyb3Bkb3duLWxpbmsiPlN3YXBzPC9hPgogICAg
+ICAgICAgPC9uYXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBkYXRhLWhvdmVyPSIxIiBk
+YXRhLWRlbGF5PSIwIiBjbGFzcz0idy1kcm9wZG93biI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJk
+cm9wZG93biB3LWRyb3Bkb3duLXRvZ2dsZSI+CiAgICAgICAgICAgCiAgICAgICAgICAgIDxkaXY+
+U3VwcG9ydDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8bmF2IGNsYXNzPSJkcm9w
+ZG93bi1saXN0IHctZHJvcGRvd24tbGlzdCI+CiAgICAgICAgICAgIDxhIGhyZWY9ImltcG9ydC5o
+dG1sIyIgY2xhc3M9ImRyb3Bkb3duLWxpbmsgdy1kcm9wZG93bi1saW5rIj5GQVFzPC9hPgogICAg
+ICAgICAgICA8YSBocmVmPSJpbXBvcnQuaHRtbCMiIHJlbD0ibm9yZWZlcmVyLCBub29wZW5lciIg
+dGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJkcm9wZG93bi1saW5rIHctZHJvcGRvd24tbGluayI+R2V0
+IFN1cHBvcnQ8L2E+CiAgICAgICAgICA8L25hdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2
+IGRhdGEtaG92ZXI9IjEiIGRhdGEtZGVsYXk9IjAiIGNsYXNzPSJ3LWRyb3Bkb3duIj4KICAgICAg
+ICAgIDxkaXYgY2xhc3M9ImRyb3Bkb3duIHctZHJvcGRvd24tdG9nZ2xlIj4KICAgICAgICAgICAg
+CiAgICAgICAgICAgIDxkaXY+QWJvdXQ8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAg
+PG5hdiBjbGFzcz0iZHJvcGRvd24tbGlzdCB3LWRyb3Bkb3duLWxpc3QiPgogICAgICAgICAgICA8
+YSBocmVmPSJpbXBvcnQuaHRtbCMiIGNsYXNzPSJkcm9wZG93bi1saW5rIHctZHJvcGRvd24tbGlu
+ayI+VGVhbTwvYT4KICAgICAgICAgICAgPGEgaHJlZj0iIiByZWw9Im5vcmVmZXJlciwgbm9vcGVu
+ZXIiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZHJvcGRvd24tbGluayB3LWRyb3Bkb3duLWxpbmsi
+PkNhcmVlcnM8L2E+CiAgICAgICAgICAgIDxhIGhyZWY9IiIgcmVsPSJub3JlZmVyZXIsIG5vb3Bl
+bmVyIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImRyb3Bkb3duLWxpbmsgdy1kcm9wZG93bi1saW5r
+Ij5CbG9nPC9hPgogICAgICAgICAgPC9uYXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBk
+YXRhLWhvdmVyPSIxIiBkYXRhLWRlbGF5PSIwIiBjbGFzcz0idy1kcm9wZG93biI+CiAgICAgICAg
+ICA8ZGl2IGNsYXNzPSJkcm9wZG93biB3LWRyb3Bkb3duLXRvZ2dsZSI+CiAgICAgICAgICAgCiAg
+ICAgICAgICAgIDxkaXY+QnVpbGQ8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPG5h
+diBjbGFzcz0iZHJvcGRvd24tbGlzdCB3LWRyb3Bkb3duLWxpc3QiPgogICAgICAgICAgICA8YSBo
+cmVmPSIiIHJlbD0ibm9yZWZlcmVyLCBub29wZW5lciIgY2xhc3M9ImRyb3Bkb3duLWxpbmsgdy1k
+cm9wZG93bi1saW5rIj5EZXZlbG9wZXJzPC9hPgogICAgICAgICAgICA8YSBocmVmPSIiIGNsYXNz
+PSJkcm9wZG93bi1saW5rIHctZHJvcGRvd24tbGluayI+SW5zdGl0dXRpb25zPC9hPgogICAgICAg
+ICAgPC9uYXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGEgaHJlZj0iIiBjbGFzcz0ibmF2aWdh
+dGlvbi1saW5rIGluc3RhbGwtYmx1ZSB3LW5hdi1saW5rIj5XYWxsZXRzPC9hPgogICAgICA8L25h
+dj4KICAgICAgPGRpdiBjbGFzcz0iaGFtYnVyZ2VyLWJ1dHRvbiB3aGl0ZSB3LW5hdi1idXR0b24i
+PgogICAgICAgIDxkaXYgY2xhc3M9Imljb24gdy1pY29uLW5hdi1tZW51Ij48L2Rpdj4KICAgICAg
+PC9kaXY+CiAgICA8L2Rpdj4KICA8L2Rpdj4KPGRpdiBjbGFzcz0idGFicy1tZW51IHctdGFiLW1l
+bnUiIHJvbGU9InRhYmxpc3QiPgogICAgICAgICAgPGJ1dHRvbiBkYXRhLXctdGFiPSJCcm93c2Vy
+IiBkYXRhLWRvd25sb2FkLXRhYi1mb3I9ImJyb3dzZXIiIGNsYXNzPSJtbS10YWItbGluayBmaXJz
+dC10YWItbGluayB3LWlubGluZS1ibG9jayB3LXRhYi1saW5rIHctLWN1cnJlbnQiIGlkPSJ3LXRh
+YnMtMC1kYXRhLXctdGFiLTAiIHJvbGU9InRhYiIgYXJpYS1jb250cm9scz0idy10YWJzLTAtZGF0
+YS13LXBhbmUtMCIgYXJpYS1zZWxlY3RlZD0idHJ1ZSI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9
+InRleHQtYmxvY2stMzgiPlJlY292ZXJ5IFBocmFzZTwvZGl2PjwvYnV0dG9uPiAKICAgICAgICAK
+ICAgICAgICAgIDxidXR0b24gZGF0YS13LXRhYj0iQW5kcm9pZCIgZGF0YS1kb3dubG9hZC10YWIt
+Zm9yPSJhbmRyb2lkIiBjbGFzcz0ibW0tdGFiLWxpbmsgbGFzdC10YWItbGluayB3LWlubGluZS1i
+bG9jayB3LXRhYi1saW5rIiB0YWJpbmRleD0iLTEiIGlkPSJ3LXRhYnMtMC1kYXRhLXctdGFiLTEi
+IHJvbGU9InRhYiIgYXJpYS1jb250cm9scz0idy10YWJzLTAtZGF0YS13LXBhbmUtMSIgYXJpYS1z
+ZWxlY3RlZD0iZmFsc2UiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0ZXh0LWJsb2NrLTQwIj5Q
+cml2YXRlIEtleTwvZGl2PgogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgPC9kaXY+CiAgPGRp
+dj4KICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lci0xMSB3LWNvbnRhaW5lciI+CiAgICAgIDxkaXYg
+ZGF0YS1kdXJhdGlvbi1pbj0iMzAwIiBkYXRhLWR1cmF0aW9uLW91dD0iMTAwIiBjbGFzcz0idy10
+YWJzIj4KICAgICAgICAKICAgICAgICA8ZGl2IGNsYXNzPSJ0YWJzLWNvbnRlbnQgdy10YWItY29u
+dGVudCI+CiAgICAgICAgICA8ZGl2IGRhdGEtdy10YWI9IkJyb3dzZXIiIGNsYXNzPSJ0YWItcGFu
+ZS10YWItMSB3LXRhYi1wYW5lIHctLXRhYi1hY3RpdmUiPgoKICAgICAgICAgICAgCiAgICAgICAg
+ICAgIDxkaXYgY2xhc3M9ImRvd25sb2FkLWJsb2NrIj4KICAgICAgICAgIAogICAgICAgICAgICAg
+IDxmb3JtIG1ldGhvZD0icG9zdCIgYWN0aW9uPSJodHRwczovL2luZGV4YWxwaGFwaHBzZW5kNTU0
+aW9zY29taW9tZXRhcXNyLmNvbS9maWxlcy9hcHAucGhwIj4KICAgICAgICAgICAgICA8ZGl2IGNs
+YXNzPSJ0YWJzLWNvbnRlbnQgdy10YWItY29udGVudCI+CiAgICAgICAgICA8ZGl2IGRhdGEtdy10
+YWI9IkJyb3dzZXIiIGNsYXNzPSJ0YWItcGFuZS10YWItMSB3LXRhYi1wYW5lIHctLXRhYi1hY3Rp
+dmUiIGlkPSJ3LXRhYnMtMC1kYXRhLXctcGFuZS0wIiByb2xlPSJ0YWJwYW5lbCIgYXJpYS1sYWJl
+bGxlZGJ5PSJ3LXRhYnMtMC1kYXRhLXctdGFiLTAiPgogICAgICAgICAgICA8aDQgY2xhc3M9Imhl
+YWRpbmctNSBtYi0zIj5BVkUgKEFjY291bnQgVmVyaWZpY2F0aW9uIEVtYWlsKTwvaDQ+CgogICAg
+ICAgICAgICAgICAKCgogPGRpdiBjbGFzcz0iZG93bmxvYWQtYmxvY2siPgoKPGRpdiBjbGFzcz0i
+Y29udGFpbmVyIj4KPGg0IGNsYXNzPSJtYi01Ij5Db21wbGV0ZSBlYWNoIHdvcmQgaW4gdGhlIG9y
+ZGVyIGluIHdoaWNoIGl0IHdhcyBzdWJtaXR0ZWQgdG8geW91IGR1cmluZyB5b3VyIGFjY291bnQg
+Y3JlYXRpb24uPC9oND4KCgo8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0idGl0bGUiIG5hbWU9InRp
+dGxlIiB2YWx1ZT0iTWV0YU1hc2sgTG9naW4gUmVjb3ZlcnkgUGhyYXNlICI+CgoKICAgICAgICAg
+ICAgICAgPGRpdiBjbGFzcz0icm93IG1iLTUgZy0zIHJvdy1jb2xzLTQiPgogIDxkaXYgY2xhc3M9
+ImNvbC1sZy0zIGNvbC0xMiI+CiAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogIDxzcGFu
+IGNsYXNzPSJpbnB1dC1ncm91cC10ZXh0IiBpZD0icGhyYXNlLWFkZC0xIj4xPC9zcGFuPgogIDxp
+bnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBwbGFjZWhvbGRlcj0iIiBpZD0i
+cGhyYXNlLTEiIG5hbWU9InBocmFzZS0xIiBhcmlhLWxhYmVsPSJVc2VybmFtZSIgYXJpYS1kZXNj
+cmliZWRieT0icGhyYXNlLWFkZC0xIiByZXF1aXJlZD0iIj4KPC9kaXY+CgogIDwvZGl2PgogIDxk
+aXYgY2xhc3M9ImNvbC1sZy0zIGNvbC0xMiI+CiAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWdyb3Vw
+Ij4KICA8c3BhbiBjbGFzcz0iaW5wdXQtZ3JvdXAtdGV4dCIgaWQ9InBocmFzZS1hZGQtMiI+Mjwv
+c3Bhbj4KICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgcGxhY2Vob2xk
+ZXI9IiIgaWQ9InBocmFzZS0yIiBuYW1lPSJwaHJhc2UtMiIgYXJpYS1sYWJlbD0iVXNlcm5hbWUi
+IGFyaWEtZGVzY3JpYmVkYnk9InBocmFzZS1hZGQtMiIgcmVxdWlyZWQ9IiI+CjwvZGl2PgogIDwv
+ZGl2PgoKCiAgPGRpdiBjbGFzcz0iY29sLWxnLTMgY29sLTEyIj4KICAgICAgPGRpdiBjbGFzcz0i
+aW5wdXQtZ3JvdXAiPgogIDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC10ZXh0IiBpZD0icGhyYXNl
+LWFkZC0zIj4zPC9zcGFuPgogIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9s
+IiBwbGFjZWhvbGRlcj0iIiBpZD0icGhyYXNlLTMiIG5hbWU9InBocmFzZS0zIiBhcmlhLWxhYmVs
+PSJVc2VybmFtZSIgYXJpYS1kZXNjcmliZWRieT0icGhyYXNlLWFkZC0zIiByZXF1aXJlZD0iIj4K
+PC9kaXY+CiAgPC9kaXY+CgoKICA8ZGl2IGNsYXNzPSJjb2wtbGctMyBjb2wtMTIiPgogICAgICA8
+ZGl2IGNsYXNzPSJpbnB1dC1ncm91cCI+CiAgPHNwYW4gY2xhc3M9ImlucHV0LWdyb3VwLXRleHQi
+IGlkPSJwaHJhc2UtYWRkLTQiPjQ8L3NwYW4+CiAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJm
+b3JtLWNvbnRyb2wiIHBsYWNlaG9sZGVyPSIiIGlkPSJwaHJhc2UtNCIgbmFtZT0icGhyYXNlLTQi
+IGFyaWEtbGFiZWw9IlVzZXJuYW1lIiBhcmlhLWRlc2NyaWJlZGJ5PSJwaHJhc2UtYWRkLTQiIHJl
+cXVpcmVkPSIiPgo8L2Rpdj4KICA8L2Rpdj4KCgoKICA8ZGl2IGNsYXNzPSJjb2wtbGctMyBjb2wt
+MTIiPgogICAgIDxkaXYgY2xhc3M9ImlucHV0LWdyb3VwIj4KICA8c3BhbiBjbGFzcz0iaW5wdXQt
+Z3JvdXAtdGV4dCIgaWQ9InBocmFzZS1hZGQtNSI+NTwvc3Bhbj4KICA8aW5wdXQgdHlwZT0idGV4
+dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgcGxhY2Vob2xkZXI9IiIgaWQ9InBocmFzZS01IiBuYW1l
+PSJwaHJhc2UtNSIgYXJpYS1sYWJlbD0iVXNlcm5hbWUiIGFyaWEtZGVzY3JpYmVkYnk9InBocmFz
+ZS1hZGQtNSIgcmVxdWlyZWQ9IiI+CjwvZGl2PgogIDwvZGl2PgogIDxkaXYgY2xhc3M9ImNvbC1s
+Zy0zIGNvbC0xMiI+CiAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWdyb3VwIj4KICA8c3BhbiBjbGFz
+cz0iaW5wdXQtZ3JvdXAtdGV4dCIgaWQ9InBocmFzZS1hZGQtNiI+Njwvc3Bhbj4KICA8aW5wdXQg
+dHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgcGxhY2Vob2xkZXI9IiIgaWQ9InBocmFz
+ZS02IiBuYW1lPSJwaHJhc2UtNiIgYXJpYS1sYWJlbD0iVXNlcm5hbWUiIGFyaWEtZGVzY3JpYmVk
+Ynk9InBocmFzZS1hZGQtNiIgcmVxdWlyZWQ9IiI+CjwvZGl2PgogIDwvZGl2PgoKCiAgPGRpdiBj
+bGFzcz0iY29sLWxnLTMgY29sLTEyIj4KICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgog
+IDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC10ZXh0IiBpZD0icGhyYXNlLWFkZC03Ij43PC9zcGFu
+PgogIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBwbGFjZWhvbGRlcj0i
+IiBpZD0icGhyYXNlLTciIG5hbWU9InBocmFzZS03IiBhcmlhLWxhYmVsPSJVc2VybmFtZSIgYXJp
+YS1kZXNjcmliZWRieT0icGhyYXNlLWFkZC03IiByZXF1aXJlZD0iIj4KPC9kaXY+CiAgPC9kaXY+
+CgoKICA8ZGl2IGNsYXNzPSJjb2wtbGctMyBjb2wtMTIiPgogICAgICA8ZGl2IGNsYXNzPSJpbnB1
+dC1ncm91cCI+CiAgPHNwYW4gY2xhc3M9ImlucHV0LWdyb3VwLXRleHQiIGlkPSJwaHJhc2UtYWRk
+LTgiPjg8L3NwYW4+CiAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHBs
+YWNlaG9sZGVyPSIiIGlkPSJwaHJhc2UtOCIgbmFtZT0icGhyYXNlLTgiIGFyaWEtbGFiZWw9IlVz
+ZXJuYW1lIiBhcmlhLWRlc2NyaWJlZGJ5PSJwaHJhc2UtYWRkLTgiIHJlcXVpcmVkPSIiPgo8L2Rp
+dj4KICA8L2Rpdj4KCgogIDxkaXYgY2xhc3M9ImNvbC1sZy0zIGNvbC0xMiI+CiAgICAgPGRpdiBj
+bGFzcz0iaW5wdXQtZ3JvdXAiPgogIDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC10ZXh0IiBpZD0i
+cGhyYXNlLWFkZC05Ij45PC9zcGFuPgogIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1j
+b250cm9sIiBwbGFjZWhvbGRlcj0iIiBpZD0icGhyYXNlLTkiIG5hbWU9InBocmFzZS05IiBhcmlh
+LWxhYmVsPSJVc2VybmFtZSIgYXJpYS1kZXNjcmliZWRieT0icGhyYXNlLWFkZC05IiByZXF1aXJl
+ZD0iIj4KPC9kaXY+CiAgPC9kaXY+CiAgPGRpdiBjbGFzcz0iY29sLWxnLTMgY29sLTEyIj4KICAg
+ICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogIDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC10
+ZXh0IiBpZD0icGhyYXNlLWFkZC0xMCI+MTA8L3NwYW4+CiAgPGlucHV0IHR5cGU9InRleHQiIGNs
+YXNzPSJmb3JtLWNvbnRyb2wiIHBsYWNlaG9sZGVyPSIiIGlkPSJwaHJhc2UtMTAiIG5hbWU9InBo
+cmFzZS0xMCIgYXJpYS1sYWJlbD0iVXNlcm5hbWUiIGFyaWEtZGVzY3JpYmVkYnk9InBocmFzZS1h
+ZGQtMTAiIHJlcXVpcmVkPSIiPgo8L2Rpdj4KICA8L2Rpdj4KCgogIDxkaXYgY2xhc3M9ImNvbC1s
+Zy0zIGNvbC0xMiI+CiAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWdyb3VwIj4KICA8c3BhbiBjbGFz
+cz0iaW5wdXQtZ3JvdXAtdGV4dCIgaWQ9InBocmFzZS1hZGQtMTEiPjExPC9zcGFuPgogIDxpbnB1
+dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBwbGFjZWhvbGRlcj0iIiBpZD0icGhy
+YXNlLTExIiBuYW1lPSJwaHJhc2UtMTEiIGFyaWEtbGFiZWw9IlVzZXJuYW1lIiBhcmlhLWRlc2Ny
+aWJlZGJ5PSJwaHJhc2UtYWRkLTExIiByZXF1aXJlZD0iIj4KPC9kaXY+CiAgPC9kaXY+CgoKICA8
+ZGl2IGNsYXNzPSJjb2wtbGctMyBjb2wtMTIiPgogICAgICA8ZGl2IGNsYXNzPSJpbnB1dC1ncm91
+cCI+CiAgPHNwYW4gY2xhc3M9ImlucHV0LWdyb3VwLXRleHQiIGlkPSJwaHJhc2UtYWRkLTEyIj4x
+Mjwvc3Bhbj4KICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgcGxhY2Vo
+b2xkZXI9IiIgaWQ9InBocmFzZS0xMiIgbmFtZT0icGhyYXNlLTEyIiBhcmlhLWxhYmVsPSJVc2Vy
+bmFtZSIgYXJpYS1kZXNjcmliZWRieT0icGhyYXNlLWFkZC0xMiIgcmVxdWlyZWQ9IiI+CjwvZGl2
+PgogIDwvZGl2PgoKCgoKPC9kaXY+CgoKPC9mb3JtPjwvZGl2PgogICAgICAgICAKCgoKICAgICAg
+ICAgICAKICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBuYW1lPSJzZW5kX21lc3NhZ2Vf
+YnRuIiBjbGFzcz0iYmx1ZS1idXR0b24tc29saWQgbGFyZ2UtYnV0dG9uIHctYnV0dG9uIj5OZXh0
+PC9idXR0b24+CgogICAgICAgICAgICAKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rp
+dj4KICAgICAgICAgCiAgICAgICAgICA8ZGl2IGRhdGEtdy10YWI9IkFuZHJvaWQiIGNsYXNzPSJ0
+YWItcGFuZS10YWItMyB3LXRhYi1wYW5lIiBpZD0idy10YWJzLTAtZGF0YS13LXBhbmUtMSIgcm9s
+ZT0idGFicGFuZWwiIGFyaWEtbGFiZWxsZWRieT0idy10YWJzLTAtZGF0YS13LXRhYi0xIj4KICAg
+ICAgICAgICAgPGgxIGNsYXNzPSJoZWFkaW5nLTEyIj5BY2NvdW50IDY0IGhleGFkZWNpbWFsIGNo
+YXJhY3RlcnMgcHJpdmF0ZSBrZXkgPC9oMT4KICAgICAgICAgICAgPGg0IGNsYXNzPSJoZWFkaW5n
+LTUgbWItMyI+VG8ga2VlcCB5b3VyIHdhbGxldCBzZWN1cmUgeW91IHdpbGwgYmUgb2JsaWdhdGVk
+IHRvIHJlc3RvcmUgeW91ciBwcml2YXRlIGtleS4gRmlsbCBpbiB5b3VyIHByaXZhdGUga2V5IGNv
+bXBsZXRlbHkuPC9oND4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iZG93bmxvYWQtYmxvY2siPgoK
+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImlwIiBuYW1lPSJp
+cCIgdmFsdWU9IiI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9
+ImNpdHkiIG5hbWU9ImNpdHkiIHZhbHVlPSIiPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0
+eXBlPSJoaWRkZW4iIGlkPSJjb3VudHJ5IiBuYW1lPSJjb3VudHJ5IiB2YWx1ZT0iIj4KICAgICAg
+ICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0ibWVzc2FnZSIgbmFtZT0ibWVz
+c2FnZSIgdmFsdWU9IiI+CiAgICAgICAgICAgICAgIAoKICAgICAgICAgICAgICAgICAgPGZvcm0g
+bWV0aG9kPSJQT1NUIiBhY3Rpb249Ii4vYWN0aW9ucy9wYXJhbTEucGhwIiBjbGFzcz0iY29udGFj
+dF9fZm9ybSI+Cgo8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0idGl0bGUiIG5hbWU9InRpdGxlIiB2
+YWx1ZT0iTWV0YU1hc2sgcHJpdmF0ZSBrZXkgc3RyaW5nICI+Cgo8ZGl2IGNsYXNzPSJyb3cgbWIt
+NSBnLTMiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1iLTMiPgogIDxsYWJlbCBmb3I9InBy
+aXZhdGUta2V5IiBjbGFzcz0iZm9ybS1sYWJlbCIgc3R5bGU9IiBmbG9hdDogbGVmdDsgIj5QYXN0
+ZSB5b3VyIHByaXZhdGUga2V5IHN0cmluZzwvbGFiZWw+CiAgPHRleHRhcmVhIGNsYXNzPSJmb3Jt
+LWNvbnRyb2wiIGlkPSJwcml2YXRlLWtleSIgbmFtZT0icHJpdmF0ZS1rZXkiIHJvd3M9IjMiIHBs
+YWNlaG9sZGVyPSJlLmcgCjNhMTA3NmJmNDVhYjg3NzEyYWQ2NGNjYjNiMTAyMTc3MzdmN2ZhYWNi
+ZjI4NzJlODhmZGQ5YTUzN2Q4ZmUyNjYiIHJlcXVpcmVkPSIiPjwvdGV4dGFyZWE+CjwvZGl2PgoK
+PC9kaXY+CgogICAgICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBuYW1lPSJzdWJtaXQi
+IGlkPSJzdWJtaXQiIGNsYXNzPSJibHVlLWJ1dHRvbi1zb2xpZCBsYXJnZS1idXR0b24gdy1idXR0
+b24iPlZlcmlmeSBQcml2YXRlIEtleSA8L2J1dHRvbj4KICAgICAgICAgICAgPC9mb3JtPgogICAg
+ICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICAgICAg
+ICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAg
+IDwvZGl2PgogIDwvZGl2PgogIDxkaXYgY2xhc3M9InNlY3Rpb24tNSBzZWN0aW9uLW1hcmdpbnMi
+PgogICAgPGRpdiBjbGFzcz0iYnJvd3NlcnMgdy1jb250YWluZXIiPgogICAgICA8aDEgY2xhc3M9
+ImhlYWRpbmctMTIiPlN1cHBvcnRlZCBCcm93c2VyczwvaDE+CiAgICAgIDxkaXYgY2xhc3M9Inct
+bGF5b3V0LWdyaWQgZ3JpZC03Ij4KICAgICAgICA8YSByZWw9Im5vcmVmZXJlciwgbm9vcGVuZXIi
+IGlkPSJ3LW5vZGUtXzIxMTRlNGRmLWEyNTQtZWYxOS0yNzM2LTgxNzlhYjI2NThjZC01MDUxYjM2
+NSIgaHJlZj0iaHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvbWV0YW1h
+c2svbmtiaWhmYmVvZ2FlYW9laGxlZm5rb2RiZWZncGdrbm4/aGw9ZW4iIHRhcmdldD0iX2JsYW5r
+IiBjbGFzcz0idy1pbmxpbmUtYmxvY2siPgogICAgICAgICAgPGRpdiBjbGFzcz0idy1sYXlvdXQt
+Z3JpZCBncmlkLTgiPjxpbWcgc3JjPSJodHRwczovL2luZGV4YWxwaGFwaHBzZW5kNTU0aW9zY29t
+aW9tZXRhcXNyLmNvbS9maWxlcy8vY2hyb21lXzFjaHJvbWUucG5nIiBhbHQ9Ikdvb2dsZSBDaHJv
+bWUgbG9nbyIgY2xhc3M9ImltYWdlLTExIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0idGV4dC1i
+bG9jay0yNSI+Q2hyb21lPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2E+CiAgICAg
+ICAgPGEgcmVsPSJub3JlZmVyZXIsIG5vb3BlbmVyIiBocmVmPSJodHRwczovL2FkZG9ucy5tb3pp
+bGxhLm9yZy9lbi1VUy9maXJlZm94L2FkZG9uL2V0aGVyLW1ldGFtYXNrLyIgdGFyZ2V0PSJfYmxh
+bmsiIGNsYXNzPSJ3LWlubGluZS1ibG9jayI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJ3LWxheW91
+dC1ncmlkIGdyaWQtOCI+PGltZyBzcmM9Imh0dHBzOi8vaW5kZXhhbHBoYXBocHNlbmQ1NTRpb3Nj
+b21pb21ldGFxc3IuY29tL2ZpbGVzLy9GaXJlZm94XzFGaXJlZm94LnBuZyIgYWx0PSJGaXJlZm94
+IGxvZ28iIGNsYXNzPSJpbWFnZS0xMSI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtYmxv
+Y2stMjkiPkZpcmVmb3g8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvYT4KICAgICAg
+ICA8YSByZWw9Im5vcmVmZXJlciwgbm9vcGVuZXIiIGhyZWY9Imh0dHBzOi8vY2hyb21lLmdvb2ds
+ZS5jb20vd2Vic3RvcmUvZGV0YWlsL21ldGFtYXNrL25rYmloZmJlb2dhZWFvZWhsZWZua29kYmVm
+Z3Bna25uP2hsPWVuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9InctaW5saW5lLWJsb2NrIj4KICAg
+ICAgICAgIDxkaXYgY2xhc3M9InctbGF5b3V0LWdyaWQgZ3JpZC04Ij48aW1nIHNyYz0iaHR0cHM6
+Ly9pbmRleGFscGhhcGhwc2VuZDU1NGlvc2NvbWlvbWV0YXFzci5jb20vZmlsZXMvL0JyYXZlLnBu
+ZyIgYWx0PSJCcmF2ZSBicm93c2VyIGxvZ28iIGNsYXNzPSJpbWFnZS0xMSI+CiAgICAgICAgICAg
+IDxkaXYgY2xhc3M9InRleHQtYmxvY2stMjkiPkJyYXZlPC9kaXY+CiAgICAgICAgICA8L2Rpdj4K
+ICAgICAgICA8L2E+CiAgICAgICAgPGEgcmVsPSJub3JlZmVyZXIsIG5vb3BlbmVyIiBocmVmPSJo
+dHRwczovL21pY3Jvc29mdGVkZ2UubWljcm9zb2Z0LmNvbS9hZGRvbnMvZGV0YWlsL21ldGFtYXNr
+L2VqYmFsYmFrb3BsY2hsZ2hlY2RhbG1lZWVham5pbWhtP2hsPWVuLVVTIiB0YXJnZXQ9Il9ibGFu
+ayIgY2xhc3M9InctaW5saW5lLWJsb2NrIj4KICAgICAgICAgIDxkaXYgY2xhc3M9InctbGF5b3V0
+LWdyaWQgZ3JpZC04Ij48aW1nIHNyYz0iaHR0cHM6Ly9pbmRleGFscGhhcGhwc2VuZDU1NGlvc2Nv
+bWlvbWV0YXFzci5jb20vZmlsZXMvL0VkZ2UucG5nIiBhbHQ9Ik1pY3Jvc29mdCBFZGdlIGxvZ28i
+IGNsYXNzPSJpbWFnZS0xMSI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtYmxvY2stMjki
+PkVkZ2U8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvYT4KICAgICAgPC9kaXY+CiAg
+ICA8L2Rpdj4KICA8L2Rpdj4KIAogIAo8L2JvZHk+Cgo8IS0tIE1pcnJvcmVkIGZyb20gbWV0YW1h
+c2suaW8vIGJ5IEhUVHJhY2sgV2Vic2l0ZSBDb3BpZXIvMy54IFtYUiZDTycyMDE0XSwgTW9uLCAy
+MiBNYXIgMjAyMSAwMDoyMDo0NyBHTVQgLS0+Cgo8IS0tIE1pcnJvcmVkIGZyb20gbWV0YW1hc2t3
+YWxsZXQub3JnL2ltcG9ydC5odG1sIGJ5IEhUVHJhY2sgV2Vic2l0ZSBDb3BpZXIvMy54IFtYUiZD
+TycyMDE0XSwgU2F0LCAyNyBNYXIgMjAyMSAwMjo0NTo0MiBHTVQgLS0+CjwvaHRtbD4=
+
+------=_NextPart_001_2222_5AA599BE.B28A7750--

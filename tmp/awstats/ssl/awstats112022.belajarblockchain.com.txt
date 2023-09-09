@@ -1,0 +1,1170 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202211 will be lost/reset.
+# Last config file used to build this data file was /home/bely5175/tmp/awstats/ssl/awstats.belajarblockchain.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2701                
+POS_VISITOR 21862               
+POS_DAY 36717               
+POS_DOMAIN 3582                
+POS_LOGIN 4184                
+POS_ROBOT 4339                
+POS_WORMS 5523                
+POS_EMAILSENDER 5654                
+POS_EMAILRECEIVER 5797                
+POS_SESSION 37561               
+POS_SIDER 37773               
+POS_FILETYPES 5932                
+POS_DOWNLOADS 6318                
+POS_OS 6422                
+POS_BROWSER 6872                
+POS_SCREENSIZE 10339               
+POS_UNKNOWNREFERER 10413               
+POS_UNKNOWNREFERERBROWSER 11699               
+POS_ORIGIN 12605               
+POS_SEREFERRALS 12751               
+POS_PAGEREFS 12956               
+POS_SEARCHWORDS 14916               
+POS_KEYWORDS 15068               
+POS_MISC 2364                
+POS_ERRORS 15127               
+POS_CLUSTER 4040                
+POS_SIDER_404 15308               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20221201010612 21 4497 18077709614090
+FirstTime 20221101011504
+LastTime 20221130223656
+LastUpdate 20221201193645 21 0 20 0 0
+TotalVisits 641                 
+TotalUnique 333                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 357                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 11 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 43 66 731049 55 69 125601
+1 30 54 704918 13 23 193082
+2 26 26 184519 15 23 106348
+3 138 182 1354678 62 92 3438444
+4 31 31 384323 14 40 284233
+5 113 209 3290081 27 43 213931
+6 24 24 838326 16 26 278233
+7 120 262 4035743 72 138 984344
+8 217 482 5707633 63 104 402145
+9 100 201 3530462 26 65 660603
+10 112 250 3743175 140 253 5448962
+11 102 175 2260399 38 77 954501
+12 48 85 1132959 23 45 185697
+13 69 160 2670840 15 46 277507
+14 58 129 1804432 26 55 682854
+15 58 114 1569628 23 29 313543
+16 56 130 1841255 18 34 231459
+17 64 132 1852136 20 63 685372
+18 359 874 12773682 80 111 968632
+19 587 703 8362852 202 261 1298010
+20 304 375 3321658 81 107 449221
+21 693 749 4693410 576 611 3600535
+22 312 484 4117066 56 133 1395864
+23 71 140 2085351 49 111 2433501
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 26
+id 2274 3874 46486222
+ip 758 987 8464523
+us 423 644 10497141
+in 102 177 2397639
+cn 42 115 1155206
+ru 28 45 649196
+my 18 44 724861
+ua 16 24 327937
+eu 11 25 383075
+gb 10 22 370204
+ca 10 22 364413
+de 6 6 86600
+se 6 6 52975
+kr 5 5 69792
+bd 5 17 302953
+jp 5 5 52247
+zz 4 5 71226
+nl 2 2 128044
+fr 2 2 128044
+sk 2 2 221002
+gh 1 1 17544
+vn 1 1 273
+za 1 1 1857
+ar 1 2 19020
+am 1 1 17525
+hn 1 2 1056
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 27
+bingbot/ 251 1278436 20221130200709 23
+crawl 183 5014451 20221121193550 3
+Googlebot/ 108 1388710 20221130173744 14
+unknown 75 7730 20221128234318 75
+link 70 1344636 20221130112536 0
+SemrushBot/ 62 415022 20221129100423 24
+YandexBot/ 61 461561 20221129202022 7
+DotBot/ 40 1329478 20221122013937 17
+bingpreview 39 2988663 20221129230938 0
+no_user_agent 34 3409762 20221130034501 0
+Apache\-HttpClient/ 14 338180 20221127030848 0
+MixrankBot 7 94212 20221115110131 0
+YandexImages/ 7 172733 20221129095218 0
+scrapy 6 87239 20221130070605 0
+(firefox/)([0-9]\.|[0-1][0]\.) 6 169460 20221114131226 0
+facebookexternalhit/ 5 82331 20221129093130 1
+BLEXBot/ 4 17894 20221123161432 3
+survey 3 174309 20221108070846 0
+ruby/ 3 47029 20221125082627 0
+Googlebot\-Image/ 3 80030 20221130192749 0
+curl 3 242877 20221128171328 0
+MJ12bot/ 2 14762 20221113013216 1
+AhrefsBot/ 2 204 20221121144717 2
+bot[\s_+:,\.\;\/\\-] 2 17660 20221103212238 1
+Go\-http\-client/ 2 20013 20221122134726 0
+discover 1 1859 20221114102007 0
+DuckDuckGo\-Favicons\-Bot/ 1 17544 20221123110006 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 17
+woff 32 726508 0 0
+html 1028 17817202 0 0
+tiff 2 540 0 0
+js 1011 12686540 0 0
+gif 12 75884 0 0
+ttf 1 20954 0 0
+woff2 219 16283340 0 0
+json 1 6923 0 0
+png 223 3409815 0 0
+jpg 379 992918 0 0
+Unknown 144 198343 0 0
+css 576 2686337 0 0
+webp 2 172 0 0
+svg 97 109068 0 0
+php 2280 17844997 0 0
+xml 28 108418 0 0
+cgi 2 22616 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/wp-sitemap.xsl 1 0 3449
+/wp-sitemap-index.xsl 1 0 2738
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 26
+win10 3743 2413
+android10 71 26
+linux 199 100
+winnt 19 13
+ios_iphone 183 69
+androidoreo 73 23
+androidpie 20 7
+macosx13 1 1
+linuxubuntu 7 7
+macosx10 4 4
+macosx15 365 163
+Unknown 706 649
+android 420 139
+win8.1 1 1
+unix 1 1
+androidkitkat 1 1
+androidlollipop 1 1
+win7 25 24
+winxp 7 4
+win8 1 1
+winlong 4 4
+macosx14 6 5
+androidmarshmallow 45 13
+macosx 38 30
+androidnougat 94 34
+macosx8 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 165
+chrome72.0.775 1 1
+chrome70.0.3175.88 1 1
+chrome80.0.3987.149 76 76
+chrome84.0.4147.105 3 3
+chrome87.0.4280.88 14 12
+chrome107.0.5304.87 84 25
+chrome58.0.3029.110 1 1
+chrome50.0.2661.75 2 2
+chrome68.0.61 1 0
+chrome107.0.5304.121 16 5
+chrome84.0.1983 1 1
+chrome105.0.0.0 11 8
+firefox87.0 1 1
+chrome95.0.91 1 1
+chrome103.0.0.0 2 2
+firefox33.0 2 2
+chrome63.0.1529 1 1
+safari 17 6
+chrome101.0.4951.64 2 2
+chrome78.0.3904.108 63 63
+firefox69.0 1 1
+safari16.1 37 13
+chrome54.0.2756 1 1
+chrome101.0.496 1 1
+edge18 1 1
+chrome102.0.1089 1 1
+chrome64.0.1282 1 1
+chrome81.0.2227 1 1
+chrome96.0.4664.45 2 1
+chrome72.0.797 1 1
+chrome75.0.693 1 1
+chrome63.0.1313 1 0
+chrome67.0.1672 1 1
+safari13.0.3 3 2
+chrome82.0.305 1 1
+chrome55.0.16 1 1
+chrome92.0.1546 1 1
+opera72.3.3767.68685 17 5
+chrome103.0.2562 1 0
+firefox55.0 1 1
+chrome93.0.1209 1 0
+chrome89.0.4389.82 1 1
+chrome70.0.248 1 0
+chrome102.0.5005.61 16 5
+chrome101.0.2779 1 1
+chrome76.0.1289 1 1
+chrome61.0.3163.128 28 8
+chrome108.0.0.0 17 5
+chrome107.0.5304.91 1 1
+chrome77.0.3865.120 3 1
+chrome26.0.1410.65 2 2
+chrome61.0.3163.100 1 1
+chrome63.0.1987 1 1
+chrome89.0.1855 1 1
+chrome73.0.686 1 0
+chrome106.0.336 1 0
+chrome101.0.4951.67 1 1
+safari13.0.2 2 1
+safari14.1.2 53 17
+firefox11.0 3 0
+chrome70.0.1759 1 1
+chrome83.0.4103.97 35 35
+firefox70.0 6 5
+chrome84.0.4143.7 58 22
+chrome83.0.867 1 1
+chrome55.0.2161 1 1
+chrome80.0.3987.119 19 6
+chrome96.0.2501 1 1
+chrome79.0.3945.130 10 10
+chrome95.0.4638.54 2 2
+chrome100.0.2895 1 0
+chrome99.0.574 1 1
+chrome39.0.2171.95 2 2
+chrome100.0.4896.127 42 15
+firefox68.0 1 0
+chrome90.0.4430.72 2 2
+netscape5.0 11 11
+chrome20.0.1090.0 1 1
+opera63.0.3368.107 2 1
+chrome71.0.2098 1 1
+chrome79.0.3945.88 1 1
+chrome91.0.4472.114 3 3
+chrome90.0.4430.210 22 8
+firefox106.0 42 16
+chrome78.0.3904.97 2 2
+chrome74.0.3729.169 6 6
+chrome102.0.0.0 1 1
+safari8.0.2 1 1
+chrome50.0.734 1 1
+chrome102.0.5005.125 17 5
+chrome85.0.4183.121 6 6
+edge12 2 0
+chrome70.0.2870.88 1 1
+chrome97.0.2900 1 0
+chrome91.0.4472.81 1 1
+firefox89.0 2 1
+chrome66.0.3359.181 8 8
+chrome73.0.1107 1 1
+chrome106.0.0.0 101 35
+chrome85.0.1267 1 0
+chrome107.0.0.0 3943 2337
+chrome76.0.2214 1 1
+chrome86.0.2635 1 1
+firefox105.0 4 4
+chrome99.0.347 1 1
+chrome68.0.715 1 1
+chrome40.0.2214.93 1 1
+chrome94.0.2238 1 0
+chrome94.0.861 1 1
+opera12.16 1 1
+chrome94.0.4606.61 50 32
+safari15.0 20 7
+chrome67.0.3396.99 1 1
+chrome91.0.4472.77 6 4
+firefox77.0 1 1
+chrome65.0.1075 1 1
+chrome103.0.2691 1 1
+chrome87.0.4280.141 3 3
+chrome99.0.2637 1 0
+chrome80.0.3987.116 1 1
+chrome11.0.696.71 18 18
+edge17 1 1
+chrome75.0.2236 1 1
+chrome71.0.989 1 1
+chrome60.0.350 1 1
+chrome77.0.3865.90 1 1
+chrome51.0.2704.106 1 1
+chrome65.0.3152.119 4 4
+safari16.0 29 10
+chrome60.0.3112.107 2 2
+chrome95.0.4638.69 1 0
+firefox107.0 22 6
+chrome81.0.461 1 0
+chrome106.0.5249.126 34 10
+chrome72.0.3626.119 1 1
+chrome57.0.2488 1 0
+chrome98.0.4758.102 2 2
+safari15.5 17 5
+safari14.1 1 1
+chrome83.0.4103.116 20 20
+msie6.0 4 4
+chrome92.0.4515.107 16 4
+chrome100.0.4758.11 2 2
+edge14 1 1
+safari15.4 26 9
+chrome90.0.1662 1 1
+chrome78.0.3904.70 3 2
+chrome104.0.5112.101 17 5
+chrome68.0.3440.91 42 12
+firefox45.9 1 1
+firefox28.0 1 1
+Unknown 671 625
+chrome83.0.4103.106 27 27
+chrome45.0.2454.94 1 1
+firefox91.0 2 1
+chrome79.0.2697 1 1
+chrome103.0.5060.134 2 2
+chrome74.0.2817 1 1
+chrome70.0.1377 1 0
+mozilla 33 22
+chrome89.0.4389.116 21 7
+chrome107.0.5304.105 16 5
+firefox57.0 17 5
+chrome52.0.273 1 1
+chrome104.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 21
+axios/0.21.4 20221125064326
+\ 20221104180203
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/http;__http://researchscan.comsys.rwth-aachen.de) 20221130223656
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_(namespace:_domainValidationHttpClient)_-_BizOpsCompanies-Tq2-BizCoDomainValidationCompany 20221114102013
+Mozilla/5.0 20221112171325
+WordPress/6.0.3;_https://belajarblockchain.com 20221102200812
+WhatsApp/2.22.21.77_i 20221106173843
+Mozilla/5.0_(compatible;_ips-agent) 20221101062741
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_(namespace:_domainValidationHttpClient)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20221126031747
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20221128225027
+Mozilla/5.0_(compatible;_Dataprovider.com) 20221128051211
+WordPress/6.1.1;_https://belajarblockchain.com 20221130223655
+WhatsApp/2.2245.5_W 20221128055038
+quic-go-HTTP/3 20221126014239
+got_(https://github.com/sindresorhus/got) 20221111100153
+python-requests/2.26.0 20221104180212
+Mozilla/5.0_Firefox/33.0 20221126112440
+Faraday_v0.17.4 20221109043731
+WordPress/6.1;_https://belajarblockchain.com 20221116102908
+cortex/1.0 20221113102643
+python-requests/2.28.1 20221122160327
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 15
+Faraday_v0.17.4 20221109043731
+WordPress/6.1;_https://belajarblockchain.com 20221116102908
+cortex/1.0 20221113102643
+python-requests/2.28.1 20221122160327
+got_(https://github.com/sindresorhus/got) 20221111100153
+python-requests/2.26.0 20221104180212
+WordPress/6.1.1;_https://belajarblockchain.com 20221130223655
+quic-go-HTTP/3 20221126014239
+WhatsApp/2.2245.5_W 20221128055038
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_(namespace:_domainValidationHttpClient)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20221126031747
+WordPress/6.0.3;_https://belajarblockchain.com 20221102200812
+WhatsApp/2.22.21.77_i 20221106173843
+axios/0.21.4 20221125064326
+\ 20221104180203
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_(namespace:_domainValidationHttpClient)_-_BizOpsCompanies-Tq2-BizCoDomainValidationCompany 20221114102013
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 595 840
+From1 7 7
+From2 15 17
+From3 118 276
+From4 3000 4897
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google_com 0 2
+www_google_com 11 11
+duckduckgo 1 1
+baidu 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 21
+https://webmail.belajarblockchain.com/cpsess7615071753/3rdparty/roundcube/ 31 55
+https://cpanel.belajarblockchain.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/open_sans.min.css 21 21
+https://l.wl.co 15 15
+https://webmail.belajarblockchain.com 11 37
+https://webmail.belajarblockchain.com/cPanel_magic_revision_1636479259/webmail/paper_lantern/_assets/css/master-legacy-ltr.cmb.min.css 6 6
+https://l.instagram.com 6 6
+https://webmail.belajarblockchain.com/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+https://webmail.belajarblockchain.com/cpsess0970647822/3rdparty/roundcube/ 5 27
+https://cpanel.belajarblockchain.com 5 26
+https://webmail.belajarblockchain.com/cpsess7615071753/3rdparty/roundcube/skins/elastic/styles/styles.min.css 4 4
+https://webmail.belajarblockchain.com/cpsess0970647822/3rdparty/roundcube/skins/elastic/styles/styles.min.css 4 4
+https://mail.belajarblockchain.com/sitemap.xml 1 1
+http://webmail.belajarblockchain.com 1 1
+https://www.linkedin.com 1 1
+http://cpanel.belajarblockchain.com 1 1
+https://webmail.belajarblockchain.com/cPanel_magic_revision_1629221649/unprotected/cpanel/style_v2_optimized.css 0 12
+https://webmail.belajarblockchain.com/cpsess7615071753/3rdparty/roundcube/plugins/return_to_webmail/skins/elastic/return_to_webmail.css 0 1
+https://webmail.belajarblockchain.com/cpsess7615071753/3rdparty/roundcube/skins/elastic/watermark.html 0 1
+https://webmail.belajarblockchain.com/cpsess0970647822/3rdparty/roundcube/plugins/return_to_webmail/skins/elastic/return_to_webmail.css 0 1
+https://cpanel.belajarblockchain.com/cPanel_magic_revision_1629221649/unprotected/cpanel/style_v2_optimized.css 0 49
+https://webmail.belajarblockchain.com/cpsess0970647822/3rdparty/roundcube/skins/elastic/watermark.html 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+403 4 4916
+206 3 105294
+308 3 255
+204 5 0
+301 582 2828
+404 621 6226872
+302 51 4685
+405 2 42
+401 21 12342
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 124
+/wp-story.php 2 belajarblockchain.com
+/about/undefined 1 -
+/wordpress 1 http://belajarblockchain.com/wordpress
+/Www 1 http://belajarblockchain.com/Www
+/wp-content/plugins/super-interactive-maps/css/sim-wp-admin.css 1 https://www.google.com
+/oldsite 1 http://belajarblockchain.com/oldsite
+/sitemap 1 -
+/contact/%7B%7Bparallax_img_src 3 https://belajarblockchain.com/contact/
+/wp-content/plugins/themegrill-demo-importer/readme.txt 1 https://www.google.com
+/Site 1 http://belajarblockchain.com/Site
+/demo 1 http://belajarblockchain.com/demo
+/backup 1 http://belajarblockchain.com/backup
+/SITE 1 http://belajarblockchain.com/SITE
+/SHOP 1 http://belajarblockchain.com/SHOP
+/BACKUP 1 http://belajarblockchain.com/BACKUP
+/wp-content/plugins/e-signature/page-template/default/style.css 1 https://www.google.com
+/about/%7B%7Bpagelayer-srcset 9 https://belajarblockchain.com/about/
+/wp-content/themes/seotheme/mar.php 2 www.google.com
+/bk 1 http://belajarblockchain.com/bk
+/sitemap.xml.gz 2 -
+/%7B%7Bfunc_image 48 https://belajarblockchain.com/
+/wp-content/plugins/angwp/__%20UPDATES.txt 1 https://www.google.com
+/wp-includes/shell20211028.php 2 www.google.com
+/test 1 http://belajarblockchain.com/test
+/wp-admin/admin-ajax.php 2 https://belajarblockchain.com/wp-admin/customize.php
+/wp-content/plugins/masterstudy-lms-learning-management-system/readme.txt 1 https://www.google.com
+/favicon.png 56 -
+/2019/02/selamat-datang.html 1 -
+/2018 1 http://belajarblockchain.com/2018
+/wp-content/plugins/wp-user-extra-fields/js/wpuef-configurator.js 1 https://www.google.com
+/wp-content/plugins/mapsvg-lite-interactive-vector-maps/gm_download.php 1 https://www.google.com
+/old-index.php 1 belajarblockchain.com
+/.env 1 -
+/tel:+1234567890 1 https://belajarblockchain.com/
+/wp-content/plugins/mstore-api/readme.txt 1 https://www.google.com
+/wp-content/plugins/capability-manager-enhanced/readme.txt 1 https://www.google.com
+/sitemap.txt 1 -
+/sito 1 http://belajarblockchain.com/sito
+/bak 1 http://belajarblockchain.com/bak
+/TEST 1 http://belajarblockchain.com/TEST
+/wp-content/plugins/advanced-import/readme.txt 1 https://www.google.com
+/apple-touch-icon-precomposed.png 2 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 1 https://www.google.com
+/wp-static.php 1 belajarblockchain.com
+/WORDPRESS 1 http://belajarblockchain.com/WORDPRESS
+/WordPress 1 http://belajarblockchain.com/WordPress
+/shop 1 http://belajarblockchain.com/shop
+/humans.txt 3 http://belajarblockchain.com/humans.txt
+/Wp 1 http://belajarblockchain.com/Wp
+/pma/ 4 https://belajarblockchain.com/pma/index.php
+/wp-old 1 http://belajarblockchain.com/wp-old
+/2019 1 http://belajarblockchain.com/2019
+/radio.txt 1 -
+/wp-content/plugins/superlogoshowcase-wp/css/sls-wp-admin.css 1 https://www.google.com
+/OLD 1 http://belajarblockchain.com/OLD
+/2020 1 http://belajarblockchain.com/2020
+/%7B%7Bparallax_img_src 95 https://belajarblockchain.com/
+/WWW 1 http://belajarblockchain.com/WWW
+/Old 1 http://belajarblockchain.com/Old
+/ads.txt 4 http://belajarblockchain.com/ads.txt
+/wp-content/plugins/wp-time-capsule/readme.txt 1 https://www.google.com
+/bac 1 http://belajarblockchain.com/bac
+/bc 1 http://belajarblockchain.com/bc
+/wp-content/plugins/ulisting/readme.txt 1 https://www.google.com
+/wp-content/plugins/emails-verification-for-woocommerce/readme.txt 1 https://www.google.com
+/NEW 1 http://belajarblockchain.com/NEW
+/apple-touch-icon.png 2 -
+/wp-content/plugins/wp-pinterest-automatic/changelog 1 https://www.google.com
+/main 1 http://belajarblockchain.com/main
+/wp-content/themes/seotheme/db.php 2 www.google.com
+/New 1 http://belajarblockchain.com/New
+/wp-content/plugins/mapsvg/gm_download.php 1 https://www.google.com
+/1index.php 2 www.google.com
+/wp-content/plugins/shortcode-addons/readme.txt 1 https://www.google.com
+/wp-stopstore.php 1 belajarblockchain.com
+/products.json 1 -
+/WP 1 http://belajarblockchain.com/WP
+/php/thinkphp/aaaffff123.php 5 -
+/wp-content/plugins/wp-automatic/changelog 1 https://www.google.com
+/index_sso.php 5 -
+/ccx/ 1 belajarblockchain.com
+/wp-content/plugins/capabilities-pro/readme.txt 1 https://www.google.com
+/old-site 1 http://belajarblockchain.com/old-site
+/wp-admin/includes/wp-load.php 1 belajarblockchain.com
+/contact/ 1 https://belajarblockchain.com/contact/
+/about/%7B%7Bfunc_image 1 https://belajarblockchain.com/about/
+/new 1 http://belajarblockchain.com/new
+/wp-content/plugins/image-hover-effects-ultimate/readme.txt 1 https://www.google.com
+/about.php 1 belajarblockchain.com
+/wp-content/plugins/iwp-client/readme.txt 1 https://www.google.com
+/wp 1 http://belajarblockchain.com/wp
+/apple-touch-icon-120x120-precomposed.png 2 -
+/site 1 http://belajarblockchain.com/site
+/category/teori 1 -
+/wp-content/plugins/superstorefinder-wp/css/ssf-wp-admin.css 1 https://www.google.com
+/Backup 1 http://belajarblockchain.com/Backup
+/ 1 -
+/%7Bsitemap:loc 1 https://belajarblockchain.com/%7Bsitemap:loc%7D
+/wp-content/ccx/ 1 belajarblockchain.com
+/service/%7B%7Bparallax_img_src 77 https://belajarblockchain.com/service/
+/phpmyadmin/ 5 https://belajarblockchain.com/phpmyadmin/index.php
+/Shop 1 http://belajarblockchain.com/Shop
+/PhpMyAdmin/ 5 https://belajarblockchain.com/PhpMyAdmin/index.php
+/wp-content/plugins/woocommerce-jetpack/readme.txt 1 https://www.google.com
+/Test 1 http://belajarblockchain.com/Test
+/%7B%7Bpagelayer-srcset 98 https://belajarblockchain.com/
+/Wordpress 1 http://belajarblockchain.com/Wordpress
+/old 1 http://belajarblockchain.com/old
+/www 1 http://belajarblockchain.com/www
+/wp-content/plugins/ait-csv-import-export/changelog.txt 1 https://www.google.com
+/apple-touch-icon-120x120.png 2 -
+/wp-content/plugins/woocommerce-upload-files/js/wcuf-admin-menu.js 1 https://www.google.com
+/wp-content/plugins/dzs-zoomsounds/admin/admin.css 1 https://www.google.com
+/wp-content/plugins/vc-tabs/readme.txt 1 https://www.google.com
+/wp-content/plugins/wp-file-manager/readme.txt 1 https://www.google.com
+/2021 1 http://belajarblockchain.com/2021
+/wp-content/themes/sketch/include.php 1 belajarblockchain.com
+/about/%7B%7Bparallax_img_src 80 https://belajarblockchain.com/about/
+/wp-content/plugins/wpyii2/wpyii2.php 3 -
+/meta.json 3 -
+/undefined 1 -
+/sitio 1 http://belajarblockchain.com/sitio
+/wp-commentin.php 1 -
+/magento_version 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 357
+223.27.158.146 1977 3001 31652188 20221128081508
+2001:df1:7800:2::3:10ef 586 586 1108913 20221130223655
+138.68.73.177 76 76 139794 20221102085245
+34.106.245.207 63 63 136244 20221124030619
+103.195.56.207 61 91 1156669 20221128072343
+2409:8c20:b281:14::101 49 61 713563 20221128182706
+103.136.58.82 30 64 839006 20221111231908
+223.27.153.118 29 81 1515992 20221124161322
+54.235.30.247 22 58 996687 20221114102107
+20.231.50.52 18 18 282162 20221124040609
+199.168.150.73 17 59 1022478 20221104180206
+182.3.45.213 15 37 536421 20221128070647
+139.228.83.35 14 35 541806 20221130154723
+182.2.132.177 13 35 595384 20221128093206
+69.160.160.60 13 25 292075 20221121193602
+136.226.234.96 13 26 387855 20221121141838
+113.210.86.132 11 25 391140 20221114184742
+54.191.11.224 10 10 74758 20221102154033
+138.199.21.219 10 24 365914 20221111101558
+182.2.133.0 10 34 617213 20221115233443
+120.188.67.187 10 29 457665 20221123091202
+27.123.223.111 9 23 365832 20221122124813
+118.99.87.49 9 22 319026 20221123201420
+120.188.93.129 9 32 515262 20221109202625
+52.90.243.53 8 8 739824 20221125064326
+2409:8c20:b281:14::102 6 6 67825 20221111030429
+34.208.65.120 1 1 17543 20221104201740
+54.210.66.229 1 1 17544 20221118132354
+35.223.125.188 1 1 17543 20221112172740
+94.131.76.125 1 1 17543 20221104082210
+112.215.65.92 2 4 67658 20221103092414
+182.3.43.157 5 17 302948 20221114132026
+2001:448a:2033:10a3:5886:ff59:57ea:b4fd 5 17 302948 20221114155025
+46.70.228.61 1 1 17525 20221114045341
+2620:96:e000:b0cc:e:2:7:4 1 1 16810 20221128225006
+2001:448a:50a0:a5ac:ac62:2729:e9c:8e6b 5 17 302949 20221113185312
+94.131.36.159 0 1 4168 
+106.75.32.201 4 7 84891 20221110232321
+182.2.140.30 5 17 302954 20221122180550
+2a03:94e0:ffff:185:181:60:0:12 1 1 17543 20221110033911
+54.174.56.114 1 1 0 20221114102013
+95.164.136.10 1 1 17543 20221103053654
+3.239.158.141 1 1 14632 20221121033434
+69.4.234.118 1 1 0 20221110204445
+34.223.60.30 1 1 17544 20221124171413
+104.197.88.14 3 3 48572 20221108183057
+34.215.137.19 1 1 16803 20221128202131
+2600:1f18:65b9:df03:9c28:cccc:31ab:a313 1 2 95353 20221123095612
+118.99.80.140 6 18 319090 20221125171054
+35.87.145.201 2 2 34706 20221102201106
+182.2.137.229 5 17 302949 20221115172452
+191.102.170.159 0 1 1056 
+178.62.113.209 1 1 17161 20221101104053
+2a03:2880:31ff:d::face:b00c 0 6 83620 
+69.58.12.171 1 1 16808 20221129092340
+35.92.83.105 1 1 17543 20221113201007
+209.141.36.112 1 1 17542 20221112210759
+196.191.61.205 1 1 1857 20221125193831
+114.124.210.198 6 19 317210 20221113073721
+94.131.77.115 1 1 17543 20221104082208
+35.88.205.74 1 1 17162 20221101223433
+35.166.47.245 1 1 17544 20221113200852
+95.164.159.65 1 2 18639 20221102080327
+54.201.219.34 1 1 17543 20221109203203
+91.192.241.194 0 1 12476 
+140.213.2.91 2 4 66837 20221121170518
+66.249.84.102 0 1 7165 
+2a03:2880:32ff:1::face:b00c 0 1 1056 
+34.80.48.123 1 1 16807 20221128214220
+176.53.220.208 1 1 17543 20221110070350
+107.174.235.147 1 1 110501 20221107004536
+44.202.60.73 1 1 17542 20221104165916
+35.90.243.66 1 1 16807 20221128202203
+20.160.235.155 1 1 17544 20221119183609
+124.221.171.114 1 1 17544 20221109183318
+193.87.64.10 2 2 221002 20221111133928
+54.174.150.168 1 1 17161 20221102132909
+54.202.151.58 1 1 16806 20221128202128
+114.5.251.69 5 17 302948 20221115192551
+35.93.55.142 1 1 17543 20221111203202
+2a03:2880:21ff:6::face:b00c 1 1 14642 20221113102558
+27.115.124.45 4 14 120741 20221115055714
+2001:448a:3031:47b3:413:b198:bfcc:2ae5 2 8 168783 20221123093413
+35.89.54.117 1 1 17543 20221111203202
+205.169.39.63 5 17 302948 20221115222456
+114.124.239.228 6 18 316178 20221118130710
+176.53.218.147 1 1 17543 20221112061448
+113.144.31.149 1 1 17542 20221104124502
+209.141.34.187 2 2 35086 20221117114143
+52.40.211.205 1 1 17162 20221101223430
+34.220.90.72 1 1 16808 20221128202238
+135.181.63.121 3 3 43922 20221111100153
+94.131.76.233 0 1 2294 
+208.93.219.36 1 1 17542 20221104100820
+94.131.16.116 1 1 17544 20221106214315
+2001:448a:2022:82a0:b5d1:9062:d3a2:a691 5 17 302949 20221112184412
+59.11.59.120 1 1 17161 20221102132900
+52.90.65.6 1 1 17543 20221105172918
+118.44.108.196 1 1 17544 20221118175532
+35.86.168.161 1 1 16809 20221128202156
+3.144.41.151 5 17 302948 20221114150319
+220.119.92.236 1 1 17543 20221105183819
+209.141.36.231 1 1 17543 20221114140701
+2a03:2880:21ff:b::face:b00c 3 8 191443 20221110072035
+89.104.111.241 1 1 17543 20221108032839
+54.191.159.143 1 1 17543 20221111203231
+66.249.87.120 0 2 11940 
+112.215.170.61 5 17 263805 20221121170528
+157.90.152.81 1 1 17544 20221122160327
+176.53.217.133 1 1 17544 20221108032605
+2a01:4f9:c012:7fcd::1 1 1 17863 20221127192448
+2600:1f18:65b9:df03:469c:28f3:3c39:855a 1 1 117473 20221123095440
+193.37.254.164 5 17 305866 20221121182152
+91.192.240.143 0 1 31046 
+140.213.9.141 3 9 134166 20221106054038
+159.203.87.90 1 1 17544 20221127001554
+111.95.185.76 5 18 314569 20221120185150
+113.108.9.38 1 1 17161 20221102182255
+95.164.138.199 0 1 1683 
+76.11.24.172 1 1 17543 20221103113104
+54.184.76.150 1 1 17543 20221113201004
+3.91.219.79 1 1 17543 20221109002617
+114.10.8.129 7 26 449209 20221128162153
+120.188.75.103 7 21 381868 20221123091736
+113.190.76.211 1 1 273 20221125194338
+89.104.110.212 1 1 17543 20221105124826
+50.19.146.193 1 1 17543 20221114040738
+35.85.224.96 1 1 16806 20221128202419
+202.80.217.40 5 18 314570 20221121210615
+64.225.21.137 1 1 16808 20221128202623
+89.104.101.209 1 1 17543 20221103175146
+45.90.61.162 1 1 17543 20221105191208
+34.208.198.202 1 1 17543 20221109203118
+94.131.44.29 1 1 29965 20221111083419
+89.104.100.232 1 1 17543 20221103090313
+176.53.220.100 1 1 17543 20221114153123
+2605:6400:20:2453:2152:e585:e3e5:e43f 1 1 11353 20221117125755
+116.38.106.216 1 1 0 20221108230940
+2001:448a:2075:1147:ed61:f097:ba0e:e03a 1 1 8957 20221106173843
+52.11.77.199 1 1 16807 20221130203309
+47.52.204.60 1 1 0 20221103231151
+134.195.155.195 1 1 17543 20221105194928
+51.15.209.160 1 1 15998 20221120040219
+126.38.170.26 1 1 0 20221103113100
+2001:448a:2082:56b2:85e9:45e9:8bdf:821e 5 17 302953 20221120112700
+190.111.162.130 0 1 1478 
+2600:1f10:421b:6c00:98cf:d3ad:1950:9262 1 1 110507 20221122185505
+95.164.139.135 1 1 17543 20221111083011
+2a03:2880:21ff:15::face:b00c 1 7 124589 20221110072035
+66.249.84.99 0 2 11940 
+54.200.245.192 1 1 16807 20221129201414
+209.141.35.128 1 1 11303 20221116012932
+134.195.155.237 1 1 17542 20221104100820
+176.53.216.113 1 1 17161 20221101181848
+54.191.137.124 1 1 16810 20221130203628
+171.13.14.83 1 3 44417 20221117163448
+93.158.91.234 1 1 17542 20221116040210
+206.189.231.200 3 3 50414 20221128021123
+65.21.0.100 1 1 110501 20221103232901
+182.3.47.58 1 1 14641 20221108232024
+72.13.46.5 3 3 45873 20221101062741
+2620:96:e000:b0cc:e:2:1:4 1 1 16807 20221128225027
+2600:1f18:65b9:df01:96cd:52ff:ff4c:a51c 0 2 100908 
+2a03:2880:21ff:75::face:b00c 0 3 6218 
+94.131.47.135 1 1 17543 20221108234303
+2001:448a:5122:ddcb:70bd:8280:4a14:3be9 2 2 0 20221123174052
+45.135.16.133 1 1 17543 20221106114011
+42.236.10.106 4 14 120738 20221111031312
+193.235.141.176 1 1 17160 20221102105640
+182.1.168.38 2 8 119539 20221126182019
+208.80.194.42 3 3 329852 20221124003117
+34.220.88.49 1 1 17544 20221113200949
+18.117.11.69 5 17 302948 20221108195128
+34.213.217.43 1 1 17544 20221113200858
+18.237.216.154 1 1 16809 20221129201337
+3.141.43.148 5 17 302953 20221120010847
+209.141.33.65 2 2 28848 20221120034559
+93.158.91.204 1 1 243 20221116040206
+34.219.228.13 1 1 17543 20221109203235
+89.104.100.128 1 1 17543 20221111013828
+149.129.65.53 7 19 333721 20221116235813
+54.196.165.229 1 1 17542 20221103125718
+2a03:2880:21ff:3::face:b00c 1 1 14640 20221110072032
+197.251.153.250 1 1 17544 20221125193735
+2a09:bac0:411::81e:eac1 5 17 302948 20221106012432
+2001:448a:2075:3d52:ed78:6754:341c:1d6c 3 3 14302 20221102112519
+169.150.218.76 1 1 14632 20221121225522
+176.53.222.80 1 1 17544 20221107022855
+94.131.39.43 1 1 17546 20221105173822
+45.90.60.211 1 1 17543 20221112061428
+89.104.111.113 2 11 125942 20221103175206
+114.125.171.154 1 1 14632 20221126182018
+114.125.77.228 7 20 323496 20221123110445
+94.131.78.146 0 1 1056 
+191.102.174.234 1 1 0 20221127030906
+34.211.16.136 1 1 17543 20221109203810
+93.158.90.147 1 1 17544 20221124055631
+208.80.194.41 1 1 110501 20221109183126
+45.121.219.4 5 16 301555 20221122124831
+54.172.225.155 1 1 17544 20221127030923
+35.88.210.160 1 1 17162 20221101223452
+182.3.73.23 5 17 302949 20221115183956
+94.228.142.132 1 1 17543 20221114102009
+202.80.217.30 5 17 302949 20221115173328
+118.98.26.6 5 15 351925 20221128071633
+35.92.182.61 1 1 17544 20221102201210
+95.164.132.254 1 1 17543 20221104124717
+180.145.85.227 1 1 17162 20221102191835
+188.166.189.163 1 1 110501 20221112171325
+2001:448a:2022:e2e5:613f:c042:9d69:b63c 5 17 302954 20221119033042
+2607:f298:5:104b::b5e:a89b 2 2 221002 20221110221615
+210.189.104.228 1 1 0 20221102175108
+180.244.138.222 3 9 134171 20221123093408
+2001:448a:50e1:cdc7:2508:6c07:d15a:3e56 5 17 302953 20221121194025
+2001:448a:2075:3d52:e004:586b:4dbd:8667 5 9 216333 20221103160318
+45.135.17.107 1 1 17543 20221109021446
+89.104.101.86 1 1 17543 20221113172514
+94.131.33.37 0 1 1056 
+91.192.243.204 1 1 17543 20221105170813
+134.195.152.74 0 1 1056 
+52.42.44.104 1 1 16805 20221128202115
+2600:1900:2000:a3::1a 1 1 17543 20221108171219
+20.203.174.59 5 5 0 20221118003135
+18.205.2.52 1 1 14641 20221107162238
+171.13.14.50 3 11 76326 20221117163404
+2a03:2880:11ff:a::face:b00c 0 1 1056 
+2620:96:e000:b0cc:e:2:2:5 1 1 17544 20221126232421
+91.192.240.64 1 1 17543 20221105204807
+51.158.127.123 1 1 0 20221119042426
+3.88.155.235 1 1 17543 20221114045400
+176.113.42.169 2 8 76623 20221103175205
+2a03:2880:31ff:3::face:b00c 1 1 14218 20221129093142
+2001:448a:2033:10a3:7075:623f:6795:1005 5 17 302948 20221108202933
+35.206.194.63 1 1 17543 20221103144214
+35.206.81.98 1 1 17543 20221110133755
+111.7.100.27 1 1 11306 20221125122349
+2a03:2880:20ff:c::face:b00c 0 1 1478 
+94.131.35.207 1 1 17162 20221102043252
+176.53.220.113 1 1 17543 20221109021440
+185.196.55.5 1 1 17544 20221123163634
+146.70.119.185 1 1 17542 20221104073700
+2a03:2880:21ff:12::face:b00c 0 3 17675 
+45.90.61.79 1 1 17543 20221107095820
+2a03:2880:21ff:77::face:b00c 3 7 155828 20221113102603
+18.191.24.114 5 17 302954 20221125113141
+93.158.90.137 1 1 243 20221124055626
+139.255.43.98 7 19 317586 20221123095001
+45.72.31.229 1 3 20077 20221109003700
+124.70.139.194 2 2 34705 20221103010839
+165.22.127.61 1 1 17544 20221127020326
+45.14.71.9 5 17 302954 20221127082301
+176.53.223.199 2 2 35085 20221116014323
+180.251.181.142 1 1 14641 20221114162755
+199.244.88.228 2 2 35086 20221113134111
+171.13.14.56 3 11 76326 20221117163456
+209.141.55.120 2 2 28846 20221119132949
+8.25.96.12 5 17 302954 20221127121726
+2001:448a:60c0:70c0:89cb:7e4f:69b2:24bf 5 17 302949 20221102205939
+140.213.33.18 3 15 277215 20221103092415
+137.226.113.44 5 5 86600 20221130223656
+2a03:2880:31ff::face:b00c 0 1 1478 
+180.241.3.108 6 18 316178 20221123110015
+94.131.44.148 1 1 17543 20221105191048
+94.131.36.220 1 1 17162 20221101033235
+27.115.124.38 8 28 241480 20221115055826
+178.33.149.171 1 1 110501 20221107032437
+2600:1f18:65b9:df03:a684:e5e6:df8d:14ac 1 1 78268 20221123095524
+192.99.4.98 5 17 302948 20221114131208
+54.237.195.120 1 1 17161 20221101112729
+35.91.71.96 1 1 17543 20221105200339
+2a03:2880:21ff:a::face:b00c 0 2 1115 
+34.214.186.165 1 1 17543 20221111203241
+54.174.54.175 1 1 0 20221119031730
+3.101.89.144 2 2 111646 20221109043731
+130.255.166.11 1 1 243 20221108030100
+95.164.142.76 0 1 1143 
+27.115.124.109 4 14 120741 20221111030957
+36.84.87.42 7 19 317584 20221123111621
+2a03:2880:31ff:17::face:b00c 2 4 162026 20221129093145
+163.172.173.117 1 1 17313 20221120040248
+171.13.14.41 1 3 44418 20221117163357
+2a03:94e0:ffff:185:181:60:0:189 1 1 16813 20221128200551
+138.246.253.15 1 1 0 20221125123015
+144.217.135.237 7 7 500884 20221128051144
+54.158.134.161 1 1 17544 20221119092218
+45.135.16.194 1 1 17543 20221113111926
+2001:448a:50e2:13d:d09b:c2ba:1e73:8c01 3 8 187325 20221124161006
+2001:448a:40ae:1b27:a902:a7a8:f9af:5cb1 5 17 302948 20221115181302
+213.5.27.227 1 1 0 20221114040732
+106.166.43.118 1 1 17543 20221107221412
+35.87.113.67 1 1 16808 20221128202137
+20.90.252.235 2 2 35086 20221107131952
+94.131.32.44 1 1 17543 20221104082209
+2a03:2880:31ff:2::face:b00c 2 5 115075 20221129093144
+134.195.154.163 1 1 17543 20221104100819
+54.82.248.234 1 1 17544 20221125133020
+8.41.221.52 1 1 110507 20221126112440
+2a03:2880:21ff:e::face:b00c 1 2 79746 20221113102603
+182.2.143.5 1 1 8577 20221102104645
+36.68.55.220 8 20 317586 20221125031737
+45.90.62.208 1 4 66862 20221103175231
+52.27.143.224 1 1 16803 20221130204035
+202.134.172.30 6 17 314983 20221102150657
+185.203.186.75 1 1 17544 20221123174224
+45.90.63.30 1 1 17543 20221116102859
+151.106.12.246 2 2 180489 20221122222117
+103.150.54.51 1 1 16808 20221129202601
+34.221.139.89 2 2 35088 20221107204722
+94.131.37.204 1 1 17542 20221104124733
+223.111.175.3 2 2 486 20221128182758
+212.47.236.165 1 1 17543 20221119220645
+45.90.60.111 1 1 17543 20221109235649
+45.185.53.102 1 1 17544 20221107224149
+174.138.2.159 1 1 17162 20221101120354
+54.244.181.191 2 2 35088 20221106204610
+89.104.110.104 1 1 17543 20221103062049
+18.216.113.22 5 16 301759 20221102083851
+54.174.54.92 1 1 0 20221126031747
+110.137.193.224 8 20 317470 20221102184522
+118.99.107.99 5 17 302948 20221105133945
+3.237.15.119 1 1 17544 20221115091613
+51.158.100.125 1 1 13485 20221120040220
+58.17.6.9 1 1 17544 20221126034920
+34.69.87.226 3 3 48572 20221108183100
+140.213.33.211 2 8 168783 20221106054040
+2001:448a:6040:a74:4027:d1ad:a617:c822 6 22 373386 20221123132838
+54.226.26.72 1 1 17544 20221118082606
+190.111.162.145 1 1 17542 20221104124720
+116.193.172.251 5 17 302953 20221126201841
+2001:448a:5130:f716:14dd:ca34:7ec6:8a5 5 17 302948 20221106005203
+121.148.177.29 1 1 17544 20221118223545
+45.90.62.105 1 1 17543 20221111082522
+34.209.239.241 2 2 35086 20221104203118
+144.217.135.245 5 16 374918 20221128051211
+2a01:4f9:6a:14d4::2 1 1 17544 20221119110141
+94.131.38.76 1 1 40445 20221111083408
+3.86.45.108 1 1 110501 20221114102020
+18.215.149.134 1 1 17543 20221110123412
+94.131.36.74 0 1 188 
+120.188.79.93 8 22 342206 20221125231239
+34.218.66.81 1 1 16807 20221130204228
+176.53.216.198 1 1 17543 20221109021444
+176.53.220.125 1 1 17542 20221104115510
+103.28.220.75 3 3 14221 20221128203818
+182.3.43.139 5 19 344873 20221103164432
+174.129.65.5 1 1 17544 20221107211918
+54.163.202.132 1 1 17542 20221108230957
+2604:4500:0:20:20c:29ff:fe36:4626 1 1 110501 20221103231302
+185.212.115.235 1 1 17543 20221104180404
+182.1.119.13 7 19 286749 20221117131833
+52.36.21.116 1 1 17543 20221111203201
+2001:448a:2022:a00c:bccb:3428:b97a:4c8f 5 17 302954 20221121140455
+116.233.173.133 1 1 108838 20221102042309
+14.116.157.23 1 1 17544 20221120225554
+2001:4ca0:108:42::15 4 4 0 20221126014239
+34.209.72.12 1 1 17543 20221111203223
+209.141.41.193 2 4 34696 20221116024605
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20221101 34 38 518480 20
+20221102 147 195 1912952 30
+20221103 90 192 3018102 36
+20221104 39 54 687271 27
+20221105 40 65 867227 22
+20221106 35 71 1017259 16
+20221107 88 150 1922861 21
+20221108 37 61 834922 18
+20221109 38 63 979744 21
+20221110 41 58 863443 23
+20221111 86 165 2111914 26
+20221112 24 36 530446 16
+20221113 46 88 1175677 26
+20221114 133 367 5587474 30
+20221115 72 198 2843952 19
+20221116 33 45 601609 21
+20221117 34 66 644924 17
+20221118 30 42 415618 16
+20221119 26 38 413696 17
+20221120 33 70 1025382 15
+20221121 75 175 2598396 20
+20221122 37 74 1308145 16
+20221123 88 214 3583641 28
+20221124 100 117 954211 18
+20221125 109 171 2778899 22
+20221126 31 49 611981 20
+20221127 1844 2399 21851629 16
+20221128 269 668 10205832 37
+20221129 32 43 470610 14
+20221130 44 65 654278 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 508
+2mn-5mn 11
+15mn-30mn 21
+1h+ 28
+30mn-1h 48
+30s-2mn 9
+5mn-15mn 16
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 102
+/wp-admin/admin-ajax.php 782 3563424 0 2
+/ 685 13506076 321 260
+/wp-cron.php 506 0 256 238
+/wp-content/plugins/pagelayer/css/givecss.php 411 4734110 28 14
+/wp-content/plugins/pagelayer/js/givejs.php 297 3893063 11 14
+//xmlrpc.php 133 53339 0 2
+/about/ 107 1477395 1 3
+/wp-content/plugins/pagelayer/fonts/fa-solid-900.woff2 101 7905068 2 26
+/wp-content/plugins/pagelayer/fonts/fa-brands-400.woff2 101 7750336 4 35
+/contact/ 74 1083485 3 14
+/service/ 67 1067065 3 2
+/wp-json/wp/v2/block-directory/search 33 8391 0 0
+/wp-admin/admin.php 29 762993 0 0
+/cpsess7615071753/3rdparty/roundcube/ 24 84736 0 0
+/blog/ 23 272707 0 2
+/wp-admin/load-scripts.php 22 772342 0 0
+/wp-sitemap.xml 17 4556 6 6
+/wp-admin/load-styles.php 15 1438905 0 0
+/wp-json/wp/v2/taxonomies 14 14465 0 0
+/wp-json/wp/v2/users 13 847 0 0
+/wp-json/wp/v2/block-patterns/patterns 11 105170 0 0
+/wp-json/wp/v2/block-patterns/categories 11 1331 0 0
+/wp-json/ 11 2795 0 0
+/wp-json/wp/v2/themes 11 9812 0 0
+/wp-json/wp/v2/blocks 11 66 0 0
+/wp-admin/themes.php 2 25968 0 0
+/Blog/ 1 0 0 1
+/cPanel_magic_revision_1616517441/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 1 22432 0 0
+/wp-admin/plugins.php 2 24703 0 0
+/cpsess7615071753/webmail/paper_lantern/ 2 21875 0 0
+/wp-json/wp/v2/block-renderer/core/latest-comments 2 446 0 0
+/wp-load.php 1 0 1 1
+/cPanel_magic_revision_1640816963/3rdparty/roundcube/skins/elastic/fonts/roboto-v19-regular-700.woff2 2 102176 0 0
+/wp-admin/options-general.php 5 84917 0 0
+/wp-json/oembed/1.0/embed 1 1145 0 1
+/webmaillogout.cgi 2 22616 0 2
+/wp-admin/update-core.php 1 0 0 0
+/wp-admin/widgets.php 1 55217 0 0
+/wp-json/wp/v2/pages/19 2 3046 0 0
+/cPanel_magic_revision_1616517441/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Semibold-webfont.woff 1 22908 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 9 201888 0 6
+/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f 1 11353 1 1
+/cPanel_magic_revision_1640816963/3rdparty/roundcube/skins/elastic/fonts/roboto-v19-regular.woff2 2 102232 0 0
+/cPanel_magic_revision_1640816963/3rdparty/roundcube/skins/elastic/fonts/fa-solid-900.woff2 2 150880 0 0
+/cpsess7615071753/3rdparty/roundcube/skins/elastic/watermark.html 8 3952 0 0
+/wp-admin/edit.php 10 129065 0 0
+/wp-admin/options-media.php 1 7955 0 0
+/wp-admin/options-discussion.php 2 19644 0 0
+//wp-includes/wlwmanifest.xml 2 2090 0 0
+/wp-admin/plugin-install.php 2 33839 0 0
+/wp-admin/options-permalink.php 1 9637 0 0
+/wp-json/wp/v2/users/ 1 273 1 1
+/cPanel_magic_revision_1615231936/webmail/paper_lantern/libraries/fontawesome/webfonts/fa-solid-900.woff2 1 75760 0 0
+/wp-content/plugins/pagelayer/fonts/pagelayer.ttf 1 20954 0 0
+/2022/10/26/hello-world/ 3 106173 0 0
+/cpsess7615071753/execute/Email/list_pops_with_disk 2 566 0 0
+/wp-json/wp/v2/pages/17 3 4567 0 0
+/wp-content/plugins/pagelayer/fonts/fa-regular-400.woff2 7 92568 0 4
+/wp-content/plugins/wpforms-lite/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/wp-json/wp/v2/posts 2 1504 0 0
+/cpsess0970647822/3rdparty/roundcube/ 3 11329 0 0
+/pma/index.php 4 45254 0 0
+/wp-admin/customize.php 5 1274216 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 9 206172 0 0
+/login/ 3 361 0 0
+/wp-admin/options-reading.php 2 17585 0 0
+/wp-admin/theme-editor.php 1 18311 0 0
+/wp-content/plugins/pagelayer/fonts/font-awesome5.json 1 6923 0 0
+/cPanel_magic_revision_1612367464/webmail/paper_lantern/libraries/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 1 23320 0 0
+/wp-json/wp/v2/widget-types 5 4159 0 0
+/wp-admin/nav-menus.php 4 64841 0 0
+//wp-json/wp/v2/users/ 2 1264 0 0
+/wp-login.php 5 8476 1 1
+/wp-json/wp/v2/pages/16 1 1523 0 0
+/cpanel 1 12973 0 0
+/wp-json/wp/v2/block-renderer/core/archives 1 115 0 0
+/cPanel_magic_revision_1616517441/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 9 203940 2 0
+/author/ok4ek/ 1 12237 0 0
+/wp-admin/upgrade.php 2 10 0 2
+/wp-json/wp/v2/categories 3 792 0 0
+/wp-admin/options-writing.php 1 8523 0 0
+/wp-admin/post.php 11 614198 0 0
+/sitemap.xml 9 101772 0 1
+/category/uncategorized/ 1 12243 0 0
+/wp-json/wp/v2/users/me 7 5184 0 0
+/wp-admin/async-upload.php 6 3385 0 0
+/wp-json/wp/v2/pages/18 5 7615 0 0
+/cPanel_magic_revision_1616517441/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Italic-webfont.woff 1 23188 0 0
+/phpmyadmin/index.php 4 45265 0 0
+/cpsess7615071753/json-api/cpanel 1 174 0 0
+/2022/10/26/ 1 12190 0 1
+/index_sso.php 4 45248 0 1
+/BLOG/ 1 0 0 0
+/cpsess0970647822/3rdparty/roundcube/skins/elastic/watermark.html 2 988 0 0
+/php/thinkphp/aaaffff123.php 4 45287 0 0
+/cPanel_magic_revision_1616517441/webmail/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 1 22660 0 0
+/cPanel_magic_revision_1640816963/3rdparty/roundcube/skins/elastic/fonts/fa-regular-400.woff2 2 27160 0 0
+/wp-admin/ 7 140058 0 0
+/PhpMyAdmin/index.php 4 45277 0 0
+/wp-json/wp/v2/media 1 1979 0 0
+/wp-json/wp/v2/types 2 1120 0 0
+/2022/ 1 0 0 0
+END_SIDER

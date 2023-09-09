@@ -1,0 +1,544 @@
+Return-Path: <bounces+10080584-6025-adek.muhammad=belajarblockchain.com@em2669.linktr.ee>
+Delivered-To: adek.muhammad@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id 6DaZLsDXi2N0JAIAUtWGkQ
+	(envelope-from <bounces+10080584-6025-adek.muhammad=belajarblockchain.com@em2669.linktr.ee>)
+	for <adek.muhammad@belajarblockchain.com>; Sun, 04 Dec 2022 06:12:00 +0700
+Return-path: <bounces+10080584-6025-adek.muhammad=belajarblockchain.com@em2669.linktr.ee>
+Envelope-to: adek.muhammad@belajarblockchain.com
+Delivery-date: Sun, 04 Dec 2022 06:12:00 +0700
+Received: from o2.sg.linktr.ee ([149.72.220.2]:44678)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <bounces+10080584-6025-adek.muhammad=belajarblockchain.com@em2669.linktr.ee>)
+	id 1p1bfj-000bH5-Hh
+	for adek.muhammad@belajarblockchain.com;
+	Sun, 04 Dec 2022 06:12:00 +0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linktr.ee;
+	h=content-type:from:mime-version:subject:to:cc:content-type:from:
+	subject:to;
+	s=s1; bh=rgpuUC9rrvXi7hIr6X/tAY7LEUd3YCZCNvZHNIjBn2s=;
+	b=dxpMJVjVQO0Ka2zhF5vEsQzagao/CY0iUdc2oZe0TL/q1q3/RBzL0eKzpnvyxG9wHNw/
+	ljF5ganpMhcKbp5VChbKvgLXXkTftMUtcSPuCAz2HA24mXZ7sby9eFYtsinl9OVUZPx0UG
+	K2f6iuvBcxisGU0R1J0/HdyuECDaMzSdYYDkC4sjV61Z5VgOCc2eIlM2QBLmOkEMWEE1kh
+	7ruIdZye+tyeUoxFlDUMziZlwudXFXqDbsuk+PsRKdYdYUMrovrYemMf4VP3zoxscBVE+s
+	l6j+J1lBowf8uNgQVgi8Bma+54u///LCcD3pOsqtA2DzMLGHPtMimw6iDqTSzy/Q==
+Received: by filterdrecv-54795b4476-sfvsn with SMTP id filterdrecv-54795b4476-sfvsn-1-638BD78A-1
+        2022-12-03 23:11:06.077948866 +0000 UTC m=+446232.569960807
+Received: from MTAwODA1ODQ (unknown)
+	by geopod-ismtpd-6-1 (SG) with HTTP
+	id tbbwEX9_SJeuJZF7w2FEfQ
+	Sat, 03 Dec 2022 23:11:05.974 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=ac14d7c9e50af0c219010a1551379546c8b18ffb1990d9362b6163b1ba68
+Date: Sat, 03 Dec 2022 23:11:06 +0000 (UTC)
+From: Linktree <noreply@linktr.ee>
+Mime-Version: 1.0
+Message-ID: <tbbwEX9_SJeuJZF7w2FEfQ@geopod-ismtpd-6-1>
+Subject: Verify your email to activate your Linktree
+X-SG-EID: 
+ =?us-ascii?Q?QaC6A0P4Cipk7wDC2mw6R60jvmL9IzyhbBd=2FlwXXW6CoSzTybLez0bcxSuVTUJ?=
+ =?us-ascii?Q?hPel3JPCnkc9pAFYfO4aZ+9c+bTwwmnQFVYlIA=2F?=
+ =?us-ascii?Q?upyTG3CjqRV6OgF8P53o4dCCG25K3S8ZjicniiO?=
+ =?us-ascii?Q?PMYUm0VPOddQ9ixQ9shXMONbMLmKKxHPJwI6AfD?=
+ =?us-ascii?Q?uttzzzZXqz7yaCrUzSydbHJ3vixXCzin70QU6p8?=
+ =?us-ascii?Q?62C5+0pzG8MvAakUYQfc15vtFRdIjPuyKqMnUXm?=
+ =?us-ascii?Q?qIBkIqu4GzZThZJe+6ITg=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb8raWjw0ZPf1VmjsCkspi=2FKHgAsE=2FCUk5eZaRe5Ltr?=
+ =?us-ascii?Q?cbUiP2YsFuEujIKgt6FTJ00yWGZ+5IQ0OowUwPw?=
+ =?us-ascii?Q?Cn0UM+Hhnk7=2F=2FEeZxvhdD4X7MG3W20Itp6CoXH8?=
+ =?us-ascii?Q?SKfgHwKVu4Z=2FEVxYS5eH=2Fa1gTUoOrCxDvlNF2qH?=
+ =?us-ascii?Q?kbRT4wCjtrVUphpmEEMaLTQlsjvrYdG6ecGUAkV?=
+ =?us-ascii?Q?CTPt5wVYUskFs+k1A=3D?=
+To: adek.muhammad@belajarblockchain.com
+X-Entity-ID: MFOOtCELgdTUmPZ9lU+Izw==
+X-Spam-Status: No, score=0.3
+X-Spam-Score: 3
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  https://url1741.linktr.ee/ls/click?upn=axe8GPJJyyQBzzRlsziXFSShNfnCfq3qNu9TxfUqHoI-3DO99F_d4yjcycGWANFed-2FsoOPQXyh3HOAiT32lruOG14-2BT9J-2FEZ8Pb-2Bv8tQEYgHSwIqfTq2c8CtAMdG-2BM0wKLSiafd2qxBH48BXa49lmUK
+    [...] 
+ Content analysis details:   (0.3 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: fonts.googleapis.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.5 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.0 UNPARSEABLE_RELAY      Informational: message has unparseable relay
+                             lines
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+--ac14d7c9e50af0c219010a1551379546c8b18ffb1990d9362b6163b1ba68
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+https://url1741.linktr.ee/ls/click?upn=3Daxe8GPJJyyQBzzRlsziXFSShNfnCfq3qNu=
+9TxfUqHoI-3DO99F_d4yjcycGWANFed-2FsoOPQXyh3HOAiT32lruOG14-2BT9J-2FEZ8Pb-2Bv=
+8tQEYgHSwIqfTq2c8CtAMdG-2BM0wKLSiafd2qxBH48BXa49lmUKn-2BAoIEt1emsHD1eMeoQ2U=
+p7Wip8tPAv4yf-2BHBS3SMuqYrsztCFbW0s2gE17rKBN2q4g-2FS0N5fDddWR7Om1s6EKCbqOzA=
+HYpKWDjE2FDoUJAcN5jBzlbMxp-2FFXYSldAfVltTBkP9t28iT1Au9VW8V0LWG45-2BJ3uiLVCf=
+pfk8grKZ2VWeYukW-2BN-2Ffz2oCwyzRwEFQ261zzmYHcSPph62ItxvsWdpX3j4COHkShnIyi71=
+Zhpncn2GVQ5sAA7tEZbcfUwQyRSmm781QLSBFHH0dx31jcQG9IVq5FUwkXSnL5egz6kAKEBzO6h=
+G6YJ-2FWBTxy0wZ4uFto-3D
+
+Hi A blockchain educational firm provides In-House Traning, BootCamp, Webin=
+ar, Workshop, Online Course, and Certification =F0=9F=94=90,
+
+
+Thanks for signing up to Linktree, great to have you!
+
+
+Please verify your email address by clicking the link below.
+
+Verify Email https://url1741.linktr.ee/ls/click?upn=3Daxe8GPJJyyQBzzRlsziXF=
+e5y7alfMUa0StW-2BDweBWSgCqd-2FHHAjTw1JB2OrG0rq2CRYi5Re7kUk7ANJrv-2Fl67-2BY2=
+RPueZRBungcni95vyQ4oh-2FZo-2FkMUNgv36CJWqrGPTYSyez1L7IlHb9X94iY5TCzLfxkrtB6=
+tvGGQHVCK7NDMUqjhMz1O7OcuXBo9jwXoRMgt6aJRwoj0zluHFdy-2FKWqrzRfmUP2j6adSpjOp=
+QzGWPuN0XpkZZ8o6u-2Bg8XEywerQXRYwwkHpgaJoQk6H-2BGWrCZrXTFnPAitRm2F4nmhdyn78=
+tx-2FKQhWqqDWkTqEO-2BfFrTi8tNNrGmqK1vzADFUQ9-2FzTFXtwNyNAgNvZbxkWOcl-2FjTUh=
+w8MiSDv5Eu6yGG5SKnmDG00rxj0u3GK8hZGEbbedL508FJ792nzoh271rXrf0hMQ8TY6x4kYin5=
+5osKejWoMpO-2FLEQjkLABBOCWyGLxYc2pFV-2FB3-2FVhwtJNkerBUkgvsw2vIwFTJdJEcU6-2=
+F8hj-2B5sZQsqyyKqT0K4faugjrF4E5e-2BzdO1z6qDETYKGti9yjw8ELFYNc9Ivav7M8jI3mHg=
+EIVjke8IKED6atQ-3D-3DPeMx_d4yjcycGWANFed-2FsoOPQXyh3HOAiT32lruOG14-2BT9J-2F=
+EZ8Pb-2Bv8tQEYgHSwIqfTq2c8CtAMdG-2BM0wKLSiafd2qxBH48BXa49lmUKn-2BAoIEt1emsH=
+D1eMeoQ2Up7Wip8tPAv4yf-2BHBS3SMuqYrsztCFbW0s2gE17rKBN2q4g-2FS0N5fDddWR7Om1s=
+6EKCbqOzAHYpKWDjE2FDoUJAcN5jBzlbMxp-2FFXYSldAfVltTBkP9t28iT1Au9VW8V0LWG45-2=
+BJ3uiLVCfpfk8grKZ2VWeYunAe519fOGzrTYwhwQdkE4QV2GvuoDtnjtbmc-2B40DNYPGkhTOR7=
+oQ1se3e2xxJQ5D82v-2Fw5qKvaV5SgrQkD8NQnYiE1zfFKSFLSmoljUkv-2B-2F-2F8I56beCWS=
+27mConiGmWSgx9R-2B7u1wfl5jW4bf5j6Yg-3D
+
+Thanks!
+
+Unsubscribe <%asm_group_unsubscribe_raw_url%>
+--ac14d7c9e50af0c219010a1551379546c8b18ffb1990d9362b6163b1ba68
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version=3D"2" class=3D"sg-campaigns" xmlns=3D"http://www.=
+w3.org/1999/xhtml">
+    <head>
+      <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8">
+      <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D"text/css">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D"text/css">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #000000;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+    <style>
+      @media screen and (max-width:480px) {
+        table\0 {
+          width: 480px !important;
+          }
+      }
+    </style>
+      <!--user entered Head Start--><link href=3D"https://fonts.googleapis.=
+com/css?family=3DInter:400,600&display=3Dswap" rel=3D"stylesheet" type=3D"t=
+ext/css"><style>
+  body {
+    font-family: 'Inter', sans-serif !important; margin: 0 !important;
+  }
+  table[data-type=3D"columns"] {
+    border-radius: 8px;
+  }
+</style><title>Verify your email to activate your Linktree</title><!--End H=
+ead user entered-->
+    </head>
+    <body>
+      <center class=3D"wrapper" data-link-color=3D"#000000" data-body-style=
+=3D"font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#F3F3F1;">
+        <div class=3D"webkit">
+          <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+100%" class=3D"wrapper" bgcolor=3D"#F3F3F1">
+            <tr>
+              <td valign=3D"top" bgcolor=3D"#F3F3F1" width=3D"100%">
+                <table width=3D"100%" role=3D"content-container" class=3D"o=
+uter" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                  <tr>
+                    <td width=3D"100%">
+                      <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D"600">
+  <![endif]-->
+                                    <table width=3D"100%" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"width:100%; max-width:600px;" alig=
+n=3D"center">
+                                      <tr>
+                                        <td role=3D"modules-container" styl=
+e=3D"padding:0px 10px 32px 10px; color:#000000; text-align:left;" bgcolor=
+=3D"#F3F3F1" width=3D"100%" align=3D"left"><table class=3D"module preheader=
+ preheader-hide" role=3D"module" data-type=3D"preheader" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"display: none !impor=
+tant; mso-hide: all; visibility: hidden; opacity: 0; color: transparent; he=
+ight: 0; width: 0;">
+    <tr>
+      <td role=3D"module-content">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D"wrapper" role=3D"module" data-type=3D"image" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-=
+layout: fixed;" data-muid=3D"3a1bd37b-fab3-4a4f-bff5-da5e9c400e95.1">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:34px 0px 24px=
+ 4px;" valign=3D"top" align=3D"center">
+         =20
+        <a href=3D"https://url1741.linktr.ee/ls/click?upn=3Daxe8GPJJyyQBzzR=
+lsziXFSShNfnCfq3qNu9TxfUqHoI-3Dsz3U_d4yjcycGWANFed-2FsoOPQXyh3HOAiT32lruOG1=
+4-2BT9J-2FEZ8Pb-2Bv8tQEYgHSwIqfTq2c8CtAMdG-2BM0wKLSiafd2qxBH48BXa49lmUKn-2B=
+AoIEt1emsHD1eMeoQ2Up7Wip8tPAv4yf-2BHBS3SMuqYrsztCFbW0s2gE17rKBN2q4g-2FS0N5f=
+DddWR7Om1s6EKCbqOzAHYpKWDjE2FDoUJAcN5jBzlbMxp-2FFXYSldAfVltTBkP9t28iT1Au9VW=
+8V0LWG45-2BJ3uiLVCfpfk8grKZ2VWeYuh-2BiTtlWH2gL7-2Biu3kSDZdXamZOlvVhkpCAhQbw=
+Wp0eyFvp15e8Yvs-2BqdueZYwPTTZQGXPGEa1gDvGxCJP8LEtQdhVBO8RYA-2FANp-2FpK2QMzU=
+gAgNC1U3n5tADtqMCjvRLKyJpwmgnFYf0ABL66r2mrY-3D"><img class=3D"max-width" bo=
+rder=3D"0" style=3D"display:block; color:#000000; text-decoration:none; fon=
+t-family:Helvetica, arial, sans-serif; font-size:16px;" width=3D"120" heigh=
+t=3D"44" alt=3D"Linktree" data-proportionally-constrained=3D"true" data-res=
+ponsive=3D"false" src=3D"http://cdn.mcauto-images-production.sendgrid.net/4=
+cc9472ce209934e/adfde5c6-b3d1-4fc6-ad48-d2b3e9adf875/394x144.png"></a></td>
+      </tr>
+    </tbody>
+  </table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"=
+center" width=3D"100%" role=3D"module" data-type=3D"columns" data-version=
+=3D"2" style=3D"padding:30px 24px 30px 24px; background-color:#ffffff; box-=
+sizing:border-box;" bgcolor=3D"#ffffff" data-distribution=3D"1">
+      <tr role=3D"module-content">
+        <td height=3D"100%" valign=3D"top"><table width=3D"512" style=3D"wi=
+dth:512px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px =
+10px;" cellpadding=3D"0" cellspacing=3D"0" align=3D"left" border=3D"0" bgco=
+lor=3D"" class=3D"column column-0">
+      <tbody>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;border-spacing:0;"><table cla=
+ss=3D"module" role=3D"module" data-type=3D"text" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;" data=
+-muid=3D"2ffaaa9b-29fa-4b3a-9f98-9323f65689e3" data-mc-module-version=3D"20=
+19-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px; line-height:22px; text-align:=
+inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-conten=
+t"><div><div style=3D"font-family: inherit; text-align: center"><span style=
+=3D"font-size: 16px">Hi A blockchain educational firm provides In-House Tra=
+ning, BootCamp, Webinar, Workshop, Online Course, and Certification =F0=9F=
+=94=90,</span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"ef97dc42-5411-4200-aec1-8cacb0d5a7e3" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:24px 0px 0px 0px; line-height:22px; text-align=
+:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-conte=
+nt"><div><div style=3D"font-family: inherit; text-align: center"><span styl=
+e=3D"font-size: 16px"></span></div>
+<div style=3D"font-family: inherit; text-align: center"><span style=3D"font=
+-size: 16px">Thanks for signing up to Linktree, great to have you!</span></=
+div>
+<div style=3D"font-family: inherit; text-align: center"><br></div>
+<div style=3D"font-family: inherit; text-align: center"><span style=3D"font=
+-size: 16px"></span></div>
+<div style=3D"font-family: inherit; text-align: center"><span style=3D"font=
+-size: 16px">Please verify your email address by clicking the link below.</=
+span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"code" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"9431d596-5443-488b-bca0-a5c4e482257e">
+    <tbody>
+      <tr>
+        <td height=3D"100%" valign=3D"top" role=3D"module-content">
+          <div style=3D"margin: 0px 0px 24px 0px">
+  <!--[if mso]>
+  <v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:sch=
+emas-microsoft-com:office:word" href=3D"https://linktr.ee/verify-email?asse=
+rtion=3DZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhkV1FpT2lKMWM=
+yVnljeUlzSW5OMVlpSTZJblZ6WlhKeklpd2ljMlZ5ZG1salpTSTZkSEoxWlN3aWRYTmxja2xrSW=
+pvMU5qVTVPVFExTWl3aVpXMWhhV3dpT2lKaFpHVnJMbTExYUdGdGJXRmtRR0psYkdGcVlYSmliR=
+zlqYTJOb1lXbHVMbU52YlNJc0ltbGhkQ0k2TVRZM01ERXdPVEEyTlN3aVpYaHdJam94TmpjeU56=
+ZzNORFkxZlEuNlo0MWlBdUJDWHFCMW96N0g4WEFGRFotMUYzeWlFV1hJV0hxNEZZTDhENA=3D=
+=3D&amp;username=3Dbelajarblockchain" style=3D"height:55px;v-text-anchor:mi=
+ddle;width:300px;" arcsize=3D"8%" stroke=3D"f" fillcolor=3D"#7c41ff">
+    <w:anchorlock></w:anchorlock>
+    <center>
+  <![endif]-->
+<div style=3D"margin-top:32px; margin-bottom:32px; ">
+    <a universal=3D"true" href=3D"https://url1741.linktr.ee/uni/ls/click?up=
+n=3Daxe8GPJJyyQBzzRlsziXFe5y7alfMUa0StW-2BDweBWSgCqd-2FHHAjTw1JB2OrG0rq2CRY=
+i5Re7kUk7ANJrv-2Fl67-2BY2RPueZRBungcni95vyQ4oh-2FZo-2FkMUNgv36CJWqrGPTYSyez=
+1L7IlHb9X94iY5TCzLfxkrtB6tvGGQHVCK7NDMUqjhMz1O7OcuXBo9jwXoRMgt6aJRwoj0zluHF=
+dy-2FKWqrzRfmUP2j6adSpjOpQzGWPuN0XpkZZ8o6u-2Bg8XEywerQXRYwwkHpgaJoQk6H-2BGW=
+rCZrXTFnPAitRm2F4nmhdyn78tx-2FKQhWqqDWkTqEO-2BfFrTi8tNNrGmqK1vzADFUQ9-2FzTF=
+XtwNyNAgNvZbxkWOcl-2FjTUhw8MiSDv5Eu6yGG5SKnmDG00rxj0u3GK8hZGEbbedL508FJ792n=
+zoh271rXrf0hMQ8TY6x4kYin55osKejWoMpO-2FLEQjkLABBOCWyGLxYc2pFV-2FB3-2FVhwtJN=
+kerBUkgvsw2vIwFTJdJEcU6-2F8hj-2B5sZQsqyyKqT0K4fapxSz-2FY3PZLA69s9XHbzipfWqQ=
+EIn9QL-2Bp-2Fy2WSxHWOCLjjXziBtG-2BjtGuFDi5Pjvi3o6z1JGCRQkoxONhmtzBTGM8Gt4iw=
+fAgPZNGWmZYq-2BE311d8WeC-2BxtnuRM9FZVUL9m3CZ6X8mpVpIzYEQCe6S9akT5NqVCY5NHSt=
+xolZF8Hqbz-2Bksle4egYKyTRpJQAw-3D-3DKsAl_d4yjcycGWANFed-2FsoOPQXyh3HOAiT32l=
+ruOG14-2BT9J-2FEZ8Pb-2Bv8tQEYgHSwIqfTq2c8CtAMdG-2BM0wKLSiafd2qxBH48BXa49lmU=
+Kn-2BAoIEt1emsHD1eMeoQ2Up7Wip8tPAv4yf-2BHBS3SMuqYrsztCFbW0s2gE17rKBN2q4g-2F=
+S0N5fDddWR7Om1s6EKCbqOzAHYpKWDjE2FDoUJAcN5jBzlbMxp-2FFXYSldAfVltTBkP9t28iT1=
+Au9VW8V0LWG45-2BJ3uiLVCfpfk8grKZ2VWeYugMlAjs8xTqSTjx1SQw8Pia8k4pRU3xLMGpOie=
+5CUHcSwFuIhOaR0f91bOA-2FYC4JefjaJ49gE8QojmdBJFRxmku3NLjtXcaov7-2FooBc-2Bwj9=
+E2eP9sbLISG0LQXaACPlml0PE695IIiZEUADeeG9NnPo-3D" style=3D"background-color:=
+#8129d9; border-radius:48px; color:#ffffff; display:block; font-size:14px; =
+font-weight:bold; line-height:22px; padding:12px 18px 12px 18px; text-align=
+:center; text-decoration:none; font-family:inherit;" target=3D"_blank">Veri=
+fy Email</a>
+</div>
+ <!--[if mso]>
+    </center>
+  </v:roundrect>
+<![endif]-->
+</div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"0f53c084-d7bd-407b-9dfe-20ba4468c725" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-cont=
+ent"><div><div style=3D"font-family: inherit; text-align: center">Having tr=
+ouble verifying your email in our app? <a href=3D"https://url1741.linktr.ee=
+/ls/click?upn=3Daxe8GPJJyyQBzzRlsziXFe5y7alfMUa0StW-2BDweBWSgCqd-2FHHAjTw1J=
+B2OrG0rq2CRYi5Re7kUk7ANJrv-2Fl67-2BY2RPueZRBungcni95vyQ4oh-2FZo-2FkMUNgv36C=
+JWqrGPTYSyez1L7IlHb9X94iY5TCzLfxkrtB6tvGGQHVCK7NDMUqjhMz1O7OcuXBo9jwXoRMgt6=
+aJRwoj0zluHFdy-2FKWqrzRfmUP2j6adSpjOpQzGWPuN0XpkZZ8o6u-2Bg8XEywerQXRYwwkHpg=
+aJoQk6H-2BGWrCZrXTFnPAitRm2F4nmhdyn78tx-2FKQhWqqDWkTqEO-2BfFrTi8tNNrGmqK1vz=
+ADFUQ9-2FzTFXtwNyNAgNvZbxkWOcl-2FjTUhw8MiSDv5Eu6yGG5SKnmDG00rxj0u3GK8hZGEbb=
+edL508FJ792nzoh271rXrf0hMQ8TY6x4kYin55osKejWoMpO-2FLEQjkLABBOCWyGLxYc2pFV-2=
+FB3-2FVhwtJNkerBUkgvsw2vIwFTJdJEcU6-2F8hj-2B5sZQsqyyKqT0K4fapxSz-2FY3PZLA69=
+s9XHbzipfWqQEIn9QL-2Bp-2Fy2WSxHWOCLjjXziBtG-2BjtGuFDi5Pjvi3o6z1JGCRQkoxONhm=
+tzBTGM8Gt4iwfAgPZNGWmZYq-2BE311d8WeC-2BxtnuRM9FZVUL9m3CZ6X8mpVpIzYEQCe6S9ak=
+T5NqVCY5NHStxolZF88UYdgTYBfqOYMeSBRxJy-2Blq2W5TBbc0kMu7pUXatYJg-3D_GyQ_d4yj=
+cycGWANFed-2FsoOPQXyh3HOAiT32lruOG14-2BT9J-2FEZ8Pb-2Bv8tQEYgHSwIqfTq2c8CtAM=
+dG-2BM0wKLSiafd2qxBH48BXa49lmUKn-2BAoIEt1emsHD1eMeoQ2Up7Wip8tPAv4yf-2BHBS3S=
+MuqYrsztCFbW0s2gE17rKBN2q4g-2FS0N5fDddWR7Om1s6EKCbqOzAHYpKWDjE2FDoUJAcN5jBz=
+lbMxp-2FFXYSldAfVltTBkP9t28iT1Au9VW8V0LWG45-2BJ3uiLVCfpfk8grKZ2VWeYuirmVkyW=
+ZKO799DLwUUX9Y629oe7xHkBX5C5RRQvSb3LfR0SifgZ-2FBlePRytMR3Qfi8YdudE-2FVi1P1s=
+a-2FR1hTeGqRh7aTx9-2FqvseUl18UkZAHzMFTo7le-2B-2BN1Gz8KRIk-2BiFIuhCHj5ugj-2F=
+dJl4yX2Ec-3D">Try in your browser</a></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"spacer" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-=
+layout: fixed;" data-muid=3D"99f4ecfb-6d50-4a35-bebd-1154a60e8dc2">
+    <tbody>
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;" role=3D"module-content" bgc=
+olor=3D"">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"d2044174-bfd0-4cce-bb1a-d7676b699581" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px; line-height:22px; text-align:=
+inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-conten=
+t"><div><div style=3D"font-family: inherit; text-align: center"><span style=
+=3D"font-size: 16px">Thanks!</span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"code" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"84b79f28-3574-4045-84a1-16987fa6c35c">
+    <tbody>
+      <tr>
+        <td height=3D"100%" valign=3D"top" role=3D"module-content"><div sty=
+le=3D"box-sizing: border-box;margin-top: 32px;text-align: center;">
+    <p style=3D"box-sizing: border-box;font-size: 12px;line-height: 18px;ma=
+rgin: 0;color: #676B5F;">Linktree Pty Ltd</p>
+    <p style=3D"box-sizing: border-box;font-size: 12px;line-height: 18px;ma=
+rgin: 0;color: #676B5F;">37 Islington Street</p>
+    <p style=3D"box-sizing: border-box;font-size: 12px;line-height: 18px;ma=
+rgin: 0;color: #676B5F;">Collingwood, VIC, 3066 Australia</p>
+    <p style=3D"box-sizing: border-box;font-size: 12px;line-height: 18px;ma=
+rgin: 0;color: #676B5F;">Contact: <a href=3D"mailto:support@linktr.ee" styl=
+e=3D"box-sizing: border-box;color: #676B5F;">support@linktr.ee</a></p>
+</div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </table></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D"https://url1741.linktr.ee/wf/open?upn=3DBkt5EG2TWZaYpEEzu6A=
+V3ElnHGN6khIMteLtjG-2FJJzr6apF0-2BzTUFwSjNq8WAThwcpz6QumaimCLbZ8CvWupK5uSIg=
+MpR84zwNKCAv3Pa7-2FNuA-2F5x2ELRefvni5ZXwTc5WAP-2BwVB2zi3lxVrH4TbofFH49wbkDZ=
+zBtNhmyuipkSyVZvMFixCu4vlctJnIhdhqClyOVZ2WlPVh1ayWNyuoYIbiR99OzIEpIR5UkBQnJ=
+88qRfcYE6ctOlxT2peX9DudlxOWygrZotYCnOLR4LmJKVRbKYOiDeTs6OYvINIvNgfmL8-2F-2B=
+ByRkotiEWGqlPWCo8XwlVt1Cu8Fm-2B16F4UtBl7uVexFRSiUmlyhb2wf1hgF9n56qng5xor0Zq=
+SkhLmstPm7Kz0qHHOkAMdXCPeK3j78GX5gOeI16GESI99A0WQ-3D" alt=3D"" width=3D"1" =
+height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !importa=
+nt;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !impor=
+tant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !impo=
+rtant;padding-bottom:0 !important;padding-right:0 !important;padding-left:0=
+ !important;"/></body>
+  </html>
+--ac14d7c9e50af0c219010a1551379546c8b18ffb1990d9362b6163b1ba68--

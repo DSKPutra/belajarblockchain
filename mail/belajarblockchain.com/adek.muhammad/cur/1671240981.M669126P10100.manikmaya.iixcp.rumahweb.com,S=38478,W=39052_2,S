@@ -1,0 +1,574 @@
+Return-Path: <postmaster@cio51677.buffermail.com>
+Delivered-To: adek.muhammad@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id gPhuJxUdnWN0JwAAUtWGkQ
+	(envelope-from <postmaster@cio51677.buffermail.com>)
+	for <adek.muhammad@belajarblockchain.com>; Sat, 17 Dec 2022 08:36:21 +0700
+Return-path: <postmaster@cio51677.buffermail.com>
+Envelope-to: adek.muhammad@belajarblockchain.com
+Delivery-date: Sat, 17 Dec 2022 08:36:21 +0700
+Received: from m193-5.mailgun.net ([161.38.193.5]:23258)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <postmaster@cio51677.buffermail.com>)
+	id 1p6M7c-000mz1-7Y
+	for adek.muhammad@belajarblockchain.com;
+	Sat, 17 Dec 2022 08:36:21 +0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=cio51677.buffermail.com;
+ q=dns/txt; s=krs; t=1671240926; x=1671248126; h=Message-Id:
+ List-Unsubscribe: To: To: From: From: Subject: Subject: Content-Type:
+ Mime-Version: Date: Sender;
+ bh=VqLdIJUz9YoKMXAVj+TyownxGaybmp0XLEiPnJ8mNaQ=; b=VrUdqWVphjAzZbC6eJz1OdwLb91NZNFofJnkJUdu/l08hes4YIqzamH1tRu4yGBfU4FsABkY
+ 5UAOda+sBDOtkuyKN3wcJ8edB3Ps6+XFUYpSjUIYOYaTtJcR4oE7ju2zGd9GPvGsGrjhKI4E
+ 5eHqGZ2th5x2NFEgRAj2z59QQEk=
+X-Mailgun-Sending-Ip: 161.38.193.5
+X-Mailgun-Sid: WyJjZGZlZSIsImFkZWsubXVoYW1tYWRAYmVsYWphcmJsb2NrY2hhaW4uY29tIiwiMGZmNjFjIl0=
+Received: from <unknown> (<unknown> []) by 824892676e5d with HTTP id
+ 639d1cd7779e4c987e2032e0; Sat, 17 Dec 2022 01:35:19 GMT
+Date: Sat, 17 Dec 2022 01:35:19 +0000
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="9bd54d0745b8be0f04a0d7e79e89cea0c2fcb9be2041b1f2886d79401ca5"
+Subject: Quick tips for getting the most out of Buffer
+From: Juliet from Buffer <onboarding@buffermail.com>
+To: adek.muhammad@belajarblockchain.com
+X-Mailgun-Track-Opens: false
+X-Mailgun-Dkim: true
+X-Mailgun-Native-Send: true
+X-Mailgun-Track-Clicks: false
+X-Mailer: Customer.io (dgSoqQUAANP0tAnR9LQJAYUduKfnhK_uanxsVm1b7Q==;
+ +https://whatis.customeriomail.com)
+X-Report-Abuse-To: badactor@customer.io
+List-Unsubscribe: <mailto:32.MRTVG33RKFKUCQKOKAYHIQLOKI4UYUKKIFMVKZDVJNTG42CLL52WC3TYONLG2MLCG5IT2PI=@unsubscribe2.customer.io>,
+ <https://e.customeriomail.com/unsubscribe/dgSoqQUAANP0tAnR9LQJAYUduKfnhK_uanxsVm1b7Q==>
+X-Mailgun-Variables: {"email_id": "dgSoqQUAANP0tAnR9LQJAYUduKfnhK_uanxsVm1b7Q=="}
+Message-Id: <20221217013519.93dce46245db41d6@cio51677.buffermail.com>
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  ( https://publish.buffer.com/calendar/week?utm_source=publish-free&utm_medium=email&utm_campaign=welcome-free&utm_campaign=Buffer%3A+Free+Onboarding&utm_content=Day+12%3A+All+features&utm_medium=email
+    [...] 
+ Content analysis details:   (0.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: getbee.io]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 UNPARSEABLE_RELAY      Informational: message has unparseable relay
+                             lines
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+--9bd54d0745b8be0f04a0d7e79e89cea0c2fcb9be2041b1f2886d79401ca5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+( https://publish.buffer.com/calendar/week?utm_source=3Dpublish-free&utm_me=
+dium=3Demail&utm_campaign=3Dwelcome-free&utm_campaign=3DBuffer%3A+Free+Onbo=
+arding&utm_content=3DDay+12%3A+All+features&utm_medium=3Demail_action&utm_s=
+ource=3Dcustomer.io )Hi there,=C2=A0
+
+=C2=A0
+
+Hopefully, now you=E2=80=99ve had a bit of time to explore Buffer ( https:/=
+/publish.buffer.com/calendar/week?utm_campaign=3DBuffer%3A+Free+Onboarding&=
+utm_content=3DDay+12%3A+All+features&utm_medium=3Demail_action&utm_source=
+=3Dcustomer.io ) and are into your social media management groove!
+
+=C2=A0
+
+In case you want to dive deeper, here's a list of Free plan features to hel=
+p you create a consistent presence on social.
+
+* Social networks.=C2=A0Connect Facebook, Instagram, Twitter, Pinterest, Ti=
+kTok, Google Business, or LinkedIn pages.
+* Content: Save all your best ideas in one place and tweak them until they=
+=E2=80=99re ready to go.
+* Posting schedules.=C2=A0Set time slots throughout each week for your cont=
+ent to be released.
+* Scheduling.=C2=A0Create up to 10 posts for each channel and schedule thei=
+r release for each social network.
+* Tailored Posts.=C2=A0Seamlessly iterate on content to customize posts for=
+ each social network.
+* Shuffle Queue. Mix things up by randomizing the order of your queued post=
+s.
+* Browser Extensions.=C2=A0Add posts directly from a webpage to your queue.
+* iOS and Android Apps.=C2=A0Schedule your content from the palm of your ha=
+nd.
+* Start Page:=C2=A0A landing page for your link in bio that you can build i=
+n minutes and update in seconds.
+* 30+ Third-Party Integrations.=C2=A0Use Buffer with your favorite apps lik=
+e Zapier, IFTTT, Quuu, Pocket, Feedly, and more.
+* World-class support. Get help via social media, email, and our Support Ce=
+ntre.
+
+Explore more of Buffer ( https://publish.buffer.com/?utm_campaign=3DBuffer%=
+3A+Free+Onboarding&utm_content=3DDay+12%3A+All+features&utm_medium=3Demail_=
+action&utm_source=3Dcustomer.io )
+=C2=A0
+
+Wishing you lots of social media success and we'll be here if you have any =
+questions!
+
+=C2=A0
+
+Katie at BufferJuliet's signature
+P.S. If you'd like to do more with Buffer - like reply to comments, build o=
+ut campaigns, or connect more channels - please feel free to check out our =
+paid plans ( https://buffer.com/pricing?utm_campaign=3DBuffer%3A+Free+Onboa=
+rding&utm_content=3DDay+12%3A+All+features&utm_medium=3Demail_action&utm_so=
+urce=3Dcustomer.io )!
+
+=E2=80=8AInstagram ( https://instagram.com/buffer/?utm_campaign=3DBuffer%3A=
++Free+Onboarding&utm_content=3DDay+12%3A+All+features&utm_medium=3Demail_ac=
+tion&utm_source=3Dcustomer.io )
+Facebook ( https://www.facebook.com/bufferapp?utm_campaign=3DBuffer%3A+Free=
++Onboarding&utm_content=3DDay+12%3A+All+features&utm_medium=3Demail_action&=
+utm_source=3Dcustomer.io )Twitter ( https://twitter.com/buffer?utm_campaign=
+=3DBuffer%3A+Free+Onboarding&utm_content=3DDay+12%3A+All+features&utm_mediu=
+m=3Demail_action&utm_source=3Dcustomer.io )Pinterest ( https://www.pinteres=
+t.com/bufferapp?utm_campaign=3DBuffer%3A+Free+Onboarding&utm_content=3DDay+=
+12%3A+All+features&utm_medium=3Demail_action&utm_source=3Dcustomer.io )TikT=
+ok ( https://www.tiktok.com/@bufferapp?utm_campaign=3DBuffer%3A+Free+Onboar=
+ding&utm_content=3DDay+12%3A+All+features&utm_medium=3Demail_action&utm_sou=
+rce=3Dcustomer.io )
+Help Center ( https://support.buffer.com/hc/en-us?utm_source=3Dpublish-free=
+&utm_medium=3Demail&utm_campaign=3Dday12-allfeatures-free&utm_campaign=3DBu=
+ffer%3A+Free+Onboarding&utm_content=3DDay+12%3A+All+features&utm_medium=3De=
+mail_action&utm_source=3Dcustomer.io ) =C2=A0 =C2=A0| =C2=A0 Blog ( https:/=
+/buffer.com/resources/?utm_source=3Dpublish-free&utm_medium=3Demail&utm_cam=
+paign=3Dday12-allfeatures-free&utm_campaign=3DBuffer%3A+Free+Onboarding&utm=
+_content=3DDay+12%3A+All+features&utm_medium=3Demail_action&utm_source=3Dcu=
+stomer.io )=C2=A0 =C2=A0 | =C2=A0 =C2=A0Log in ( https://publish.buffer.com=
+/calendar/week?utm_source=3Dpublish-free&utm_medium=3Demail&utm_campaign=3D=
+day12-allfeatures-free&utm_campaign=3DBuffer%3A+Free+Onboarding&utm_content=
+=3DDay+12%3A+All+features&utm_medium=3Demail_action&utm_source=3Dcustomer.i=
+o )
+
+=C2=A0
+=C2=A0
+=C2=A0
+Sent by the team at Buffer
+2443 Fillmore St #380-7163 San Francisco, CA 94115 USA
+=C2=A0
+
+=C2=A0
+=C2=A0
+Unsubscribe from product emails ( https://buffer.com/unsubscribe/newsletter=
+Notifications/638fec9ab44ffe5ac184e0e7/12486bb3dab6100dd491fda068b25a9bd8a9=
+f5dd?utm_campaign=3DBuffer%3A+Free+Onboarding&utm_content=3DDay+12%3A+All+f=
+eatures&utm_medium=3Demail_action&utm_source=3Dcustomer.io ) =C2=A0| Unsubs=
+cribe from all emails ( http://track.customer.io/unsubscribe/dgSoqQUAANP0tA=
+nR9LQJAYUduKfnhK_uanxsVm1b7Q=3D=3D )
+--9bd54d0745b8be0f04a0d7e79e89cea0c2fcb9be2041b1f2886d79401ca5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html><html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"u=
+rn:schemas-microsoft-com:office:office" lang=3D"en"><head><title></title><m=
+eta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"/><me=
+ta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1"/><!=
+--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerI=
+nch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[if !mso]=
+><!--><link href=3D"https://fonts.googleapis.com/css?family=3DRoboto" rel=
+=3D"stylesheet" type=3D"text/css"/><!--<![endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}@me=
+dia (max-width:570px){.social_block.desktop_hide .social-table{display:inli=
+ne-block!important}.row-content{width:100%!important}.mobile_hide{display:n=
+one}.stack .column{width:100%;display:block}.mobile_hide{min-height:0;max-h=
+eight:0;max-width:0;overflow:hidden;font-size:0}.desktop_hide,.desktop_hide=
+ table{display:table!important;max-height:none!important}}
+</style></head><body style=3D"background-color:#fff;margin:0;padding:0;-web=
+kit-text-size-adjust:none;text-size-adjust:none"><div style=3D"display: non=
+e; max-height: 0px; overflow: hidden; mso-hide:all;">Our list of features t=
+o help you create a consistent presence on social.</div><div style=3D"displ=
+ay: none; max-height: 0px; overflow: hidden; mso-hide:all;">=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0</div><table class=3D"nl-container" wid=
+th=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presen=
+tation" style=3D"mso-table-lspace:0;mso-table-rspace:0;background-color:#ff=
+f"><tbody><tr><td><table class=3D"row row-1" align=3D"center" width=3D"100%=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" st=
+yle=3D"mso-table-lspace:0;mso-table-rspace:0;background-color:#2c4bff">
+<tbody><tr><td><table class=3D"row-content stack" align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"m=
+so-table-lspace:0;mso-table-rspace:0;background-color:#2c4bff;color:#000;wi=
+dth:550px" width=3D"550"><tbody><tr><td class=3D"column column-1" width=3D"=
+100%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-a=
+lign:left;vertical-align:top;padding-top:5px;padding-bottom:5px;border-top:=
+0;border-right:0;border-bottom:0;border-left:0"><table class=3D"text_block =
+block-1" width=3D"100%" border=3D"0" cellpadding=3D"10" cellspacing=3D"0" r=
+ole=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;word-br=
+eak:break-word"><tbody><tr><td class=3D"pad"><div style=3D"font-family:sans=
+-serif"><div class=3D"" style=3D"font-size:12px;mso-line-height-alt:14.3999=
+99999999999px;color:#555;line-height:1.2;font-family:Roboto,Tahoma,Verdana,=
+Segoe,sans-serif"><p style=3D"margin:0;mso-line-height-alt:14.3999999999999=
+99px">=C2=A0</p></div></div></td></tr></tbody></table></td></tr></tbody>
+</table></td></tr></tbody></table><table class=3D"row row-2" align=3D"cente=
+r" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"=
+presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;background-col=
+or:#2c4bff"><tbody><tr><td><table class=3D"row-content stack" align=3D"cent=
+er" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" =
+style=3D"mso-table-lspace:0;mso-table-rspace:0;background-color:#fff;color:=
+#333;width:550px" width=3D"550"><tbody><tr><td class=3D"column column-1" wi=
+dth=3D"33.333333333333336%" style=3D"mso-table-lspace:0;mso-table-rspace:0;=
+font-weight:400;text-align:left;vertical-align:top;border-top:0;border-righ=
+t:0;border-bottom:0;border-left:0"><table class=3D"image_block block-2" wid=
+th=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presen=
+tation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td clas=
+s=3D"pad" style=3D"padding-bottom:60px;padding-left:50px;padding-top:45px;w=
+idth:100%;padding-right:0"><div class=3D"alignment" align=3D"left" style=3D=
+"line-height:10px"><a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9p=
+ZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlVZHVLZm5oS191YW54c1ZtMWI3UT09IiwiaHJlZiI=
+6Imh0dHBzOi8vcHVibGlzaC5idWZmZXIuY29tL2NhbGVuZGFyL3dlZWs_dXRtX3NvdXJjZT1wdW=
+JsaXNoLWZyZWVcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX2NhbXBhaWduPXdlbGNvb=
+WUtZnJlZVx1MDAyNnV0bV9jYW1wYWlnbj1CdWZmZXIlM0ErRnJlZStPbmJvYXJkaW5nXHUwMDI2=
+dXRtX2NvbnRlbnQ9RGF5KzEyJTNBK0FsbCtmZWF0dXJlc1x1MDAyNnV0bV9tZWRpdW09ZW1haWx=
+fYWN0aW9uXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lci5pbyIsImludGVybmFsIjoiYThhOTA1OT=
+IwNWYxMDlkM2Y0YjQwOSIsImxpbmtfaWQiOjgyODZ9/2920840763a4ef06d8793793bd909e1b=
+37fc09a18d4f7acef3892a662e2560bb" target=3D"_blank" style=3D"outline:none" =
+tabindex=3D"-1"><img src=3D"https://userimg-bee.customeriomail.com/images/c=
+lient-env-87208/buffer-logo@2x.png" style=3D"display:block;height:auto;bord=
+er:0;width:128px;max-width:100%" width=3D"128"/></a></div></td></tr></tbody=
+></table></td><td class=3D"column column-2" width=3D"66.66666666666667%" st=
+yle=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:lef=
+t;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-lef=
+t:0"><table class=3D"empty_block block-2" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0"><tbody><tr><td class=3D"pad" style=3D"padding-rig=
+ht:0;padding-bottom:5px;padding-left:0;padding-top:5px"><div></div></td></t=
+r></tbody></table></td></tr></tbody></table></td></tr></tbody></table><tabl=
+e class=3D"row row-3" align=3D"center" width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace=
+:0;mso-table-rspace:0;background-color:#2c4bff"><tbody><tr><td><table class=
+=3D"row-content stack" align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-r=
+space:0;background-color:#fff;color:#333;width:550px" width=3D"550"><tbody>=
+<tr><td class=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:=
+0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top;pad=
+ding-top:0;padding-bottom:0;border-top:0;border-right:0;border-bottom:0;bor=
+der-left:0"><table class=3D"text_block block-1" width=3D"100%" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tab=
+le-lspace:0;mso-table-rspace:0;word-break:break-word"><tbody><tr><td class=
+=3D"pad" style=3D"padding-bottom:5px;padding-left:50px;padding-right:50px;p=
+adding-top:5px"><div style=3D"font-family:Tahoma,Verdana,sans-serif"><div c=
+lass=3D"" style=3D"font-size:12px;font-family:Roboto,Tahoma,Verdana,Segoe,s=
+ans-serif;mso-line-height-alt:21.6px;color:#231f20;line-height:1.8"><p styl=
+e=3D"margin:0;mso-line-height-alt:27px;letter-spacing:normal"><span style=
+=3D"font-size:15px;">Hi there,=C2=A0</span></p><p style=3D"margin:0;mso-lin=
+e-height-alt:21.6px;letter-spacing:normal">=C2=A0</p><p style=3D"margin:0;m=
+so-line-height-alt:27px;letter-spacing:normal">
+<span style=3D"font-size:15px;">Hopefully, now you=E2=80=99ve had a bit of =
+time to <a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29=
+xUVVBQU5QMHRBblI5TFFKQVlVZHVLZm5oS191YW54c1ZtMWI3UT09IiwiaHJlZiI6Imh0dHBzOi=
+8vcHVibGlzaC5idWZmZXIuY29tL2NhbGVuZGFyL3dlZWs_dXRtX2NhbXBhaWduPUJ1ZmZlciUzQ=
+StGcmVlK09uYm9hcmRpbmdcdTAwMjZ1dG1fY29udGVudD1EYXkrMTIlM0ErQWxsK2ZlYXR1cmVz=
+XHUwMDI2dXRtX21lZGl1bT1lbWFpbF9hY3Rpb25cdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyLml=
+vIiwiaW50ZXJuYWwiOiJhOGE5MDU5MjA1ZjEwOWQzZjRiNDA5IiwibGlua19pZCI6ODgyM30/11=
+eeb3ba670f7d82404bde8e2ec016d4b63dfdca9ad32bb0a513ee692bc9d116" target=3D"_=
+blank" style=3D"text-decoration: underline; color: #2c4bff;" rel=3D"noopene=
+r">explore Buffer</a> and are into your social media management groove!</sp=
+an></p><p style=3D"margin:0;mso-line-height-alt:21.6px;letter-spacing:norma=
+l">=C2=A0</p><p style=3D"margin:0;mso-line-height-alt:27px;letter-spacing:n=
+ormal">
+<span style=3D"font-size:15px;">In case you want to dive deeper, here&#39;s=
+ a list of Free plan features to help you create a consistent presence on s=
+ocial.</span></p><ul style=3D"line-height:1.8;mso-line-height-alt:27px;lett=
+er-spacing:normal"><li><strong><span style=3D"font-size:15px;">Social netwo=
+rks.=C2=A0</span></strong><span style=3D"font-size:15px;">Connect Facebook,=
+ Instagram, Twitter, Pinterest, TikTok, Google Business, or LinkedIn pages.=
+</span></li><li>
+<span style=3D"font-size:15px;">Content: Save all your best ideas in one pl=
+ace and tweak them until they=E2=80=99re ready to go.</span></li><li><stron=
+g><span style=3D"font-size:15px;">Posting schedules.=C2=A0</span></strong><=
+span style=3D"font-size:15px;">Set time slots throughout each week for your=
+ content to be released.</span></li><li>
+<strong><span style=3D"font-size:15px;">Scheduling.=C2=A0</span></strong><s=
+pan style=3D"font-size:15px;">Create up to 10 posts for each channel and sc=
+hedule their release for each social network.</span></li><li><strong><span =
+style=3D"font-size:15px;">Tailored Posts.=C2=A0</span></strong><span style=
+=3D"font-size:15px;">Seamlessly iterate on content to customize posts for e=
+ach social network.</span></li><li>
+<strong><span style=3D"font-size:15px;">Shuffle Queue. </span></strong><spa=
+n style=3D"font-size:15px;">Mix things up by r</span><span style=3D"font-si=
+ze:15px;">andomizing the order of your queued posts.</span></li><li><strong=
+><span style=3D"font-size:15px;">Browser Extensions.=C2=A0</span></strong><=
+span style=3D"font-size:15px;">Add posts directly from a webpage to your qu=
+eue.</span></li><li>
+<strong><span style=3D"font-size:15px;">iOS and Android Apps.=C2=A0</span><=
+/strong><span style=3D"font-size:15px;">Schedule your content from the palm=
+ of your hand.</span></li><li><strong><span style=3D"font-size:15px;">Start=
+ Page:=C2=A0</span></strong><span style=3D"font-size:15px;">A landing page =
+for your link in bio that you can build in minutes and update in seconds.</=
+span></li><li>
+<strong><span style=3D"font-size:15px;">30+ Third-Party Integrations.=C2=A0=
+</span></strong><span style=3D"font-size:15px;">Use Buffer with your favori=
+te apps like Zapier, IFTTT, Quuu, Pocket, Feedly, and more.</span></li><li>=
+<strong><span style=3D"font-size:15px;">World-class support. </span></stron=
+g><span style=3D"font-size:15px;">Get help via social media, email, and our=
+ Support Centre.</span></li></ul></div></div></td></tr></tbody></table><tab=
+le class=3D"button_block block-2" width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;=
+mso-table-rspace:0"><tbody><tr><td class=3D"pad" style=3D"padding-bottom:25=
+px;padding-top:25px;text-align:center"><div class=3D"alignment" align=3D"ce=
+nter">
+<!--[if mso]><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=
+=3D"urn:schemas-microsoft-com:office:word" href=3D"https://e.customeriomail=
+=2Ecom/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVB=
+QU5QMHRBblI5TFFKQVlVZHVLZm5oS191YW54c1=
+ZtMWI3UT09IiwiaHJlZiI6Imh0dHBzOi8vcHVibGlzaC5idWZmZXIuY29tLz91dG1fY2FtcGFpZ=
+249QnVmZmVyJTNBK0ZyZWUrT25ib2FyZGluZ1x1MDAyNnV0bV9jb250ZW50PURheSsxMiUzQStB=
+bGwrZmVhdHVyZXNcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsX2FjdGlvblx1MDAyNnV0bV9zb3VyY2U=
+9Y3VzdG9tZXIuaW8iLCJpbnRlcm5hbCI6ImE4YTkwNTkyMDVmMTA5ZDNmNGI0MDkiLCJsaW5rX2=
+lkIjo0NzV9/4c386c022df57e0c41bc26914f9ce24acb127e3e93af683ae590afd3bd80b310=
+" style=3D"height:39px;width:189px;v-text-anchor:middle;" arcsize=3D"11%" s=
+troke=3D"false" fillcolor=3D"#2C4BFF"><w:anchorlock/><v:textbox inset=3D"0p=
+x,0px,0px,0px"><center style=3D"color:#ffffff; font-family:Tahoma, Verdana,=
+ sans-serif; font-size:15px"><![endif]-->
+<a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5=
+QMHRBblI5TFFKQVlVZHVLZm5oS191YW54c1ZtMWI3UT09IiwiaHJlZiI6Imh0dHBzOi8vcHVibG=
+lzaC5idWZmZXIuY29tLz91dG1fY2FtcGFpZ249QnVmZmVyJTNBK0ZyZWUrT25ib2FyZGluZ1x1M=
+DAyNnV0bV9jb250ZW50PURheSsxMiUzQStBbGwrZmVhdHVyZXNcdTAwMjZ1dG1fbWVkaXVtPWVt=
+YWlsX2FjdGlvblx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXIuaW8iLCJpbnRlcm5hbCI6ImE4YTk=
+wNTkyMDVmMTA5ZDNmNGI0MDkiLCJsaW5rX2lkIjo0NzV9/4c386c022df57e0c41bc26914f9ce=
+24acb127e3e93af683ae590afd3bd80b310" target=3D"_blank" style=3D"text-decora=
+tion:none;display:inline-block;color:#ffffff;background-color:#2C4BFF;borde=
+r-radius:4px;width:auto;border-top:0px solid transparent;font-weight:400;bo=
+rder-right:0px solid transparent;border-bottom:0px solid transparent;border=
+-left:0px solid transparent;padding-top:5px;padding-bottom:5px;font-family:=
+Roboto, Tahoma, Verdana, Segoe, sans-serif;font-size:15px;text-align:center=
+;mso-border-alt:none;word-break:keep-all;"><span style=3D"padding-left:20px=
+;padding-right:20px;font-size:15px;display:inline-block;letter-spacing:norm=
+al;"><span style=3D"word-break: break-word;"><span style=3D"line-height: 30=
+px;" data-mce-style=3D"">Explore more of Buffer</span></span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]--></div></td></tr=
+></tbody></table><table class=3D"text_block block-3" width=3D"100%" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"m=
+so-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tbody><tr><td =
+class=3D"pad" style=3D"padding-bottom:5px;padding-left:50px;padding-right:5=
+0px;padding-top:5px"><div style=3D"font-family:Tahoma,Verdana,sans-serif"><=
+div class=3D"" style=3D"font-size:12px;mso-line-height-alt:21.6px;color:#23=
+1f20;line-height:1.8;font-family:Roboto,Tahoma,Verdana,Segoe,sans-serif"><p=
+ style=3D"margin:0;mso-line-height-alt:21.6px">=C2=A0</p><p style=3D"margin=
+:0;mso-line-height-alt:27px"><span style=3D"font-size:15px;">Wishing you lo=
+ts of social media success and we&#39;ll be here if you have any questions!=
+</span></p><p style=3D"margin:0;mso-line-height-alt:21.6px">=C2=A0</p></div=
+></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbod=
+y></table>
+<table class=3D"row row-4" align=3D"center" width=3D"100%" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-l=
+space:0;mso-table-rspace:0;background-color:#2c4bff"><tbody><tr><td><table =
+class=3D"row-content" align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rs=
+pace:0;background-color:#fff;color:#333;width:550px" width=3D"550"><tbody><=
+tr><td class=3D"column column-1" width=3D"25%" style=3D"mso-table-lspace:0;=
+mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top;borde=
+r-top:0;border-right:0;border-bottom:0;border-left:0"><table class=3D"image=
+_block block-2" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+"><tbody><tr><td class=3D"pad" style=3D"padding-bottom:10px;padding-left:5p=
+x;padding-right:5px;padding-top:20px;width:100%"><div class=3D"alignment" a=
+lign=3D"right" style=3D"line-height:10px"><img src=3D"https://userimg-bee.c=
+ustomeriomail.com/images/client-env-87208/juliet%20bg.png" style=3D"display=
+:block;height:auto;border:0;width:89px;max-width:100%" width=3D"89" alt=3D"=
+Katie at Buffer" title=3D"Katie at Buffer"/></div></td></tr></tbody></table=
+></td><td class=3D"column column-2" width=3D"75%" style=3D"mso-table-lspace=
+:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top;bo=
+rder-top:0;border-right:0;border-bottom:0;border-left:0"><table class=3D"im=
+age_block block-2" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:=
+0"><tbody><tr><td class=3D"pad" style=3D"padding-bottom:25px;padding-left:1=
+0px;padding-right:20px;padding-top:20px;width:100%"><div class=3D"alignment=
+" align=3D"left" style=3D"line-height:10px"><img src=3D"https://userimg-bee=
+=2Ecustomeriomail.com/images/client-env=
+-87208/juliet-signature-01EWWBYNDWBEAB=
+RB1WYS32QJ1T.png" style=3D"display:block;height:auto;border:0;width:227px;m=
+ax-width:100%" width=3D"227" alt=3D"Juliet&#39;s signature" title=3D"Juliet=
+&#39;s signature"/></div></td></tr></tbody></table></td></tr></tbody></tabl=
+e></td></tr></tbody></table><table class=3D"row row-5" align=3D"center" wid=
+th=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presen=
+tation" style=3D"mso-table-lspace:0;mso-table-rspace:0;background-color:#2c=
+4bff"><tbody><tr><td><table class=3D"row-content stack" align=3D"center" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=
+=3D"mso-table-lspace:0;mso-table-rspace:0;background-color:#fff;color:#333;=
+width:550px" width=3D"550"><tbody><tr><td class=3D"column column-1" width=
+=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;te=
+xt-align:left;vertical-align:top;padding-top:0;padding-bottom:0;border-top:=
+0;border-right:0;border-bottom:0;border-left:0"><table class=3D"text_block =
+block-1" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" ro=
+le=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;word-bre=
+ak:break-word"><tbody><tr><td class=3D"pad" style=3D"padding-bottom:5px;pad=
+ding-left:50px;padding-right:50px;padding-top:5px"><div style=3D"font-famil=
+y:Tahoma,Verdana,sans-serif"><div class=3D"" style=3D"font-size:12px;mso-li=
+ne-height-alt:21.6px;color:#231f20;line-height:1.8;font-family:Roboto,Tahom=
+a,Verdana,Segoe,sans-serif"><p style=3D"margin:0;mso-line-height-alt:27px">
+<span style=3D"font-size:15px;">P.S. If you&#39;d like to do more with Buff=
+er - like reply to comments, build out campaigns, or connect more channels =
+- please feel free to <a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpb=
+F9pZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlVZHVLZm5oS191YW54c1ZtMWI3UT09IiwiaHJl=
+ZiI6Imh0dHBzOi8vYnVmZmVyLmNvbS9wcmljaW5nP3V0bV9jYW1wYWlnbj1CdWZmZXIlM0ErRnJ=
+lZStPbmJvYXJkaW5nXHUwMDI2dXRtX2NvbnRlbnQ9RGF5KzEyJTNBK0FsbCtmZWF0dXJlc1x1MD=
+AyNnV0bV9tZWRpdW09ZW1haWxfYWN0aW9uXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lci5pbyIsI=
+mludGVybmFsIjoiYThhOTA1OTIwNWYxMDlkM2Y0YjQwOSIsImxpbmtfaWQiOjY3MzZ9/37c45e5=
+b998b56af7d512a29646fbb313d02eb5d9ce22bc11fe3cbc599cf404b" target=3D"_blank=
+" style=3D"text-decoration: underline; color: #2c4bff;" rel=3D"noopener">ch=
+eck out our paid plans</a>!</span></p></div></div></td></tr></tbody></table=
+><table class=3D"divider_block block-2" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspac=
+e:0;mso-table-rspace:0"><tbody><tr><td class=3D"pad" style=3D"padding-top:6=
+0px"><div class=3D"alignment" align=3D"center"><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation" width=3D"100%" style=3D"m=
+so-table-lspace:0;mso-table-rspace:0"><tbody><tr><td class=3D"divider_inner=
+" style=3D"font-size:1px;line-height:1px;border-top:20px solid #f3afb9"><sp=
+an>=E2=80=8A</span></td></tr></tbody></table></div></td></tr></tbody></tabl=
+e></td></tr></tbody></table></td></tr></tbody></table><table class=3D"row r=
+ow-6" align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rsp=
+ace:0;background-color:#2c4bff"><tbody><tr><td><table class=3D"row-content =
+stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" ro=
+le=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;backgrou=
+nd-color:#fff;color:#000;width:550px" width=3D"550"><tbody><tr><td class=3D=
+"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspa=
+ce:0;font-weight:400;text-align:left;background-color:#2c4bff;vertical-alig=
+n:top;padding-top:5px;padding-bottom:15px;border-top:0;border-right:0;borde=
+r-bottom:0;border-left:0"><table class=3D"social_block block-1" width=3D"10=
+0%" border=3D"0" cellpadding=3D"10" cellspacing=3D"0" role=3D"presentation"=
+ style=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td class=3D"pa=
+d"><div class=3D"alignment" align=3D"center"><table class=3D"social-table" =
+width=3D"260px" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"pr=
+esentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;display:inline-b=
+lock"><tbody><tr><td style=3D"padding:0 10px 0 10px"><a href=3D"https://e.c=
+ustomeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlVZHVLZ=
+m5oS191YW54c1ZtMWI3UT09IiwiaHJlZiI6Imh0dHBzOi8vaW5zdGFncmFtLmNvbS9idWZmZXIv=
+P3V0bV9jYW1wYWlnbj1CdWZmZXIlM0ErRnJlZStPbmJvYXJkaW5nXHUwMDI2dXRtX2NvbnRlbnQ=
+9RGF5KzEyJTNBK0FsbCtmZWF0dXJlc1x1MDAyNnV0bV9tZWRpdW09ZW1haWxfYWN0aW9uXHUwMD=
+I2dXRtX3NvdXJjZT1jdXN0b21lci5pbyIsImludGVybmFsIjoiYThhOTA1OTIwNWYxMDlkM2Y0Y=
+jQwOSIsImxpbmtfaWQiOjI0MzZ9/af4f57bb33e5d6e3ab5fad65f0398136123a8a6255b5288=
+5ee506495fabbf20a" target=3D"_blank"><img src=3D"https://app-rsrc.getbee.io=
+/public/resources/social-networks-icon-sets/t-only-logo-white/instagram@2x.=
+png" width=3D"32" height=3D"32" alt=3D"Instagram" title=3D"Instagram" style=
+=3D"display:block;height:auto;border:0"/></a></td><td style=3D"padding:0 10=
+px 0 10px">
+<a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5=
+QMHRBblI5TFFKQVlVZHVLZm5oS191YW54c1ZtMWI3UT09IiwiaHJlZiI6Imh0dHBzOi8vd3d3Lm=
+ZhY2Vib29rLmNvbS9idWZmZXJhcHA_dXRtX2NhbXBhaWduPUJ1ZmZlciUzQStGcmVlK09uYm9hc=
+mRpbmdcdTAwMjZ1dG1fY29udGVudD1EYXkrMTIlM0ErQWxsK2ZlYXR1cmVzXHUwMDI2dXRtX21l=
+ZGl1bT1lbWFpbF9hY3Rpb25cdTAwMjZ1dG1fc291cmNlPWN1c3RvbWVyLmlvIiwiaW50ZXJuYWw=
+iOiJhOGE5MDU5MjA1ZjEwOWQzZjRiNDA5IiwibGlua19pZCI6MTF9/a0bc3d99b443fe0f0f20f=
+608359ff2c22244d94b3821a3635860db919a348e2a" target=3D"_blank"><img src=3D"=
+https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-onl=
+y-logo-white/facebook@2x.png" width=3D"32" height=3D"32" alt=3D"Facebook" t=
+itle=3D"Facebook" style=3D"display:block;height:auto;border:0"/></a></td><t=
+d style=3D"padding:0 10px 0 10px"><a href=3D"https://e.customeriomail.com/e=
+/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlVZHVLZm5oS191YW54c1ZtMWI3=
+UT09IiwiaHJlZiI6Imh0dHBzOi8vdHdpdHRlci5jb20vYnVmZmVyP3V0bV9jYW1wYWlnbj1CdWZ=
+mZXIlM0ErRnJlZStPbmJvYXJkaW5nXHUwMDI2dXRtX2NvbnRlbnQ9RGF5KzEyJTNBK0FsbCtmZW=
+F0dXJlc1x1MDAyNnV0bV9tZWRpdW09ZW1haWxfYWN0aW9uXHUwMDI2dXRtX3NvdXJjZT1jdXN0b=
+21lci5pbyIsImludGVybmFsIjoiYThhOTA1OTIwNWYxMDlkM2Y0YjQwOSIsImxpbmtfaWQiOjEy=
+fQ/748f002012fd9a756ce9f1780aa6163f46c8aa0a0fd18f4e6afdb12420ecad52" target=
+=3D"_blank"><img src=3D"https://app-rsrc.getbee.io/public/resources/social-=
+networks-icon-sets/t-only-logo-white/twitter@2x.png" width=3D"32" height=3D=
+"32" alt=3D"Twitter" title=3D"Twitter" style=3D"display:block;height:auto;b=
+order:0"/></a></td><td style=3D"padding:0 10px 0 10px"><a href=3D"https://e=
+=2Ecustomeriomail.com/e/c/eyJlbWFpbF9pZ=
+CI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlVZHV=
+LZm5oS191YW54c1ZtMWI3UT09IiwiaHJlZiI6Imh0dHBzOi8vd3d3LnBpbnRlcmVzdC5jb20vYn=
+VmZmVyYXBwP3V0bV9jYW1wYWlnbj1CdWZmZXIlM0ErRnJlZStPbmJvYXJkaW5nXHUwMDI2dXRtX=
+2NvbnRlbnQ9RGF5KzEyJTNBK0FsbCtmZWF0dXJlc1x1MDAyNnV0bV9tZWRpdW09ZW1haWxfYWN0=
+aW9uXHUwMDI2dXRtX3NvdXJjZT1jdXN0b21lci5pbyIsImludGVybmFsIjoiYThhOTA1OTIwNWY=
+xMDlkM2Y0YjQwOSIsImxpbmtfaWQiOjIxNzV9/444ba4f8fb5aa57f33bb1779b16f259655c95=
+d74270f2a47cf37a148fbd654a8" target=3D"_blank"><img src=3D"https://app-rsrc=
+=2Egetbee.io/public/resources/social-ne=
+tworks-icon-sets/t-only-logo-white/pin=
+terest@2x.png" width=3D"32" height=3D"32" alt=3D"Pinterest" title=3D"Pinter=
+est" style=3D"display:block;height:auto;border:0"/></a></td><td style=3D"pa=
+dding:0 10px 0 10px"><a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF=
+9pZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlVZHVLZm5oS191YW54c1ZtMWI3UT09IiwiaHJlZ=
+iI6Imh0dHBzOi8vd3d3LnRpa3Rvay5jb20vQGJ1ZmZlcmFwcD91dG1fY2FtcGFpZ249QnVmZmVy=
+JTNBK0ZyZWUrT25ib2FyZGluZ1x1MDAyNnV0bV9jb250ZW50PURheSsxMiUzQStBbGwrZmVhdHV=
+yZXNcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsX2FjdGlvblx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZX=
+IuaW8iLCJpbnRlcm5hbCI6ImE4YTkwNTkyMDVmMTA5ZDNmNGI0MDkiLCJsaW5rX2lkIjo3Nzk4f=
+Q/cbc619de071f9017fe63a090d09e70182014b52994c42f6f3b9a7bab86044b09" target=
+=3D"_blank"><img src=3D"https://app-rsrc.getbee.io/public/resources/social-=
+networks-icon-sets/t-only-logo-white/tiktok@2x.png" width=3D"32" height=3D"=
+32" alt=3D"TikTok" title=3D"TikTok" style=3D"display:block;height:auto;bord=
+er:0"/></a></td></tr></tbody></table></div></td></tr></tbody></table><table=
+ class=3D"text_block block-2" width=3D"100%" border=3D"0" cellpadding=3D"10=
+" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-t=
+able-rspace:0;word-break:break-word"><tbody><tr><td class=3D"pad"><div styl=
+e=3D"font-family:sans-serif"><div class=3D"" style=3D"font-size:12px;mso-li=
+ne-height-alt:14.399999999999999px;color:#fff;line-height:1.2;font-family:R=
+oboto,Tahoma,Verdana,Segoe,sans-serif"><p style=3D"margin:0;font-size:14px;=
+text-align:center;mso-line-height-alt:16.8px">
+<a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5=
+QMHRBblI5TFFKQVlVZHVLZm5oS191YW54c1ZtMWI3UT09IiwiaHJlZiI6Imh0dHBzOi8vc3VwcG=
+9ydC5idWZmZXIuY29tL2hjL2VuLXVzP3V0bV9zb3VyY2U9cHVibGlzaC1mcmVlXHUwMDI2dXRtX=
+21lZGl1bT1lbWFpbFx1MDAyNnV0bV9jYW1wYWlnbj1kYXkxMi1hbGxmZWF0dXJlcy1mcmVlXHUw=
+MDI2dXRtX2NhbXBhaWduPUJ1ZmZlciUzQStGcmVlK09uYm9hcmRpbmdcdTAwMjZ1dG1fY29udGV=
+udD1EYXkrMTIlM0ErQWxsK2ZlYXR1cmVzXHUwMDI2dXRtX21lZGl1bT1lbWFpbF9hY3Rpb25cdT=
+AwMjZ1dG1fc291cmNlPWN1c3RvbWVyLmlvIiwiaW50ZXJuYWwiOiJhOGE5MDU5MjA1ZjEwOWQzZ=
+jRiNDA5IiwibGlua19pZCI6ODI4OH0/72a187a6e20ae8fba38fe67808a5754fa40c07fe6bad=
+15cee1138842551bb34b" target=3D"_blank" style=3D"text-decoration: underline=
+; color: #ffffff;" rel=3D"noopener">Help Center</a> =C2=A0 =C2=A0| =C2=A0 <=
+a href=3D"https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5Q=
+MHRBblI5TFFKQVlVZHVLZm5oS191YW54c1ZtMWI3UT09IiwiaHJlZiI6Imh0dHBzOi8vYnVmZmV=
+yLmNvbS9yZXNvdXJjZXMvP3V0bV9zb3VyY2U9cHVibGlzaC1mcmVlXHUwMDI2dXRtX21lZGl1bT=
+1lbWFpbFx1MDAyNnV0bV9jYW1wYWlnbj1kYXkxMi1hbGxmZWF0dXJlcy1mcmVlXHUwMDI2dXRtX=
+2NhbXBhaWduPUJ1ZmZlciUzQStGcmVlK09uYm9hcmRpbmdcdTAwMjZ1dG1fY29udGVudD1EYXkr=
+MTIlM0ErQWxsK2ZlYXR1cmVzXHUwMDI2dXRtX21lZGl1bT1lbWFpbF9hY3Rpb25cdTAwMjZ1dG1=
+fc291cmNlPWN1c3RvbWVyLmlvIiwiaW50ZXJuYWwiOiJhOGE5MDU5MjA1ZjEwOWQzZjRiNDA5Ii=
+wibGlua19pZCI6ODI4OX0/da4763888f69dbba47f334cdd6036d4fc12bd5eeabc9b2d4aa09f=
+178c95a47b4" target=3D"_blank" style=3D"text-decoration: underline; color: =
+#ffffff;" rel=3D"noopener">Blog</a>=C2=A0 =C2=A0 | =C2=A0 =C2=A0<a href=3D"=
+https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5QMHRBblI5TF=
+FKQVlVZHVLZm5oS191YW54c1ZtMWI3UT09IiwiaHJlZiI6Imh0dHBzOi8vcHVibGlzaC5idWZmZ=
+XIuY29tL2NhbGVuZGFyL3dlZWs_dXRtX3NvdXJjZT1wdWJsaXNoLWZyZWVcdTAwMjZ1dG1fbWVk=
+aXVtPWVtYWlsXHUwMDI2dXRtX2NhbXBhaWduPWRheTEyLWFsbGZlYXR1cmVzLWZyZWVcdTAwMjZ=
+1dG1fY2FtcGFpZ249QnVmZmVyJTNBK0ZyZWUrT25ib2FyZGluZ1x1MDAyNnV0bV9jb250ZW50PU=
+RheSsxMiUzQStBbGwrZmVhdHVyZXNcdTAwMjZ1dG1fbWVkaXVtPWVtYWlsX2FjdGlvblx1MDAyN=
+nV0bV9zb3VyY2U9Y3VzdG9tZXIuaW8iLCJpbnRlcm5hbCI6ImE4YTkwNTkyMDVmMTA5ZDNmNGI0=
+MDkiLCJsaW5rX2lkIjo4Mjg3fQ/190d0d4e23d211a3773085cfd6faba4761dbd63b5a472a60=
+57108a600ff17d62" target=3D"_blank" style=3D"text-decoration:
+ underline; color: #ffffff;" rel=3D"noopener">Log in</a>
+<br/><span style=3D"font-size:12px;">=C2=A0</span><br/><span style=3D"font-=
+size:12px;">=C2=A0</span><br/><span style=3D"font-size:12px;">=C2=A0</span>=
+<br/><span style=3D"font-size:12px;">Sent by the team at Buffer</span><br/>=
+<span style=3D"font-size:12px;">2443 Fillmore St #380-7163 San Francisco, C=
+A 94115 USA</span><br/><span style=3D"font-size:12px;">=C2=A0</span><br/>
+<span style=3D"font-size:10px;color:#0000ff;">=C2=A0</span><br/><span style=
+=3D"font-size:12px;">=C2=A0</span><br/><span style=3D"font-size:12px;"><a s=
+tyle=3D"text-decoration: underline; color: #ffffff;" href=3D"https://e.cust=
+omeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5QMHRBblI5TFFKQVlVZHVLZm5o=
+S191YW54c1ZtMWI3UT09IiwiaHJlZiI6Imh0dHBzOi8vYnVmZmVyLmNvbS91bnN1YnNjcmliZS9=
+uZXdzbGV0dGVyTm90aWZpY2F0aW9ucy82MzhmZWM5YWI0NGZmZTVhYzE4NGUwZTcvMTI0ODZiYj=
+NkYWI2MTAwZGQ0OTFmZGEwNjhiMjVhOWJkOGE5ZjVkZD91dG1fY2FtcGFpZ249QnVmZmVyJTNBK=
+0ZyZWUrT25ib2FyZGluZ1x1MDAyNnV0bV9jb250ZW50PURheSsxMiUzQStBbGwrZmVhdHVyZXNc=
+dTAwMjZ1dG1fbWVkaXVtPWVtYWlsX2FjdGlvblx1MDAyNnV0bV9zb3VyY2U9Y3VzdG9tZXIuaW8=
+iLCJpbnRlcm5hbCI6ImE4YTkwNTkyMDVmMTA5ZDNmNGI0MDkiLCJsaW5rX2lkIjozODU5fQ/bfb=
+6e36c59f18d144fb991d3bb3aae384a10a0f62b37782670703b2edd6e895d" target=3D"_b=
+lank" rel=3D"noopener">Unsubscribe from product emails</a> =C2=A0|  <a href=
+=3D"https://e.customeriomail.com/unsubscribe/dgSoqQUAANP0tAnR9LQJAYUduKfnhK=
+_uanxsVm1b7Q=3D=3D" target=3D"_blank" class=3D"" style=3D"text-decoration: =
+underline; color: #ffffff;" rel=3D"noopener">Unsubscribe from all emails</a=
+></span></p></div></div></td></tr></tbody></table></td></tr></tbody></table=
+></td></tr></tbody></table></td></tr></tbody></table><!-- End --><img src=
+=3D"https://e.customeriomail.com/e/o/eyJlbWFpbF9pZCI6ImRnU29xUVVBQU5QMHRBbl=
+I5TFFKQVlVZHVLZm5oS191YW54c1ZtMWI3UT09In0=3D" style=3D"height: 1px !importa=
+nt; max-height: 1px !important; max-width: 1px !important; width: 1px !impo=
+rtant; display: none !important;"/></body></html>
+--9bd54d0745b8be0f04a0d7e79e89cea0c2fcb9be2041b1f2886d79401ca5--

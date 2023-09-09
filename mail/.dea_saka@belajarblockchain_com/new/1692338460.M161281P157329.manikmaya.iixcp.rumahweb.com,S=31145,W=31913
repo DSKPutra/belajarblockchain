@@ -1,0 +1,768 @@
+Return-Path: <bounce-mc.us17_89746213.203616-9a84566546@mail83.suw231.rsgsv.net>
+Delivered-To: dea.saka@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id GLcTCRwJ32SRZgIAUtWGkQ
+	(envelope-from <bounce-mc.us17_89746213.203616-9a84566546@mail83.suw231.rsgsv.net>)
+	for <dea.saka@belajarblockchain.com>; Fri, 18 Aug 2023 13:01:00 +0700
+Return-path: <bounce-mc.us17_89746213.203616-9a84566546@mail83.suw231.rsgsv.net>
+Envelope-to: dea.saka@belajarblockchain.com
+Delivery-date: Fri, 18 Aug 2023 13:01:00 +0700
+Received: from mail83.suw231.rsgsv.net ([198.2.174.83]:28857)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <bounce-mc.us17_89746213.203616-9a84566546@mail83.suw231.rsgsv.net>)
+	id 1qWsXW-000fF9-0Z
+	for dea.saka@belajarblockchain.com;
+	Fri, 18 Aug 2023 13:01:00 +0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=starhub.com; s=k2;
+	t=1692338392; x=1692598892; i=biz@starhub.com;
+	bh=oKwkodxORxoWm1rcgADWO71S+CBY+BkffSdSyZ7Wu+4=;
+	h=Subject:From:Reply-To:To:Date:Message-ID:X-MC-User:Feedback-ID:
+	 List-ID:List-Unsubscribe:List-Unsubscribe-Post:Content-Type:
+	 MIME-Version:CC:Date:Subject:From;
+	b=VYcRAydc9Xb9ez28bOTSd4hu4ypIxrrNcmh7WuajhX7YOiDi5/HUFENAEhj1UrN8c
+	 R0WfJnV6DWy5OuvVnPVPPGMngQsA8Tsn0301xBTbXHzEY+3d9r7uM2PeOAebsCp/Yd
+	 1uv9xIpSDJQ3x9K3J/4i+wMKjsZfRWJ4U3yTvO70sJfredfPe5gZJdMPjubH+VpgXV
+	 eK+cQ9yNpBuvxLcSlWjrLt/p3DnJV5VJyvWbY6Ej9rzBCuvGI+Zyf14I4LwnklC/kn
+	 ehppg/i4b4ulujXmNK4f49I2Ft4Csjo87SAKqrGhP0TAoe7fGkqnIGJtItKFNu8XoI
+	 H0VLnNy/JaYLA==
+Received: from localhost (localhost [127.0.0.1])
+	by mail83.suw231.rsgsv.net (Mailchimp) with ESMTP id 4RRrn436l3zP0gClD
+	for <dea.saka@belajarblockchain.com>; Fri, 18 Aug 2023 05:59:52 +0000 (GMT)
+Subject: =?utf-8?Q?Save=20up=20to=20$350=20on=20mobile=20phones=20with=20StarHub.=20Limited=2Dtime=20offer=20for=20your=20business=21?=
+From: =?utf-8?Q?StarHub=20Business?= <biz@starhub.com>
+Reply-To: =?utf-8?Q?StarHub=20Business?= <biz@starhub.com>
+To: <dea.saka@belajarblockchain.com>
+Date: Fri, 18 Aug 2023 05:59:49 +0000
+Message-ID: <090cd09e7f8e4277e47fe0f2f.9a84566546.20230818055942.cef149bc6f.fffab098@mail83.suw231.rsgsv.net>
+X-Mailer: Mailchimp Mailer - **CIDcef149bc6f9a84566546**
+X-Campaign: mailchimp090cd09e7f8e4277e47fe0f2f.cef149bc6f
+X-campaignid: mailchimp090cd09e7f8e4277e47fe0f2f.cef149bc6f
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=090cd09e7f8e4277e47fe0f2f&id=cef149bc6f&e=9a84566546
+X-MC-User: 090cd09e7f8e4277e47fe0f2f
+Feedback-ID: 89746213:89746213.203616:us17:mc
+List-ID: 090cd09e7f8e4277e47fe0f2fmc list <090cd09e7f8e4277e47fe0f2f.118931.list-id.mcsv.net>
+X-Accounttype: pr
+List-Unsubscribe: <https://starhub.us17.list-manage.com/unsubscribe?u=090cd09e7f8e4277e47fe0f2f&id=348ed2ba9f&e=9a84566546&c=cef149bc6f>, <mailto:unsubscribe-mc.us17_090cd09e7f8e4277e47fe0f2f.cef149bc6f-9a84566546@unsubscribe.mailchimpapp.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1624047198"
+MIME-Version: 1.0
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Save up to $350 & get extra freebies with the latest mobile
+    phones https://www.starhub.com/business/forms/sme-mobile-campaign.html?cid=em-32A-SMBMobileGrid-202308-GridEDM-20230818
+    https://www.starhub.com/business/forms/sme-mobile-campaign.html?cid=em-32A-SMBMobileGri
+    [...] 
+ Content analysis details:   (0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: list-manage.com]
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 MIME_QP_LONG_LINE      RAW: Quoted-printable line longer than 76
+                             chars
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.0 T_KAM_HTML_FONT_INVALID Test for Invalidly Named or Formatted
+                             Colors in HTML
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1624047198
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Save up to $350 & get extra freebies with the latest mobile phones
+
+https://www.starhub.com/business/forms/sme-mobile-campaign.html?cid=3Dem-3=
+2A-SMBMobileGrid-202308-GridEDM-20230818
+https://www.starhub.com/business/forms/sme-mobile-campaign.html?cid=3Dem-3=
+2A-SMBMobileGrid-202308-GridEDM-20230818
+
+Up to $350 OFF on mobile phones with
+Business Mobile 2-year plans
+https://www.starhub.com/business/forms/sme-mobile-campaign.html?cid=3Dem-3=
+2A-SMBMobileGrid-202308-GridEDM-20230818_CTA1
+GET IT NOW (https://www.starhub.com/business/forms/sme-mobile-campaign.htm=
+l?cid=3Dem-32A-SMBMobileGrid-202308-GridEDM-20230818_CTA1)
+https://www.starhub.com/business/forms/sme-mobile-campaign.html?cid=3Dem-3=
+2A-SMBMobileGrid-202308-GridEDM-20230818_CTA2
+
+For more great deals on Business Mobile=2C get in touch with our friendly=
+ sales managers!
+
+Call us at 1800 888 8888 (Mon to Fri from 9am - 6pm).
+StarHub Business
+GET CONNECTED
+tel:18008888888 https://www.starhub.com/business.html?cid=3Dem-32A-SMBMobi=
+leGrid-202308-GridEDM-20230818 mailto:sme@starhub.com https://www.linkedin=
+=2Ecom/showcase/starhub
+
+Promotion terms and conditions apply. (https://www.starhub.com/business/pr=
+omotions/terms-and-conditions.html?cid=3Dem-32A-SMBMobileGrid-202308-GridE=
+DM-20230818)
+This promotion is valid until 31 August 2023=2C unless otherwise notified=
+ by StarHub.
+Prices displayed are correct at point of publication and is subject to cha=
+nges.
+Handsets and freebies (if any) featured are subject to stock availability.
+=C2=A9 2023 StarHub. All rights reserved.
+If you prefer not to receive updates on special promotions and offers sent=
+ by StarHub=2C unsubscribe here.
+
+
+This email was sent to dea.saka@belajarblockchain.com (mailto:dea.saka@belajarblockchain.com)
+why did I get this? (https://starhub.us17.list-manage.com/about?u=3D090cd0=
+9e7f8e4277e47fe0f2f&id=3D348ed2ba9f&e=3D9a84566546&c=3Dcef149bc6f)     unsub=
+scribe from this list (https://starhub.us17.list-manage.com/unsubscribe?u=
+=3D090cd09e7f8e4277e47fe0f2f&id=3D348ed2ba9f&e=3D9a84566546&c=3Dcef149bc6f)=
+     update subscription preferences (https://starhub.us17.list-manage.com=
+/profile?u=3D090cd09e7f8e4277e47fe0f2f&id=3D348ed2ba9f&e=3D9a84566546&c=3Dce=
+f149bc6f)
+StarHub Business . StarHub Green=2C 67 Ubi Avenue 1=2C #05-01 South Wing .=
+ Singapore 408942 . Singapore
+
+=E2=80=8B
+--_----------=_MCPart_1624047198
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"> <!-- Use t=
+he latest (edge) version of IE rendering engine -->
+    <meta name=3D"x-apple-disable-message-reformatting">  <!-- Disable aut=
+o-scale in iOS 10 Mail entirely -->
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<title>StarHub</title>
+
+
+
+
+                    <style type=3D"text/css">
+=09=09.mcmPreviewText{
+=09=09=09display:none !important;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09=09background-color:#ffffff;
+=09=09}
+=09=09web.ExternalClass{
+=09=09=09width:100%;
+=09=09=09background-color:#ffffff;
+=09=09}
+=09=09.ExternalClass *{
+=09=09=09line-height:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass span=2C.ExternalC=
+lass font=2C.ExternalClass td=2C.ExternalClass div{
+=09=09=09line-height:100%;
+=09=09}
+=09=09body{
+=09=09=09width:100%;
+=09=09=09background-color:#ffffff;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09-webkit-font-smoothing:antialiased;
+=09=09=09font-family:Arial;
+=09=09=09-webkit-text-size-adjust:none;
+=09=09=09-ms-text-size-adjust:none;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09a[x-apple-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-decoration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=09font-family:inherit !important;
+=09=09=09font-weight:inherit !important;
+=09=09=09line-height:inherit !important;
+=09=09}
+=09@media only screen and (max-width: 479px){
+=09=09html{
+=09=09=09font-size:calc( 14px + (24 - 14) * (100vw - 400px) / (600 - 400)=
+ );
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09table{
+=09=09=09width:100%;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.deviceWidth{
+=09=09=09max-width:479px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.center{
+=09=09=09text-align:center !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.mobile{
+=09=09=09color:#F00;
+=09=09=09display:block !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.desktop=2C.tablet{
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.remove-padding{
+=09=09=09padding:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.rewards-add-top-padding{
+=09=09=09padding:5px 0 0 0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.hd-voice{
+=09=09=09padding:20px 20px 0 20px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.reduce-padding{
+=09=09=09padding:0 20px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.dl-app-padding{
+=09=09=09padding:15px 15px 0 15px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.hubrewards{
+=09=09=09width:90% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.hubrewards_height{
+=09=09=09height:15px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.fullwidth{
+=09=09=09width:100%;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09td.responsivecol{
+=09=09=09display:inline-table;
+=09=09=09width:100%;
+=09=09=09margin-top:20px;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.img-max{
+=09=09=09max-width:100% !important;
+=09=09=09width:100% !important;
+=09=09=09height:auto !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.leftlogo-responsive{
+=09=09=09width:100px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.logo-responsive{
+=09=09=09width:110px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.show-mobile{
+=09=09=09display:block !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.hidden-m{
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.no-margin{
+=09=09=09margin-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.download{
+=09=09=09margin-bottom:20px;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.hidemobile{
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09td.responsivehalf{
+=09=09=09display:inline-block;
+=09=09=09width:25%;
+=09=09=09text-align:center;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09td.responsivehalf.nobottom{
+=09=09=09margin-top:20px;
+=09=09=09margin-bottom:0;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09td.responsivehalf table{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09td.responsivehalf table td{
+=09=09=09padding:0 10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.smallerheader{
+=09=09=09font-size:18px !important;
+=09=09=09text-align:center !important;
+=09=09}
+
+}=09@media only screen and (max-width: 479px){
+=09=09.footer{
+=09=09=09font-size:8px !important;
+=09=09}
+
+}</style></head>
+
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0=
+" yahoo=3D"fix" style=3D"font-family: Arial;padding: 0;margin: 0;-webkit-t=
+ext-size-adjust: none;-ms-text-size-adjust: 100%;width: 100%;background-co=
+lor: #ffffff;-webkit-font-smoothing: antialiased;">
+
+=09<span style=3D"display:none;color:#ffffff;">Save up to $350 & get extra=
+ freebies with the latest mobile phones</span>
+
+  <!--
+-->
+
+
+<!-- Wrapper -->
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" ali=
+gn=3D"center" style=3D"border-collapse: collapse;">
+  <tr>
+    <td width=3D"100%" valign=3D"top" bgcolor=3D"#ffffff"><!-- Unable to v=
+iew link -->
+
+        <table width=3D"680" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" align=3D"center" class=3D"email-container" style=3D"border-collapse: c=
+ollapse;">
+            <tr>
+
+            </tr>
+        </table>
+        <table width=3D"680" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" align=3D"center" style=3D"border-collapse: collapse;">
+          <tr>
+          <!-- EDM starts here -->
+          <td width=3D"100%" style=3D"background-color: #FFFFFF; border: 1=
+px solid #dadada;"><!-- Start: Header-->
+
+            <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" align=3D"center" style=3D"background-color: #ffffff;border-collap=
+se: collapse;">
+
+
+                     <!-- Masthead : BEGIN -->
+                     <tr>
+                      <td valign=3D"top" align=3D"center"><a href=3D"https=
+://starhub.us17.list-manage.com/track/click?u=3D090cd09e7f8e4277e47fe0f2f&=
+id=3Df372e295f7&e=3D9a84566546" target=3D"_blank" title=3D"Save up to $35=
+0 & get extra freebies with the latest mobile phones"><img src=3D"https://=
+mcusercontent.com/2afc9a190356f3f454ee9a28f/images/297c76f9-3f79-b604-30e1=
+-eed7ffa06085.jpg" alt=3D"Save up to $350 & get extra freebies with the la=
+test mobile phones" width=3D"680" class=3D"img-fluid" style=3D"width: 100%=
+; height: auto; display: block;" border=3D"0"></a></td>
+                    </tr>
+                    <!-- Masthead: END -->
+
+           <tr>
+               <td style=3D"text-align: center;">
+                   <img src=3D"https://mcusercontent.com/2afc9a190356f3f45=
+4ee9a28f/images/c6d55cdb-d150-e336-2292-4ccc5f72e39a.gif" width=3D"25" hei=
+ght=3D"20" alt=3D"" border=3D"0" class=3D"fluid">
+               </td>
+             </tr>
+
+             <tr>
+               <td style=3D"text-align: center;">
+                  <a href=3D"https://starhub.us17.list-manage.com/track/cl=
+ick?u=3D090cd09e7f8e4277e47fe0f2f&id=3D916e8bd660&e=3D9a84566546" target=
+=3D"_blank" title=3D"Singapore's #1 Mobile Network just got bigger=2C bett=
+er=2C faster"><img src=3D"https://mcusercontent.com/2afc9a190356f3f454ee9a=
+28f/images/8c21007e-b153-d5ce-05aa-e341a65e4068.png" width=3D"680" alt=3D"=
+Singapore's #1 Mobile Network just got bigger=2C better=2C faster" border=
+=3D"0" class=3D"img-fluid" style=3D"width: 100%; height: auto; display: bl=
+ock;"></a>
+               </td>
+             </tr>
+
+
+              <tr>
+                <!-- Body Text -->
+                <td align=3D"center" valign=3D"top" class=3D"mcnTextConten=
+t" style=3D"padding: 35px 25px 25px; font-family: Arial=2C Helvetica=2C sa=
+ns-serif; font-size: 24px; font-style: normal; font-weight: normal; text-a=
+lign: center; line-height: 16px; text-align: left; color: #000000;">
+                  <p style=3D"font-family: Arial=2C Helvetica=2C sans-seri=
+f; font-size: 24px; font-style: normal; font-weight: normal; text-align: c=
+enter; line-height: 27px;margin: 1px 0; color: #250E62"><b>Up to $350 OFF=
+ on mobile phones with<br>Business Mobile 2-year plans</b></p>
+                </td>
+              </tr>
+
+             <tr>
+               <td style=3D"text-align: center;">
+                  <a href=3D"https://starhub.us17.list-manage.com/track/cl=
+ick?u=3D090cd09e7f8e4277e47fe0f2f&id=3De1c416851a&e=3D9a84566546" target=
+=3D"_blank" title=3D"Up to $350 OFF on the latest mobile phones"><img src=
+=3D"https://mcusercontent.com/2afc9a190356f3f454ee9a28f/images/95e0c9fb-f4=
+87-b91e-754d-acc2d6106225.jpg" width=3D"680" alt=3D"Up to $350 OFF on the=
+ latest mobile phones" border=3D"0" class=3D"img-fluid" style=3D"width: 10=
+0%; height: auto; display: block;"></a>
+               </td>
+             </tr>
+
+
+
+
+   <tr>
+                <!-- Button -->
+                <td align=3D"center" valign=3D"top" style=3D"padding: 10px=
+ 120px 20px;">
+                  <table class=3D"container-fluid-button" width=3D"160" al=
+ign=3D"center" valign=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" bgcolor=3D"#1ed760" style=3D"border-collapse: collapse;">
+                    <tbody>
+                      <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"paddi=
+ng: 10px;font-family: Arial=2C Helvetica=2C sans-serif; font-size: 20px; f=
+ont-style: normal; font-weight: normal; text-align: justify; text-align: c=
+enter; color: #000000; text-transform: uppercase; text-decoration: none;">
+                          <a href=3D"https://starhub.us17.list-manage.com/=
+track/click?u=3D090cd09e7f8e4277e47fe0f2f&id=3Dbd0853435b&e=3D9a84566546"=
+ target=3D"_blank" style=3D"margin: 0; padding: 0; color: #000000; text-de=
+coration: none;" title=3D"GET IT NOW"><span style=3D"text-decoration:none;=
+"><b>GET IT NOW</b></span></a></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+
+               <tr>
+               <td style=3D"text-align: center;">
+                  <a href=3D"https://starhub.us17.list-manage.com/track/cl=
+ick?u=3D090cd09e7f8e4277e47fe0f2f&id=3D556a6c6371&e=3D9a84566546" target=
+=3D"_blank" title=3D"Save with our SIM-Only plans"><img src=3D"https://mcu=
+sercontent.com/2afc9a190356f3f454ee9a28f/images/ab835c2f-26cf-0b74-89cd-34=
+626d88bfcd.png" width=3D"680" alt=3D"Save with our SIM-Only plans" border=
+=3D"0" class=3D"img-fluid" style=3D"width: 100%; height: auto; display: bl=
+ock;"></a>
+               </td>
+             </tr>
+
+               <tr>
+                <!-- Body Text -->
+                <td align=3D"center" valign=3D"top" class=3D"mcnTextConten=
+t" style=3D"padding: 25px 40px 0; font-family: Arial=2C Helvetica=2C sans-=
+serif; font-size: 24px; font-style: normal; font-weight: normal; text-alig=
+n: center; line-height: 16px; text-align: left; color: #000000;">
+                  <p style=3D"font-family: Arial=2C Helvetica=2C sans-seri=
+f; font-size: 22px; font-style: normal; font-weight: normal; text-align: c=
+enter; line-height: 27px;margin: 1px 0; color: #1ed760"><b>For more great=
+ deals on Business Mobile=2C get in touch with our friendly sales managers=
+!</b></p>
+                </td>
+              </tr>
+
+             <tr>
+              </tr><tr bgcolor=3D"#FFFFFF">
+                <!-- Body Text -->
+                <td align=3D"center" valign=3D"top" class=3D"mcnTextConten=
+t" style=3D"padding: 0px 45px 10px; font-family: Arial=2C Helvetica=2C san=
+s-serif; font-size: 18px; font-style: normal; font-weight: normal; text-al=
+ign: center; line-height: 20px; text-align: left; color: #000000;">
+                  <p style=3D"font-family: Arial=2C Helvetica=2C sans-seri=
+f; font-size: 18px; font-style: normal; font-weight: normal; text-align: c=
+enter; line-height: 20px;margin: 15px 0;">Call us at <b>1800 888 8888</b>=
+ (Mon to Fri from 9am - 6pm).</p>
+                </td>
+              </tr>
+
+            <tr>
+               <td style=3D"text-align: center;">
+                  <img src=3D"https://mcusercontent.com/2afc9a190356f3f454=
+ee9a28f/images/c6d55cdb-d150-e336-2292-4ccc5f72e39a.gif" width=3D"25" heig=
+ht=3D"10" alt=3D"" border=3D"0" class=3D"fluid">
+               </td>
+             </tr>
+
+             <tr>
+               <td style=3D"text-align: center;">
+                  <img src=3D"https://mcusercontent.com/2afc9a190356f3f454=
+ee9a28f/images/39e55d2e-ac51-b5f5-6088-8d38606529e7.png" width=3D"680" alt=
+=3D"StarHub Business" border=3D"0" class=3D"img-fluid" style=3D"width: 100=
+%; height: auto; display: block;">
+               </td>
+             </tr>
+
+              <tr>
+               <td style=3D"text-align: center;">
+                  <img src=3D"https://mcusercontent.com/2afc9a190356f3f454=
+ee9a28f/images/c6d55cdb-d150-e336-2292-4ccc5f72e39a.gif" width=3D"25" heig=
+ht=3D"10" alt=3D"" border=3D"0" class=3D"fluid">
+               </td>
+             </tr>
+
+             <tr>
+                <td bgcolor=3D"#ffffff" width=3D"100%" style=3D"text-align=
+: center; padding: 0px 45px 0px 45px; font-size: 14px; color: #000000; lin=
+e-height: 26px; font-family: Arial=2C Helvetica=2C sans-serif; text-align:=
+ center; ">GET CONNECTED
+                </td>
+              </tr>
+
+<!-- CTA : BEGIN -->
+            <tr>
+                <td bgcolor=3D"#ffffff" style=3D"padding: 5px 100px 0px 10=
+0px; color: #000000;">
+                    <table role=3D"presentation" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0" align=3D"center" style=3D"margin: auto;border-coll=
+apse: collapse;">
+
+                        <tr>
+                            <td style=3D"text-align: center;">
+                                <a href=3D"tel:18008888888" target=3D"_bla=
+nk">
+                                    <img src=3D"https://mcusercontent.com/=
+2afc9a190356f3f454ee9a28f/images/6907f1cc-345e-ac49-698f-57c7ff96e7ff.png"=
+ width=3D"25" height=3D"25" alt=3D"contact-us" border=3D"0" class=3D"fluid=
+" style=3D"width: 100%; max-width: 25px; height: 25px; padding: 0px 0px 0p=
+x 0px; background: #ffffff; color: #000000; display: block; border: 0px;">
+                                </a>
+                            </td>
+
+                            <td style=3D"text-align: center;">
+                                    <img src=3D"https://mcusercontent.com/=
+2afc9a190356f3f454ee9a28f/images/c6d55cdb-d150-e336-2292-4ccc5f72e39a.gif"=
+ width=3D"25" height=3D"25" alt=3D"" border=3D"0" class=3D"fluid">
+                            </td>
+
+                             <td style=3D"text-align: center;">
+                                <a href=3D"https://starhub.us17.list-manag=
+e.com/track/click?u=3D090cd09e7f8e4277e47fe0f2f&id=3Dfe9cbefb1c&e=3D9a84566546" target=3D"_blank">
+                                    <img src=3D"https://mcusercontent.com/=
+2afc9a190356f3f454ee9a28f/images/2f531168-8b8f-1d9b-0699-b74ec5d4ddef.png"=
+ width=3D"25" height=3D"25" alt=3D"StarHub" border=3D"0" class=3D"fluid" s=
+tyle=3D"width: 100%; max-width: 25px; height: 25px; padding: 0px 0px 0px 0=
+px; background: #ffffff; color: #000000; display: block; border: 0px;">
+                                </a>
+                            </td>
+
+                            <td style=3D"text-align: center;">
+                                    <img src=3D"https://mcusercontent.com/=
+2afc9a190356f3f454ee9a28f/images/c6d55cdb-d150-e336-2292-4ccc5f72e39a.gif"=
+ width=3D"25" height=3D"25" alt=3D"" border=3D"0" class=3D"fluid">
+                            </td>
+
+
+                            <td style=3D"text-align: center;">
+                                <a href=3D"mailto:sme@starhub.com" target=
+=3D"_blank">
+                                    <img src=3D"https://mcusercontent.com/=
+2afc9a190356f3f454ee9a28f/images/dc5e2c44-53d5-06f1-be1f-545446e1bb4f.png"=
+ width=3D"25" height=3D"25" alt=3D"email" border=3D"0" class=3D"fluid" sty=
+le=3D"width: 100%; max-width: 25px; height: 25px; padding: 0px 0px 0px 0px=
+; background: #ffffff; color: #000000; display: block; border: 0px;">
+                                </a>
+                            </td>
+
+                            <td style=3D"text-align: center;">
+                                    <img src=3D"https://mcusercontent.com/=
+2afc9a190356f3f454ee9a28f/images/c6d55cdb-d150-e336-2292-4ccc5f72e39a.gif"=
+ width=3D"25" height=3D"25" alt=3D"" border=3D"0" class=3D"fluid">
+                            </td>
+
+
+                            <td style=3D"text-align: center;">
+                                <a href=3D"https://starhub.us17.list-manag=
+e.com/track/click?u=3D090cd09e7f8e4277e47fe0f2f&id=3Dd073db19e3&e=3D9a84566546" target=3D"_blank">
+                                    <img src=3D"https://mcusercontent.com/=
+2afc9a190356f3f454ee9a28f/images/85dbd1d0-645c-2a06-37bd-2e1791bcac81.png"=
+ width=3D"25" height=3D"25" alt=3D"LinkedIn" border=3D"0" class=3D"fluid"=
+ style=3D"width: 100%; max-width: 25px; height: 25px; padding: 0px 0px 0px=
+ 0px; background: #ffffff; color: #000000; display: block; border: 0px;">
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                  </td>
+            </tr>
+            <!-- CTA : END -->
+
+
+
+          <tr>
+                <td valign=3D"top" align=3D"center" style=3D"padding: 10px=
+ 0px;"><img src=3D"https://mcusercontent.com/2afc9a190356f3f454ee9a28f/ima=
+ges/05d7d95a-a244-e4b2-d89c-a2952ca62e2c.png" width=3D"680" height=3D"15"=
+ class=3D"fullwidth" style=3D"max-width: 680px; height: auto; display: blo=
+ck;" border=3D"0">
+                </td>
+          </tr>
+
+
+              <tr>
+                <td width=3D"100%" align=3D"left" style=3D"padding: 0px 30=
+px 5px 30px; text-align: center; font-family: Arial=2C Helvetica=2C sans-s=
+erif; font-size: 9px; line-height: 15px; color: #808080;">
+                     <p style=3D"margin: 0; font-size: 11px;"><a href=3D"h=
+ttps://starhub.us17.list-manage.com/track/click?u=3D090cd09e7f8e4277e47fe0=
+f2f&id=3Dce6b993d8a&e=3D9a84566546" target=3D"_blank" style=3D" color: #8=
+08080;text-decoration: underline;">Promotion terms and conditions apply.</=
+a><br>
+                  This promotion is valid until 31 August 2023=2C unless o=
+therwise notified by StarHub.
+<br>Prices displayed are correct at point of publication and is subject to=
+ changes.<br>
+                    Handsets and freebies (if any) featured are subject to=
+ stock availability.
+
+
+                </p></td>
+            </tr>
+
+           <tr>
+              <td align=3D"center" style=3D"padding: 10px 30px 30px 30px;=
+ text-align: center; font-family: Arial=2C Helvetica=2C sans-serif; font-s=
+ize: 10px; color: #333333;">
+
+                &#169; 2023 StarHub. All rights reserved.<br></td>
+          </tr>
+
+
+
+              </table>
+                 </td>
+        </tr>
+  </table>
+
+
+
+      <table width=3D"680" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" align=3D"center" style=3D"border-collapse: collapse;">
+
+
+
+          <tr>
+              <td align=3D"center" style=3D"padding-top: 20px; padding-lef=
+t: 30px; padding-right: 30px; text-align: center; font-family: Arial=2C He=
+lvetica=2C sans-serif; font-size: 10px; color: #999999;">If you prefer not=
+ to receive updates on special promotions and offers sent by StarHub=2C <s=
+pan style=3D"COLOR: #1ed760; TEXT-DECORATION: underline" id=3D"Unsubscribe=
+" class=3D"droppable">unsubscribe here</span>.<br><br>
+                  </td>
+          </tr>
+
+        <tr>
+            <td align=3D"center" width=3D"100%" height=3D"10">&nbsp;</td>
+        </tr>
+        </table>
+      </td>
+  </tr>
+</table>
+
+
+            <center>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" id=3D"canspamBarWrapper" style=3D"background-color:#FFFFFF; b=
+order-top:1px solid #E5E5E5;">
+                    <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"paddi=
+ng-top:20px; padding-bottom:20px;">
+                            <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" id=3D"canspamBar">
+                                <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"color:#606060; font-family:Helvetica=2C Arial=2C sans-serif; font-s=
+ize:11px; line-height:150%; padding-right:20px; padding-bottom:5px; paddin=
+g-left:20px; text-align:center;">
+                                        This email was sent to <a href=3D"=
+mailto:dea.saka@belajarblockchain.com" target=3D"_blank" style=3D"color:#404040 !importa=
+nt;">dea.saka@belajarblockchain.com</a>
+                                        <br />
+                                        <a href=3D"https://starhub.us17.li=
+st-manage.com/about?u=3D090cd09e7f8e4277e47fe0f2f&id=3D348ed2ba9f&e=3D9a84566546&c=3Dcef149bc6f" target=3D"_blank" style=3D"color:#404040 !important;"=
+><em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"https:=
+//starhub.us17.list-manage.com/unsubscribe?u=3D090cd09e7f8e4277e47fe0f2f&i=
+d=3D348ed2ba9f&e=3D9a84566546&c=3Dcef149bc6f" style=3D"color:#404040 !import=
+ant;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"htt=
+ps://starhub.us17.list-manage.com/profile?u=3D090cd09e7f8e4277e47fe0f2f&id=
+=3D348ed2ba9f&e=3D9a84566546&c=3Dcef149bc6f" style=3D"color:#404040 !importa=
+nt;">update subscription preferences</a>
+                                        <br />
+                                        StarHub Business &middot; StarHub=
+ Green=2C 67 Ubi Avenue 1=2C #05-01 South Wing &middot; Singapore 408942 &=
+middot; Singapore
+                                        <br />
+                                        <br />
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <style type=3D"text/css">
+                    @media only screen and (max-width: 480px){
+                        table#canspamBar td{font-size:14px !important;}
+                        table#canspamBar td a{display:block !important; ma=
+rgin-top:10px !important;}
+                    }
+                </style>
+            </center><img src=3D"https://starhub.us17.list-manage.com/trac=
+k/open.php?u=3D090cd09e7f8e4277e47fe0f2f&id=3Dcef149bc6f&e=3D9a84566546"=
+ height=3D"1" width=3D"1" alt=3D""></body>
+</html>
+=E2=80=8B
+--_----------=_MCPart_1624047198--

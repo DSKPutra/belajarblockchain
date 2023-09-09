@@ -1,0 +1,179 @@
+Return-Path: <shambhavi@letsdeel.co>
+Delivered-To: dea.saka@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id iD/HKvV74GPrHQAAUtWGkQ
+	(envelope-from <shambhavi@letsdeel.co>)
+	for <dea.saka@belajarblockchain.com>; Mon, 06 Feb 2023 11:03:01 +0700
+Return-path: <shambhavi@letsdeel.co>
+Envelope-to: dea.saka@belajarblockchain.com
+Delivery-date: Mon, 06 Feb 2023 11:03:01 +0700
+Received: from mail-vs1-xe31.google.com ([2607:f8b0:4864:20::e31]:37499)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <shambhavi@letsdeel.co>)
+	id 1pOsiS-000cLK-6P
+	for dea.saka@belajarblockchain.com;
+	Mon, 06 Feb 2023 11:03:01 +0700
+Received: by mail-vs1-xe31.google.com with SMTP id k4so11390676vsc.4
+        for <dea.saka@belajarblockchain.com>; Sun, 05 Feb 2023 20:02:31 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=letsdeel-co.20210112.gappssmtp.com; s=20210112;
+        h=to:subject:message-id:date:mime-version:from:user-agent:from:to:cc
+         :subject:date:message-id:reply-to;
+        bh=6UVgiRyCmOuQm5v4CHG8palwL8gjDhAtMusVwETDP3Y=;
+        b=P8iblwHHZetbCm/qkZHkbovNjPrhRfvXNc3sXipxtf9nBLHfCmDcTaswwAwxv/GbQS
+         5R9RuHSclaIvb/4cmxS+urUEvXOFnUmwQTo5u/rWoHyk5Dr1kTyGsSCr1BzQdqBVJqHD
+         04ebGoeVyzG1abX1cpMzCZlq8mVMWjs1MM8KLLTRLPR/qJTfz5K2/pvfw6+A0rcV4Lb2
+         Od0EIjBPsrBOCUdmzp+bjBVzzEpv5kdq0L8JIME+Fm1A6OPmg7MA531oQCv66uWcJU3x
+         9/vcNot2p0qh+lTedWQbp1gcqA6vaHTbveZsbz/WS+F1ZXZQbtqYRDuDSXfDy/Sra26X
+         g6Aw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:mime-version:from:user-agent
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=6UVgiRyCmOuQm5v4CHG8palwL8gjDhAtMusVwETDP3Y=;
+        b=Li2r/Ks92Bx8WUpmiujQOZeMiR/RsfexUxXGan0bwWC+qmwtJ8idfv63n0hN0G0Edl
+         rbPNRDgjxGvGTA/Cbutf8e5MM8ooeKmpbeyc03ycoYS57wzZZ0SyQd0ctIt49i/wSa/n
+         FeLV84LRaWihs0UIUQpRCvISINBELB+Iqu3hK5ICkp7CqCnkhXyhC4wO1pW16feCzVmd
+         48Z3tUx6FoqDlmeLWCaJgfq4m7mXpJNLroSrOnix/oFYtO/LHWJxRAhYiRXRNNhfeqiP
+         I7iPLUTUz+bjPER5Rr3wQYqKeXkmOQbn0O90oO/gLjUgyLjxfAMnItOC4qgLPefQr5kh
+         1dqA==
+X-Gm-Message-State: AO0yUKWgZ0ixP145abZeNoukOX4bBvOT1D7mnWSq6XMvpTbpTroZahLR
+	qn9fhsRFJXSPoQdhGTMtO9isROaPx9O1HuGVS//dzykZx9oZDA==
+X-Google-Smtp-Source: AK7set9PX92lfxzCc+0SVctJ1BTHUHfBTOrSXyFGcfx64L7FtJTjdhD0c2GiG+E+aCQLchK+jnhHVBfeiWXMtJFocEI=
+X-Received: by 2002:a05:6102:5616:b0:3fc:58d:f90f with SMTP id
+ de22-20020a056102561600b003fc058df90fmr2972405vsb.60.1675656128501; Sun, 05
+ Feb 2023 20:02:08 -0800 (PST)
+Received: from 341605307468 named unknown by gmailapi.google.com with
+ HTTPREST; Sun, 5 Feb 2023 23:02:08 -0500
+Received: from 219.156.223.35.bc.googleusercontent.com (219.156.223.35.bc.googleusercontent.com
+ [35.223.156.219]) by api.nylas.com (Nylas) with HTTPREST id
+ 6g8bda36j1f7kvq16k6hp71bu-0; Mon, 06 Feb 2023 04:02:07 +0000 (UTC)
+User-Agent: Nylas-Amplemarket/18.1.0
+X-Inbox-Id: 6g8bda36j1f7kvq16k6hp71bu-0
+From: Shambhavi Swarup <shambhavi@letsdeel.co>
+Mime-Version: 1.0
+Date: Sun, 5 Feb 2023 23:02:08 -0500
+Message-ID: <CA+--CqJkf7HYewx5XuYpYU-EbQFi4xi3b+b33N70dzPYcz-w2A@mail.gmail.com>
+Subject: Onboard talents globally in 2023 with Deel
+To: dea.saka@belajarblockchain.com
+Content-Type: multipart/alternative; boundary="0000000000004e302e05f4001832"
+X-Spam-Status: No, score=0.7
+X-Spam-Score: 7
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi Dea As remote work is now becoming the new norm and the
+    ASEAN region is experiencing talent shortage or is getting hard to hire and
+    retain experienced talents, top companies are now onboarding internation
+   [...] 
+ Content analysis details:   (0.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: letsdeel.co]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 HTML_IMAGE_ONLY_28     BODY: HTML: images with 2400-2800 bytes of
+                             words
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+--0000000000004e302e05f4001832
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Dea
+
+As remote work is now becoming the new norm and the ASEAN region is
+experiencing talent shortage or is getting hard to hire and retain
+experienced talents, top companies are now onboarding internationally.
+
+To give quick brief, here's what Deel can help you with:
+
+   1. Create compliant contracts and onboard contractors/ full-time
+   employees within a day
+   2. Pay your teams in more than 120 currencies or Crypto, in a single
+   transaction
+   3. Integration with Quickbooks, Xero, and Netsuite, so all your payroll
+   invoice data can automatically sync to that platform
+   4. Leave the hassle of country-specific documentation to us along with
+   the KYC check of the people you're onboarding
+   5. Get automated invoices and tax receipts on the platform itself
+   6. Add up perks and other benefits to your specific employees thru the
+   platform
+
+
+Recently, we just helped Coins.ph, AcadArena, and Axie Infinity (to name a
+few) scale internationally by providing unique platform to create *localised
+contracts*, *streamline payments* and *automate invoicing*, all in one
+click. In other words, it would allow Belajar Blockchain to onboard and pay
+their international talents in more than *150 Countries*, either
+as Contractors or Employees, compliantly and within minutes.
+
+If this could be of help, I'd love to connect so that you know what your
+options are, should a need arise in the future.
+
+P.S. I can imagine this is a busy period of the year. Either way, I
+appreciate your time.
+
+Thanks and Regards,
+*Shambhavi Swarup*
+Expansion| ASEAN @ Deel
+Payroll and compliance for remote teams
++91 9899206187|
+
+--0000000000004e302e05f4001832
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div><span style=3D"color:rgb(24,24,24)">Hi Dea</span></div><div><br></div>=
+<div><span style=3D"color:rgb(24,24,24)">As remote work is now becoming the=
+ new norm and the ASEAN region is experiencing talent shortage or is gettin=
+g hard to hire and retain experienced talents, top companies are now onboar=
+ding internationally.</span></div><div><br></div><div><span style=3D"color:=
+rgb(24,24,24)">To give quick brief, here&#39;s what Deel can help you with:=
+</span></div><ol>
+<li>Create compliant contracts and onboard contractors/ full-time employees=
+ within a day</li>
+<li>Pay your teams in more than 120 currencies or Crypto, in a single trans=
+action</li>
+<li>Integration with Quickbooks, Xero, and Netsuite, so all your payroll in=
+voice data can automatically sync to that platform</li>
+<li>Leave the hassle of country-specific documentation to us along with the=
+ KYC check of the people you&#39;re onboarding</li>
+<li>Get automated invoices and tax receipts on the platform itself</li>
+<li>Add up perks and other benefits to your specific employees thru the pla=
+tform</li>
+</ol><div><br></div><div>
+<span style=3D"color:rgb(24,24,24)">Recently, we just helped Coins.ph, Acad=
+Arena, and Axie Infinity (to name a few) scale internationally by providing=
+ unique platform to create </span><strong>localised contracts</strong>, <st=
+rong>streamline payments</strong> and <strong>automate invoicing</strong>, =
+all in one click. In other words, it would allow=C2=A0Belajar Blockchain to=
+ onboard and pay their international talents in more than <strong>150 Count=
+ries</strong>, either as=C2=A0Contractors=C2=A0or=C2=A0Employees, compliant=
+ly and within minutes.</div><div><br></div><div><span style=3D"color:rgb(24=
+,24,24)">If this could be of help, I&#39;d love to connect so that you know=
+ what your options are, should a need arise in the future.</span></div><div=
+><br></div><div><span style=3D"color:rgb(24,24,24)">P.S. I can imagine this=
+ is a busy period of the year. Either way, I appreciate your time.</span></=
+div><br><div>Thanks and Regards,</div><div><strong>Shambhavi Swarup</strong=
+></div><div><span style=3D"color:rgb(29,28,29);background-color:rgb(248,248=
+,248)">Expansion| ASEAN @ Deel</span></div><div><span style=3D"color:rgb(29=
+,28,29);background-color:rgb(248,248,248)">Payroll and compliance for remot=
+e teams</span><img src=3D"http://amplemarket_tracking.letsdeel.co/t/3399/20=
+040356"></div><div><span style=3D"color:rgb(29,28,29);background-color:rgb(=
+248,248,248)">+91 9899206187|</span></div>
+
+--0000000000004e302e05f4001832--

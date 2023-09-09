@@ -1,0 +1,136 @@
+Return-Path: <bounces.inv_b+635b34bdbd1719039537f0d2+62e38f6035cf197b8734b85e@spemail.trello.com>
+Delivered-To: imad.zaky@belajarblockchain.com
+Received: from manikmaya.iixcp.rumahweb.com
+	by manikmaya.iixcp.rumahweb.com with LMTP
+	id GANaF/I0W2NS+QAAUtWGkQ
+	(envelope-from <bounces.inv_b+635b34bdbd1719039537f0d2+62e38f6035cf197b8734b85e@spemail.trello.com>)
+	for <imad.zaky@belajarblockchain.com>; Fri, 28 Oct 2022 08:48:34 +0700
+Return-path: <bounces.inv_b+635b34bdbd1719039537f0d2+62e38f6035cf197b8734b85e@spemail.trello.com>
+Envelope-to: imad.zaky@belajarblockchain.com
+Delivery-date: Fri, 28 Oct 2022 08:48:34 +0700
+Received: from mta-81-108.sparkpostmail.com ([192.174.81.108]:3752)
+	by manikmaya.iixcp.rumahweb.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.95)
+	(envelope-from <bounces.inv_b+635b34bdbd1719039537f0d2+62e38f6035cf197b8734b85e@spemail.trello.com>)
+	id 1ooEU4-000V7k-OU
+	for imad.zaky@belajarblockchain.com;
+	Fri, 28 Oct 2022 08:48:34 +0700
+X-MSFBL: kJ/rVyo747hSPa0roM5mmNp4PJfW5W2iWolW7B7ocWY=|eyJtZXNzYWdlX2lkIjo
+	iNjM0ZWJlMzQ1YjYzZGU5MDllNGIiLCJjdXN0b21lcl9pZCI6IjEiLCJ0ZW5hbnR
+	faWQiOiJhdGxhc3NpYW51cyIsInN1YmFjY291bnRfaWQiOiIzIiwiciI6ImltYWQ
+	uemFreUBiZWxhamFyYmxvY2tjaGFpbi5jb20ifQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=trello.com;
+	s=atl201708; t=1666921662; i=@trello.com;
+	bh=CrUEqYamxroR4kKbn9lnM7/QXs52cJN9dj9dqp8lKHE=;
+	h=Content-Type:From:To:Subject:Message-ID:Date:From:To:Cc:Subject;
+	b=AaUtxU6ypIVqO+1Zf/6J2uKJ3Z67sU4hb+B8WVQzi7j2VOW5wQ2M8aZVAyEBvcgl1
+	 uGqKsbrY4qyntpVLLJtXADPMjY/w/FoR79GwaBh0/8p9C/v0qXaI11V+iKRM3gY72f
+	 4ZO9TIdl16uS3DgdhYHfcQ/wdMCfp7/ogN4yh7FQ=
+Authentication-Results:  ge.mta2vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (LOGIN)
+Received: from [107.23.104.115] ([107.23.104.115:54021] helo=mailrelay13.prod.trello.local)
+	by ge.mta2vsmtp.cc.prd.sparkpost (envelope-from <bounces.inv_b+635b34bdbd1719039537f0d2+62e38f6035cf197b8734b85e@spemail.trello.com>)
+	(ecelerity 4.4.0.17997 r(msys-ecelerity:tags/4.4.0.43)) with ESMTPSA (cipher=AES-256-GCM) 
+	id E9/B4-10647-EB43B536; Fri, 28 Oct 2022 01:47:42 +0000
+Content-Type: multipart/alternative;
+ boundary="--_NmP-8a9369e9ad579563-Part_1"
+Sender: Trello <do-not-reply@trello.com>
+X-Auto-Response-Suppress: All
+X-Atl-Mail-Meta: template=invite_board
+Atlassianmail-Dir-Open-Tracking: true
+From: Dea Saka Kurnia Putra <invitation-do-not-reply@trello.com>
+To: imad.zaky@belajarblockchain.com
+Subject: Dea Saka Kurnia Putra invited you to a Trello board
+Message-ID: <16669216614220d7c7d81@trello.com>
+Date: Fri, 28 Oct 2022 01:47:41 +0000
+MIME-Version: 1.0
+X-Spam-Status: No, score=-8.2
+X-Spam-Score: -81
+X-Spam-Bar: --------
+X-Ham-Report: Spam detection software, running on the system "manikmaya.iixcp.rumahweb.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hey there! Dea Saka Kurnia Putra invited you to join the
+   Company Overview board on Trello Go to board: https://trello.com/boardinvited/6358f1b409d1c0043c64d8dc/6359008ed6ed230068cedc50/540dc5eb996f14d71609d96aea9652ac?utm_source=eval-email&utm_medium=email&utm_campaign=board-invite
+    
+ Content analysis details:   (-8.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: trello.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             welcome-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.5 DKIMWL_WL_HIGH         DKIMwl.org - High trust sender
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+----_NmP-8a9369e9ad579563-Part_1
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="utf-8"
+
+ Hey there! Dea Saka Kurnia Putra invited you to join the Company Overview board on Trello
+
+---------------------------------------
+
+ Go to board: https://trello.com/boardinvited/6358f1b409d1c0043c64d8dc/6359008ed6ed230068cedc50/540dc5eb996f14d71609d96aea9652ac?utm_source=eval-email&utm_medium=email&utm_campaign=board-invite
+
+---------------------------------------
+
+Trello boards help you put your plans into action and achieve your goals. Learn more at http://trello.com 
+
+---------------------------------------
+
+Unsubscribe from these emails: https://trello.com/unsubscribe?idMember=6359008ed6ed230068cedc50&amp;type=invites&amp;hash=0bdd3a58919581fa9166942a0462b0d5d450ff7b
+
+---------------------------------------
+
+Join me on Trello and let's work together on this board! 
+----_NmP-8a9369e9ad579563-Part_1
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="utf-8"
+
+<html> <body> <table cellspacing="0" cellpadding="0" border="0" style="color: #172B4D; background: #fff; padding: 0; margin: 0; width: 100%; font: 15px 'Helvetica Neue', Arial, Helvetica;"> <tbody><tr width="100%"> <td valign="top" align="left" style="background: #fff; font: 15px 'Helvetica Neue', Arial, Helvetica;"> <table style="border: none; padding: 0 18px; margin: 50px auto; width: 500px; border-spacing: 0px;"> <tbody>
+
+ <tr width="100%" height="57"> <td valign="top" align="left" style="border-top-left-radius: 4px; border-top-right-radius: 4px; background: #FFF; padding: 12px 18px; text-align: center;">
+
+ <img height="25" width="122" src="https://trello.com/images/logo-new-sm-2x.png" title="Trello" style="font-weight: bold; font-size: 18px; color: #0079BF; vertical-align: top;"> </td> </tr>
+
+ <tr style="width:100%;"> <td valign="top" align="left" style="background:#fff; padding: 18px;">
+
+ <p style="color: #172B4D;font: 14px/1.25em 'Helvetica Neue', Arial, Helvetica; font-weight:bold; line-height:20px; text-align:center; padding-left: 56px; padding-right:56px;"> Hey there! Dea Saka Kurnia Putra invited you to join the Company Overview board on Trello: </p> <div width="100%" style="overflow: visible; height: 24px;" align="center"> <img class="trello-member-avatar" style="border-radius: 50%; vertical-align: bottom; object-fit: cover;" width="48" height="48" src="https://trello-members.s3.amazonaws.com/62e38f6035cf197b8734b85e/90d952c7df1f4a78c4e322091cca04c0/170.png"> </div>
+
+ <div style="background: #fff; border: solid 1px #C1C7D0; padding-top: 15px; margin-left: 56px; margin-right: 56px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+
+ <p style="color: #172B4D; line-height:20px; text-align:center; margin:0; font-style: italic; padding-left: 24px; padding-right:24px; padding-top:17px; padding-bottom:17px;"> "Join me on Trello and let's work together on this board!" </p>
+
+ <a href="https://trello.com/boardinvited/6358f1b409d1c0043c64d8dc/6359008ed6ed230068cedc50/540dc5eb996f14d71609d96aea9652ac?utm_source=eval-email&utm_medium=email&utm_campaign=board-invite" style="text-decoration: none;"> <div width="100%" align="center" style="padding-left: 50px; padding-right: 50px; padding-bottom: 32px; padding-top: 40px;"> <table style="background-color: #00AECC; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; font: 14px/1.25em 'Helvetica Neue', Arial, Helvetica; line-height: 12px;font-weight: bold;color: #FFFFFF;height: 144px;width: 248px;"> <tr> <td style="padding-left: 8px; padding-right: 8px; padding-top: 4px; padding-bottom: 4px; line-height: 20px;"> Company Overview </td> </tr> <tr> <td> <img src="https://trello.com/images/board_elements.png" style="width: 224px;height: 91px;border-radius: 1.55px; padding-left: 8px; padding-right: 8px; padding-bottom: 8px;"> </td> </tr> </table> </div> </a>
+
+ </div>
+
+ <p style="font: 15px/1.25em 'Helvetica Neue', Arial, Helvetica; margin-bottom: 0; text-align: center;"> <a href="https://trello.com/boardinvited/6358f1b409d1c0043c64d8dc/6359008ed6ed230068cedc50/540dc5eb996f14d71609d96aea9652ac?utm_source=eval-email&utm_medium=email&utm_campaign=board-invite" style="border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; background: #5AAC44; color: #fff; cursor: pointer; display: block; font-weight: 600; font-size: 20px; line-height: 24px; margin: 32px auto 24px; padding: 11px 13px; text-decoration: none; width: 152px;"> Go To Board </a> </p>
+
+ <p style="font: 14px/1.25em 'Helvetica Neue', Arial, Helvetica; color: #838C91; text-align: center; padding-left: 56px; padding-right: 56px; padding-bottom: 8px;"> Trello boards help you put your plans into action and achieve your goals. <a href="http://trello.com" style="color: #0079BF;text-decoration: none;">Learn more</a> </p>
+
+ <p style="color: #172B4D; font: 14px/1.25em 'Helvetica Neue', Arial, Helvetica; text-align:center; padding-left: 56px; padding-right: 56px; padding-bottom: 8px;"> <a href="https://trello.com/unsubscribe?idMember=6359008ed6ed230068cedc50&type=invites&hash=0bdd3a58919581fa9166942a0462b0d5d450ff7b" style="color: #0079BF; text-decoration:none; font-weight:bold;">Unsubscribe from these emails</a> </p> </div></td> </tr>
+
+ </tbody> </table> </td> </tr> </tbody> </table> 
+<img border="0" width="1" height="1" alt="" src="http://sptrack.trello.com/q/sQobm7OeG0qcfPtmWU4Xbg~~/AAAAAQA~/RgRlPGg-PlcLYXRsYXNzaWFudXNCCmNOvjRbY96QnktSH2ltYWQuemFreUBiZWxhamFyYmxvY2tjaGFpbi5jb21YBAAAAAM~">
+</body> </html>
+
+
+----_NmP-8a9369e9ad579563-Part_1--
